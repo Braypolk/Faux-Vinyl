@@ -5,6 +5,7 @@
 #include <SpotifyArduinoCert.h>
 #include <ArduinoJson.h>
 #include "settings.h"
+#include "env.h"
 
 WebServer server(80);
 SpotifyArduino spotify(client, clientId, clientSecret, SPOTIFY_REFRESH_TOKEN);

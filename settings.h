@@ -3,16 +3,6 @@
 // Country code, including this is advisable
 #define SPOTIFY_MARKET "US";
 
-// WiFi settings
-const char ssid[] = "";
-const char password[] = "";
-
-// Spotify settings
-const char clientId[] = "";
-const char clientSecret[] = "";
-const char SPOTIFY_REFRESH_TOKEN[] = "";
-
-
 IPAddress local_IP(192, 168, 0, 218);
 IPAddress gateway(192, 168, 0, 1);
 IPAddress subnet(255, 255, 255, 0);
