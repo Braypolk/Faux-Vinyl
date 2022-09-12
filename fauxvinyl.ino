@@ -1,3 +1,4 @@
+#include <SPIFFS.h>
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
@@ -66,7 +67,7 @@ void sendInfo(SimpleDevice device)
   spotify.toggleShuffle(true);
   if (spotify.playAdvanced(body))
   {
-    server.send(200, "text/plain", "Playing " + server.arg(0) + " now");
+    server.send(200, "text/html", "<script>window.close()</script>");
   }
   else
   {
@@ -139,6 +140,7 @@ void setup()
   }
 
   server.on("/", handleTag);
+  server.on("/test", runTest);
   server.begin();
 }
 

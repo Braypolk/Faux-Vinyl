@@ -1,0 +1,178 @@
+<!-- Playlists -->
+Discover weekly: 
+    http://192.168.0.218/?item=playlist&id=37i9dQZEVXcEhQ4vCW9RIF
+
+2021 Discover yearly: 
+    http://192.168.0.218/?item=playlist&id=1KvcofIOKAV8Nd6nwMfZSo
+
+Dang: 
+    http://192.168.0.218/?item=playlist&id=6OCtr4sywS88NjMyGrfFlL
+
+G songs: 
+    http://192.168.0.218/?item=playlist&id=5ql0M8OHdsJNmhEjNEy7pW
+
+80s Hits: 
+    http://192.168.0.218/?item=playlist&id=37i9dQZF1DXb57FjYWz00c
+
+#!need album cover Party hits: 
+    http://192.168.0.218/?item=playlist&id=37i9dQZF1DXa2PvUpywmrr
+
+Party hits 2000: 
+    http://192.168.0.218/?item=playlist&id=37i9dQZF1DX7e8TjkFNKWH
+
+Party hits 2010: 
+    http://192.168.0.218/?item=playlist&id=37i9dQZF1DWWylYLMvjuRG
+
+Other:
+    http://192.168.0.218/?item=playlist&id=618LE2v4fI3bSBMjczORn1
+    https://open.spotify.com/playlist/618LE2v4fI3bSBMjczORn1
+
+
+<!-- Albums -->
+Glory Sound Prep: 
+    http://192.168.0.218/?item=album&id=59YYObx9wFEFG5zVdlfwvf
+
+The human condition: 
+    http://192.168.0.218/?item=album&id=2jJReDZqTuAxr4R0ItimZc
+
+The story of us (quinn): 
+    http://192.168.0.218/?item=album&id=30v79AzKU1U5Rc7pwmzbkk
+
+A letter to my younger self (quinn): 
+    http://192.168.0.218/?item=album&id=1dVw3jSdgZp7PfGhCEo32t
+
+1984: 
+    http://192.168.0.218/?item=album&id=3REUXdj5OPKhuDTrTtCBU0
+
+Van Halen (album): 
+    http://192.168.0.218/?item=album&id=7DdEbYFPKTZ8KB4z6L4UnQ
+
+Michael Jackson: 
+    http://192.168.0.218/?item=album&id=77dNyQA0z8dV33M4so4eRY
+
+Beerbongs and bentleys: 
+    http://192.168.0.218/?item=album&id=6trNtQUgC8cgbWcqoMYkOR
+
+Hollywood's bleeding: 
+    http://192.168.0.218/?item=album&id=4g1ZRSobMefqF6nelkgibi
+
+
+
+
+
+
+(Sheryl crow) tuesday night music club: 
+    http://192.168.0.218/?item=album&id=11ZOyF9bKgnusVD1rUapwv
+
+seal: 
+    http://192.168.0.218/?item=album&id=1mSECpFqHRW6leG4idqTE1
+
+funhouse: 
+    http://192.168.0.218/?item=album&id=1LOJfNDxQhbpssKx7oM7at
+
+the end (black eyed peas): 
+    http://192.168.0.218/?item=album&id=3lng6RAtdksQ2q02Fk5jaB
+
+the off season: 
+    http://192.168.0.218/?item=album&id=4JAvwK4APPArjIsOdGoJXX?si=DpD0x9A2REWWcn1rjp9dGg
+    https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX?si=DpD0x9A2REWWcn1rjp9dGg
+
+4 your eyes only: 
+    http://192.168.0.218/?item=album&id=3CCnGldVQ90c26aFATC1PW?si=zWXVidVnSH2LyBOOMOt_KQ
+    https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW?si=zWXVidVnSH2LyBOOMOt_KQ
+
+forest hill drive: 
+    http://192.168.0.218/?item=album&id=0UMMIkurRUmkruZ3KGBLtG?si=Rnbl3DmMSamIN3EHv-5Qeg
+    https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG?si=Rnbl3DmMSamIN3EHv-5Qeg
+
+planet her: 
+    http://192.168.0.218/?item=album&id=4XLPYMERZZaBzkJg0mkdvO?si=6UQrvjSnQkG7JodQIaJMtw
+    https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO?si=6UQrvjSnQkG7JodQIaJMtw
+
+purpose: 
+    http://192.168.0.218/?item=album&id=6Fr2rQkZ383FcMqFyT7yPr?si=yBAsgNk-QvyNN-r3JR9W5w
+    https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr?si=yBAsgNk-QvyNN-r3JR9W5w
+
+flume: 
+    http://192.168.0.218/?item=album&id=1yc3Ldus5BkJBVX9mSFMt4?si=Ae_qgnDiRDiSzovQSu7BKA
+    https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4?si=Ae_qgnDiRDiSzovQSu7BKA
+
+back in black: 
+    http://192.168.0.218/?item=album&id=6mUdeDZCsExyJLMdAfDuwh?si=ontyDbGhR0S9Shb4UvPcnQ
+    https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh?si=ontyDbGhR0S9Shb4UvPcnQ
+
+after hours: 
+    http://192.168.0.218/?item=album&id=4yP0hdKOZPNshxUOjY0cZj?si=GvmEpcmERs2zVILXapDCHg
+    https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj?si=GvmEpcmERs2zVILXapDCHg
+
+kids: 
+    http://192.168.0.218/?item=album&id=0WzOtZBpXvWdNdH7hCJ4qo?si=swFr9HatTbSPCq6aBQnVdw
+    https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo?si=swFr9HatTbSPCq6aBQnVdw
+
+swimming: 
+    http://192.168.0.218/?item=album&id=5wtE5aLX5r7jOosmPhJhhk?si=hIda4i_yS2G0U8msTXriXA
+    https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk?si=hIda4i_yS2G0U8msTXriXA
+
+blonde: 
+    http://192.168.0.218/?item=album&id=3mH6qwIy9crq0I9YQbOuDf?si=kFzvy3fiSliMaTP1xrDtrg
+    https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=kFzvy3fiSliMaTP1xrDtrg
+
+life of pablo: 
+    http://192.168.0.218/?item=album&id=7gsWAHLeT0w7es6FofOXk1?si=S5cFIl3mRTWU-_xxZQTUnA
+    https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=S5cFIl3mRTWU-_xxZQTUnA
+
+jesus is king: 
+    http://192.168.0.218/?item=album&id=0FgZKfoU2Br5sHOfvZKTI9?si=ePu7KyPxSD26UQHgD-X06Q
+    https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9?si=ePu7KyPxSD26UQHgD-X06Q
+
+teenage dream: 
+    http://192.168.0.218/?item=album&id=3BoUxfC7YhxNq3TpOfnRif?si=4JqI3sfNS0SLhh7UUUl1Cw
+    https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif?si=4JqI3sfNS0SLhh7UUUl1Cw
+
+the game: 
+    http://192.168.0.218/?item=album&id=6wPXUmYJ9mOWrKlLzZ5cCa?si=87T0zNaiRb68U2fvYJAlzg
+    https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa?si=87T0zNaiRb68U2fvYJAlzg
+
+maad city: 
+    http://192.168.0.218/?item=album&id=3DGQ1iZ9XKUQxAUWjfC34w?si=udfdMGgNQlOvnoLJHib_2A
+    https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w?si=udfdMGgNQlOvnoLJHib_2A
+
+californication: 
+    http://192.168.0.218/?item=album&id=2Y9IRtehByVkegoD7TcLfi?si=nsIqYleHTgWCPxnVX9JgNw
+    https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi?si=nsIqYleHTgWCPxnVX9JgNw
+
+american teen: 
+    http://192.168.0.218/?item=album&id=6kf46HbnYCZzP6rjvQHYzg?si=E8iTE1etQaOFwmMyqJ1rUg
+    https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg?si=E8iTE1etQaOFwmMyqJ1rUg
+
+dreamland: 
+    http://192.168.0.218/?item=album&id=5bfpRtBW7RNRdsm3tRyl3R?si=qspdRCVRQsqtve-CThqUpQ
+    https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R?si=qspdRCVRQsqtve-CThqUpQ
+
+curtain call: 
+    http://192.168.0.218/?item=album&id=5qENHeCSlwWpEzb25peRmQ?si=43E7OduHRLyJueNMlmRI-w
+    https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ?si=43E7OduHRLyJueNMlmRI-w
+
+future nostalgia: 
+    http://192.168.0.218/?item=album&id=5lKlFlReHOLShQKyRv6AL9?si=ZfYB2gehR9KFFa9C--rspw
+    https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9?si=ZfYB2gehR9KFFa9C--rspw
+
+death of a bachelor: 
+    http://192.168.0.218/?item=album&id=6twKQ0EsUJHVlAr6XBylrj?si=5RSrSxmMQtyZCFy0CD6wfg
+    https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj?si=5RSrSxmMQtyZCFy0CD6wfg
+
+everybody: 
+    http://192.168.0.218/?item=album&id=1HiN2YXZcc3EjmVZ4WjfBk?si=nHwa7TiUTseShER2gTacxw
+    https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk?si=nHwa7TiUTseShER2gTacxw
+
+sour: 
+    http://192.168.0.218/?item=album&id=6s84u2TUpR3wdUv4NgKA2j?si=MZkZuVsATlOfJs3gXGczcA
+    https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j?si=MZkZuVsATlOfJs3gXGczcA
+
+woodstock: 
+    http://192.168.0.218/?item=album&id=4VzzEviJGYUtAeSsJlI9QB?si=ta5KMRfNQ-CDS-vB1QUEeg
+    https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB?si=ta5KMRfNQ-CDS-vB1QUEeg
+
+fine line: 
+    http://192.168.0.218/?item=album&id=7xV2TzoaVc0ycW7fwBwAml?si=UqRBXeLoSV-pbfX3BFG8EQ
+    https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=UqRBXeLoSV-pbfX3BFG8EQ
