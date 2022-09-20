@@ -61,6 +61,8 @@ void sendInfo(SimpleDevice device)
   String itemCharArr = "spotify:" + server.arg(0) + ":" + server.arg(1);
   char itemId[itemCharArr.length() + 1];
   itemCharArr.toCharArray(itemId, itemCharArr.length() + 1);
+
+  // transfer playback if device isn't already active
   if (!device.isActive)
   {
     spotify.transferPlayback(device.id, false); // true means to play after transfer
@@ -85,28 +87,37 @@ void handleTag()
   int status = spotify.getDevices(getDeviceCallback);
   if (status == 200)
   {
-    int location = 99;
+    int lr = 99;
+    int tv = 99;
     for (int i = 0; i < numberOfDevices; i++)
     {
       SimpleDevice device = deviceList[i];
-      if (strcmp(device.name, "Living Room") == 0)
+
+      // if a device is playing, continue playing on that device
+      if (device.isActive)
       {
-        location = i;
-      }
-      // tv will be default playing location if availible
-      if (strcmp(device.name, "Living Room TV") == 0)
-      {
-        Serial.println("going to lr tv");
-        location = 99;
         sendInfo(device);
-        break;
+        return;
+      }
+      else {
+        if (strcmp(device.name, "Living Room") == 0)
+        {
+          lr = i;
+        }
+        else if (strcmp(device.name, "Living Room TV") == 0)
+        {
+          tv = i;
+        }
       }
     }
 
-    // play on living room if availible and living room tv is not
-    if (location != 99)
+    // play on tv if available, then try the receiver, then try turning on the receiver
+    if (tv != 99)
     {
-      sendInfo(deviceList[location]);
+      sendInfo(deviceList[tv]);
+    }
+    else if (lr != 99){
+      sendInfo(deviceList[lr]);
     }
     else
     {
@@ -120,8 +131,7 @@ void handleTag()
         server.send(200, "text/plain", "Receiver should be on but still isn't picked up. Play manually and it should work again");
       }
     }
-
-    server.send(200, "text/plain", "Something didn't finish");
+    server.send(403, "text/plain", "Something went wrong when choosing a device");
   }
 }
 
