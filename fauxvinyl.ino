@@ -10,6 +10,7 @@
 
 WebServer server(80);
 SpotifyArduino spotify(client, clientId, clientSecret, SPOTIFY_REFRESH_TOKEN);
+bool reloaded = false;
 
 bool getDeviceCallback(SpotifyDevice device, int index, int numDevices)
 {
@@ -55,6 +56,8 @@ bool getDeviceCallback(SpotifyDevice device, int index, int numDevices)
 // From url, make correct commands to play item on device
 void sendInfo(SimpleDevice device)
 {
+  reloaded = false;
+  Serial.println(device.isActive);
   String itemCharArr = "spotify:" + server.arg(0) + ":" + server.arg(1);
   char itemId[itemCharArr.length() + 1];
   itemCharArr.toCharArray(itemId, itemCharArr.length() + 1);
@@ -62,9 +65,11 @@ void sendInfo(SimpleDevice device)
   {
     spotify.transferPlayback(device.id, false); // true means to play after transfer
   }
+
   char body[100];
   sprintf(body, "{\"context_uri\" : \"%s\"}", itemId);
   spotify.toggleShuffle(true);
+
   if (spotify.playAdvanced(body))
   {
     server.send(200, "text/html", "<script>window.close()</script>");
@@ -91,6 +96,7 @@ void handleTag()
       // tv will be default playing location if availible
       if (strcmp(device.name, "Living Room TV") == 0)
       {
+        Serial.println("going to lr tv");
         location = 99;
         sendInfo(device);
         break;
@@ -102,9 +108,25 @@ void handleTag()
     {
       sendInfo(deviceList[location]);
     }
+    else
+    {
+      if (!reloaded)
+      {
+        reloaded = true;
+        server.send(200, "text/html", "<script>const req = new XMLHttpRequest(); req.open('GET', 'http://192.168.0.244/YamahaExtendedControl/v1/main/setPower?power=on', 'false'); req.send(null); const req2 = new XMLHttpRequest(); req2.open('GET', 'http://192.168.0.244/YamahaExtendedControl/v1/main/setInput?input=spotify', 'false'); req2.send(null); setTimeout(() => {location.reload();}, 1000);</script>");
+      }
+      else
+      {
+        server.send(200, "text/plain", "Receiver should be on but still isn't picked up. Play manually and it should work again");
+      }
+    }
 
     server.send(200, "text/plain", "Something didn't finish");
   }
+}
+
+void runTest() {
+  server.send(200, "text/plain", "Server is running");
 }
 
 void setup()
