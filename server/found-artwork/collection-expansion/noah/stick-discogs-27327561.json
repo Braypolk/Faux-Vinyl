@@ -1,0 +1,829 @@
+{
+  "id": 27327561,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/27327561",
+  "uri": "https://www.discogs.com/release/27327561-Noah-Kahan-Stick-Season",
+  "artists": [
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449",
+      "thumbnail_url": "https://i.discogs.com/oSvkChvpkmfx1xU338EJakvecbPE76KjMeA2usJxMoM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5NTE0/NDktMTcxMDAyMjA2/My03MTIzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Noah Kahan",
+  "labels": [
+    {
+      "name": "Mercury",
+      "catno": "B0036704-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 39357,
+      "resource_url": "https://api.discogs.com/labels/39357",
+      "thumbnail_url": "https://i.discogs.com/Gk10JQfI8xTIB79ehV94mylhBMI0-KediNkDlP0wk3M/rs:fit/g:sm/q:90/h:269/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTE3ODE4ODgzMDIt/MTAyMS5qcGVn.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "B0036704-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "Guilford Sound",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 689876,
+      "resource_url": "https://api.discogs.com/labels/689876",
+      "thumbnail_url": "https://i.discogs.com/VmuIlXvhPh_XmOpcZowIGoRdLk9qd49-upzcnaPtbhk/rs:fit/g:sm/q:90/h:81/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4OTg3/Ni0xNDAwMDM4NjM0/LTgzNDcuZ2lm.jpeg"
+    },
+    {
+      "name": "The Study, Nashville, TN",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1484877,
+      "resource_url": "https://api.discogs.com/labels/1484877",
+      "thumbnail_url": "https://i.discogs.com/KG8KQgirPieih-PH9BkMH_vCJB48Vg68v6BwNbZgJ5c/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0ODQ4/NzctMTU5NzE2MzYw/Ni03NzM0LmpwZWc.jpeg"
+    },
+    {
+      "name": "The Currywood",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 3290262,
+      "resource_url": "https://api.discogs.com/labels/3290262"
+    },
+    {
+      "name": "Stratmosphere",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 3290265,
+      "resource_url": "https://api.discogs.com/labels/3290265"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Chestnut Opaque"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3647,
+    "want": 1323,
+    "rating": {
+      "count": 213,
+      "average": 4.82
+    },
+    "submitter": {
+      "username": "rexlibris",
+      "resource_url": "https://api.discogs.com/users/rexlibris"
+    },
+    "contributors": [
+      {
+        "username": "rexlibris",
+        "resource_url": "https://api.discogs.com/users/rexlibris"
+      },
+      {
+        "username": "bobcatgirl12",
+        "resource_url": "https://api.discogs.com/users/bobcatgirl12"
+      },
+      {
+        "username": "brittainshorter",
+        "resource_url": "https://api.discogs.com/users/brittainshorter"
+      },
+      {
+        "username": "robfallen",
+        "resource_url": "https://api.discogs.com/users/robfallen"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-06-08T15:43:37-07:00",
+  "date_changed": "2024-06-06T10:55:30-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 41.0,
+  "master_id": 3126309,
+  "master_url": "https://api.discogs.com/masters/3126309",
+  "title": "Stick Season",
+  "country": "US",
+  "released": "2023-06-09",
+  "notes": "Issued in gatefold jacket with die-cut printed inner sleeves and 24x24\" foldout poster.\n\n1st catalog number on gatefold\n2nd catalog number on hype sticker",
+  "released_formatted": "09 Jun 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02448 51915 3",
+      "description": "Printed, text"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02448 51912 2",
+      "description": "Stickered, text"
+    },
+    {
+      "type": "Other",
+      "value": "B0036705-01ST02",
+      "description": "Hype sticker"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=JKrDdsgXuso",
+      "title": "Noah Kahan - Stick Season (Official Music Video)",
+      "description": "\"Stick Season\" available now: https://noahkahan.lnk.to/stick-season\n \nFollow Noah Kahan: \nFacebook: http://facebook.com/noahkahanmusic\nInstagram: http://instagram.com/noahkahanmusic\nTwitter: http://twitter.com/noahkahan\nTikTok: https://www.tiktok.com/@noa",
+      "duration": 198,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iWG6apzIWAk",
+      "title": "Noah Kahan - Stick Season (Official Lyric Video)",
+      "description": "\"Stick Season\" available now: https://noahkahan.lnk.to/stickseasonVD\n\nFollow Noah Kahan:\nFacebook: http://facebook.com/noahkahanmusic\nInstagram: http://instagram.com/noahkahanmusic\nTwitter: http://twitter.com/noahkahan\nSpotify: https://republic.lnk.to/Noa",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JKrDdsgXuso",
+      "title": "Noah Kahan - Stick Season (Official Music Video)",
+      "description": "\"Stick Season\" available now: https://noahkahan.lnk.to/stick-season\n \nFollow Noah Kahan: \nFacebook: http://facebook.com/noahkahanmusic\nInstagram: http://instagram.com/noahkahanmusic\nTwitter: http://twitter.com/noahkahan\nTikTok: https://www.tiktok.com/@noa",
+      "duration": 198,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vHxjcDmdVg4",
+      "title": "Noah Kahan \"Stick Season\" Official Lyrics & Meaning | Verified",
+      "description": "Folk-pop singer-songwriter Noah Kahan says his latest hit \u201cStick Season,\u201d the title track off his 2022 third studio album, was named for a specific time of year in his Vermont hometown. \u201cIt was a term that was used by some of the older folks in the town I",
+      "duration": 321,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Northern Attitude",
+      "extraartists": [
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Stick Season",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "All My Love",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "She Calls Me Back",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Come Over",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "New Perspective",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Everywhere, Everything",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Orange Juice",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Strawberry Wine",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Growing Sideways",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Halloween",
+      "extraartists": [
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Homesick",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Still",
+      "extraartists": [
+        {
+          "name": "Iain Archer",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "The View Between Villages",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Todd Clark",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ben Adelson",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 2694232,
+      "resource_url": "https://api.discogs.com/artists/2694232"
+    },
+    {
+      "name": "Konrad Snyder",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "A4, C2",
+      "id": 1763760,
+      "resource_url": "https://api.discogs.com/artists/1763760"
+    },
+    {
+      "name": "Drew Simmons",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 3755800,
+      "resource_url": "https://api.discogs.com/artists/3755800"
+    },
+    {
+      "name": "Mikey Lavi",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 13095822,
+      "resource_url": "https://api.discogs.com/artists/13095822"
+    },
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449"
+    },
+    {
+      "name": "Carrie Karpinen",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "A3, C1, D1, D3",
+      "id": 13095825,
+      "resource_url": "https://api.discogs.com/artists/13095825"
+    },
+    {
+      "name": "Konrad Snyder",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 1763760,
+      "resource_url": "https://api.discogs.com/artists/1763760"
+    },
+    {
+      "name": "Matthew Hall (11)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Engineer]",
+      "tracks": "",
+      "id": 5237496,
+      "resource_url": "https://api.discogs.com/artists/5237496"
+    },
+    {
+      "name": "Konrad Snyder",
+      "anv": "",
+      "join": "",
+      "role": "Handclaps",
+      "tracks": "C1",
+      "id": 1763760,
+      "resource_url": "https://api.discogs.com/artists/1763760"
+    },
+    {
+      "name": "Noah Levine",
+      "anv": "",
+      "join": "",
+      "role": "Lead Guitar, Slide Guitar",
+      "tracks": "D1",
+      "id": 3804636,
+      "resource_url": "https://api.discogs.com/artists/3804636"
+    },
+    {
+      "name": "Drew Simmons",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 3755800,
+      "resource_url": "https://api.discogs.com/artists/3755800"
+    },
+    {
+      "name": "Ryan Langlois",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 6023692,
+      "resource_url": "https://api.discogs.com/artists/6023692"
+    },
+    {
+      "name": "Ted Jensen",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 259758,
+      "resource_url": "https://api.discogs.com/artists/259758"
+    },
+    {
+      "name": "Konrad Snyder",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "B1",
+      "id": 1763760,
+      "resource_url": "https://api.discogs.com/artists/1763760"
+    },
+    {
+      "name": "Ryan Hewitt",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 330588,
+      "resource_url": "https://api.discogs.com/artists/330588"
+    },
+    {
+      "name": "Jordan Silva",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Mix Assistant]",
+      "tracks": "",
+      "id": 1967115,
+      "resource_url": "https://api.discogs.com/artists/1967115"
+    },
+    {
+      "name": "Patrick McCormack",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 3033032,
+      "resource_url": "https://api.discogs.com/artists/3033032"
+    },
+    {
+      "name": "Konrad Snyder",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "A1",
+      "id": 1763760,
+      "resource_url": "https://api.discogs.com/artists/1763760"
+    },
+    {
+      "name": "Gabe Simon",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 4706122,
+      "resource_url": "https://api.discogs.com/artists/4706122"
+    },
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449"
+    },
+    {
+      "name": "Todd Clark",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Vocal Production]",
+      "tracks": "D3",
+      "id": 1372085,
+      "resource_url": "https://api.discogs.com/artists/1372085"
+    },
+    {
+      "name": "Carrie Karpinen",
+      "anv": "",
+      "join": "",
+      "role": "Production Manager [Production Coordinator]",
+      "tracks": "A3, C1 to D1, D3",
+      "id": 13095825,
+      "resource_url": "https://api.discogs.com/artists/13095825"
+    },
+    {
+      "name": "Carrie Karpinen",
+      "anv": "",
+      "join": "",
+      "role": "Sounds [Nature Sounds]",
+      "tracks": "C2",
+      "id": 13095825,
+      "resource_url": "https://api.discogs.com/artists/13095825"
+    },
+    {
+      "name": "Gabe Simon",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer [Moog Sub Bass], Organ, Piano, Whistle, Percussion, Drums, Castanets, Backing Vocals, Acoustic Guitar, 12-String Acoustic Guitar, Guitar Banjo, Baritone Guitar, Electric Guitar, Guitar [Rubber Bridge], Mandolin, Bass",
+      "tracks": "",
+      "id": 4706122,
+      "resource_url": "https://api.discogs.com/artists/4706122"
+    },
+    {
+      "name": "Phillip Bowen",
+      "anv": "",
+      "join": "",
+      "role": "Violin, Viola",
+      "tracks": "C4",
+      "id": 13095828,
+      "resource_url": "https://api.discogs.com/artists/13095828"
+    },
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Backing Vocals, Acoustic Guitar, Guitar [Rubber Bridge], Tenor Guitar, Mandolin",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/gAvUApuK3N7sWIMg90VBERJE0E57FJ32UspCdw_9NBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MjktNDkwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gAvUApuK3N7sWIMg90VBERJE0E57FJ32UspCdw_9NBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MjktNDkwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xcpLfaGxEs9pY0_Nu6wan_W12xQPfeoBK2vjNzPIi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MjktNDkwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xwewXRPW_N6OpWiBYjpJPV-5uBwXWQUDkwbJF5p-4E0/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MzctMTM0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xwewXRPW_N6OpWiBYjpJPV-5uBwXWQUDkwbJF5p-4E0/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MzctMTM0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/o1Epn0GLJXSz0s8UwgiuADdnviXlJV_MpQrW_spIjEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MzctMTM0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 579
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RXY8UCMyaXZxuUEJcHnzO3fWJqalEivwy1snVRgrxk0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjAtNjc1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RXY8UCMyaXZxuUEJcHnzO3fWJqalEivwy1snVRgrxk0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjAtNjc1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5-fziJO1CdsUR2FQgdzB3D-4kkz0WxAC688duaM-yiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjAtNjc1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 585
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_U7qhOrY6XSyw58WRUfsV-6jz4ZVvtylniRAbyR_kr0/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjMtMjk0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_U7qhOrY6XSyw58WRUfsV-6jz4ZVvtylniRAbyR_kr0/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjMtMjk0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/F014Rwgqn_y9qjQqJ0zbHiKVLJ8YBk70B83oYJD5OYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjMtMjk0MC5qcGVn.jpeg",
+      "width": 580,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uU-Fqjq6PaM0shYW5yPYFwoZoOBWyus-u7-AZajfRnQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjMtNzg5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uU-Fqjq6PaM0shYW5yPYFwoZoOBWyus-u7-AZajfRnQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjMtNzg5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-V0gQTOEw2NnyVEHaUQ5_R-VNjIZ42ZgQF6Ub6LEa90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjMtNzg5OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 583
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hIopYjWXrTs1bRDjrau4PuHMlvvUozjVFVcPXesP3fs/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjEtODE3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hIopYjWXrTs1bRDjrau4PuHMlvvUozjVFVcPXesP3fs/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjEtODE3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6m2L0k6x0EakLn72YGkO0KiMz1YxznCHw3lJFnMi1w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjEtODE3Mi5qcGVn.jpeg",
+      "width": 584,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AQojRJzrrknQhLsfmeVN1y1Q5tNqrro7mmgTXIDlZN8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjgtNzk3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AQojRJzrrknQhLsfmeVN1y1Q5tNqrro7mmgTXIDlZN8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjgtNzk3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mksp8WA8lG9wckwIzxhWqf39QfiHCiVTUeZYsC9pPqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2OTMyMjg0/NjgtNzk3OC5qcGVn.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2rNdNFZPZQKkjx_BkGXY4xguaueTrNAPOfVp_5IrPW4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NDktNzAzMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2rNdNFZPZQKkjx_BkGXY4xguaueTrNAPOfVp_5IrPW4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NDktNzAzMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1xPlHoMy4KgETuneg-INZwU6TARHsCLkRnYbZQi98A4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NDktNzAzMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rd_b-ia1VjmVHXkt7neg8EYvJjn9MSa-7Iik0scywmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NDktNjcwMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Rd_b-ia1VjmVHXkt7neg8EYvJjn9MSa-7Iik0scywmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NDktNjcwMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5n77ZNFiH1SSFhvFDh3Ik58UA9tD5mqNVT__1l2a_6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NDktNjcwMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Im4wIfJa3mq55j3oEsvm_LVEVgzH7OdD0rQx8xUR5vY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NjYtMjMyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Im4wIfJa3mq55j3oEsvm_LVEVgzH7OdD0rQx8xUR5vY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NjYtMjMyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dLY6TurKoinMjQRE3BqTMyKVMoUBB2LtlsG-vAAIK70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NjYtMjMyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/j67eQypN9bm8AlqUcOfovlmyZdwUk5h8CZUQElXV36g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NjYtMjY5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/j67eQypN9bm8AlqUcOfovlmyZdwUk5h8CZUQElXV36g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NjYtMjY5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zzVkVr9KcbM2c1vrd_QAfRyhpLDIR4CcPQilbwkJRHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NjYtMjY5NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/D2wRNmAz7BJWHR8mvr9-NNp77MLBgIvXfeGkBWsanBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NzUtMzIzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D2wRNmAz7BJWHR8mvr9-NNp77MLBgIvXfeGkBWsanBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NzUtMzIzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6-1dR8izVN_1IAbKck0rwNLfWLUBRMenj_goccl8TbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NzUtMzIzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JzMVWW35t7aqGHdafXtRntsbD0VaxEiZNl1vg5gJobs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NzUtNTQxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JzMVWW35t7aqGHdafXtRntsbD0VaxEiZNl1vg5gJobs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NzUtNTQxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/g587qhBo0pPBX-BGwD7qJHbqsUBgVtFkGdlZaeb-RRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE3MDgyMDI2/NzUtNTQxMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/xcpLfaGxEs9pY0_Nu6wan_W12xQPfeoBK2vjNzPIi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MjktNDkwMi5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,822 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "items": 22,
+    "urls": {}
+  },
+  "filters": {
+    "applied": {},
+    "available": {
+      "format": {
+        "Album": 22,
+        "LP": 15,
+        "Vinyl": 15,
+        "Deluxe Edition": 7,
+        "Limited Edition": 5,
+        "CD": 4,
+        "File": 3,
+        "Stereo": 3,
+        "Reissue": 2,
+        "WAV": 2,
+        "AAC": 1,
+        "Repress": 1
+      },
+      "label": {
+        "Mercury": 22,
+        "Republic Records": 22,
+        "Umg Commercial Services": 12,
+        "Guilford Sound": 11,
+        "The Study, Nashville, Tn": 11,
+        "Sterling Sound": 10,
+        "Stratmosphere": 9,
+        "The Currywood": 9,
+        "Umg Recordings, Inc.": 7,
+        "Mercury Records": 6,
+        "Gz Media": 5,
+        "Secret Meadow Songs": 3,
+        "These Are Songs Of Pulse": 3,
+        "Kobalt Music Publishing": 2,
+        "Mercury Records/Republic Records": 2,
+        "Sterling Sound Nashville": 2,
+        "Target": 2,
+        "Universal International Music B.V.": 2,
+        "Abide By The Vibe": 1,
+        "Curb Studios": 1,
+        "Escondido": 1,
+        "Gabe Simon Music Publishing": 1,
+        "Hmv": 1,
+        "Noah Levine Publishing": 1,
+        "Precision Record Pressing": 1,
+        "Sony Dadc": 1,
+        "Sony/Atv Allegro": 1,
+        "Technicolor, Guadalajara, Mexico": 1,
+        "Todd Clark": 1,
+        "Vantiva, Guadalajara, Mexico": 1
+      },
+      "country": {
+        "US": 14,
+        "Europe": 3,
+        "UK": 2,
+        "Worldwide": 2,
+        "UK & Europe": 1
+      },
+      "released": {
+        "2022": 3,
+        "2023": 6,
+        "2024": 10,
+        "2025": 1
+      }
+    }
+  },
+  "filter_facets": [
+    {
+      "title": "Format",
+      "id": "format",
+      "values": [
+        {
+          "title": "Album",
+          "value": "Album",
+          "count": 22
+        },
+        {
+          "title": "LP",
+          "value": "LP",
+          "count": 15
+        },
+        {
+          "title": "Vinyl",
+          "value": "Vinyl",
+          "count": 15
+        },
+        {
+          "title": "Deluxe Edition",
+          "value": "Deluxe+Edition",
+          "count": 7
+        },
+        {
+          "title": "Limited Edition",
+          "value": "Limited+Edition",
+          "count": 5
+        },
+        {
+          "title": "CD",
+          "value": "CD",
+          "count": 4
+        },
+        {
+          "title": "File",
+          "value": "File",
+          "count": 3
+        },
+        {
+          "title": "Stereo",
+          "value": "Stereo",
+          "count": 3
+        },
+        {
+          "title": "Reissue",
+          "value": "Reissue",
+          "count": 2
+        },
+        {
+          "title": "WAV",
+          "value": "WAV",
+          "count": 2
+        },
+        {
+          "title": "AAC",
+          "value": "AAC",
+          "count": 1
+        },
+        {
+          "title": "Repress",
+          "value": "Repress",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Label",
+      "id": "label",
+      "values": [
+        {
+          "title": "Mercury",
+          "value": "Mercury",
+          "count": 22
+        },
+        {
+          "title": "Republic Records",
+          "value": "Republic+Records",
+          "count": 22
+        },
+        {
+          "title": "Umg Commercial Services",
+          "value": "Umg+Commercial+Services",
+          "count": 12
+        },
+        {
+          "title": "Guilford Sound",
+          "value": "Guilford+Sound",
+          "count": 11
+        },
+        {
+          "title": "The Study, Nashville, Tn",
+          "value": "The+Study%2C+Nashville%2C+Tn",
+          "count": 11
+        },
+        {
+          "title": "Sterling Sound",
+          "value": "Sterling+Sound",
+          "count": 10
+        },
+        {
+          "title": "Stratmosphere",
+          "value": "Stratmosphere",
+          "count": 9
+        },
+        {
+          "title": "The Currywood",
+          "value": "The+Currywood",
+          "count": 9
+        },
+        {
+          "title": "Umg Recordings, Inc.",
+          "value": "Umg+Recordings%2C+Inc.",
+          "count": 7
+        },
+        {
+          "title": "Mercury Records",
+          "value": "Mercury+Records",
+          "count": 6
+        },
+        {
+          "title": "Gz Media",
+          "value": "Gz+Media",
+          "count": 5
+        },
+        {
+          "title": "Secret Meadow Songs",
+          "value": "Secret+Meadow+Songs",
+          "count": 3
+        },
+        {
+          "title": "These Are Songs Of Pulse",
+          "value": "These+Are+Songs+Of+Pulse",
+          "count": 3
+        },
+        {
+          "title": "Kobalt Music Publishing",
+          "value": "Kobalt+Music+Publishing",
+          "count": 2
+        },
+        {
+          "title": "Mercury Records/Republic Records",
+          "value": "Mercury+Records%2FRepublic+Records",
+          "count": 2
+        },
+        {
+          "title": "Sterling Sound Nashville",
+          "value": "Sterling+Sound+Nashville",
+          "count": 2
+        },
+        {
+          "title": "Target",
+          "value": "Target",
+          "count": 2
+        },
+        {
+          "title": "Universal International Music B.V.",
+          "value": "Universal+International+Music+B.V.",
+          "count": 2
+        },
+        {
+          "title": "Abide By The Vibe",
+          "value": "Abide+By+The+Vibe",
+          "count": 1
+        },
+        {
+          "title": "Curb Studios",
+          "value": "Curb+Studios",
+          "count": 1
+        },
+        {
+          "title": "Escondido",
+          "value": "Escondido",
+          "count": 1
+        },
+        {
+          "title": "Gabe Simon Music Publishing",
+          "value": "Gabe+Simon+Music+Publishing",
+          "count": 1
+        },
+        {
+          "title": "Hmv",
+          "value": "Hmv",
+          "count": 1
+        },
+        {
+          "title": "Noah Levine Publishing",
+          "value": "Noah+Levine+Publishing",
+          "count": 1
+        },
+        {
+          "title": "Precision Record Pressing",
+          "value": "Precision+Record+Pressing",
+          "count": 1
+        },
+        {
+          "title": "Sony Dadc",
+          "value": "Sony+Dadc",
+          "count": 1
+        },
+        {
+          "title": "Sony/Atv Allegro",
+          "value": "Sony%2FAtv+Allegro",
+          "count": 1
+        },
+        {
+          "title": "Technicolor, Guadalajara, Mexico",
+          "value": "Technicolor%2C+Guadalajara%2C+Mexico",
+          "count": 1
+        },
+        {
+          "title": "Todd Clark",
+          "value": "Todd+Clark",
+          "count": 1
+        },
+        {
+          "title": "Vantiva, Guadalajara, Mexico",
+          "value": "Vantiva%2C+Guadalajara%2C+Mexico",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Country",
+      "id": "country",
+      "values": [
+        {
+          "title": "US",
+          "value": "US",
+          "count": 14
+        },
+        {
+          "title": "Europe",
+          "value": "Europe",
+          "count": 3
+        },
+        {
+          "title": "UK",
+          "value": "UK",
+          "count": 2
+        },
+        {
+          "title": "Worldwide",
+          "value": "Worldwide",
+          "count": 2
+        },
+        {
+          "title": "UK & Europe",
+          "value": "UK+%26+Europe",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Released",
+      "id": "released",
+      "values": [
+        {
+          "title": "2022",
+          "value": "2022",
+          "count": 3
+        },
+        {
+          "title": "2023",
+          "value": "2023",
+          "count": 6
+        },
+        {
+          "title": "2024",
+          "value": "2024",
+          "count": 10
+        },
+        {
+          "title": "2025",
+          "value": "2025",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": false
+    }
+  ],
+  "versions": [
+    {
+      "id": 37120092,
+      "label": "Republic Records",
+      "country": "Worldwide",
+      "title": "Stick Season (Forever)",
+      "major_formats": [
+        "File"
+      ],
+      "format": "AAC, Album, Deluxe Edition",
+      "catno": "none",
+      "released": "2022",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/37120092",
+      "thumb": "https://i.discogs.com/-F06jLNrrQvDcJaUyQD7piXfPnwpgW9GwuLkRQcMi_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTIw/MDkyLTE3NzY2NDM2/MzctOTM4Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 58,
+          "in_collection": 7
+        }
+      }
+    },
+    {
+      "id": 24957121,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album, Stereo",
+      "catno": "B0036702-02",
+      "released": "2022",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/24957121",
+      "thumb": "https://i.discogs.com/KOLqiMTRarKco83E0ozGmsIJax_qosbKlN7_2JVig8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MTIxLTE2NjgxMTYx/MjQtNTAwNS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 866,
+          "in_collection": 1694
+        }
+      }
+    },
+    {
+      "id": 31820483,
+      "label": "Mercury",
+      "country": "Europe",
+      "title": "Stick Season",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album",
+      "catno": "00602448519108",
+      "released": "2022",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/31820483",
+      "thumb": "https://i.discogs.com/0MuVKoilr0TWu-73-YHPntPZcQk8rtv9WcH_ruhW8us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIw/NDgzLTE3MjcyMzAy/NzYtMTc2MS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 57,
+          "in_collection": 204
+        }
+      }
+    },
+    {
+      "id": 33963372,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "B0036704-01",
+      "released": "2023",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/33963372",
+      "thumb": "https://i.discogs.com/U-kcnuMtj4pt7i42sYhpBmFiowVEFIl13gLhVU58xzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTYz/MzcyLTE3NDcwODM4/NzQtMzU1NS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 162,
+          "in_collection": 175
+        }
+      }
+    },
+    {
+      "id": 27318180,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition",
+      "catno": "B0036704-01",
+      "released": "2023",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/27318180",
+      "thumb": "https://i.discogs.com/l6MZX-dqfZxfoL5eIkweucXodVCj4xKm1PFlsdRXhA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE4/MTgwLTE2ODY2ODQy/ODgtOTc3MS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 1797,
+          "in_collection": 3970
+        }
+      }
+    },
+    {
+      "id": 27327561,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "B0036704-01",
+      "released": "2023",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/27327561",
+      "thumb": "https://i.discogs.com/xcpLfaGxEs9pY0_Nu6wan_W12xQPfeoBK2vjNzPIi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI3/NTYxLTE2ODYyNjc0/MjktNDkwMi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 1323,
+          "in_collection": 3647
+        }
+      }
+    },
+    {
+      "id": 28830886,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "B0036704-01",
+      "released": "2023",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/28830886",
+      "thumb": "https://i.discogs.com/3PmJxklaJyCTuerfqoWq6YRkGIV3d9YnxZKvRZo5WH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODMw/ODg2LTE2OTkzODM0/NjgtODM5OS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 275,
+          "in_collection": 1923
+        }
+      }
+    },
+    {
+      "id": 28847713,
+      "label": "Mercury",
+      "country": "Europe",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "00602448519122",
+      "released": "2023",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/28847713",
+      "thumb": "https://i.discogs.com/4B0mg2v6lSWe69J36KGz-ff7EaX5SvK8kfWZjnyDEl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ3/NzEzLTE2OTk1NDQw/NzYtNTU4NS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 467,
+          "in_collection": 4516
+        }
+      }
+    },
+    {
+      "id": 27333540,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "B0036704-01",
+      "released": "2023",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/27333540",
+      "thumb": "https://i.discogs.com/uWo_OqteEYfZrOwpvLk5bSkyg_gBfFu1_zYity9m_p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzMz/NTQwLTE2ODYzMjU2/ODEtNjM1OS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 2497,
+          "in_collection": 13524
+        }
+      }
+    },
+    {
+      "id": 30506947,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season (We'll All Be Here Forever)",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Deluxe Edition",
+      "catno": "602455948168",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30506947",
+      "thumb": "https://i.discogs.com/KTn9BXXpAxyZgtX5YNDCpzichsB7cJ6_GSUpTx84D9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA2/OTQ3LTE3MTUyNzk2/MTUtODYzMy5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 421,
+          "in_collection": 756
+        }
+      }
+    },
+    {
+      "id": 30380489,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season (We\u2019ll All Be Here Forever)",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Deluxe Edition",
+      "catno": "602458486797",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30380489",
+      "thumb": "https://i.discogs.com/WjyeFAxt0iyKlW82uvznTb4tGr-9zRpiQI0vcAMns-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzgw/NDg5LTE3MTMxMDk5/MzMtNTY1NS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 1900,
+          "in_collection": 4210
+        }
+      }
+    },
+    {
+      "id": 32641275,
+      "label": "Mercury",
+      "country": "Worldwide",
+      "title": "Stick Season (We'll All Be Here Forever)",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album, Stereo",
+      "catno": "00602465334807",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/32641275",
+      "thumb": "https://i.discogs.com/k5EFdbq5eq3o4myz9DGwQuEe1tqUAIEBd7yoA42FmWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjQx/Mjc1LTE3ODk2NzA2/NzUtNTgyMi5wbmc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 91,
+          "in_collection": 476
+        }
+      }
+    },
+    {
+      "id": 31824140,
+      "label": "Mercury",
+      "country": "Europe",
+      "title": "Stick Season (We\u2019ll All Be Here Forever)",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Deluxe Edition",
+      "catno": "602455948168",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/31824140",
+      "thumb": "https://i.discogs.com/OlruagXG2Z9TT4CYTOxvrIXbtJJM4mM08ghsbjwvVag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODI0/MTQwLTE3MjcyNzMw/MDYtMjk2MC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 351,
+          "in_collection": 520
+        }
+      }
+    },
+    {
+      "id": 29733448,
+      "label": "Mercury",
+      "country": "UK",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Reissue, Repress",
+      "catno": "6504924, 00602448519122",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/29733448",
+      "thumb": "https://i.discogs.com/0Eu0j7XTHdC9h7PHEdJ00AyORp6lmX0vkel9mVOyM4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzMz/NDQ4LTE3NzM1MjIx/MTItMzczMS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 405,
+          "in_collection": 1295
+        }
+      }
+    },
+    {
+      "id": 30388163,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season (We'll All Be Here Forever)",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album, Stereo",
+      "catno": "602465334807",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30388163",
+      "thumb": "https://i.discogs.com/QuElzlgxCI21Keh90nOrfRhmTqvPbWw6BaarXWEsck0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzg4/MTYzLTE3MTMwMzM1/NTktNDMzNS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 231,
+          "in_collection": 737
+        }
+      }
+    },
+    {
+      "id": 30931572,
+      "label": "UMG Commercial Services",
+      "country": "UK",
+      "title": "Stick Season (We\u2019ll All Be Here Forever)",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Deluxe Edition, Limited Edition",
+      "catno": "6559438",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30931572",
+      "thumb": "https://i.discogs.com/UOTHCe8ZS8RONow_oWYx9EfpB7NYHNCxW6yIzHG8Tvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMx/NTcyLTE3MTgwOTcz/NTYtNDI1MC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 348,
+          "in_collection": 133
+        }
+      }
+    },
+    {
+      "id": 29737141,
+      "label": "Mercury",
+      "country": "UK & Europe",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "00602448519122",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/29737141",
+      "thumb": "https://i.discogs.com/SxoCLoPbvfadpU3EtYiMe9nUFV8QkQteG_APZsbqvBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzM3/MTQxLTE3MDc4NTA1/NTQtNzkwNC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 623,
+          "in_collection": 3032
+        }
+      }
+    },
+    {
+      "id": 30382157,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season (We'll All Be Here Forever)",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Deluxe Edition, Limited Edition",
+      "catno": "602458486773",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30382157",
+      "thumb": "https://i.discogs.com/t5HRw6xtG_4JbKtGkHaZICpE3kWShlREcCRwkrgBRRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzgy/MTU3LTE3MTM0NTYw/ODMtNzc2My5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 1321,
+          "in_collection": 1936
+        }
+      }
+    },
+    {
+      "id": 30381581,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season (We\u2019ll All Be Here Forever)",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Deluxe Edition",
+      "catno": "602455948168",
+      "released": "2024",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30381581",
+      "thumb": "https://i.discogs.com/bSC5TngJ_qvk1LgogLqYn78Pee97f99HLs0eoIt7BzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzgx/NTgxLTE3MjQ2MTA0/NjItNDM2Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 1123,
+          "in_collection": 4528
+        }
+      }
+    },
+    {
+      "id": 35552665,
+      "label": "Mercury",
+      "country": "US",
+      "title": "Stick Season",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Reissue",
+      "catno": "602478713101.1",
+      "released": "2025",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/35552665",
+      "thumb": "https://i.discogs.com/qgR13aZLCGmhHeowcIb0ZR11h4VWHt7gRolWg4os3F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTUy/NjY1LTE3NjQwOTEw/OTUtNjQ2NS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 268,
+          "in_collection": 1100
+        }
+      }
+    },
+    {
+      "id": 30708413,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season (We'll All Be Here Forever)",
+      "major_formats": [
+        "File"
+      ],
+      "format": "WAV, Album",
+      "catno": "none",
+      "released": "0",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30708413",
+      "thumb": "https://i.discogs.com/15KiENfgrK_XgBHAyxx5O4lSRHf5Y19yI5nCMy7OG5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzA4/NDEzLTE3MTU5OTkz/MzYtMTMzOC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 11,
+          "in_collection": 4
+        }
+      }
+    },
+    {
+      "id": 30749580,
+      "label": "Republic Records",
+      "country": "US",
+      "title": "Stick Season (We'll All Be Here Forever)",
+      "major_formats": [
+        "File"
+      ],
+      "format": "WAV, Album",
+      "catno": "none",
+      "released": "0",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/30749580",
+      "thumb": "https://i.discogs.com/uhJiJW1fEZX3x9crql5qlho3adv8DrZKA-gqH0VMaow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ5/NTgwLTE3MTYzNzk0/NjQtODQzMC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 62,
+          "in_collection": 48
+        }
+      }
+    }
+  ]
+}

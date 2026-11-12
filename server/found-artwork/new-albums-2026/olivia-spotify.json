@@ -1,0 +1,324 @@
+{
+  "type": "album",
+  "name": "you seem pretty sad for a girl so in love",
+  "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl",
+  "id": "3WZZF72ihlKPZBS4zSsNHl",
+  "title": "you seem pretty sad for a girl so in love",
+  "subtitle": "Olivia Rodrigo",
+  "isPreRelease": false,
+  "releaseDate": {
+    "isoString": "2026-06-12T04:00:00Z"
+  },
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl",
+  "trackList": [
+    {
+      "uri": "spotify:track:0yO9QD2Ga7eUzqnNYsSSPo",
+      "uid": "31c4ccc7a485f49a68f3",
+      "title": "drop dead",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 224998,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/bd8afbdf9b514dc1c4b46ba8ad4e165f9d725394"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4",
+      "uid": "bc163fdea96e2c1552da",
+      "title": "stupid song",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 209680,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/894b272aa0422aeebe856825b55e5c736a9bc5ee"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:407LgLkk1uM3wMO6jVRe0a",
+      "uid": "cb02c85bcfac40b7fdc3",
+      "title": "honeybee",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 223013,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/4792ca094924abda5b957b492621049a233b8e0b"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:22l7ocwYpEYGvYpM9T2C5K",
+      "uid": "a7975ceba7829be0ad49",
+      "title": "maggots for brains",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 240100,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/7532a6f378d016cc0205514c2ab7f403c960ff5f"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6Hdc3IQeyCxG5d14uAcwQW",
+      "uid": "714f7d700f85c59fc01d",
+      "title": "u + me = <3",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 247586,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/98bd0bf8c144b002d3c8af8fd8627a9cb38b6651"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "uid": "8312049af3c0ca5cba47",
+      "title": "my way",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 180720,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/88c38ae905998d87b9f662592530e6034dbdab8a"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "uid": "b5ffb1c046b4bb547ea1",
+      "title": "purple",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 240115,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/b617cc0c9dc86a6079d0375aac6125d53c2a28c9"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "uid": "5d4d1d280416e4845548",
+      "title": "the cure",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 297090,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/cb81ba83e65dc3ec82c8a85d2dca61adeda847fe"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR",
+      "uid": "54b0824db2f6b2ab9371",
+      "title": "begged",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 217869,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6a7e44e17184e46eb88cbe8bcc8927a578c24220"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "uid": "67c43d04802c775433fd",
+      "title": "what\u2019s wrong with me",
+      "subtitle": "Olivia Rodrigo,\u00a0Robert Smith",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 224906,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/920221b59caf32c90bb0d262dc575656e7be081f"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1LmRAxdZUEM9xc2wNivy1y",
+      "uid": "eac5a9ce0b23ec06c3bd",
+      "title": "less",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 193848,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6e96754ab6ca1621be887e73f72117dc5e8ed2b4"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:25nbeJzxF3dwvtTq57QKZi",
+      "uid": "ee6381cadd948f7bb7db",
+      "title": "expectations",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 221958,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6065f4cb321401e4d9236eef5ac8e2e59fb37b6d"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ",
+      "uid": "f0356fdf44fab8b67ebe",
+      "title": "cigarette smoke",
+      "subtitle": "Olivia Rodrigo",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 340942,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/58cfdee6b1d0f1ad6a437d8dd7394b008b9a381f"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 94,
+      "green": 87,
+      "red": 65
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 60,
+      "green": 54,
+      "red": 33
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 218,
+      "green": 210,
+      "red": 185
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

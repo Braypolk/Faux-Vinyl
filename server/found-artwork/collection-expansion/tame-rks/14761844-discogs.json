@@ -1,0 +1,754 @@
+{
+  "id": 14761844,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/14761844",
+  "uri": "https://www.discogs.com/release/14761844-Tame-Impala-The-Slow-Rush",
+  "artists": [
+    {
+      "name": "Tame Impala",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1245513,
+      "resource_url": "https://api.discogs.com/artists/1245513",
+      "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tame Impala",
+  "labels": [
+    {
+      "name": "Island Records",
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Fiction Records",
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5810,
+      "resource_url": "https://api.discogs.com/labels/5810",
+      "thumbnail_url": "https://i.discogs.com/O4V0SZZJFuTzHyqOsP-H3LKmYY3K7UDUzHEtV58TeHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTAt/MTQ5NzE4MjUwNy02/MTExLmpwZWc.jpeg"
+    },
+    {
+      "name": "Caroline International",
+      "catno": "7757956",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 674471,
+      "resource_url": "https://api.discogs.com/labels/674471",
+      "thumbnail_url": "https://i.discogs.com/Nt3wM31d1nz3mQaLurCegsotqbezLfbcvP-ylDubZyc/rs:fit/g:sm/q:90/h:219/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY3NDQ3/MS0xNDczNTM4NDY1/LTkyODgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 241987,
+      "resource_url": "https://api.discogs.com/labels/241987",
+      "thumbnail_url": "https://i.discogs.com/eKWa-6f1ntxS_i-urtKgNseoc2sW0_WQUKMuv7Dl0Kg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MTk4/Ny0xNzY4OTkzNzYw/LTgyNjEuanBlZw.jpeg"
+    },
+    {
+      "name": "Modular Recordings Pty. Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 357771,
+      "resource_url": "https://api.discogs.com/labels/357771",
+      "thumbnail_url": "https://i.discogs.com/VgkKWyMBqSSJmbwaV4wGrhzU-OQN8RznMAUWb_1UPGY/rs:fit/g:sm/q:90/h:70/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Nzc3/MS0xMzMwNTE5MzM4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Modular Recordings Pty. Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 357771,
+      "resource_url": "https://api.discogs.com/labels/357771",
+      "thumbnail_url": "https://i.discogs.com/VgkKWyMBqSSJmbwaV4wGrhzU-OQN8RznMAUWb_1UPGY/rs:fit/g:sm/q:90/h:70/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Nzc3/MS0xMzMwNTE5MzM4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BJ92653",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "180g"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 18263,
+    "want": 5082,
+    "rating": {
+      "count": 1428,
+      "average": 4.52
+    },
+    "submitter": {
+      "username": "oldies-dot-com",
+      "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+    },
+    "contributors": [
+      {
+        "username": "oldies-dot-com",
+        "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+      },
+      {
+        "username": "JPearson_",
+        "resource_url": "https://api.discogs.com/users/JPearson_"
+      },
+      {
+        "username": "SorysRgee",
+        "resource_url": "https://api.discogs.com/users/SorysRgee"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      },
+      {
+        "username": "Astheron",
+        "resource_url": "https://api.discogs.com/users/Astheron"
+      },
+      {
+        "username": "Chemielaborant",
+        "resource_url": "https://api.discogs.com/users/Chemielaborant"
+      },
+      {
+        "username": "SoundsGoodRecords",
+        "resource_url": "https://api.discogs.com/users/SoundsGoodRecords"
+      },
+      {
+        "username": "baldorr",
+        "resource_url": "https://api.discogs.com/users/baldorr"
+      },
+      {
+        "username": "LaVinileria",
+        "resource_url": "https://api.discogs.com/users/LaVinileria"
+      },
+      {
+        "username": "shakepv",
+        "resource_url": "https://api.discogs.com/users/shakepv"
+      },
+      {
+        "username": "CDLP-Records.fr",
+        "resource_url": "https://api.discogs.com/users/CDLP-Records.fr"
+      },
+      {
+        "username": "babilonias",
+        "resource_url": "https://api.discogs.com/users/babilonias"
+      },
+      {
+        "username": "Schmirgel",
+        "resource_url": "https://api.discogs.com/users/Schmirgel"
+      },
+      {
+        "username": "NinerVinyl",
+        "resource_url": "https://api.discogs.com/users/NinerVinyl"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2020-02-07T09:15:48-08:00",
+  "date_changed": "2025-01-15T13:00:48-08:00",
+  "num_for_sale": 123,
+  "lowest_price": 26.67,
+  "master_id": 1681919,
+  "master_url": "https://api.discogs.com/masters/1681919",
+  "title": "The Slow Rush",
+  "country": "Worldwide",
+  "released": "2020-02-14",
+  "notes": "Recorded and mixed in Fremantle, Western Australia and Los Angeles, California.\nMastered at Sterling Sound, New Jersey.\n\n\u2117\u00a9 2020 Modular Recordings Pty Ltd under exclusive license to Universal Music Australia Pty Ltd.\nMade in Germany.\n\n \n180 gram black vinyl and gatefold outer sleeve.\nIncludes a fold out poster and some copies included a download card.\n\n \nEndless gratitude to:\nSoph, Glen, Jodie and everyone at Spinning Top,\nNeil, the Namibia production crew, Kristofski, Matt Sav,\nJason Hanan, Billy Amezs, the guys, my fans, my family and my friends.",
+  "released_formatted": "14 Feb 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02577 57956 1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602577579561",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - A X = 6 BJ92653-01 A1 PR",
+      "description": "Runout side A, etched, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - B BJ92653-01 B1 ex PR",
+      "description": "Runout side B, etched, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - C PR V = S BJ92653-02 C1",
+      "description": "Runout side C, etched, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - D PR T+6 BJ92653-02 D1",
+      "description": "Runout side D, etched, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - A BJ92653-01 A1 PR 2-1",
+      "description": "Runout side A, etched, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - B BJ92653-01 B1 PR 3 +",
+      "description": "Runout side B, etched, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - C PR BJ92653-02 C1 6 1+",
+      "description": "Runout side C, etched, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "7757956 - D PR BJ92653-02 D1 11 .6",
+      "description": "Runout side D, etched, variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=kHcvlsuXfgg",
+      "title": "Tame Impala - The Slow Rush CD Unboxing",
+      "description": "In this video I show you the The Slow Rush CD by Tame Impala.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can buy the album here:\nCD: https://amzn.to/40zcKzW\nVinyl: https://amzn.to/3Vn4u5j\nDigital: https://amzn.to/3H",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bMLq3QQK6a8",
+      "title": "Tame Impala - One More Year (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 323,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hWtY1t_8Y_M",
+      "title": "Tame Impala - Instant Destiny (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2g5xkLqIElU",
+      "title": "Tame Impala - Borderline (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=44lWO3qhQMk",
+      "title": "Tame Impala - Posthumous Forgiveness (Official Audio)",
+      "description": "Listen to Posthumous Forgiveness: https://TameImpala.lnk.to/Posthumous_ForgivenessYD\nListen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameIm",
+      "duration": 367,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gs-MtItyOFc",
+      "title": "Tame Impala - Breathe Deeper (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 373,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NUdPieYQ6OA",
+      "title": "Tame Impala - Tomorrow's Dust (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 327,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XlmpIRFeI8I",
+      "title": "Tame Impala - On Track (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 302,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=utCjuKDXQsE",
+      "title": "Tame Impala - Lost in Yesterday (Official Video)",
+      "description": "Official Music Video for Lost in Yesterday by Tame Impala.\nListen to Lost in Yesterday: https://TameImpala.lnk.to/LostInYesterdayYD\nPre-order The Slow Rush (out February 14, 2020): https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://t",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qLGwIHjhboA",
+      "title": "Tame Impala - Is It True (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4hZ_wTx_kWg",
+      "title": "Tame Impala - It Might Be Time (Official Audio)",
+      "description": "Listen to \u2018It Might Be Time\u2019: https://tameimpala.lnk.to/ItMightBeTimeYD\nPre-order The Slow Rush (out February 14, 2020): https://TameImpala.lnk.to/TheSlowRushYD\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impal",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KsfxIgOtROk",
+      "title": "Tame Impala - Glimmer (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 129,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y0U6u2D8cMU",
+      "title": "Tame Impala - One More Hour (Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 434,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rUmV-MorIKc",
+      "title": "Tame Impala - Patience (Official Audio)",
+      "description": "Listen to Patience: https://TameImpala.lnk.to/PatienceYD\nListen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSub",
+      "duration": 293,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sR9d5doziDs",
+      "title": "THE SLOW RUSH",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameIm",
+      "duration": 99,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=I-dvJGbVQQ4",
+      "title": "Tame Impala, Lil Yachty - Breathe Deeper (Lil Yachty Remix) (Official Video)",
+      "description": "WARNING: CONTAINS FLASHING IMAGES.\nPre-order \u2018The Slow Rush Deluxe\u2019: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to T",
+      "duration": 289,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gSe3RcqWX40",
+      "title": "One More Year (NTS Version)",
+      "description": "Provided to YouTube by Universal Music Group\n\nOne More Year (NTS Version) \u00b7 Tame Impala\n\nThe Slow Rush B-Sides & Remixes\n\n\u2117 An Island Records Australia release; \u2117 2021 Modular Recordings Pty Ltd\n\nReleased on: 2022-02-18\n\nAssociated  Performer, Vocals: Kev",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RHYERYTHazc",
+      "title": "Is It True (Four Tet Remix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nIs It True (Four Tet Remix) \u00b7 Tame Impala\n\nThe Slow Rush B-Sides & Remixes\n\n\u2117 An Island Records Australia release; \u2117 2020 Modular Recordings Pty Ltd\n\nReleased on: 2022-02-18\n\nProducer, Studio  Personnel, Mixer",
+      "duration": 326,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m8rMFXG-T64",
+      "title": "Tame Impala - No Choice (Official Audio)",
+      "description": "Pre-order \u2018The Slow Rush Deluxe\u2019: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j706aSetFbI",
+      "title": "Tame Impala - The Boat I Row (Official Audio)",
+      "description": "\u2018The Slow Rush Deluxe\u2019: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImp",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SK-kLeNJ5V4",
+      "title": "Tame Impala - Patience (Maurice Fulton Remix) (Official Audio)",
+      "description": "\u2018The Slow Rush Deluxe\u2019: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImp",
+      "duration": 362,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6NB8wVFgK5Q",
+      "title": "Tame Impala - Borderline (Blood Orange Remix / Official Audio)",
+      "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImpal",
+      "duration": 440,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j706aSetFbI",
+      "title": "Tame Impala - The Boat I Row (Official Audio)",
+      "description": "\u2018The Slow Rush Deluxe\u2019: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImp",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m8rMFXG-T64",
+      "title": "Tame Impala - No Choice (Official Audio)",
+      "description": "Pre-order \u2018The Slow Rush Deluxe\u2019: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https",
+      "duration": 222,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Psychedelic Rock",
+    "Soft Rock",
+    "Indie Pop",
+    "Indie Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "One More Year",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Instant Destiny",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Borderline",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Posthumous Forgiveness",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Breathe Deeper",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Tomorrow's Dust",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "On Track",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Lost In Yesterday",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Is It True",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "It Might Be Time",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Glimmer",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "One More Hour",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Glen Goetze",
+      "anv": "",
+      "join": "",
+      "role": "A&R, Executive-Producer [Co=Executive Production]",
+      "tracks": "",
+      "id": 1876358,
+      "resource_url": "https://api.discogs.com/artists/1876358"
+    },
+    {
+      "name": "Kevin Parker (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Art Concept By]",
+      "tracks": "",
+      "id": 1245512,
+      "resource_url": "https://api.discogs.com/artists/1245512"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Art Concept By]",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    },
+    {
+      "name": "Phillip S. Rodriguez",
+      "anv": "PR",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 5193477,
+      "resource_url": "https://api.discogs.com/artists/5193477"
+    },
+    {
+      "name": "Greg Calbi",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 244135,
+      "resource_url": "https://api.discogs.com/artists/244135"
+    },
+    {
+      "name": "Steve Fallone",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By [Mastered With]",
+      "tracks": "",
+      "id": 380507,
+      "resource_url": "https://api.discogs.com/artists/380507"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Photography By, Design",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    },
+    {
+      "name": "Kevin Parker (2)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By [All Music Written By], Performer [All Music Performed By], Mixed By [All Music Mixed By]",
+      "tracks": "",
+      "id": 1245512,
+      "resource_url": "https://api.discogs.com/artists/1245512"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/q0X_q3DrfMQ1IfU4tSAYLj92sowlfiUAZGh0m1_4a_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2NjA5MDk3/MTYtOTk2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/q0X_q3DrfMQ1IfU4tSAYLj92sowlfiUAZGh0m1_4a_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2NjA5MDk3/MTYtOTk2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9YRh3s3mhnxhS1Zd11IsL46Io7DpRqpAyfNl5BQHFQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2NjA5MDk3/MTYtOTk2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eHVWn40XmUF_wYgnGao5QAZmhtdZdao2lNKPE3JqYr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtNjczNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eHVWn40XmUF_wYgnGao5QAZmhtdZdao2lNKPE3JqYr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtNjczNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TWdgMDJ994mU0vevA8SKcUK3QiyD94VZgEjFEpdVhk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtNjczNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EEi1pDsKlAjzTkoztDnxwrBhYn9ziubWCYomd9BFHpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtOTgyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EEi1pDsKlAjzTkoztDnxwrBhYn9ziubWCYomd9BFHpg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtOTgyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iZp9SaPoL9jYluZdyMPq8vMQbMWH5rs0n9Yg7oInu8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtOTgyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9RUwb7AMJhOKuhWgjIfKfgAlEoEexV4JzwdmdKbCkRo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MjgtNzE4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9RUwb7AMJhOKuhWgjIfKfgAlEoEexV4JzwdmdKbCkRo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MjgtNzE4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9iDjqCEi-JELrnScgW11B-K9U2Ds5Rs-wTUz6qbEH_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MjgtNzE4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kbFv13yKToN083qOE_lM8S0vsk_sEiyYZpsgrEez8C4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItNzI1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kbFv13yKToN083qOE_lM8S0vsk_sEiyYZpsgrEez8C4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItNzI1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8h4Ji1a9VLQ8KxqiiDdvUGNM9JcG3WvjnO5DvJmV2qY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItNzI1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-pAc_8Q5XWgNPZ0TWT5pdWyKmY_HCUS1f6GMYCIiLC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItNTI4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-pAc_8Q5XWgNPZ0TWT5pdWyKmY_HCUS1f6GMYCIiLC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItNTI4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/f8lsuHxpgAgYLci9ZvbJb6GwTKYS9eg7JSNuIADoJoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItNTI4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rGCDeu8nLLbEtHDlLlp3w3QaojcIKclvugkJBf7aNRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzEtMTM5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rGCDeu8nLLbEtHDlLlp3w3QaojcIKclvugkJBf7aNRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzEtMTM5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/K3rWUf4ZlSdLd5B1kyT8fsRE2aMsSSRqbeF5KSluslo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzEtMTM5NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ijrE-bfaq3hc2DcGIOCxVAzvguBZXkerdL49C2-lBwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItMTk0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ijrE-bfaq3hc2DcGIOCxVAzvguBZXkerdL49C2-lBwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItMTk0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XuSPooxD0yn5aEhCtYToiu6AehF8hP7fbOzonJeVLHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzItMTk0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7MSHe4hXgQqg84F8-u2StpWcGsEABIEY5YY4g6Q1pco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDctMTM4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7MSHe4hXgQqg84F8-u2StpWcGsEABIEY5YY4g6Q1pco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDctMTM4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/v-MIALVS12TAqnF8EOo95TvowC65sx_7VXm-jWTO2Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDctMTM4MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OHinJtlrqdYZsqmNuV6_6D7L02JteA8PxqsTFCJQjPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDYtODA4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OHinJtlrqdYZsqmNuV6_6D7L02JteA8PxqsTFCJQjPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDYtODA4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wpf3tgo7ERxonDEERGzcfwGUutp3BpppCQw78bszpkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDYtODA4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xBxPa6KoN8ru1zhkyY17PN7UNwfJDkA11Uht2R8LFYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDYtNzI3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xBxPa6KoN8ru1zhkyY17PN7UNwfJDkA11Uht2R8LFYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDYtNzI3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RUJ7SGocdFV83Nng0kCUIVLDqsKg0tg6MmUgvaHfL7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDYtNzI3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rmkfn-mh5O9DEWpTQbOOTkDruSPpY__t_MY9xZVMv2c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDktNDI3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Rmkfn-mh5O9DEWpTQbOOTkDruSPpY__t_MY9xZVMv2c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDktNDI3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/M5MDP_Z7x7CkViL_VbTqPW14hk6GmKymGuuNJbingBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDktNDI3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LIHTM2WpdiQ7kDrbrL0V7LURLEksViA07NMGuoNYluI/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MjYtMjI2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LIHTM2WpdiQ7kDrbrL0V7LURLEksViA07NMGuoNYluI/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MjYtMjI2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iwEM_o5tB4XyamlPg9EOdHCeC558epg9uswjP8GLIBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MjYtMjI2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 427
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/voRjV0hhMg2xQqfpJ_RRGIJTT1EVCVObv-Tpg4h21H0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzAtMjIzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/voRjV0hhMg2xQqfpJ_RRGIJTT1EVCVObv-Tpg4h21H0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzAtMjIzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6CnKVmHDM6cU17vzOS_XxlFPIXs7T15E8DRxbkidS2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODA0/MzAtMjIzNi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3ZPdDtNjS8u8X-EkxsIgWwruXBetEYFpuBGvVY1vLD0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODM3MTM3/ODMtODc3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3ZPdDtNjS8u8X-EkxsIgWwruXBetEYFpuBGvVY1vLD0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODM3MTM3/ODMtODc3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BrzlEQb4SKTY1HIvbkpTT23n7xMp_-Mv7NJnXCQcY4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODM3MTM3/ODMtODc3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Q8LAkR_m2MaMH6xnkmHm5oEJMnQFOtMcDI2viVwIMq0/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtMzIwOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Q8LAkR_m2MaMH6xnkmHm5oEJMnQFOtMcDI2viVwIMq0/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtMzIwOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/W1vqNCr-3SP7IWuEwBogbiIirAOE5rkls9Mb3Ld_dy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODE2MzMw/NDgtMzIwOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 305
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GtsZkPP52nnGaskRKrizyN2vAULwPLYWLLpVbDb4Mvs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODEwOTY2/NzQtNDk0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GtsZkPP52nnGaskRKrizyN2vAULwPLYWLLpVbDb4Mvs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODEwOTY2/NzQtNDk0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ExZaAQrpyEcYDo2oXsSMcEQgk50neTSFXvjUsBAW-Go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODEwOTY2/NzQtNDk0Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y70vUqyxMKK2c_-IIrIJOiKzrDCn1iqiQrKkKRDV47o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODEwOTY2/NzQtMjIwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y70vUqyxMKK2c_-IIrIJOiKzrDCn1iqiQrKkKRDV47o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODEwOTY2/NzQtMjIwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/v96YYkol6AmP7eEUFaG91O0EsWk77QKuaucUwytWTc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1ODEwOTY2/NzQtMjIwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TUNpHio8a7ThROraXazri-uB08DjjOsF1m4-LMilypA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODEz/NjgtNDkzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TUNpHio8a7ThROraXazri-uB08DjjOsF1m4-LMilypA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODEz/NjgtNDkzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1vCGd4fwEUkr3aJrWseqZzoMzqtau0tm2RxIUc0MIag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE1OTIyODEz/NjgtNDkzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Z344cB_Vthbj3N5OnatWqQ1jEmPfgNwdlOog4DZGfKQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2MDgzODA5/OTUtMjUwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Z344cB_Vthbj3N5OnatWqQ1jEmPfgNwdlOog4DZGfKQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2MDgzODA5/OTUtMjUwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/riPZWcqarJ6YVrdXeWqK7-2JjVm4GyNcmk8IsqWksFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2MDgzODA5/OTUtMjUwOC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/9YRh3s3mhnxhS1Zd11IsL46Io7DpRqpAyfNl5BQHFQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODQ0LTE2NjA5MDk3/MTYtOTk2NS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "the-great-divide",
+    "title": "The Great Divide",
+    "artist": "Noah Kahan",
+    "uri": "spotify:album:2fnkyn9EybagIoFJ7a13oz",
+    "release_date": "2026-04-24",
+    "release_source": "https://www.universalmusic.ca/2026/01/30/noah-kahan-makes-highly-anticipated-return-with-brand-new-single-the-great-divide-out-now/",
+    "songs": [
+      "End of August",
+      "Doors",
+      "American Cars",
+      "Downfall",
+      "Paid Time Off",
+      "The Great Divide",
+      "Haircut",
+      "Willing and Able",
+      "Dashboard",
+      "23",
+      "Porch Light",
+      "Deny Deny Deny",
+      "Headed North",
+      "We Go Way Back",
+      "Spoiled",
+      "All Them Horses",
+      "Dan"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/noah/divide-front.webp",
+      "source": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "method": "Clean official Spotify cover; lossless PhotoCraft conversion.",
+      "sha256": "bde13c811e4873ed1704bd1a582acb7864746bce43e03e355f28f666597e7672"
+    },
+    "discs": [
+      {
+        "id": "great-divide-american-rust-vinyl",
+        "kind": "vinyl",
+        "label": "American Rust vinyl · side B",
+        "path": "found-artwork/collection-expansion/noah/divide-vinyl.webp",
+        "source": "https://noahkahan.com/products/the-great-divide-american-rust-vinyl",
+        "source_image": "https://cdn.shopify.com/s/files/1/0912/0736/9004/files/NK-TGD_STANDARD-VINYL_AMERICAN-RUST__LP_2_60f6781f-67e5-4e29-9d4f-121d0940c926.png?v=1769611006",
+        "method": "Official standalone promotional disc rendering; PhotoCraft rescale/cutout and hole normalization. No generation.",
+        "prompt": null,
+        "notes": "Preserves original rusty marbled surface and insect label pixels. Annulus remains fully opaque. A tiny gold matte ring normalizes the source spindle opening to 16px.",
+        "sha256": "29b8c2f9ae2a181005088d91e5e7aad792ffda69d5b221ffaa0ca7b3c28816ef"
+      },
+      {
+        "id": "great-divide-gold-cd",
+        "kind": "cd",
+        "label": "Gold insect CD",
+        "path": "found-artwork/collection-expansion/noah/divide-cd.webp",
+        "source": "https://www.discogs.com/release/37170543",
+        "source_image": "https://i.discogs.com/zLuI98hz7rL8oe0Dz06KAAeSsC5hlAQcZIeziP5kQko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcw/NTQzLTE3NzcxMjU0/NzItNTAyMC5qcGVn.jpeg",
+        "method": "Actual complete CD photograph; measured outer ellipse and spindle projective rectification with PhotoCraft, circular mask and centered 80px hole. No generation.",
+        "prompt": null,
+        "notes": "Original label, silver hub and rim retained. Source texture and lighting remain visible; cork background removed.",
+        "sha256": "163e6920b49ed431915c8150f3d205d68917af4406b2383e1abb3b8f4a3e00af"
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/noah/divide-back.webp",
+      "source": "https://www.discogs.com/release/37170543",
+      "source_image": "https://i.discogs.com/J9bDIKsq8dyfwwuUFspLsFVdeT6argwxnA1Ig0u-jfs/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcw/NTQzLTE3NzcxMjgy/NTctNzQzMy5qcGVn.jpeg",
+      "method": "Actual CD back photograph, tiny perspective skew corrected and background cropped with PhotoCraft; original print preserved.",
+      "sha256": "5e9d0c87822ae99a236b229567a55ae71fa61cee4a4dceabfb3982c4293a3c4a"
+    }
+  },
+  {
+    "id": "stick-season",
+    "title": "Stick Season",
+    "artist": "Noah Kahan",
+    "uri": "spotify:album:50ZenUP4O2Q5eCy2NRNvuz",
+    "release_date": "2022-10-14",
+    "release_source": "https://musicbrainz.org/release-group/14fc4370-9b90-411b-a02e-6c6d5a8799fc",
+    "songs": [
+      "Northern Attitude",
+      "Stick Season",
+      "All My Love",
+      "She Calls Me Back",
+      "Come Over",
+      "New Perspective",
+      "Everywhere, Everything",
+      "Orange Juice",
+      "Strawberry Wine",
+      "Growing Sideways",
+      "Halloween",
+      "Homesick",
+      "Still",
+      "The View Between Villages"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/noah/stick-front.webp",
+      "source": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2736ee35072df1af802cca09918",
+      "method": "Clean official Spotify cover; lossless PhotoCraft conversion.",
+      "sha256": "d1692725b82c825bbcc7031cd8a6ca1e18e213eb5bfc91d02e359da329f41caa"
+    },
+    "discs": [
+      {
+        "id": "stick-season-green-vinyl",
+        "kind": "vinyl",
+        "label": "Green vinyl · side A",
+        "path": "found-artwork/collection-expansion/noah/stick-vinyl.webp",
+        "source": "https://www.discogs.com/release/27318180",
+        "source_image": "https://i.discogs.com/5mmDD8t6KO-M--TxIhrT4fRO7iqEJL8QKRI4xBAEeHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE4/MTgwLTE2ODY2ODQy/ODUtMTc5Mi5qcGVn.jpeg",
+        "method": "Actual full green vinyl photograph; PhotoCraft measured outer ellipse/spindle rectification, circular cutout, centered 16px hole. No generation.",
+        "prompt": null,
+        "notes": "Original grooved green surface, dark printed label and ordinary highlights preserved. No sleeve, packaging or hand remains.",
+        "sha256": "eb005e8a9ef5e81437c211ced986fb8a80c4f4fe5da7d26070327cb39d23b0bd"
+      },
+      {
+        "id": "stick-season-map-cd",
+        "kind": "cd",
+        "label": "Black and gold map CD",
+        "path": "found-artwork/collection-expansion/noah/stick-cd.webp",
+        "source": "https://www.discogs.com/release/24957121",
+        "source_image": "https://i.discogs.com/ZyGMcjLGIHMIYR4_IFZGGhJjq_OJEnAIj-1NEDx6-cw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MTIxLTE2NjgxMTYx/MzMtNTQzMi5qcGVn.jpeg",
+        "method": "Actual full CD photograph; PhotoCraft measured ellipse/spindle rectification, circular cutout, centered 80px hole. No generation.",
+        "prompt": null,
+        "notes": "Original contour-map print, gold lettering and white/silver hub preserved. No plastic case spindle remains.",
+        "sha256": "e85b030b3d06b2ae01371a2c2bd495f7314b8590684c498221ad7161c49beba0"
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/noah/stick-back.webp",
+      "source": "https://noahkahan.com/products/stick-season-vinyl-standard-black",
+      "source_image": "https://cdn.shopify.com/s/files/1/0912/0736/9004/files/stickseason_vinyl_back.png?v=1769562108",
+      "method": "Clean official rear sleeve artwork cropped from product gallery with PhotoCraft; original pixels preserved.",
+      "sha256": "9832ee620fc7d27ddbc3412554336ebf51a75beb72eb7ba2b100708d143bb085"
+    }
+  }
+]

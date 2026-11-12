@@ -1,0 +1,338 @@
+[
+  {
+    "source": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-fc41f1c0bae028461520-generated.png",
+    "commands": [
+      [
+        "select.rect",
+        {
+          "x": 422,
+          "y": 422,
+          "width": 400,
+          "height": 400,
+          "ellipse": true
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.crop",
+        {
+          "x": 422,
+          "y": 422,
+          "width": 400,
+          "height": 400,
+          "targetWidth": 150,
+          "targetHeight": 150,
+          "resample": "lanczos"
+        }
+      ]
+    ],
+    "destination": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-fc41f1c0bae028461520-hub-normalized.png",
+    "returncode": 0
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-fc41f1c0bae028461520-generated.png",
+    "commands": [
+      [
+        "image.crop",
+        {
+          "x": 24,
+          "y": 24,
+          "width": 1196,
+          "height": 1196,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ],
+      [
+        "file.placeEmbedded",
+        {
+          "path": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-fc41f1c0bae028461520-hub-normalized.png",
+          "fit": false,
+          "scale": 100,
+          "smartObject": false,
+          "center": [
+            324,
+            324
+          ]
+        }
+      ],
+      [
+        "layer.mergeDown",
+        {}
+      ],
+      [
+        "select.rect",
+        {
+          "x": 4,
+          "y": 4,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 284.0,
+          "y": 284.0,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ]
+    ],
+    "destination": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-fc41f1c0bae028461520-final.webp",
+    "returncode": 0
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-a0a6fd323f9dfea9c512-generated.png",
+    "commands": [
+      [
+        "select.rect",
+        {
+          "x": 446,
+          "y": 446,
+          "width": 360,
+          "height": 360,
+          "ellipse": true
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.crop",
+        {
+          "x": 446,
+          "y": 446,
+          "width": 360,
+          "height": 360,
+          "targetWidth": 158,
+          "targetHeight": 158,
+          "resample": "lanczos"
+        }
+      ]
+    ],
+    "destination": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-a0a6fd323f9dfea9c512-hub-normalized.png",
+    "returncode": 0
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-a0a6fd323f9dfea9c512-generated.png",
+    "commands": [
+      [
+        "image.crop",
+        {
+          "x": 19,
+          "y": 19,
+          "width": 1214,
+          "height": 1214,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ],
+      [
+        "file.placeEmbedded",
+        {
+          "path": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-a0a6fd323f9dfea9c512-hub-normalized.png",
+          "fit": false,
+          "scale": 100,
+          "smartObject": false,
+          "center": [
+            324,
+            324
+          ]
+        }
+      ],
+      [
+        "layer.mergeDown",
+        {}
+      ],
+      [
+        "select.rect",
+        {
+          "x": 4,
+          "y": 4,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 284.0,
+          "y": 284.0,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ]
+    ],
+    "destination": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-a0a6fd323f9dfea9c512-final.webp",
+    "returncode": 0
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/reconstruct-a/external-vinyl-4c8f03255fc4579b35f8-generated.png",
+    "commands": [
+      [
+        "image.crop",
+        {
+          "x": 32,
+          "y": 32,
+          "width": 1188,
+          "height": 1188,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 4,
+          "y": 4,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 316.0,
+          "y": 316.0,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ]
+    ],
+    "destination": "found-artwork/approved-discs-v2/reconstruct-a/external-vinyl-4c8f03255fc4579b35f8-final.webp",
+    "returncode": 0
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/reconstruct-a/external-vinyl-50fef93d2965b6ed2e41-generated.png",
+    "commands": [
+      [
+        "image.crop",
+        {
+          "x": 37,
+          "y": 40,
+          "width": 1178,
+          "height": 1178,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 4,
+          "y": 4,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 315.0,
+          "y": 315.0,
+          "width": 18,
+          "height": 18,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ]
+    ],
+    "destination": "found-artwork/approved-discs-v2/reconstruct-a/external-vinyl-50fef93d2965b6ed2e41-final.webp",
+    "returncode": 0
+  }
+]

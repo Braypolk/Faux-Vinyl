@@ -1,0 +1,322 @@
+{
+  "type": "album",
+  "name": "How to: Friend, Love, Freefall",
+  "uri": "spotify:album:7vXiklrUeffx5o2F8VYwm3",
+  "id": "7vXiklrUeffx5o2F8VYwm3",
+  "title": "How to: Friend, Love, Freefall",
+  "subtitle": "Rainbow Kitten Surprise",
+  "isPreRelease": false,
+  "releaseDate": null,
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:7vXiklrUeffx5o2F8VYwm3",
+  "trackList": [
+    {
+      "uri": "spotify:track:2hYeasyqa59VNYlsSSCmq4",
+      "uid": "b2c0a8216c2a38c1634b",
+      "title": "Pacific Love",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 23746,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6df26e1d60e738c3e6489003605499c1c3968d1e"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1TDdYSYLIXMJ4EiKO6ZCYk",
+      "uid": "13a1e3b64be948112cf5",
+      "title": "Mission to Mars",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 154213,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/98422e20b70be2cd7d974b665d83168ca5398146"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5vyt44455ipNNVSYq8fYY7",
+      "uid": "1f08f05ee43137b14efa",
+      "title": "Fever Pitch",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 163746,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/f0a17e1ab99690ea29aeb09d42a52eb2726940c2"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:474uVhyGgK5MtY9gMcDgGl",
+      "uid": "7b72a8095666f084d3fb",
+      "title": "It's Called: Freefall",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 152293,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/84be00e486991c2b8b7d8625dd90fd9624993d20"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1zkkvSLk5Nh4uoyKWwuie9",
+      "uid": "b45246e66c7d29ca8a12",
+      "title": "Holy War",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 174386,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/a238cb17aa9a25b56047c5422b95240f5089ee66"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:41xaZ4WLlKD95U5PknoJrV",
+      "uid": "af18657583a02c6b61d5",
+      "title": "Matchbox",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 172466,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/abe5b261f58d4424938ae59935654ed31f531326"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1k7aPYyAnNTjVbjw1YDNp1",
+      "uid": "53c2fd66fa3536ec4b3b",
+      "title": "Moody Orange",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 196573,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/255c8604d179e9a8dc7ba0f8255c0f443fb7710c"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0hJS3EHWC4uL9sJ52ErpoN",
+      "uid": "dfbc983d17ae0ae4f71a",
+      "title": "Hide",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 192013,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/a588a94dd085217f590b5b85a02223f3df7bfa6a"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:16ro1is6DmDKkarlJMBbzV",
+      "uid": "7379ea30b97603ae2079",
+      "title": "When It Lands",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 269053,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/26649fa982252d3de3a1894e6c39cb86f1396f96"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6fc51JZVE0Yijdi6RuoLFv",
+      "uid": "3d905a294fc329dd3707",
+      "title": "Painkillers",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 213973,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/b70ec57fff8cd7eb0a4ac6fa8d75e22e984d82d1"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:33vFhGNZa44VJ0I21AOGYe",
+      "uid": "be19c96e5478397b38c9",
+      "title": "Recktify",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 109226,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/5becd1e616b9e135aa39839a5a991eff13476f0b"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1RzgWAFlI6KOenjOxJYcH0",
+      "uid": "1e9fe2baed0115fb65fe",
+      "title": "Possum Queen",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 127640,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/9d590b2f9b91783b37e4f2498bd8a040ea657cdd"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:2OeL43EXwaC205Xr1da1qJ",
+      "uid": "4aaf89d18cbc3e4dfcae",
+      "title": "Polite Company",
+      "subtitle": "Rainbow Kitten Surprise",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 242226,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/240d8583f61e42e350ddb1cda3f5d496bb63d849"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 0,
+      "green": 0,
+      "red": 159
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 0,
+      "green": 0,
+      "red": 97
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 178,
+      "green": 190,
+      "red": 255
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e029529217e48fc8bab89c8a1f9",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000048519529217e48fc8bab89c8a1f9",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2739529217e48fc8bab89c8a1f9",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{{define "head"}}
+<link rel="stylesheet" href="/static/editor.css">
+<script defer src="/static/editor.js"></script>
+{{end}}
+{{define "content"}}
+<a class="text-link" href="/">← Shelf</a>
+<section class="page-heading"><h1>{{.Card.Title}}</h1></section>
+<div class="two-columns record-editor">
+  <form class="panel" method="post" enctype="multipart/form-data">
+    <input type="hidden" name="csrf" value="{{.CSRF}}">
+    <label for="title">Name</label><input id="title" name="title" value="{{.Card.Title}}" maxlength="140" required>
+    <label for="uri">Spotify link</label><input id="uri" name="uri" value="{{.Card.URI}}" required>
+    {{if eq (slice .Card.URI 0 14) "spotify:album:"}}<label for="release-date">Original release date</label><input type="date" id="release-date" name="release_date" value="{{.Card.ReleaseDate}}" min="1900-01-01" max="9999-12-31">{{end}}
+    <details class="search-details"><summary>Search details</summary>
+      <input type="hidden" name="search_details" value="1">
+      <label for="artist">Artist</label><textarea id="artist" name="artist" rows="2" maxlength="16000">{{.Card.Metadata.Artist}}</textarea>
+      <label for="album">Album</label><input id="album" name="album" value="{{.Card.Metadata.Album}}" maxlength="2000">
+      <label for="songs">Songs</label><textarea id="songs" name="songs" rows="6" maxlength="64000" placeholder="One song per line">{{.Card.Metadata.Songs}}</textarea>
+    </details>
+    <fieldset class="cover-fields">
+      <legend>Artwork</legend>
+      <p class="small" id="cover-help">JPEG, PNG or WebP · 8 MB each · Up to 12 megapixels</p>
+      {{if .Error}}<p class="upload-error" role="alert">{{.Error}} Choose your files again.</p>{{end}}
+      <div class="cover-grid">
+
+        <div class="cover-field">
+          <label for="front">Front</label>
+          <div class="cover-preview" data-cover-preview="front">
+            {{if index .Art "front"}}<img src="{{index .Art "front"}}" alt="Front artwork">{{else}}<span>No artwork</span>{{end}}
+          </div>
+          <input id="front" name="front" type="file" accept="image/jpeg,image/png,image/webp" aria-describedby="cover-help" data-cover-upload>
+          {{if index .Custom "front"}}<label class="reset-cover"><input type="checkbox" name="reset_front" value="1"> Use original</label>{{end}}
+        </div>
+
+        <div class="cover-field">
+          <label for="back">Back</label>
+          <div class="cover-preview" data-cover-preview="back">
+            {{if index .Art "back"}}<img src="{{index .Art "back"}}" alt="Back artwork">{{else}}<span>No artwork</span>{{end}}
+          </div>
+          <input id="back" name="back" type="file" accept="image/jpeg,image/png,image/webp" aria-describedby="cover-help" data-cover-upload>
+          {{if index .Custom "back"}}<label class="reset-cover"><input type="checkbox" name="reset_back" value="1"> Use original</label>{{end}}
+        </div>
+
+      </div>
+    </fieldset>
+    <button type="submit">Save changes</button>
+  </form>
+  <section class="panel url-panel">
+    <label for="nfc-url">Permanent NFC URL</label>
+    <input id="nfc-url" class="url" readonly value="{{.PublicURL}}/c/{{.Card.ID}}">
+    <button class="copy" data-copy="{{.PublicURL}}/c/{{.Card.ID}}" type="button">Copy NFC URL</button>
+    <a class="text-link" href="/c/{{.Card.ID}}">Try this card ↗</a>
+  </section>
+</div>
+{{end}}

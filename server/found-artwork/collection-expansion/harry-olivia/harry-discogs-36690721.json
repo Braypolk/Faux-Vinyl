@@ -1,0 +1,488 @@
+{
+  "id": 36690721,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/36690721",
+  "uri": "https://www.discogs.com/release/36690721-Harry-Styles-Kiss-All-The-Time-Disco-Occasionally",
+  "artists": [
+    {
+      "name": "Harry Styles",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2508414,
+      "resource_url": "https://api.discogs.com/artists/2508414",
+      "thumbnail_url": "https://i.discogs.com/aRwS_LlzL_cbddfN8tKD-hyQgp2WmLmvef576Malzzc/rs:fit/g:sm/q:90/h:600/w:530/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MDg0/MTQtMTc3NzQ4MTE3/NC0xNTc4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Harry Styles",
+  "labels": [
+    {
+      "name": "Erskine Records",
+      "catno": "19958417732",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1862513,
+      "resource_url": "https://api.discogs.com/labels/1862513",
+      "thumbnail_url": "https://i.discogs.com/D_l7a8bCW2nUagnmGbYY3z7oQEGPNiHWiec3KfVHweQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjI1/MTMtMTY1MzEyNTI1/MS0zMDczLmpwZWc.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19958417732",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Sony Music",
+      "catno": "19958417732",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "resource_url": "https://api.discogs.com/labels/25487",
+      "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Erskine Records Limited",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1257099,
+      "resource_url": "https://api.discogs.com/labels/1257099"
+    },
+    {
+      "name": "Erskine Records Limited",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1257099,
+      "resource_url": "https://api.discogs.com/labels/1257099"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment International Services GmbH",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 737249,
+      "resource_url": "https://api.discogs.com/labels/737249",
+      "thumbnail_url": "https://i.discogs.com/ukmrc-CQzP45xqu7pl1WAhVsncRsMdkb9uLji96fFcY/rs:fit/g:sm/q:90/h:27/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczNzI0/OS0xNzc0NjI0MDAw/LTQwMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music UK",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 79067,
+      "resource_url": "https://api.discogs.com/labels/79067",
+      "thumbnail_url": "https://i.discogs.com/bYnD1sGFpQNqBFhXPhylO3ODDrPBwENc55CiGuRNnK0/rs:fit/g:sm/q:90/h:22/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc5MDY3/LTEyNTA2ODg0MjEu/anBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "47",
+      "entity_type_name": "Trademark Owner",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "1",
+      "descriptions": [
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1875,
+    "want": 239,
+    "rating": {
+      "count": 365,
+      "average": 4.69
+    },
+    "submitter": {
+      "username": "lucasioppolo",
+      "resource_url": "https://api.discogs.com/users/lucasioppolo"
+    },
+    "contributors": [
+      {
+        "username": "lucasioppolo",
+        "resource_url": "https://api.discogs.com/users/lucasioppolo"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "justiniyan",
+        "resource_url": "https://api.discogs.com/users/justiniyan"
+      },
+      {
+        "username": "Gab91X",
+        "resource_url": "https://api.discogs.com/users/Gab91X"
+      },
+      {
+        "username": "PizzaTime1205",
+        "resource_url": "https://api.discogs.com/users/PizzaTime1205"
+      },
+      {
+        "username": "elmonopintado",
+        "resource_url": "https://api.discogs.com/users/elmonopintado"
+      },
+      {
+        "username": "Salchicha2554",
+        "resource_url": "https://api.discogs.com/users/Salchicha2554"
+      },
+      {
+        "username": "vinyllife75",
+        "resource_url": "https://api.discogs.com/users/vinyllife75"
+      },
+      {
+        "username": "domgeorge",
+        "resource_url": "https://api.discogs.com/users/domgeorge"
+      },
+      {
+        "username": "VinchVolt",
+        "resource_url": "https://api.discogs.com/users/VinchVolt"
+      },
+      {
+        "username": "Nemesis..",
+        "resource_url": "https://api.discogs.com/users/Nemesis.."
+      },
+      {
+        "username": "KallenLewis",
+        "resource_url": "https://api.discogs.com/users/KallenLewis"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-03-05T18:51:47-08:00",
+  "date_changed": "2026-03-25T16:01:39-07:00",
+  "num_for_sale": 68,
+  "lowest_price": 11.12,
+  "master_id": 4153480,
+  "master_url": "https://api.discogs.com/masters/4153480",
+  "title": "Kiss All The Time. Disco, Occasionally.",
+  "country": "Worldwide",
+  "released": "2026-03-06",
+  "notes": "Made in the EU.",
+  "released_formatted": "06 Mar 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "199584177328"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=7sxVHYZ_PnA",
+      "title": "Harry Styles - Aperture (Official Video)",
+      "description": "Official Video for \u201cAperture\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally\n\nYouTube: https://hstyles.lnk.to/Aperture/YouTube \nAmazon Music: htt",
+      "duration": 352,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=o6jQo3-iCao",
+      "title": "Harry Styles - American Girls (Official Video)",
+      "description": "Official Video for \"American Girls\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDiscoOcca",
+      "duration": 228,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jSsK-8Yik4o",
+      "title": "Harry Styles - Ready, Steady, Go! (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Ready, Steady, Go!\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTim",
+      "duration": 161,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BSiX4JFVIuc",
+      "title": "Harry Styles - Are You Listening Yet? (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Are You Listening Yet?\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTh",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PHHue4WIxXw",
+      "title": "Harry Styles - Taste Back (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Taste Back\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDiscoOc",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ncutyX4ejtk",
+      "title": "Harry Styles - The Waiting Game (Official Lyric Video)",
+      "description": "Official Lyric Video for \"The Waiting Game\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeD",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qHJS-xRYUsU",
+      "title": "Harry Styles - Season 2 Weight Loss (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Season 2 Weight Loss\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheT",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_3GKsIFtEoE",
+      "title": "Harry Styles - Coming Up Roses (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Coming Up Roses\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDi",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T7LtL1tyomU",
+      "title": "Harry Styles - Pop (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Pop\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasiona",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bDHiL1HK9RE",
+      "title": "Harry Styles - Dance No More (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Dance No More\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDisc",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EjcpN_gcHkU",
+      "title": "Harry Styles - Paint By Numbers (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Paint By Numbers\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeD",
+      "duration": 148,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JmpxAej67qc",
+      "title": "Harry Styles - Carla's Song (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Carla's Song\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDisco",
+      "duration": 255,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Alt-Pop",
+    "Pop Rock",
+    "Disco",
+    "Funk",
+    "Synth-pop",
+    "Berlin-School"
+  ],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Aperture",
+      "duration": "5:11"
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "American Girls",
+      "duration": "3:33"
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Ready, Steady, Go!",
+      "duration": "2:40"
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "Are You Listening Yet?",
+      "duration": "3:12"
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Taste Back",
+      "duration": "3:41"
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "The Waiting Game",
+      "duration": "2:49"
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Season 2 Weight Loss",
+      "duration": "3:49"
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "Coming Up Roses",
+      "duration": "4:08"
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "Pop",
+      "duration": "3:36"
+    },
+    {
+      "position": "10",
+      "type_": "track",
+      "title": "Dance No More",
+      "duration": "3:14"
+    },
+    {
+      "position": "11",
+      "type_": "track",
+      "title": "Paint By Numbers",
+      "duration": "2:27"
+    },
+    {
+      "position": "12",
+      "type_": "track",
+      "title": "Carla's Song",
+      "duration": "4:13"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Kid Harpoon",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 621771,
+      "resource_url": "https://api.discogs.com/artists/621771"
+    },
+    {
+      "name": "Harry Styles",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter",
+      "tracks": "",
+      "id": 2508414,
+      "resource_url": "https://api.discogs.com/artists/2508414"
+    },
+    {
+      "name": "Kid Harpoon",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter",
+      "tracks": "1 to 7, 9 to 12",
+      "id": 621771,
+      "resource_url": "https://api.discogs.com/artists/621771"
+    },
+    {
+      "name": "Tyler Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter",
+      "tracks": "2 to 7, 9, 11",
+      "id": 2190489,
+      "resource_url": "https://api.discogs.com/artists/2190489"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/dpQWH86qj1HFNpilFWqDy5fTjeexm6LdIDnzPGEjqso/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtMjk2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dpQWH86qj1HFNpilFWqDy5fTjeexm6LdIDnzPGEjqso/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtMjk2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8WgJZDjJoPwxtT33IeZvXq-M2uwSAY1dqu66KulpEmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtMjk2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 536
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/enAAtReSH7RaQZnFacN3__72k5-MFcPfIGNN8qWcYBw/rs:fit/g:sm/q:90/h:498/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTUtNDExMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/enAAtReSH7RaQZnFacN3__72k5-MFcPfIGNN8qWcYBw/rs:fit/g:sm/q:90/h:498/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTUtNDExMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9INJBIgPHn9SqpsYo6lSX2V4qLCxwE4QiK0tj6TEvDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTUtNDExMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 498
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lQJiX15IiV1sSsVRrdBnXuEce2b9UimPXED2p56xImE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/OTQtNzc4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lQJiX15IiV1sSsVRrdBnXuEce2b9UimPXED2p56xImE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/OTQtNzc4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3UcPWmyi2mRBlFiwbGCNlEvvJYLOVFQ42W94ddkZKss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/OTQtNzc4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/foPKTgpf2UIf0iGn1m_zbmwFDOJYekPthRzDrH5rPPU/rs:fit/g:sm/q:90/h:260/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MjEtNjgwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/foPKTgpf2UIf0iGn1m_zbmwFDOJYekPthRzDrH5rPPU/rs:fit/g:sm/q:90/h:260/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MjEtNjgwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7QPPh3_ax3j5avQgXZwoD01-V1xluNBdIMXzOFvfPyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MjEtNjgwNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 260
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JQnFn7MU5KTqT4wqjG1TbZrN_a4WJD_5JDeASVcx3sE/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTgtNDM3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JQnFn7MU5KTqT4wqjG1TbZrN_a4WJD_5JDeASVcx3sE/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTgtNDM3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vOSz8LdTQRrO3E3GdWSE0aFQYCWIT2eo-ssKHkz-gpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTgtNDM3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 579
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tg3Rcgtah-NrMcVu53kWTgXqgPsInN7VagLipu4GskU/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtOTM1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tg3Rcgtah-NrMcVu53kWTgXqgPsInN7VagLipu4GskU/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtOTM1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/irPmJ9Vnu0NL1HJcs2AoC5nk5i_EV7YFD3Tf8TmrF6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtOTM1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 575
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dyB1WGBxwJAza_gZW40yU1dHHv4_uJzCSDzs3Er_0Yc/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MjAtMTEzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dyB1WGBxwJAza_gZW40yU1dHHv4_uJzCSDzs3Er_0Yc/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MjAtMTEzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QxZqzZD2DHxOH4eXaDoUqDID5JSWq9XGAIRnKao-ToQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MjAtMTEzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 530
+    }
+  ],
+  "thumb": "https://i.discogs.com/8WgJZDjJoPwxtT33IeZvXq-M2uwSAY1dqu66KulpEmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtMjk2NS5qcGVn.jpeg",
+  "estimated_weight": 85,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,156 @@
+{
+  "primary-type": "Album",
+  "title": "The Slow Rush",
+  "id": "c6fc678e-e987-45c5-811c-e2bd09c8b902",
+  "first-release-date": "2020-02-14",
+  "secondary-types": [],
+  "relations": [
+    {
+      "attribute-values": {},
+      "attributes": [],
+      "type": "allmusic",
+      "type-id": "a50a1d20-2b20-4d2c-9a29-eb771dd78386",
+      "direction": "forward",
+      "attribute-ids": {},
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "end": null,
+      "target-credit": "",
+      "url": {
+        "id": "0151c8c2-0712-48ee-a010-e0f5b32afb7c",
+        "resource": "https://www.allmusic.com/album/mw0003330476"
+      },
+      "ended": false
+    },
+    {
+      "type": "discography entry",
+      "type-id": "5849de4a-78ae-4876-975d-2181107e70b7",
+      "attribute-ids": {},
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "d8302cb5-147c-4c15-ac47-dff218866006",
+        "resource": "https://www.last.fm/music/Tame+Impala/The+Slow+Rush"
+      },
+      "target-credit": "",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "092a73c8-d29e-43d4-aee2-283450fb65bb",
+        "resource": "https://www.discogs.com/master/1681919"
+      },
+      "target-credit": "",
+      "target-type": "url",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "99e550f3-5ab4-3110-b5b9-fe01d970b126",
+      "attribute-ids": {},
+      "direction": "forward",
+      "type": "discogs"
+    },
+    {
+      "begin": null,
+      "url": {
+        "id": "48511d0d-0e1a-419e-9247-4c68c467f819",
+        "resource": "https://genius.com/albums/Tame-impala/The-slow-rush"
+      },
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "lyrics",
+      "type-id": "156344d3-da8b-40c6-8b10-7b1c22727124",
+      "attribute-ids": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/release/album/tame-impala/the-slow-rush/",
+        "id": "27e88306-a044-4d79-a090-2f97fedd7bb6"
+      },
+      "begin": null,
+      "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+      "direction": "forward",
+      "attribute-ids": {},
+      "type": "other databases",
+      "source-credit": "",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "3b3fc428-efba-47db-b1ea-e1fac1cb7610",
+        "resource": "https://www.musik-sammler.de/album/943647/"
+      },
+      "target-credit": "",
+      "target-type": "url",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+      "attribute-ids": {},
+      "direction": "forward",
+      "type": "other databases"
+    },
+    {
+      "attribute-values": {},
+      "attributes": [],
+      "type": "review",
+      "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+      "attribute-ids": {},
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "end": null,
+      "target-credit": "",
+      "url": {
+        "id": "9f68a1cb-844f-4d72-a224-2b94678ce9be",
+        "resource": "https://pitchfork.com/reviews/albums/tame-impala-the-slow-rush/"
+      },
+      "ended": false
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "1622e5ea-bebf-4297-a31d-7fdfeb131d86",
+        "resource": "https://www.wikidata.org/wiki/Q76895455"
+      },
+      "target-credit": "",
+      "target-type": "url",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "b988d08c-5d86-4a57-9557-c83b399e3580",
+      "direction": "forward",
+      "attribute-ids": {},
+      "type": "wikidata"
+    }
+  ],
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "disambiguation": ""
+}

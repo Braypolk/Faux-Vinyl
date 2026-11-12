@@ -1,0 +1,98 @@
+[
+  [
+    "tools.setColors",
+    {
+      "background": "#252d1f"
+    }
+  ],
+  [
+    "layer.new.backgroundFromLayer",
+    {}
+  ],
+  [
+    "layer.new.layerFromBackground",
+    {
+      "ifPresent": true
+    }
+  ],
+  [
+    "image.crop",
+    {
+      "x": 998,
+      "y": 1365,
+      "width": 333,
+      "height": 332,
+      "targetWidth": 640,
+      "targetHeight": 640,
+      "resample": "lanczos"
+    }
+  ],
+  [
+    "edit.transform",
+    {
+      "rect": [
+        0,
+        0,
+        640,
+        640
+      ],
+      "quad": [
+        [
+          0.966745510253979,
+          -0.9580621673472223
+        ],
+        [
+          639.041903220346,
+          0.9552109720048207
+        ],
+        [
+          640.9609652808363,
+          639.0361401929846
+        ],
+        [
+          -0.9696837599994979,
+          640.9667805414698
+        ]
+      ],
+      "interpolation": "bicubic"
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 640,
+      "ellipse": true
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 280.0,
+      "y": 280.0,
+      "width": 80,
+      "height": 80,
+      "ellipse": true,
+      "mode": "subtract"
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {}
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "image.canvasSize",
+    {
+      "width": 648,
+      "height": 648,
+      "anchor": "center",
+      "extensionColor": "transparent"
+    }
+  ]
+]

@@ -1,0 +1,56 @@
+{
+  "albums_searched": 43,
+  "vinyl_galleries": 106,
+  "cd_galleries": 338,
+  "raw_candidate_images": 688,
+  "downloaded_images": 682,
+  "unavailable_images": [
+    {
+      "image_id": "37031210837",
+      "error": "500 Server Error: Internal Server Error for url: https://dn710005.ca.archive.org/0/items/mbid-610fed67-4eb6-4385-8c00-ae27e3df955c/mbid-610fed67-4eb6-4385-8c00-ae27e3df955c-37031210837_thumb500.jpg",
+      "url": "https://coverartarchive.org/release/610fed67-4eb6-4385-8c00-ae27e3df955c/37031210837-500.jpg"
+    },
+    {
+      "image_id": "37031211170",
+      "error": "500 Server Error: Internal Server Error for url: https://dn710005.ca.archive.org/0/items/mbid-610fed67-4eb6-4385-8c00-ae27e3df955c/mbid-610fed67-4eb6-4385-8c00-ae27e3df955c-37031211170_thumb500.jpg",
+      "url": "https://coverartarchive.org/release/610fed67-4eb6-4385-8c00-ae27e3df955c/37031211170-500.jpg"
+    },
+    {
+      "image_id": "31524929664",
+      "error": "500 Server Error: Internal Server Error for url: https://dn710005.ca.archive.org/0/items/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b-31524929664_thumb500.jpg",
+      "url": "https://coverartarchive.org/release/2af7fe9f-5cb1-458a-9722-19816cab136b/31524929664-500.jpg"
+    },
+    {
+      "image_id": "31524930086",
+      "error": "500 Server Error: Internal Server Error for url: https://dn710005.ca.archive.org/0/items/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b-31524930086_thumb500.jpg",
+      "url": "https://coverartarchive.org/release/2af7fe9f-5cb1-458a-9722-19816cab136b/31524930086-500.jpg"
+    },
+    {
+      "image_id": "31524930499",
+      "error": "500 Server Error: Internal Server Error for url: https://dn710005.ca.archive.org/0/items/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b-31524930499_thumb500.jpg",
+      "url": "https://coverartarchive.org/release/2af7fe9f-5cb1-458a-9722-19816cab136b/31524930499-500.jpg"
+    },
+    {
+      "image_id": "31524932942",
+      "error": "500 Server Error: Internal Server Error for url: https://dn710005.ca.archive.org/0/items/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b/mbid-2af7fe9f-5cb1-458a-9722-19816cab136b-31524932942_thumb500.jpg",
+      "url": "https://coverartarchive.org/release/2af7fe9f-5cb1-458a-9722-19816cab136b/31524932942-500.jpg"
+    }
+  ],
+  "unavailable_galleries": [
+    {
+      "album": "THE E.N.D. (THE ENERGY NEVER DIES)",
+      "release": "7e6ed321-1b27-3c72-94c4-6826df05a956",
+      "error": "HTTP retries exhausted"
+    },
+    {
+      "album": "Californication (Deluxe Edition)",
+      "release": "be580d1c-181f-4ad9-9bfd-172c3960979e",
+      "error": "HTTP retries exhausted"
+    },
+    {
+      "album": "SOUR",
+      "release": "b05e9438-99d6-4b56-8756-985abf1195d3",
+      "error": "HTTP retries exhausted"
+    }
+  ]
+}

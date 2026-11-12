@@ -1,0 +1,195 @@
+{
+  "created": "2026-11-12T03:51:06.139Z",
+  "count": 2,
+  "offset": 0,
+  "release-groups": [
+    {
+      "id": "c6fc678e-e987-45c5-811c-e2bd09c8b902",
+      "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "score": 100,
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "artist-credit-id": "44ea055d-c71a-330d-8cf8-5f6c6cded7c4",
+      "count": 10,
+      "title": "The Slow Rush",
+      "first-release-date": "2020-02-14",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "name": "Tame Impala",
+          "artist": {
+            "id": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+            "name": "Tame Impala",
+            "sort-name": "Tame Impala"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "dac7d702-d0eb-4b1e-ad0b-f604c624731e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "1cf564b9-4e24-4362-89fb-1aa702ff60f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "e7dee9e8-cb87-48d3-87b5-03550f094919",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "2912c9db-eacb-4207-93a6-7696615be302",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "5db93cc1-9f8b-4a82-a09a-d47a7bf5e499",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "e20385dc-7631-4fb3-bd87-7c4463f8d1fa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "452ccdb4-d6f5-4ac2-9eea-3eb2df8e5bb6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "ffa6a32b-103f-4ed6-89dd-5745f39a6045",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "c51e3d19-8080-4faa-9f5d-3e8714343543",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        },
+        {
+          "id": "3a12923d-97cd-4e87-8cfd-fb67be970974",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush",
+          "status": "Official"
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": -1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 2,
+          "name": "neo-psychedelia"
+        },
+        {
+          "count": 0,
+          "name": "indietronica"
+        },
+        {
+          "count": 1,
+          "name": "nu disco"
+        },
+        {
+          "count": 0,
+          "name": "balearic beat"
+        }
+      ]
+    },
+    {
+      "id": "1ee67eac-7b43-46dc-a653-a79621f42387",
+      "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "score": 85,
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "artist-credit-id": "44ea055d-c71a-330d-8cf8-5f6c6cded7c4",
+      "count": 4,
+      "title": "The Slow Rush B-Sides & Remixes",
+      "first-release-date": "2022-02-18",
+      "primary-type": "EP",
+      "secondary-types": [
+        "Remix"
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "artist-credit": [
+        {
+          "name": "Tame Impala",
+          "artist": {
+            "id": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+            "name": "Tame Impala",
+            "sort-name": "Tame Impala"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "4ba6d115-4f7a-4023-ae4a-577d4135c246",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush B-Sides & Remixes",
+          "status": "Official"
+        },
+        {
+          "id": "b2903232-0829-4441-882c-847e203f32f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush B-Sides & Remixes",
+          "status": "Official"
+        },
+        {
+          "id": "73f53722-01dd-4324-9259-3c776f4ac7a2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush B-Sides & Remixes",
+          "status": "Official"
+        },
+        {
+          "id": "9faa4fb4-309a-42f7-ace8-494df59395c7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "The Slow Rush B-Sides & Remixes",
+          "status": "Official"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    }
+  ]
+}

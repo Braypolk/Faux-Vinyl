@@ -1,0 +1,341 @@
+{
+  "type": "album",
+  "name": "Stick Season",
+  "uri": "spotify:album:50ZenUP4O2Q5eCy2NRNvuz",
+  "id": "50ZenUP4O2Q5eCy2NRNvuz",
+  "title": "Stick Season",
+  "subtitle": "Noah Kahan",
+  "isPreRelease": false,
+  "releaseDate": null,
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:50ZenUP4O2Q5eCy2NRNvuz",
+  "trackList": [
+    {
+      "uri": "spotify:track:4O2rRsoSPb5aN7N3tG6Y3v",
+      "uid": "1c2507f45f9e3bf915dc",
+      "title": "Northern Attitude",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 267256,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/9fe95d6884495aeb236b228f8f3ec93851bc703f"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0mflMxspEfB0VbI1kyLiAv",
+      "uid": "2dc922f81447c4a8e379",
+      "title": "Stick Season",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 182346,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/0495eca339f32d0acaa62ca9be55d2b815ccc4e3"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:7ByxizhA4GgEf7Sxomxhze",
+      "uid": "37dbd99d5112712cf1ad",
+      "title": "All My Love",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 251510,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/342efbabf4d6ca616fd3b97472d4884331983674"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1LvU6IFqQnXOIwJyBDb2io",
+      "uid": "579df5580a783d96b1c7",
+      "title": "She Calls Me Back",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 243815,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/c263ad4b4492dc4091263e5d9b93813d753f8da3"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:2NmaDAnnP9zspaHLc5aSjb",
+      "uid": "bb6af4c4b2668a100c6c",
+      "title": "Come Over",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 197821,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/daa30b22011b80f6de2aee16f3ef3a2b9acb4ab4"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1M39ETXmej4g9EMSeXPUgj",
+      "uid": "9ab1edbb4fd1887fab36",
+      "title": "New Perspective",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 256871,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/4df98a33b425a6c84d5344035a6e18f23bc20ced"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:32iNr3J93tqFkxaMYwdRYi",
+      "uid": "c39fd78433373e051072",
+      "title": "Everywhere, Everything",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 257668,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/5da45c312853eeec3decd905d8f6a7d007bfe446"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:07UFnnK3uPIuKv5Rs9TmXl",
+      "uid": "96eab4967eb4adb7194a",
+      "title": "Orange Juice",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 297103,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/b8e9c0f586ac1d5ffe5af330f5170d0fb6f1f1d3"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:7Gvf6Li9MYft4fUijkFjKq",
+      "uid": "4ee04ff156ff2c44638c",
+      "title": "Strawberry Wine",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 285913,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/63c392888a220bdfd5ec591b0b1eb5a509560515"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1JcIXOir94YUYBt2cXTzn2",
+      "uid": "6f82f123ecd3220562ab",
+      "title": "Growing Sideways",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 255143,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/54cc6fd811da4abc3a8aece43078bda4e458be6b"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5aeQMQDWe64gVnVYSOqW6A",
+      "uid": "178ef795d93be986d686",
+      "title": "Halloween",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 235690,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/fc7b8af5e564ba91e829f2b979e34de10e36df78"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0jkzxxDG8z3Y5OmfNl1VM0",
+      "uid": "0d93e6a10b1db2ba96c5",
+      "title": "Homesick",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 194416,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/5154c11a8452b0940dcf0c64a3a672c32796cb0e"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:10r6fXqVFUfARiEswa4wqV",
+      "uid": "a79f56cb9bc7164799fb",
+      "title": "Still",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 187172,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/ce7ef24794f63bb11731e8f6d6fe0725a70b5983"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6PdWPdgPoVCT9WLFMVnhxx",
+      "uid": "7bbb52f386a0dacc7d25",
+      "title": "The View Between Villages",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 215341,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/3f4ccf31f41ce5f9b5220dd5c752b57d7a038225"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 63,
+      "green": 86,
+      "red": 78
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 31,
+      "green": 54,
+      "red": 47
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 182,
+      "green": 209,
+      "red": 200
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026ee35072df1af802cca09918",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000048516ee35072df1af802cca09918",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2736ee35072df1af802cca09918",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

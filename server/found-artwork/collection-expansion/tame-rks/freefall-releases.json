@@ -1,0 +1,159 @@
+{
+  "release-offset": 0,
+  "releases": [
+    {
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "title": "",
+          "track-count": 13,
+          "id": "721f0bc8-42ff-3706-bb0f-a1bca55e5e32",
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "position": 1
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "country": "US",
+      "date": "2018-04-06",
+      "disambiguation": "",
+      "barcode": "075679880406",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "type-id": null,
+            "type": null,
+            "name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2018-04-06"
+        }
+      ],
+      "cover-art-archive": {
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "darkened": false,
+        "back": false
+      },
+      "quality": "normal",
+      "title": "How to: Friend, Love, Freefall",
+      "status": "Official",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "asin": "B078VGCV4R",
+      "id": "5f8f624e-2459-4f34-8c4f-f45e4579038e"
+    },
+    {
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "media": [
+        {
+          "format": "CD",
+          "position": 1,
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "c7b6b9b5-4c56-3d78-956d-8df94ba70433",
+          "track-count": 13,
+          "title": ""
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "country": "US",
+      "packaging": "Jewel Case",
+      "disambiguation": "",
+      "date": "2018-04-06",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "type-id": null,
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2018-04-06"
+        }
+      ],
+      "barcode": "075678658426",
+      "quality": "normal",
+      "cover-art-archive": {
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "back": false,
+        "darkened": false
+      },
+      "asin": "B0791Z1SW8",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "title": "How to: Friend, Love, Freefall",
+      "id": "7c148f9c-bf45-4e76-9095-637fb356a93c"
+    },
+    {
+      "quality": "normal",
+      "cover-art-archive": {
+        "front": true,
+        "count": 1,
+        "artwork": true,
+        "back": false,
+        "darkened": false
+      },
+      "asin": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "title": "How To: Friend, Love, Freefall",
+      "status": "Official",
+      "id": "ba806fe5-c1ee-4b08-8411-8e88a38857d4",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "media": [
+        {
+          "title": "",
+          "track-count": 13,
+          "id": "97bbe1d0-82ee-3c7f-8fba-0f8d2b388b59",
+          "position": 1,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "country": "US",
+      "packaging": "None",
+      "disambiguation": "Mastered for iTunes",
+      "date": "2018-04-06",
+      "release-events": [
+        {
+          "date": "2018-04-06",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "name": "United States",
+            "type": null
+          }
+        }
+      ],
+      "barcode": "075679880390"
+    }
+  ],
+  "release-count": 3
+}

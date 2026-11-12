@@ -1,0 +1,55 @@
+.venv*/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/
+*.log
+tunnel-token
+deployment-state.json
+truenas-compose.yaml
+shared-tunnel-backup-*/
+
+.dev-data/
+
+go-migration-backup-*/
+
+shelf-update-backup-*/
+
+# Local binaries, migration snapshots and private runtime files.
+.local/
+*.sqlite3
+*.sqlite3-*
+node_modules/
+
+# Original downloads and generated intermediates are retained locally.
+# Final app artwork remains versioned in static/covers, static/discs and static/optimized.
+found-artwork/**/_source-before-sync/
+artwork-review-research/cache/
+artwork-review-research/*downloads/
+found-artwork/**/*.png
+found-artwork/**/*.jpg
+found-artwork/**/*.jpeg
+found-artwork/**/*.webp
+found-artwork/**/*.gif
+found-artwork/**/*.tif
+found-artwork/**/*.tiff
+found-artwork/**/*.mov
+found-artwork/**/*.mp4
+artwork-review-research/**/*.png
+artwork-review-research/**/*.jpg
+artwork-review-research/**/*.jpeg
+artwork-review-research/**/*.webp
+artwork-review-research/**/*.gif
+artwork-review-research/**/*.tif
+artwork-review-research/**/*.tiff
+artwork-review-research/**/*.mov
+artwork-review-research/**/*.mp4
+
+# Downloaded web pages and generated review snapshots remain local.
+found-artwork/**/*.html
+artwork-review-research/*.html
+!artwork-review-research/review-template.html
+!artwork-review-research/inline-review.html
+!artwork-review-research/conversation-review.html

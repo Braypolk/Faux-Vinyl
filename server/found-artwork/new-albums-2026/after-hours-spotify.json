@@ -1,0 +1,357 @@
+{
+  "type": "album",
+  "name": "After Hours",
+  "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj",
+  "id": "4yP0hdKOZPNshxUOjY0cZj",
+  "title": "After Hours",
+  "subtitle": "The Weeknd",
+  "isPreRelease": false,
+  "releaseDate": null,
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj",
+  "trackList": [
+    {
+      "uri": "spotify:track:6b5P51m8xx2XA6U7sdNZ5E",
+      "uid": "0329cf1fa404f40b5159",
+      "title": "Alone Again",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 250053,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/77e54c6064335e259d0f571768af5f96c22304d4"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:2K9Ovn1o2bTGqbsABGC6m3",
+      "uid": "a6faa7c7f010909096cd",
+      "title": "Too Late",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 239973,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/2b7a3f91db7e2ce0526b45bc878c5277eb3df28a"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6kWxIqQDsKFYCJGbU4AjCX",
+      "uid": "7301e6bf8d4276e81a55",
+      "title": "Hardest To Love",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 211400,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/0271808f406491a32f3ca28e11aa5faf600adf88"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4BGZF4oLbTL0pWm7C18pbv",
+      "uid": "a4db8cd715a1abb41106",
+      "title": "Scared To Live",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 191306,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/1682f650068ad5659508370192cc7854b454d166"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3WlbeuhfRSqU7ylK2Ui5U7",
+      "uid": "ae7745dd59659910f4e1",
+      "title": "Snowchild",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 247186,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/145a6811b2f7d2489e50c1845ed47cfb5d8c4d8d"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1sOW4PuG5X3Ie3EXUhAopJ",
+      "uid": "4ae2899ed5de24b1132e",
+      "title": "Escape From LA",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 355960,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/098a07649cf6db99f150930fd732c2733cc2be90"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6bnF93Rx87YqUBLSgjiMU8",
+      "uid": "8cf4f06a49a241b213b0",
+      "title": "Heartless",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 198266,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/ffe5646cbee66e2a1bf7e0472cfed0ad777232b4"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3orEOtd8CPL8GFlpRpKuoE",
+      "uid": "b89a7a5918da6b57764d",
+      "title": "Faith",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 283226,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/dd93b587cac54ed11b207dd704236fde6516512e"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "uid": "e1f66c09f889547da786",
+      "title": "Blinding Lights",
+      "subtitle": "The Weeknd",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 200040,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/51c08d92815cce4ac2de94a7335a430b81234624"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:7szuecWAPwGoV1e5vGu8tl",
+      "uid": "7b4b11ae9f12f3b52e1a",
+      "title": "In Your Eyes",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 237520,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/ad4adb8a7c82359d511f7d9900d9f3742e0d2932"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5QO79kh1waicV47BqGRL3g",
+      "uid": "5b0d6b26e94b31587313",
+      "title": "Save Your Tears",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 215626,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/4bb5ee4441a2342502372f80f78a92cf3fe22549"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:40U8d12pC5UHqmHwXjHjjl",
+      "uid": "1ff5c800ac501541f495",
+      "title": "Repeat After Me (Interlude)",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 195813,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/14171ddd9559bd25ed882ff1f62c9ad16a4c0f93"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:2p8IUWQDrpjuFltbdgLOag",
+      "uid": "147c10b669bd17239b7f",
+      "title": "After Hours",
+      "subtitle": "The Weeknd",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 361026,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:2BcnxwxBuar5wjCaLqm5N3",
+      "uid": "bd362378f81e8d2bd660",
+      "title": "Until I Bleed Out",
+      "subtitle": "The Weeknd",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 190173,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6afac5b510ec7203bcfa68c2c06bf89b36f1ed54"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 16,
+      "green": 16,
+      "red": 112
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 51,
+      "green": 57,
+      "red": 153
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 180,
+      "green": 189,
+      "red": 255
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

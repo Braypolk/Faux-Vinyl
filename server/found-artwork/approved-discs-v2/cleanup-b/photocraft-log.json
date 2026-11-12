@@ -1,0 +1,1649 @@
+[
+  {
+    "source": "static/disc-review/images/external-cd-7ecd988a8925d7f6c96a.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-7ecd988a8925d7f6c96a-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 5,
+          "y": 9,
+          "width": 587,
+          "height": 582,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              0.0,
+              -0.5456099443689055
+            ],
+            [
+              640.0,
+              0.544681245918035
+            ],
+            [
+              640.0,
+              639.4553187540819
+            ],
+            [
+              0.0,
+              640.5456099443688
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":582,\"resolution\":72.0,\"width\":587,\"x\":5,\"y\":9}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-cd-d4cb7c79715535d27062.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-d4cb7c79715535d27062-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 7,
+          "y": 12,
+          "width": 584,
+          "height": 577,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -0.5579395027521628,
+              -1.1006403665619757
+            ],
+            [
+              640.552228362882,
+              1.0968611897758151
+            ],
+            [
+              639.4487197141699,
+              638.9088107978087
+            ],
+            [
+              0.5569650914973678,
+              641.094916342325
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":577,\"resolution\":72.0,\"width\":584,\"x\":7,\"y\":12}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-cd-91fbe6e449c656eeca56.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-91fbe6e449c656eeca56-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 3,
+          "y": 5,
+          "width": 594,
+          "height": 586,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              640.0,
+              0.0
+            ],
+            [
+              640.0,
+              640.0
+            ],
+            [
+              0.0,
+              640.0
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":586,\"resolution\":72.0,\"width\":594,\"x\":3,\"y\":5}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-cd-02a244cdd3cdc9fe2204.webp",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-02a244cdd3cdc9fe2204-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 28,
+          "y": 22,
+          "width": 553,
+          "height": 554,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              0.0,
+              0.5781395869291828
+            ],
+            [
+              640.0,
+              -0.5791859942776512
+            ],
+            [
+              640.0,
+              640.5791859942776
+            ],
+            [
+              0.0,
+              639.4218604130708
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":554,\"resolution\":72.0,\"width\":553,\"x\":28,\"y\":22}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-72ad61283c03038e0f69.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-72ad61283c03038e0f69-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 14,
+          "y": 14,
+          "width": 578,
+          "height": 574,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -2.2145855278618853,
+              2.230019673425687
+            ],
+            [
+              642.261318971062,
+              -2.2457780094699586
+            ],
+            [
+              637.7546566975941,
+              642.1990475641767
+            ],
+            [
+              2.1994703613515654,
+              637.8158562241816
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":574,\"resolution\":72.0,\"width\":578,\"x\":14,\"y\":14}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-bb7107baa3adb4c458b2.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-bb7107baa3adb4c458b2-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 162,
+          "y": 165,
+          "width": 677,
+          "height": 677,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -3.333443325131995,
+              -0.48044552967901666
+            ],
+            [
+              643.3185764222819,
+              0.4797179520222983
+            ],
+            [
+              636.7154358898005,
+              639.5349168749713
+            ],
+            [
+              3.29902667737759,
+              640.4657529343968
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":null}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":677,\"resolution\":71.98359680175781,\"width\":677,\"x\":162,\"y\":165}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-a126d0b8c425a2aeb662.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-a126d0b8c425a2aeb662-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 0,
+          "y": 1,
+          "width": 1999,
+          "height": 1998,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              10.917697490579563,
+              1.9695321985057745
+            ],
+            [
+              628.8733312771246,
+              -1.981276024244707
+            ],
+            [
+              651.5301658167459,
+              642.2022140473528
+            ],
+            [
+              -11.300719683868365,
+              637.813334866134
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":1998,\"resolution\":96.0,\"width\":1999,\"x\":0,\"y\":1}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-808ac6a4191fcfec2b92.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-808ac6a4191fcfec2b92-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 33,
+          "y": 187,
+          "width": 636,
+          "height": 636,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -1.0126582278481067,
+              -1.0126582278481067
+            ],
+            [
+              641.003124860743,
+              1.009453755609222
+            ],
+            [
+              639.0,
+              639.0
+            ],
+            [
+              1.009453755609222,
+              641.003124860743
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":636,\"resolution\":72.0,\"width\":636,\"x\":33,\"y\":187}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-cd-aa504c3f0b893b2561cc.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-aa504c3f0b893b2561cc-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 5,
+          "y": 5,
+          "width": 586,
+          "height": 589,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -1.6340531781771972,
+              0.0
+            ],
+            [
+              641.6340531781772,
+              0.0
+            ],
+            [
+              638.3742485851551,
+              640.0
+            ],
+            [
+              1.6257514148449204,
+              640.0
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":589,\"resolution\":72.0,\"width\":586,\"x\":5,\"y\":5}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/cleanup-b/36-generated.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/36-reconstructed-base.png",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 19,
+          "y": 25,
+          "width": 1210,
+          "height": 1210,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              1.058724063165819,
+              -0.5267435789779995
+            ],
+            [
+              638.9464984746281,
+              0.5258808162613704
+            ],
+            [
+              641.056975526029,
+              639.4688851140079
+            ],
+            [
+              -1.062244306601059,
+              640.5320007702875
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":null}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":1210,\"resolution\":72.0,\"width\":1210,\"x\":19,\"y\":25}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-e21331a304abc852e614.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/36-original-label-patch.png",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 214,
+          "y": 141,
+          "width": 146,
+          "height": 144,
+          "ellipse": true,
+          "feather": 0.7
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.crop",
+        {
+          "x": 212,
+          "y": 135,
+          "width": 152,
+          "height": 152,
+          "targetWidth": 220,
+          "targetHeight": 220,
+          "resample": "lanczos"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":220,\"documentWidth\":220,\"height\":152,\"resolution\":72.0,\"width\":152,\"x\":212,\"y\":135}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/cleanup-b/36-original-label-patch.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/36-original-label-perforated.png",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 220,
+          "height": 220
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 102,
+          "y": 102,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":null}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/cleanup-b/36-reconstructed-base.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-e21331a304abc852e614-final.webp",
+    "commands": [
+      [
+        "file.placeEmbedded",
+        {
+          "path": "found-artwork/approved-discs-v2/cleanup-b/36-original-label-perforated.png",
+          "fit": false,
+          "smartObject": false,
+          "scale": 100,
+          "center": [
+            324,
+            324
+          ]
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"file.placeEmbedded\",\"result\":{\"bounds\":[214.0,214.0,434.0,434.0],\"frame\":null,\"layer\":5,\"scale\":100.0,\"smartObject\":false}}\n",
+    "stderr": "warning: 2 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/cleanup-b/37-generated.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/37-reconstructed-base.png",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 24,
+          "y": 28,
+          "width": 1204,
+          "height": 1204,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -1.0648947902381423,
+              0.0
+            ],
+            [
+              641.0648947902382,
+              0.0
+            ],
+            [
+              638.9386372088459,
+              639.9999999999999
+            ],
+            [
+              1.0613627911542167,
+              639.9999999999999
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":null}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":1204,\"resolution\":72.0,\"width\":1204,\"x\":24,\"y\":28}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-791fa999097b068f25f2.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/37-original-label-patch.png",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 194,
+          "y": 198,
+          "width": 201,
+          "height": 201,
+          "ellipse": true,
+          "feather": 0.7
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.crop",
+        {
+          "x": 194,
+          "y": 196,
+          "width": 204,
+          "height": 204,
+          "targetWidth": 218,
+          "targetHeight": 218,
+          "resample": "lanczos"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":218,\"documentWidth\":218,\"height\":204,\"resolution\":72.0,\"width\":204,\"x\":194,\"y\":196}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/cleanup-b/37-original-label-patch.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/37-original-label-perforated.png",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 218,
+          "height": 218
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 101,
+          "y": 101,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":null}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "found-artwork/approved-discs-v2/cleanup-b/37-reconstructed-base.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-791fa999097b068f25f2-final.webp",
+    "commands": [
+      [
+        "file.placeEmbedded",
+        {
+          "path": "found-artwork/approved-discs-v2/cleanup-b/37-original-label-perforated.png",
+          "fit": false,
+          "smartObject": false,
+          "scale": 100,
+          "center": [
+            324,
+            324
+          ]
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"file.placeEmbedded\",\"result\":{\"bounds\":[215.0,215.0,433.0,433.0],\"frame\":null,\"layer\":5,\"scale\":100.0,\"smartObject\":false}}\n",
+    "stderr": "warning: 2 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-ef6743d789946465da03.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-ef6743d789946465da03-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 600,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -3.2488133634510774,
+              -2.173107475213456
+            ],
+            [
+              643.183945522041,
+              2.1583061068222875
+            ],
+            [
+              636.8472129253051,
+              637.9051367383213
+            ],
+            [
+              3.2159478036868805,
+              642.1085264918942
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":600,\"resolution\":72.0,\"width\":600,\"x\":0,\"y\":0}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-cd-c97ad251adee463ba3d4.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-c97ad251adee463ba3d4-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 5,
+          "y": 5,
+          "width": 580,
+          "height": 587,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -0.5456099443689055,
+              0.0
+            ],
+            [
+              640.5456099443688,
+              0.0
+            ],
+            [
+              639.4553187540819,
+              640.0
+            ],
+            [
+              0.544681245918035,
+              640.0
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":587,\"resolution\":72.0,\"width\":580,\"x\":5,\"y\":5}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-cd-c373776f240d5c0de7a9.jpg",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-c373776f240d5c0de7a9-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 7,
+          "y": 12,
+          "width": 578,
+          "height": 577,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -0.5579693505267613,
+              -1.1120856549110414
+            ],
+            [
+              640.552198923933,
+              1.108227609759993
+            ],
+            [
+              639.448749018016,
+              638.8975029861544
+            ],
+            [
+              0.556994800993067,
+              641.1063019363714
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 280,
+          "y": 280,
+          "width": 80,
+          "height": 80,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":2}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":577,\"resolution\":72.0,\"width\":578,\"x\":7,\"y\":12}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  },
+  {
+    "source": "static/disc-review/images/external-vinyl-c15aaacb030e6edb8ab3.png",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-c15aaacb030e6edb8ab3-final.webp",
+    "commands": [
+      [
+        "layer.new.layerFromBackground",
+        {
+          "ifPresent": true
+        }
+      ],
+      [
+        "image.crop",
+        {
+          "x": 743,
+          "y": 387,
+          "width": 938,
+          "height": 938,
+          "targetWidth": 640,
+          "targetHeight": 640,
+          "resample": "lanczos"
+        }
+      ],
+      [
+        "edit.transform",
+        {
+          "rect": [
+            0,
+            0,
+            640,
+            640
+          ],
+          "quad": [
+            [
+              -4.875186226094286,
+              -2.8036989500296983
+            ],
+            [
+              644.7504922797302,
+              2.778995214770994
+            ],
+            [
+              635.3184068573983,
+              637.3418627481533
+            ],
+            [
+              4.801420757723953,
+              642.6800598091455
+            ]
+          ],
+          "interpolation": "bicubic"
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 0,
+          "y": 0,
+          "width": 640,
+          "height": 640,
+          "ellipse": true
+        }
+      ],
+      [
+        "select.rect",
+        {
+          "x": 312,
+          "y": 312,
+          "width": 16,
+          "height": 16,
+          "ellipse": true,
+          "mode": "subtract"
+        }
+      ],
+      [
+        "layer.layerMask.revealSelection",
+        {}
+      ],
+      [
+        "select.deselect",
+        {}
+      ],
+      [
+        "image.canvasSize",
+        {
+          "width": 648,
+          "height": 648,
+          "anchor": "center",
+          "extensionColor": "transparent"
+        }
+      ]
+    ],
+    "returncode": 0,
+    "stdout": "{\"command\":\"layer.new.layerFromBackground\",\"result\":{\"layer\":null}}\n{\"command\":\"image.crop\",\"result\":{\"documentHeight\":640,\"documentWidth\":640,\"height\":938,\"resolution\":72.0,\"width\":938,\"x\":743,\"y\":387}}\n{\"command\":\"edit.transform\",\"result\":{\"layers\":[2],\"rect\":[0.0,0.0,640.0,640.0]}}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"select.rect\",\"result\":null}\n{\"command\":\"layer.layerMask.revealSelection\",\"result\":null}\n{\"command\":\"select.deselect\",\"result\":null}\n{\"command\":\"image.canvasSize\",\"result\":{\"height\":648,\"offset\":[4,4],\"width\":648}}\n",
+    "stderr": "warning: 1 layer(s) flattened; layers, masks and blend modes are not kept\n"
+  }
+]

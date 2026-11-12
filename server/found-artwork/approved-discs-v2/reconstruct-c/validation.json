@@ -1,0 +1,107 @@
+[
+  {
+    "image_id": "external-vinyl-cc59cf2688493bad9097",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center_alpha": 0,
+    "hole_diameter_px": 16,
+    "rim_diameter_px": 640,
+    "interior_alpha_median": 253.0,
+    "interior_near_opaque_fraction": 1.0,
+    "file_bytes": 297742,
+    "visual_inspection": "passed, each final viewed individually"
+  },
+  {
+    "image_id": "external-cd-3ee33e8fe88bd9125eb2",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center_alpha": 0,
+    "hole_diameter_px": 80,
+    "rim_diameter_px": 640,
+    "interior_alpha_median": 253.0,
+    "interior_near_opaque_fraction": 1.0,
+    "file_bytes": 166598,
+    "visual_inspection": "passed, each final viewed individually"
+  },
+  {
+    "image_id": "external-vinyl-0bf56825927aaef67005",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center_alpha": 0,
+    "hole_diameter_px": 16,
+    "rim_diameter_px": 640,
+    "interior_alpha_median": 253.0,
+    "interior_near_opaque_fraction": 1.0,
+    "file_bytes": 334432,
+    "visual_inspection": "passed, each final viewed individually"
+  },
+  {
+    "image_id": "external-vinyl-dbb1083d3c40e11659ca",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center_alpha": 0,
+    "hole_diameter_px": 16,
+    "rim_diameter_px": 640,
+    "interior_alpha_median": 253.0,
+    "interior_near_opaque_fraction": 1.0,
+    "file_bytes": 324162,
+    "visual_inspection": "passed, each final viewed individually"
+  },
+  {
+    "image_id": "external-cd-ad42043dd44a534c1312",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center_alpha": 0,
+    "hole_diameter_px": 80,
+    "rim_diameter_px": 640,
+    "interior_alpha_median": 253.0,
+    "interior_near_opaque_fraction": 1.0,
+    "file_bytes": 361464,
+    "visual_inspection": "passed, each final viewed individually"
+  }
+]

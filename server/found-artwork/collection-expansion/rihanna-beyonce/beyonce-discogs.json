@@ -1,0 +1,3345 @@
+{
+  "id": 5890382,
+  "status": "Accepted",
+  "year": 2014,
+  "resource_url": "https://api.discogs.com/releases/5890382",
+  "uri": "https://www.discogs.com/release/5890382-Beyonc\u00e9-Beyonc\u00e9",
+  "artists": [
+    {
+      "name": "Beyonc\u00e9",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 52835,
+      "resource_url": "https://api.discogs.com/artists/52835",
+      "thumbnail_url": "https://i.discogs.com/uJNnGG9Ctyvh58xfEvcyjpZxt7HOLtaKRpC2fgQ6lAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyODM1/LTE1ODYzMDQxMjQt/NTU2My5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Beyonc\u00e9",
+  "labels": [
+    {
+      "name": "Parkwood Entertainment",
+      "catno": "88843067251",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 256388,
+      "resource_url": "https://api.discogs.com/labels/256388",
+      "thumbnail_url": "https://i.discogs.com/CZr5D-RVyxV3lS0BRZ7lv6hr-5NxerkY_FXnILcXNc8/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NjM4/OC0xNDY0NDgzMDc4/LTM0MDguanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "88843067251",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Prescription Songs",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 345313,
+      "resource_url": "https://api.discogs.com/labels/345313",
+      "thumbnail_url": "https://i.discogs.com/xqKL4gwd8uN3SRO8_ywDHwY5wXJxh2JMbBZ8SH2sRXI/rs:fit/g:sm/q:90/h:230/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NTMx/My0xNTM1ODc5NzA0/LTQ1MzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Timbaland Productions, Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 325550,
+      "resource_url": "https://api.discogs.com/labels/325550"
+    },
+    {
+      "name": "Bronze And Brainz Productions",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 822536,
+      "resource_url": "https://api.discogs.com/labels/822536"
+    },
+    {
+      "name": "Evdon Music Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 615904,
+      "resource_url": "https://api.discogs.com/labels/615904"
+    },
+    {
+      "name": "Radiokilla Nation Since 1977",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 629635,
+      "resource_url": "https://api.discogs.com/labels/629635"
+    },
+    {
+      "name": "Hit-Boy Music",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 1259809,
+      "resource_url": "https://api.discogs.com/labels/1259809"
+    },
+    {
+      "name": "Hits Since 87",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 588429,
+      "resource_url": "https://api.discogs.com/labels/588429",
+      "thumbnail_url": "https://i.discogs.com/piz0rZqtT4mqZEY81Yik8FHMNWfcr3fFGlJCNjUdtvo/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4ODQy/OS0xNTQ5NzAxNDU3/LTQ0NjEuanBlZw.jpeg"
+    },
+    {
+      "name": "Very Good Beats Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 753585,
+      "resource_url": "https://api.discogs.com/labels/753585"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Nashville Record Productions",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 301710,
+      "resource_url": "https://api.discogs.com/labels/301710",
+      "thumbnail_url": "https://i.discogs.com/IcalAteMbdmR9J0RZL7DNIgwoUFgumvzbzqKsx9Rve4/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTcx/MC0xNjQwMzg4MTcx/LTYwMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony DADC, Terre Haute",
+      "catno": "DVSS-5580480",
+      "entity_type": "31",
+      "entity_type_name": "Glass Mastered At",
+      "id": 497146,
+      "resource_url": "https://api.discogs.com/labels/497146",
+      "thumbnail_url": "https://i.discogs.com/iARRkZM7SxyiPzb7_kdwdRTrppgDkq2Ju0mOkXCg5Ro/rs:fit/g:sm/q:90/h:200/w:324/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5NzE0/Ni0xNjg5Nzg2MTcz/LTE3OTQuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    },
+    {
+      "name": "DVD",
+      "qty": "1",
+      "descriptions": [
+        "NTSC",
+        "Album"
+      ]
+    },
+    {
+      "name": "All Media",
+      "qty": "1",
+      "descriptions": [
+        "Limited Edition"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4631,
+    "want": 6026,
+    "rating": {
+      "count": 355,
+      "average": 4.59
+    },
+    "submitter": {
+      "username": "RecordRiott",
+      "resource_url": "https://api.discogs.com/users/RecordRiott"
+    },
+    "contributors": [
+      {
+        "username": "RecordRiott",
+        "resource_url": "https://api.discogs.com/users/RecordRiott"
+      },
+      {
+        "username": "bethanywong",
+        "resource_url": "https://api.discogs.com/users/bethanywong"
+      },
+      {
+        "username": "DevilDinosaur",
+        "resource_url": "https://api.discogs.com/users/DevilDinosaur"
+      },
+      {
+        "username": "evenflouw",
+        "resource_url": "https://api.discogs.com/users/evenflouw"
+      },
+      {
+        "username": "RobLives4Love_",
+        "resource_url": "https://api.discogs.com/users/RobLives4Love_"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "azzurro",
+        "resource_url": "https://api.discogs.com/users/azzurro"
+      },
+      {
+        "username": "shadowboxing",
+        "resource_url": "https://api.discogs.com/users/shadowboxing"
+      },
+      {
+        "username": "Showbiz_Kid",
+        "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "Juank-19",
+        "resource_url": "https://api.discogs.com/users/Juank-19"
+      },
+      {
+        "username": "ChrisEfterklang",
+        "resource_url": "https://api.discogs.com/users/ChrisEfterklang"
+      },
+      {
+        "username": "kyb2",
+        "resource_url": "https://api.discogs.com/users/kyb2"
+      },
+      {
+        "username": "realbizness",
+        "resource_url": "https://api.discogs.com/users/realbizness"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "HundredShadesOfBlue",
+        "resource_url": "https://api.discogs.com/users/HundredShadesOfBlue"
+      },
+      {
+        "username": "enzoazul",
+        "resource_url": "https://api.discogs.com/users/enzoazul"
+      },
+      {
+        "username": "Mr.Rooibos",
+        "resource_url": "https://api.discogs.com/users/Mr.Rooibos"
+      },
+      {
+        "username": "_pablolo",
+        "resource_url": "https://api.discogs.com/users/_pablolo"
+      },
+      {
+        "username": "boblintaywhistle",
+        "resource_url": "https://api.discogs.com/users/boblintaywhistle"
+      },
+      {
+        "username": "camp.fir3",
+        "resource_url": "https://api.discogs.com/users/camp.fir3"
+      },
+      {
+        "username": "metal_circus",
+        "resource_url": "https://api.discogs.com/users/metal_circus"
+      },
+      {
+        "username": "amber_cross",
+        "resource_url": "https://api.discogs.com/users/amber_cross"
+      },
+      {
+        "username": "Mariah_Scary666",
+        "resource_url": "https://api.discogs.com/users/Mariah_Scary666"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 4,
+  "date_added": "2014-07-16T08:19:43-07:00",
+  "date_changed": "2025-03-13T11:55:48-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 299.99,
+  "master_id": 631282,
+  "master_url": "https://api.discogs.com/masters/631282",
+  "title": "Beyonc\u00e9",
+  "country": "US",
+  "released": "2014-07-15",
+  "notes": "Official vinyl release.\nLimited edition visual album.\nComes with DVD with 17 music videos, 28-page booklet, and digital download card.\n\nJay Z appears courtesy of [l286913].\nDrake appears courtesy of [l211066]/[l19799].\nFrank Ocean appears courtesy of [l11537].\n\n\u00a9 2014 & \u2117 2013 Columbia Records, a division of Sony Music Entertainment\n\nManufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment\n550 Madison Avenue, New York NY 10022-3211",
+  "released_formatted": "15 Jul 2014",
+  "identifiers": [
+    {
+      "type": "Other",
+      "value": "88843067251 - SV1",
+      "description": "LP1 catalog number"
+    },
+    {
+      "type": "Other",
+      "value": "88843067251 - SV2",
+      "description": "LP1 catalog number"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88843 06725-1-A RE-2 WG/NRP \u24ca",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88843 06725-1-B-RE-2 WG/NRP \u24ca",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88843 06725-1-C-RE-2 WG/NRP \u24ca",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88843 06725-1-D-RE-2 WG/NRP \u24ca",
+      "description": "Side D"
+    },
+    {
+      "type": "Other",
+      "value": "88843032512 CDV-103813",
+      "description": "DVD catalog number"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DVSS-5580480A1 1 A10",
+      "description": "DVD"
+    },
+    {
+      "type": "Mastering SID Code",
+      "value": "IFPI L332",
+      "description": "DVD"
+    },
+    {
+      "type": "Mould SID Code",
+      "value": "IFPI QW31",
+      "description": "DVD"
+    },
+    {
+      "type": "Other",
+      "value": "88843067251 I1",
+      "description": "Digital download card catalog number"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Hip Hop",
+    "Reggae",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Dancehall",
+    "Electro",
+    "Trap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Pretty Hurts",
+      "extraartists": [
+        {
+          "name": "Ammo (7)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1679884,
+          "resource_url": "https://api.discogs.com/artists/1679884"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Joshua Coleman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1521882,
+          "resource_url": "https://api.discogs.com/artists/1521882"
+        },
+        {
+          "name": "Sia Furler",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 44758,
+          "resource_url": "https://api.discogs.com/artists/44758"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Haunted",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Drunk In Love",
+      "extraartists": [
+        {
+          "name": "Jay-Z",
+          "anv": "Jay Z",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 21742,
+          "resource_url": "https://api.discogs.com/artists/21742"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Detail (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1428240,
+          "resource_url": "https://api.discogs.com/artists/1428240"
+        },
+        {
+          "name": "Andre Eric Proctor",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596827,
+          "resource_url": "https://api.discogs.com/artists/3596827"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Brian Soko",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3414308,
+          "resource_url": "https://api.discogs.com/artists/3414308"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Noel \"Detail\" Fisher",
+          "anv": "Noel Fisher",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 591308,
+          "resource_url": "https://api.discogs.com/artists/591308"
+        },
+        {
+          "name": "Rasool Diaz",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3216769,
+          "resource_url": "https://api.discogs.com/artists/3216769"
+        },
+        {
+          "name": "Shawn Carter",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 447899,
+          "resource_url": "https://api.discogs.com/artists/447899"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Blow",
+      "extraartists": [
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": " \u0336A\u0336n\u0336g\u0336e\u0336l\u0336",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Caroline Polachek",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1269616,
+          "resource_url": "https://api.discogs.com/artists/1269616"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Caroline Polachek",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1269616,
+          "resource_url": "https://api.discogs.com/artists/1269616"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Partition",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Key Wane",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2220761,
+          "resource_url": "https://api.discogs.com/artists/2220761"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Dwane M. Weir II",
+          "anv": "Dwane Weir p/k/a Key Wane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3097472,
+          "resource_url": "https://api.discogs.com/artists/3097472"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Mike Dean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 101883,
+          "resource_url": "https://api.discogs.com/artists/101883"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Jealous",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Detail (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1428240,
+          "resource_url": "https://api.discogs.com/artists/1428240"
+        },
+        {
+          "name": "Andre Eric Proctor",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596827,
+          "resource_url": "https://api.discogs.com/artists/3596827"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Brian Soko",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3414308,
+          "resource_url": "https://api.discogs.com/artists/3414308"
+        },
+        {
+          "name": "Noel \"Detail\" Fisher",
+          "anv": "Noel Fisher",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 591308,
+          "resource_url": "https://api.discogs.com/artists/591308"
+        },
+        {
+          "name": "Rasool Diaz",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3216769,
+          "resource_url": "https://api.discogs.com/artists/3216769"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Rocket",
+      "extraartists": [
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Miguel Jontel Pimentel",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1798617,
+          "resource_url": "https://api.discogs.com/artists/1798617"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Mine",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "Aubrey Drake Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jordan Ullman",
+          "anv": "Jordan Kenneth Cooke Ullman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3444179,
+          "resource_url": "https://api.discogs.com/artists/3444179"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Sidney Brown",
+          "anv": "Sidney \"Omen\" Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1023750,
+          "resource_url": "https://api.discogs.com/artists/1023750"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "XO",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "Terius \"The-Dream\" Nash",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Haze Banga",
+          "anv": "Hazebanga Music",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 3268493,
+          "resource_url": "https://api.discogs.com/artists/3268493"
+        },
+        {
+          "name": "Hit-Boy",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 1137945,
+          "resource_url": "https://api.discogs.com/artists/1137945"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "***Flawless",
+      "extraartists": [
+        {
+          "name": "Rey Reel",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3268492,
+          "resource_url": "https://api.discogs.com/artists/3268492"
+        },
+        {
+          "name": "Chimamanda Ngozi Adichie",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3592029,
+          "resource_url": "https://api.discogs.com/artists/3592029"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Hit-Boy",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1137945,
+          "resource_url": "https://api.discogs.com/artists/1137945"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Chauncey Hollis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1357689,
+          "resource_url": "https://api.discogs.com/artists/1357689"
+        },
+        {
+          "name": "Rey Reel",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3268492,
+          "resource_url": "https://api.discogs.com/artists/3268492"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Superpower",
+      "extraartists": [
+        {
+          "name": "Frank Ocean",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2013868,
+          "resource_url": "https://api.discogs.com/artists/2013868"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Frank Ocean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2013868,
+          "resource_url": "https://api.discogs.com/artists/2013868"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Heaven",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Blue",
+      "extraartists": [
+        {
+          "name": "Blue Ivy Carter",
+          "anv": "Blue Ivy",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2784241,
+          "resource_url": "https://api.discogs.com/artists/2784241"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Visual",
+      "duration": ""
+    },
+    {
+      "position": "DVD-1",
+      "type_": "track",
+      "title": "Pretty Hurts",
+      "extraartists": [
+        {
+          "name": "Harvey Keitel",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 258994,
+          "resource_url": "https://api.discogs.com/artists/258994"
+        },
+        {
+          "name": "Melina Matsoukas",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 1497294,
+          "resource_url": "https://api.discogs.com/artists/1497294"
+        },
+        {
+          "name": "Ammo (7)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1679884,
+          "resource_url": "https://api.discogs.com/artists/1679884"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Joshua Coleman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1521882,
+          "resource_url": "https://api.discogs.com/artists/1521882"
+        },
+        {
+          "name": "Sia Furler",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 44758,
+          "resource_url": "https://api.discogs.com/artists/44758"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-2",
+      "type_": "track",
+      "title": "Ghost",
+      "extraartists": [
+        {
+          "name": "Pierre Debusschere",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3314094,
+          "resource_url": "https://api.discogs.com/artists/3314094"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-3",
+      "type_": "track",
+      "title": "Haunted",
+      "extraartists": [
+        {
+          "name": "Jonas \u00c5kerlund",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 795816,
+          "resource_url": "https://api.discogs.com/artists/795816"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-4",
+      "type_": "track",
+      "title": "Drunk In Love",
+      "extraartists": [
+        {
+          "name": "Jay-Z",
+          "anv": "Jay Z",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 21742,
+          "resource_url": "https://api.discogs.com/artists/21742"
+        },
+        {
+          "name": "Hype Williams",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 398459,
+          "resource_url": "https://api.discogs.com/artists/398459"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Detail (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1428240,
+          "resource_url": "https://api.discogs.com/artists/1428240"
+        },
+        {
+          "name": "Andre Eric Proctor",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596827,
+          "resource_url": "https://api.discogs.com/artists/3596827"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Brian Soko",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3414308,
+          "resource_url": "https://api.discogs.com/artists/3414308"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Noel \"Detail\" Fisher",
+          "anv": "Noel Fisher",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 591308,
+          "resource_url": "https://api.discogs.com/artists/591308"
+        },
+        {
+          "name": "Rasool Diaz",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3216769,
+          "resource_url": "https://api.discogs.com/artists/3216769"
+        },
+        {
+          "name": "Shawn Carter",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 447899,
+          "resource_url": "https://api.discogs.com/artists/447899"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-5",
+      "type_": "track",
+      "title": "Blow",
+      "extraartists": [
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Ingrid Burley",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3596976,
+          "resource_url": "https://api.discogs.com/artists/3596976"
+        },
+        {
+          "name": "Solange Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 587458,
+          "resource_url": "https://api.discogs.com/artists/587458"
+        },
+        {
+          "name": "Hype Williams",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 398459,
+          "resource_url": "https://api.discogs.com/artists/398459"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-6",
+      "type_": "track",
+      "title": " \u0336A\u0336n\u0336g\u0336e\u0336l\u0336",
+      "extraartists": [
+        {
+          "name": "Bun B",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 185582,
+          "resource_url": "https://api.discogs.com/artists/185582"
+        },
+        {
+          "name": "Chad Jr",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 13997035,
+          "resource_url": "https://api.discogs.com/artists/13997035"
+        },
+        {
+          "name": "Kirko Bangz",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2820361,
+          "resource_url": "https://api.discogs.com/artists/2820361"
+        },
+        {
+          "name": "Lil' Keke",
+          "anv": "Lil Keke",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 173559,
+          "resource_url": "https://api.discogs.com/artists/173559"
+        },
+        {
+          "name": "Paul Wall",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 192683,
+          "resource_url": "https://api.discogs.com/artists/192683"
+        },
+        {
+          "name": "Scarface (3)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 107769,
+          "resource_url": "https://api.discogs.com/artists/107769"
+        },
+        {
+          "name": "Slim Thug",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 137204,
+          "resource_url": "https://api.discogs.com/artists/137204"
+        },
+        {
+          "name": "Trae",
+          "anv": "Trae Tha Truth",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 185580,
+          "resource_url": "https://api.discogs.com/artists/185580"
+        },
+        {
+          "name": "Willie D",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 148097,
+          "resource_url": "https://api.discogs.com/artists/148097"
+        },
+        {
+          "name": "Z-Ro",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 185587,
+          "resource_url": "https://api.discogs.com/artists/185587"
+        },
+        {
+          "name": "Lil Internet",
+          "anv": "@lilinternet",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 2395936,
+          "resource_url": "https://api.discogs.com/artists/2395936"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Caroline Polachek",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1269616,
+          "resource_url": "https://api.discogs.com/artists/1269616"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Caroline Polachek",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1269616,
+          "resource_url": "https://api.discogs.com/artists/1269616"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-7",
+      "type_": "track",
+      "title": "Yonc\u00e9",
+      "extraartists": [
+        {
+          "name": "Chanel Iman",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2354535,
+          "resource_url": "https://api.discogs.com/artists/2354535"
+        },
+        {
+          "name": "Joan Smalls",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3597038,
+          "resource_url": "https://api.discogs.com/artists/3597038"
+        },
+        {
+          "name": "Jourdan Dunn",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3597027,
+          "resource_url": "https://api.discogs.com/artists/3597027"
+        },
+        {
+          "name": "Ricky Saiz",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 844335,
+          "resource_url": "https://api.discogs.com/artists/844335"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Key Wane",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2220761,
+          "resource_url": "https://api.discogs.com/artists/2220761"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Dwane M. Weir II",
+          "anv": "Dwane Weir p/k/a Key Wane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3097472,
+          "resource_url": "https://api.discogs.com/artists/3097472"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Mike Dean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 101883,
+          "resource_url": "https://api.discogs.com/artists/101883"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-8",
+      "type_": "track",
+      "title": "Partition",
+      "extraartists": [
+        {
+          "name": "Crazy Horse Paris & The Crazy Horse Dancers",
+          "anv": "The Crazy Horse Dancers",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3597034,
+          "resource_url": "https://api.discogs.com/artists/3597034"
+        },
+        {
+          "name": "Jay-Z",
+          "anv": "Jay Z",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 21742,
+          "resource_url": "https://api.discogs.com/artists/21742"
+        },
+        {
+          "name": "Jake Nava",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 467210,
+          "resource_url": "https://api.discogs.com/artists/467210"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Key Wane",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2220761,
+          "resource_url": "https://api.discogs.com/artists/2220761"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Dwane M. Weir II",
+          "anv": "Dwane Weir p/k/a Key Wane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3097472,
+          "resource_url": "https://api.discogs.com/artists/3097472"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Mike Dean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 101883,
+          "resource_url": "https://api.discogs.com/artists/101883"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-9",
+      "type_": "track",
+      "title": "Jealous",
+      "extraartists": [
+        {
+          "name": "Beyonc\u00e9",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 52835,
+          "resource_url": "https://api.discogs.com/artists/52835"
+        },
+        {
+          "name": "Francesco Carrozzini",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 2790982,
+          "resource_url": "https://api.discogs.com/artists/2790982"
+        },
+        {
+          "name": "Todd Tourso",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3335131,
+          "resource_url": "https://api.discogs.com/artists/3335131"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Detail (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1428240,
+          "resource_url": "https://api.discogs.com/artists/1428240"
+        },
+        {
+          "name": "Andre Eric Proctor",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596827,
+          "resource_url": "https://api.discogs.com/artists/3596827"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Brian Soko",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3414308,
+          "resource_url": "https://api.discogs.com/artists/3414308"
+        },
+        {
+          "name": "Noel \"Detail\" Fisher",
+          "anv": "Noel Fisher",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 591308,
+          "resource_url": "https://api.discogs.com/artists/591308"
+        },
+        {
+          "name": "Rasool Diaz",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3216769,
+          "resource_url": "https://api.discogs.com/artists/3216769"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-10",
+      "type_": "track",
+      "title": "Rocket",
+      "extraartists": [
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 52835,
+          "resource_url": "https://api.discogs.com/artists/52835"
+        },
+        {
+          "name": "Bill Kirstein",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3563152,
+          "resource_url": "https://api.discogs.com/artists/3563152"
+        },
+        {
+          "name": "Ed Burke (2)",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3774880,
+          "resource_url": "https://api.discogs.com/artists/3774880"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Miguel Jontel Pimentel",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1798617,
+          "resource_url": "https://api.discogs.com/artists/1798617"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-11",
+      "type_": "track",
+      "title": "Mine",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        },
+        {
+          "name": "Pierre Debusschere",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3314094,
+          "resource_url": "https://api.discogs.com/artists/3314094"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "Aubrey Drake Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Jordan Ullman",
+          "anv": "Jordan Kenneth Cooke Ullman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3444179,
+          "resource_url": "https://api.discogs.com/artists/3444179"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Sidney Brown",
+          "anv": "Sidney \"Omen\" Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1023750,
+          "resource_url": "https://api.discogs.com/artists/1023750"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-12",
+      "type_": "track",
+      "title": "XO",
+      "extraartists": [
+        {
+          "name": "Jessica White (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3597049,
+          "resource_url": "https://api.discogs.com/artists/3597049"
+        },
+        {
+          "name": "Jourdan Dunn",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3597027,
+          "resource_url": "https://api.discogs.com/artists/3597027"
+        },
+        {
+          "name": "Terry Richardson",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 662132,
+          "resource_url": "https://api.discogs.com/artists/662132"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "Terius \"The-Dream\" Nash",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Haze Banga",
+          "anv": "Hazebanga Music",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 3268493,
+          "resource_url": "https://api.discogs.com/artists/3268493"
+        },
+        {
+          "name": "Hit-Boy",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 1137945,
+          "resource_url": "https://api.discogs.com/artists/1137945"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-13",
+      "type_": "track",
+      "title": "***Flawless",
+      "extraartists": [
+        {
+          "name": "Rey Reel",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3268492,
+          "resource_url": "https://api.discogs.com/artists/3268492"
+        },
+        {
+          "name": "Chimamanda Ngozi Adichie",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3592029,
+          "resource_url": "https://api.discogs.com/artists/3592029"
+        },
+        {
+          "name": "Jake Nava",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 467210,
+          "resource_url": "https://api.discogs.com/artists/467210"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Hit-Boy",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1137945,
+          "resource_url": "https://api.discogs.com/artists/1137945"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Chauncey Hollis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1357689,
+          "resource_url": "https://api.discogs.com/artists/1357689"
+        },
+        {
+          "name": "Rey Reel",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3268492,
+          "resource_url": "https://api.discogs.com/artists/3268492"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-14",
+      "type_": "track",
+      "title": "Superpower",
+      "extraartists": [
+        {
+          "name": "Frank Ocean",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2013868,
+          "resource_url": "https://api.discogs.com/artists/2013868"
+        },
+        {
+          "name": "Kelly Rowland",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 98498,
+          "resource_url": "https://api.discogs.com/artists/98498"
+        },
+        {
+          "name": "Luke James",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2835680,
+          "resource_url": "https://api.discogs.com/artists/2835680"
+        },
+        {
+          "name": "Michelle Williams",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 230674,
+          "resource_url": "https://api.discogs.com/artists/230674"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "Pharrell",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Jonas \u00c5kerlund",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 795816,
+          "resource_url": "https://api.discogs.com/artists/795816"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Frank Ocean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2013868,
+          "resource_url": "https://api.discogs.com/artists/2013868"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-15",
+      "type_": "track",
+      "title": "Heaven",
+      "extraartists": [
+        {
+          "name": "Ashley Everett",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3597051,
+          "resource_url": "https://api.discogs.com/artists/3597051"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 52835,
+          "resource_url": "https://api.discogs.com/artists/52835"
+        },
+        {
+          "name": "Todd Tourso",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3335131,
+          "resource_url": "https://api.discogs.com/artists/3335131"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-16",
+      "type_": "track",
+      "title": "Blue",
+      "extraartists": [
+        {
+          "name": "Blue Ivy Carter",
+          "anv": "Blue Ivy",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2784241,
+          "resource_url": "https://api.discogs.com/artists/2784241"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 52835,
+          "resource_url": "https://api.discogs.com/artists/52835"
+        },
+        {
+          "name": "Bill Kirstein",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3563152,
+          "resource_url": "https://api.discogs.com/artists/3563152"
+        },
+        {
+          "name": "Ed Burke (2)",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 3774880,
+          "resource_url": "https://api.discogs.com/artists/3774880"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Boots (18)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3596831,
+          "resource_url": "https://api.discogs.com/artists/3596831"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "DVD-17",
+      "type_": "track",
+      "title": "Credits",
+      "duration": ""
+    },
+    {
+      "position": "DVD-18",
+      "type_": "track",
+      "title": "Grown Woman",
+      "extraartists": [
+        {
+          "name": "Jerome Harmon",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Ebony Rittenhouse",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3596994,
+          "resource_url": "https://api.discogs.com/artists/3596994"
+        },
+        {
+          "name": "Kelly Rowland",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 98498,
+          "resource_url": "https://api.discogs.com/artists/98498"
+        },
+        {
+          "name": "Solange Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 587458,
+          "resource_url": "https://api.discogs.com/artists/587458"
+        },
+        {
+          "name": "Tina Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2490237,
+          "resource_url": "https://api.discogs.com/artists/2490237"
+        },
+        {
+          "name": "Jake Nava",
+          "anv": "",
+          "join": "",
+          "role": "Film Director",
+          "tracks": "",
+          "id": 467210,
+          "resource_url": "https://api.discogs.com/artists/467210"
+        },
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        },
+        {
+          "name": "Beyonc\u00e9 Knowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 112751,
+          "resource_url": "https://api.discogs.com/artists/112751"
+        },
+        {
+          "name": "Chris Godbey",
+          "anv": "C.Godbey",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 265535,
+          "resource_url": "https://api.discogs.com/artists/265535"
+        },
+        {
+          "name": "Darryl Pearson",
+          "anv": "D.Pearson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 122097,
+          "resource_url": "https://api.discogs.com/artists/122097"
+        },
+        {
+          "name": "Garland Mosley",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610295,
+          "resource_url": "https://api.discogs.com/artists/610295"
+        },
+        {
+          "name": "Jerome Harmon",
+          "anv": "J.Harmon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567050,
+          "resource_url": "https://api.discogs.com/artists/567050"
+        },
+        {
+          "name": "Kelly Sheehan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1165895,
+          "resource_url": "https://api.discogs.com/artists/1165895"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T.Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Beyonc\u00e9 Knowles",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 112751,
+      "resource_url": "https://api.discogs.com/artists/112751"
+    },
+    {
+      "name": "Wes Garland",
+      "anv": "WG",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 2135761,
+      "resource_url": "https://api.discogs.com/artists/2135761"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/-Tbb9bFJJ2x63iuAQc0NTaYpb0IUaC5O7ZBx48mSDhA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyMzA5NzE1/NC05MDQ3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-Tbb9bFJJ2x63iuAQc0NTaYpb0IUaC5O7ZBx48mSDhA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyMzA5NzE1/NC05MDQ3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/xfmTaYyck4-LcuwSpoxrv7SjZJdvq7HNBTekNPpdOtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyMzA5NzE1/NC05MDQ3LmpwZWc.jpeg",
+      "width": 590,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R3xDFlnS2KWQASlJXfGvi_TviCbcGuerLDqpzPd5oTI/rs:fit/g:sm/q:90/h:576/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyNjAyNTQ4/Ny04NTAyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/R3xDFlnS2KWQASlJXfGvi_TviCbcGuerLDqpzPd5oTI/rs:fit/g:sm/q:90/h:576/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyNjAyNTQ4/Ny04NTAyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/XtiAdgiVf-ZqEwUm-n4NROAS-6Dq_9-pb3P4xic2AgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyNjAyNTQ4/Ny04NTAyLmpwZWc.jpeg",
+      "width": 589,
+      "height": 576
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/546iacepm1RlgHyq3W9F_Scl2fZRpa4q26WYQyzt94Q/rs:fit/g:sm/q:90/h:355/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/Ny0xNzkxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/546iacepm1RlgHyq3W9F_Scl2fZRpa4q26WYQyzt94Q/rs:fit/g:sm/q:90/h:355/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/Ny0xNzkxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/TZdMJ-6Mdwf3tVqF8q9iBVNgyV_bM3yW_qQSaGCVjZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/Ny0xNzkxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 355
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/w_TlgGBKvcOyzv8gBpr8MsYBObjDe4jKwIN0y9-x-W4/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/OS01MjIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/w_TlgGBKvcOyzv8gBpr8MsYBObjDe4jKwIN0y9-x-W4/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/OS01MjIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/BAj2FwRCSvrx5DVqy8UWo8EZcBMC1KlEaHNDwNCkb0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/OS01MjIxLmpwZWc.jpeg",
+      "width": 568,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JTd6SHBTNSYtPDW0nmMc2JeQtrOS6Bv9t23R70m2Kzk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS00MTI3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/JTd6SHBTNSYtPDW0nmMc2JeQtrOS6Bv9t23R70m2Kzk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS00MTI3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/7uD7bkQeKMcezmFnDITk7ZDFuMkvyJGmbd-sk31j4GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS00MTI3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bonw_4rpO0z8rLz-XDgS02Xj6v0bEoIVmmfVfaadmG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03NDM5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/bonw_4rpO0z8rLz-XDgS02Xj6v0bEoIVmmfVfaadmG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03NDM5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/A6xa1H9QEibtotzKVvs8YEAZA5S8lSLFvEWyIxh9wb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03NDM5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cauNmmYnAHoWKLp48Bh6TyZIperJU957-bHHWpM-PvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03MTEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/cauNmmYnAHoWKLp48Bh6TyZIperJU957-bHHWpM-PvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03MTEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_MJCa9bPNWypcJxXLobJgkmzKLhL29jg1Ynd7r-wBhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03MTEyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7E6IdbE1OHb-xs30ioMg2nIBssBlAZ9b9uw-qM0OPJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03MzE0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/7E6IdbE1OHb-xs30ioMg2nIBssBlAZ9b9uw-qM0OPJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03MzE0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Ij98oCCVESrW8wj5SCBpZ9DMn5_eJGlugRGHwQy8jV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS03MzE0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7RRC4De4kkrT2vtjqN9X6vlubtgSQM_ux2zFI5P0LLU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS04NzQyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/7RRC4De4kkrT2vtjqN9X6vlubtgSQM_ux2zFI5P0LLU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS04NzQyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/dio0jh4PsIdNnGTq1hk2M-8xc9juL2yRZVjMPuSFwu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS04NzQyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KRefjefDryGRECq3LNGo22tKIB8mRXF-T4Lo16L6t_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAz/MC01MzIwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/KRefjefDryGRECq3LNGo22tKIB8mRXF-T4Lo16L6t_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAz/MC01MzIwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/1xyPnjZt5OlvFDpkOgxAJZw8XZ__PF4qd7OymDH63n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAz/MC01MzIwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Fd15BzYWW2f3jXqR9_hpsTY7_oq9A-RrsBGL-gogXnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS04MjcyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Fd15BzYWW2f3jXqR9_hpsTY7_oq9A-RrsBGL-gogXnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS04MjcyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/75ADdKyoHgrN3KtkfHFPTrXsjrUVEwjZNYV-C41doW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS04MjcyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qPCUSH_j55nbL0dhAbDGjMwU7GxkoLrGXA5kDiGMJk0/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg2/NS0zMTA1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/qPCUSH_j55nbL0dhAbDGjMwU7GxkoLrGXA5kDiGMJk0/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg2/NS0zMTA1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/UUqN99mFALaUguXkh6OxCG9VKdR-F-wgR3UiE8FUZ9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg2/NS0zMTA1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fGXLFTtALI1sBuGdwI_jvmg3Y7gmsCLI3Pe_tus948U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg0/Mi0yMjIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/fGXLFTtALI1sBuGdwI_jvmg3Y7gmsCLI3Pe_tus948U/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg0/Mi0yMjIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/q5hzFUF0pawvcjegbXfSsf_vqnZ-4IFkWUGkj0A8VpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg0/Mi0yMjIzLmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FEBAhTQVhWEMiVjIu8m5_cx2Y3iV1dBud3dyfEJHDaw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/OC05MTU2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/FEBAhTQVhWEMiVjIu8m5_cx2Y3iV1dBud3dyfEJHDaw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/OC05MTU2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cze-JAdfqXPcQ-T0qcN3tER5SOCdkyBOKX41N5Mz2UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/OC05MTU2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oTRQbEdb82_bqZ-vs21DEH6XYtmkZ8cda-X7hSQD_JY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/NC02MDg0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/oTRQbEdb82_bqZ-vs21DEH6XYtmkZ8cda-X7hSQD_JY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/NC02MDg0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/onfQ7BQRo0C9mggDOPjOCI-UzEUk9EYgjqp50tTZlFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/NC02MDg0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eI08q57hUJuRC5EBMQdlqZ5ptqsw6EoYYhqTyTfP2Eg/rs:fit/g:sm/q:90/h:600/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/NS0zMDkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/eI08q57hUJuRC5EBMQdlqZ5ptqsw6EoYYhqTyTfP2Eg/rs:fit/g:sm/q:90/h:600/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/NS0zMDkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/orpHPHdJbHM_KLCfK31AzTxhxeF9FMZIviFdDzmsbGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDg3/NS0zMDkzLmpwZWc.jpeg",
+      "width": 496,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UPK4oiaBg-86MObnr11dROcBSFnABSgFY_VTaIkhQWE/rs:fit/g:sm/q:90/h:134/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/My0xMzMyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/UPK4oiaBg-86MObnr11dROcBSFnABSgFY_VTaIkhQWE/rs:fit/g:sm/q:90/h:134/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/My0xMzMyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/h8g3LZJYp1QW0gaGUhdo-eY3znXVLsl97x9oTWQGFus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/My0xMzMyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 134
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jZXrjxxr6s4GjK_mjoZLTqUInK-5PHyg_y438B03Q-s/rs:fit/g:sm/q:90/h:353/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgz/MS0xMjI4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jZXrjxxr6s4GjK_mjoZLTqUInK-5PHyg_y438B03Q-s/rs:fit/g:sm/q:90/h:353/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgz/MS0xMjI4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/U1GgdxbBPt68RlwJkgqyEclwSI4GS1-B0gUX5Qar4qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgz/MS0xMjI4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 353
+    }
+  ],
+  "thumb": "https://i.discogs.com/xfmTaYyck4-LcuwSpoxrv7SjZJdvq7HNBTekNPpdOtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyMzA5NzE1/NC05MDQ3LmpwZWc.jpeg",
+  "estimated_weight": 775,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,76 @@
+[
+  [
+    "layer.new.layerFromBackground",
+    {
+      "ifPresent": true
+    }
+  ],
+  [
+    "edit.transform",
+    {
+      "rect": [
+        0,
+        0,
+        1280,
+        1284
+      ],
+      "quad": [
+        [
+          -5.964272016648995,
+          -3.742081976442556
+        ],
+        [
+          652.7405045226416,
+          -1.4398814072369326
+        ],
+        [
+          650.4704292257319,
+          650.4408036712005
+        ],
+        [
+          -3.6621321428431504,
+          652.7263417299511
+        ]
+      ],
+      "interpolation": "bicubic"
+    }
+  ],
+  [
+    "image.crop",
+    {
+      "x": 0,
+      "y": 0,
+      "width": 648,
+      "height": 648
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 4,
+      "y": 4,
+      "width": 640,
+      "height": 640,
+      "ellipse": true
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 316,
+      "y": 316,
+      "width": 16,
+      "height": 16,
+      "ellipse": true,
+      "mode": "subtract"
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {}
+  ],
+  [
+    "select.deselect",
+    {}
+  ]
+]

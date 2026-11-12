@@ -1,0 +1,58 @@
+{
+  "created": "2026-11-12T03:51:07.764Z",
+  "count": 1,
+  "offset": 0,
+  "release-groups": [
+    {
+      "id": "73c28a90-d4ef-45b4-a5b9-01eaef267739",
+      "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "score": 100,
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "artist-credit-id": "75e496a6-b185-3588-bc02-99c7cb8934b5",
+      "count": 3,
+      "title": "How to: Friend, Love, Freefall",
+      "first-release-date": "2018-04-06",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "artist": {
+            "id": "ab4e7869-86f5-455e-b52c-c89d7664c07b",
+            "name": "Rainbow Kitten Surprise",
+            "sort-name": "Rainbow Kitten Surprise"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "7c148f9c-bf45-4e76-9095-637fb356a93c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "How to: Friend, Love, Freefall",
+          "status": "Official"
+        },
+        {
+          "id": "ba806fe5-c1ee-4b08-8411-8e88a38857d4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "How To: Friend, Love, Freefall",
+          "status": "Official"
+        },
+        {
+          "id": "5f8f624e-2459-4f34-8c4f-f45e4579038e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "How to: Friend, Love, Freefall",
+          "status": "Official"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        }
+      ]
+    }
+  ]
+}

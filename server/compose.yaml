@@ -1,0 +1,23 @@
+services:
+  fauxvinyl:
+    build:
+      context: .
+    pull_policy: build
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      PUBLIC_URL: https://vinyl.bray.dev
+      DATA_DIR: /data
+      GOMEMLIMIT: 96MiB
+      GOGC: "50"
+    volumes:
+      - ./data:/data
+    ports:
+      - 127.0.0.1:8787:8787
+    mem_limit: 256m
+    cpus: 1.0
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=64m
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]

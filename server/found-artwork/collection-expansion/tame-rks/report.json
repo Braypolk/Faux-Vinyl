@@ -1,0 +1,121 @@
+[
+  {
+    "id": "the-slow-rush",
+    "title": "The Slow Rush",
+    "artist": "Tame Impala",
+    "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
+    "release_date": "2020-02-14",
+    "songs": [
+      "One More Year",
+      "Instant Destiny",
+      "Borderline",
+      "Posthumous Forgiveness",
+      "Breathe Deeper",
+      "Tomorrow's Dust",
+      "On Track",
+      "Lost In Yesterday",
+      "Is It True",
+      "It Might Be Time",
+      "Glimmer",
+      "One More Hour"
+    ],
+    "metadata_sources": [
+      "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL",
+      "https://interscope.com/products/the-slow-rush-2lp"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/tame-rks/slow-rush-front.webp",
+      "source": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+      "method": "PhotoCraft lossily optimized official Spotify front artwork",
+      "notes": ""
+    },
+    "discs": [
+      {
+        "id": "slow-rush-red-vinyl",
+        "kind": "vinyl",
+        "label": "Red vinyl · Side A",
+        "path": "found-artwork/collection-expansion/tame-rks/slow-rush-vinyl.webp",
+        "source": "https://eu.rarevinyl.com/de/products/tame-impala-the-slow-rush-red-and-blue-vinyl-plus-bonus-7-plus-shrink-uk-2-lp-vinyl-record-double-0846007-810213",
+        "method": "PhotoCraft ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Actual red vinyl pressing with blue side-A label; source surface marks and subtle edge reflections retained. No generated content.",
+        "prompt": null
+      },
+      {
+        "id": "slow-rush-red-cd",
+        "kind": "cd",
+        "label": "CD",
+        "path": "found-artwork/collection-expansion/tame-rks/slow-rush-cd.webp",
+        "source": "https://coverartarchive.org/release/452ccdb4-d6f5-4ac2-9eea-3eb2df8e5bb6/27821463908.jpg",
+        "method": "PhotoCraft ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Genuine Japanese CD scan. Complete printed design and clear/white hub pixels retained around normalized80px hole. No generated content.",
+        "prompt": null
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/tame-rks/slow-rush-back.webp",
+      "source": "https://coverartarchive.org/release/1cf564b9-4e24-4362-89fb-1aa702ff60f2/46047919208.jpg",
+      "method": "PhotoCraft optimized original CD back scan",
+      "notes": "Physical rectangular CD back artwork retained without inventing square edges."
+    }
+  },
+  {
+    "id": "how-to-friend-love-freefall",
+    "title": "How to: Friend, Love, Freefall",
+    "artist": "Rainbow Kitten Surprise",
+    "uri": "spotify:album:7vXiklrUeffx5o2F8VYwm3",
+    "release_date": "2018-04-06",
+    "songs": [
+      "Pacific Love",
+      "Mission to Mars",
+      "Fever Pitch",
+      "It's Called: Freefall",
+      "Holy War",
+      "Matchbox",
+      "Moody Orange",
+      "Hide",
+      "When It Lands",
+      "Painkillers",
+      "Recktify",
+      "Possum Queen",
+      "Polite Company"
+    ],
+    "metadata_sources": [
+      "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3",
+      "https://shop.rksband.com/products/how-to-friend-love-freefall-lp"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/tame-rks/freefall-front.webp",
+      "source": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2739529217e48fc8bab89c8a1f9",
+      "method": "PhotoCraft lossily optimized official Spotify front artwork",
+      "notes": ""
+    },
+    "discs": [
+      {
+        "id": "freefall-purple-vinyl",
+        "kind": "vinyl",
+        "label": "Purple vinyl · Side B",
+        "path": "found-artwork/collection-expansion/tame-rks/freefall-vinyl.webp",
+        "source": "https://www.turntablelab.com/products/rainbow-kitten-surprise-how-to-friend-love-freefall-indie-exclusive-colored-vinyl-vinyl-lp",
+        "method": "PhotoCraft projective ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Complete foreground purple LP extracted from retailer photo. Corrected oblique perspective using measured outer ellipse and actual spindle, preserving all original label/surface pixels. Photographic lighting highlights retained. This is sideB as printed; no generated content.",
+        "prompt": null
+      },
+      {
+        "id": "freefall-cd",
+        "kind": "cd",
+        "label": "CD",
+        "path": "found-artwork/collection-expansion/tame-rks/freefall-cd.webp",
+        "source": "https://www.discogs.com/release/11859663-Rainbow-Kitten-Surprise-How-To-Friend-Love-Freefall",
+        "method": "PhotoCraft ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Actual full CD photograph from original European2018 release image index2. Some original lighting/scan texture retained; printed Jupiter artwork preserved. No generated content.",
+        "prompt": null
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/tame-rks/freefall-back.webp",
+      "source": "https://www.discogs.com/release/11825457-Rainbow-Kitten-Surprise-How-To-Friend-Love-Freefall",
+      "method": "PhotoCraft optimized original vinyl back scan",
+      "notes": "Clean full physical LP rear artwork, image index1 from Discogs original2018 vinyl release."
+    }
+  }
+]

@@ -1,0 +1,27 @@
+.venv*
+.dev-data
+dev.py
+.git
+.env
+.env.*
+data
+__pycache__
+.pytest_cache
+*.log
+tests
+truenas-compose.yaml
+deployment-state.json
+tunnel-token
+shared-tunnel-backup-*
+
+go-migration-backup-*/
+
+shelf-update-backup-*/
+
+# Artwork research and disposable approval UI stay out of the deployed image.
+artwork-review-research/
+found-artwork/
+static/disc-review/
+static/disc-prototype/
+static/disc-prototype.js
+static/disc-prototype.css

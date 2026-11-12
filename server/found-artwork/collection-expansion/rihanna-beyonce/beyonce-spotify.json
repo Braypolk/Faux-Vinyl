@@ -1,0 +1,345 @@
+{
+  "type": "album",
+  "name": "BEYONC\u00c9",
+  "uri": "spotify:album:5JSDDzvVmUX1axvnUH3ZJy",
+  "id": "5JSDDzvVmUX1axvnUH3ZJy",
+  "title": "BEYONC\u00c9",
+  "subtitle": "Beyonc\u00e9",
+  "isPreRelease": false,
+  "releaseDate": null,
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:5JSDDzvVmUX1axvnUH3ZJy",
+  "trackList": [
+    {
+      "uri": "spotify:track:6itVTFZWfIA9J6XJaC1eMT",
+      "uid": "860c6668512865710d2e",
+      "title": "Pretty Hurts",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 257653,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/f21bdbcb786789f6f4ee90a5ab23d0e619dcca12"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5WoW9FK7H6xDWRv3fjEShG",
+      "uid": "3346d293d86b12137a54",
+      "title": "Haunted",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 369040,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/d653e747231b00947af7650dab1607e43d93e5c9"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6AgchEnWSy5ZtnngvMFNhQ",
+      "uid": "66e1e855012dd3ae4db7",
+      "title": "Drunk in Love (feat. Jay-Z)",
+      "subtitle": "Beyonc\u00e9,\u00a0JA\u0178-Z",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 323480,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/a07f02787b7c20d4d297bc2b7a9ae1a5b69946ff"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3TbpoThkVkjwmwf0BOnEFa",
+      "uid": "1fdd2eca2a5175147b9e",
+      "title": "Blow",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 309720,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/875fbce5708863fc84524f92a70f1fc58e37aa68"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4sEUuxVx5yRtcIPskD9G36",
+      "uid": "2b584748ed9f3f1587d9",
+      "title": "No Angel",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 228693,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/a4e58d8dc68a7a242322b5d81d0e7b343bc8e5c0"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1vtqJ1ttGuvG7sJmznFAH9",
+      "uid": "ecae74fe24a95f45f16f",
+      "title": "Partition",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 319466,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/ddef22ef92ad5e39eebc81bd8ef0dc6576250fa2"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:63DXuM8QogF1b3hi0tNG0i",
+      "uid": "f1e0e241d6a94c712483",
+      "title": "Jealous",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 184013,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/86cd2cd9c6e39397067e4d7da6cebf55f90b8d16"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3LqBEyhZyLm3XFiIikH8so",
+      "uid": "0e85e3a72cff29712e76",
+      "title": "Rocket",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 391906,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/e20638db99a75b9442e97c4a5c3922f00c6e1a6e"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6tsu70cKL5l04NjRDrOXXo",
+      "uid": "3b51c2e2198c48e08bcc",
+      "title": "Mine (feat. Drake)",
+      "subtitle": "Beyonc\u00e9,\u00a0Drake",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 378600,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/a6590487408e6823e782b0bd2a50574cd29c6ec0"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0XeoUk4l1rbZTIBEYeVKPc",
+      "uid": "f41e47d345ad9136334d",
+      "title": "XO",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 215946,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/5803daf0d2c015643c931366841cdd83207672fd"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1BH3ULKpxyFO15uMwxmFym",
+      "uid": "8b465f82957d5391aff1",
+      "title": "***Flawless (feat. Chimamanda Ngozi Adichie)",
+      "subtitle": "Beyonc\u00e9,\u00a0Chimamanda Ngozi Adichie",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 250960,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/cecca80d323a05132bb20891397517bcc3beebbf"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:7r844FNOowBhcsnfHutnus",
+      "uid": "6e87ce69b5b38fd295ad",
+      "title": "Superpower (feat. Frank Ocean)",
+      "subtitle": "Beyonc\u00e9,\u00a0Frank Ocean",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 276560,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/4b8b49caacf1d986fc58b866075ade60efd9091f"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6FSFFNF6RpNb4a9DjqeGp4",
+      "uid": "ccc8ec03ad904c26086a",
+      "title": "Heaven",
+      "subtitle": "Beyonc\u00e9",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 230893,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/f6fbfc2140fdf5e7987da8bbdc79807de634f7dc"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4qzJGKiVk7hqYwP2kHCOob",
+      "uid": "927d8a71419270c9eb06",
+      "title": "Blue (feat. Blue Ivy)",
+      "subtitle": "Beyonc\u00e9,\u00a0Blue Ivy",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 266920,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/61f211ed4ca28c51daafeed1f754142f18cbd147"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 92,
+      "green": 70,
+      "red": 111
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 59,
+      "green": 38,
+      "red": 76
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 216,
+      "green": 192,
+      "red": 241
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e026a26b6ba045caa3b26f8b56e",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000048516a26b6ba045caa3b26f8b56e",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2736a26b6ba045caa3b26f8b56e",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

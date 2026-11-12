@@ -1,0 +1,79 @@
+{
+  "packaging": "Cardboard/Paper Sleeve",
+  "relations": [
+    {
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "type": "amazon asin",
+      "attribute-values": {},
+      "direction": "forward",
+      "url": {
+        "id": "4d72e022-f4cd-4fa7-9048-9e5bb12d6376",
+        "resource": "https://www.amazon.com/gp/product/B00KCOMBJC"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "begin": null
+    },
+    {
+      "type": "discogs",
+      "attribute-values": {},
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "url": {
+        "id": "8241c31c-3746-4880-ad10-b3a5d123f6b0",
+        "resource": "https://www.discogs.com/release/5890382"
+      },
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "asin": "B00KCOMBJC",
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "release-events": [
+    {
+      "date": "2014-07-15",
+      "area": {
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "type": null,
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type-id": null,
+        "name": "United States",
+        "disambiguation": "",
+        "sort-name": "United States"
+      }
+    }
+  ],
+  "title": "BEYONC\u00c9",
+  "quality": "normal",
+  "date": "2014-07-15",
+  "id": "d74b6f48-5338-41f1-82fb-e290a3aba92a",
+  "cover-art-archive": {
+    "darkened": false,
+    "front": true,
+    "count": 2,
+    "artwork": true,
+    "back": true
+  },
+  "status": "Official",
+  "country": "US",
+  "disambiguation": "",
+  "barcode": "888430672512"
+}

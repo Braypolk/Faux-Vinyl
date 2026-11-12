@@ -1,0 +1,3485 @@
+[
+  {
+    "album_id": "1984",
+    "album": "1984 (Remastered)",
+    "artist": "Van Halen",
+    "candidate": {
+      "image_id": "10899168712",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/10899168712.jpg",
+      "thumbnails": {
+        "large": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/10899168712-500.jpg",
+        "small": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/10899168712-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "5439e3de-a282-4d92-9107-589e76444e67",
+        "title": "1984",
+        "date": "2015-03-30",
+        "country": "US",
+        "status": "Official",
+        "edition": "2015 remaster",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Vinyl center-label closeup; outer grooves and complete record are not visible."
+    },
+    "file": "10899168712.jpg"
+  },
+  {
+    "album_id": "1984",
+    "album": "1984 (Remastered)",
+    "artist": "Van Halen",
+    "candidate": {
+      "image_id": "10899169164",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/10899169164.jpg",
+      "thumbnails": {
+        "large": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/10899169164-500.jpg",
+        "small": "https://coverartarchive.org/release/5439e3de-a282-4d92-9107-589e76444e67/10899169164-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "5439e3de-a282-4d92-9107-589e76444e67",
+        "title": "1984",
+        "date": "2015-03-30",
+        "country": "US",
+        "status": "Official",
+        "edition": "2015 remaster",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Vinyl center-label closeup; outer grooves and complete record are not visible."
+    },
+    "file": "10899169164.jpg"
+  },
+  {
+    "album_id": "van-halen-album",
+    "album": "Van Halen (Remastered)",
+    "artist": "Van Halen",
+    "candidate": {
+      "image_id": "35841939914",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841939914.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841939914-1200.jpg",
+        "250": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841939914-250.jpg",
+        "500": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841939914-500.jpg",
+        "large": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841939914-500.jpg",
+        "small": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841939914-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "3357e39c-9a78-41c6-8077-8299d4f0de42",
+        "title": "Van Halen",
+        "date": "2015",
+        "country": "US",
+        "status": "Official",
+        "edition": "2015 remaster",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Vinyl center-label closeup; outer grooves and complete record are not visible."
+    },
+    "file": "35841939914.jpg"
+  },
+  {
+    "album_id": "van-halen-album",
+    "album": "Van Halen (Remastered)",
+    "artist": "Van Halen",
+    "candidate": {
+      "image_id": "35841940660",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841940660.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841940660-1200.jpg",
+        "250": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841940660-250.jpg",
+        "500": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841940660-500.jpg",
+        "large": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841940660-500.jpg",
+        "small": "https://coverartarchive.org/release/3357e39c-9a78-41c6-8077-8299d4f0de42/35841940660-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "3357e39c-9a78-41c6-8077-8299d4f0de42",
+        "title": "Van Halen",
+        "date": "2015",
+        "country": "US",
+        "status": "Official",
+        "edition": "2015 remaster",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Vinyl center-label closeup; outer grooves and complete record are not visible."
+    },
+    "file": "35841940660.jpg"
+  },
+  {
+    "album_id": "van-halen-album",
+    "album": "Van Halen (Remastered)",
+    "artist": "Van Halen",
+    "candidate": {
+      "image_id": "27455813168",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455813168.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455813168-1200.jpg",
+        "250": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455813168-250.jpg",
+        "500": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455813168-500.jpg",
+        "large": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455813168-500.jpg",
+        "small": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455813168-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "92464f11-fbe9-492f-aa5b-8708595728ad",
+        "title": "Van Halen",
+        "date": "1978",
+        "country": "JP",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Vinyl center-label closeup; outer grooves and complete record are not visible."
+    },
+    "file": "27455813168.jpg"
+  },
+  {
+    "album_id": "van-halen-album",
+    "album": "Van Halen (Remastered)",
+    "artist": "Van Halen",
+    "candidate": {
+      "image_id": "27455814477",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455814477.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455814477-1200.jpg",
+        "250": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455814477-250.jpg",
+        "500": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455814477-500.jpg",
+        "large": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455814477-500.jpg",
+        "small": "https://coverartarchive.org/release/92464f11-fbe9-492f-aa5b-8708595728ad/27455814477-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "92464f11-fbe9-492f-aa5b-8708595728ad",
+        "title": "Van Halen",
+        "date": "1978",
+        "country": "JP",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Vinyl center-label closeup; outer grooves and complete record are not visible."
+    },
+    "file": "27455814477.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303948836",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303948836.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303948836-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303948836-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303948836-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303948836-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303948836-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "29303948836.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303949363",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949363.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949363-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949363-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949363-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949363-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949363-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "29303949363.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303949916",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949916.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949916-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949916-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949916-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949916-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303949916-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "29303949916.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303950642",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303950642.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303950642-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303950642-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303950642-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303950642-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303950642-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "29303950642.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303945026",
+      "types": [],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945026.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945026-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945026-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945026-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945026-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945026-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "29303945026.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303945923",
+      "types": [],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945923.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945923-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945923-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945923-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945923-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303945923-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "29303945923.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303947204",
+      "types": [],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947204.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947204-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947204-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947204-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947204-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947204-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "29303947204.jpg"
+  },
+  {
+    "album_id": "forest-hill-drive",
+    "album": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "candidate": {
+      "image_id": "29303947846",
+      "types": [],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947846.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947846-1200.jpg",
+        "250": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947846-250.jpg",
+        "500": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947846-500.jpg",
+        "large": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947846-500.jpg",
+        "small": "https://coverartarchive.org/release/e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5/29303947846-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e2eb21ed-0489-4a65-ad65-fd2a1ddde4b5",
+        "title": "2014 Forest Hills Drive",
+        "date": "2015-03-16",
+        "country": "XE",
+        "status": "Official",
+        "edition": "180g, Optimal pressing",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "29303947846.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200525454",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side A",
+      "original": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200525454.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200525454-1200.jpg",
+        "250": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200525454-250.jpg",
+        "500": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200525454-500.jpg",
+        "large": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200525454-500.jpg",
+        "small": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200525454-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MRP",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200525454.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200526022",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side B",
+      "original": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526022.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526022-1200.jpg",
+        "250": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526022-250.jpg",
+        "500": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526022-500.jpg",
+        "large": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526022-500.jpg",
+        "small": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526022-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MRP",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200526022.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200526372",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side C",
+      "original": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526372.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526372-1200.jpg",
+        "250": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526372-250.jpg",
+        "500": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526372-500.jpg",
+        "large": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526372-500.jpg",
+        "small": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526372-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MRP",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200526372.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200526694",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side D",
+      "original": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526694.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526694-1200.jpg",
+        "250": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526694-250.jpg",
+        "500": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526694-500.jpg",
+        "large": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526694-500.jpg",
+        "small": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200526694-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MRP",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200526694.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200507617",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side A",
+      "original": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507617.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507617-1200.jpg",
+        "250": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507617-250.jpg",
+        "500": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507617-500.jpg",
+        "large": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507617-500.jpg",
+        "small": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507617-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "71ddfadf-04c9-4fe7-8ea4-77ea25ad8162",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MPO",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200507617.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200508130",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side B",
+      "original": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508130.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508130-1200.jpg",
+        "250": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508130-250.jpg",
+        "500": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508130-500.jpg",
+        "large": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508130-500.jpg",
+        "small": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508130-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "71ddfadf-04c9-4fe7-8ea4-77ea25ad8162",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MPO",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200508130.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200508578",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side C",
+      "original": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508578.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508578-1200.jpg",
+        "250": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508578-250.jpg",
+        "500": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508578-500.jpg",
+        "large": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508578-500.jpg",
+        "small": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200508578-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "71ddfadf-04c9-4fe7-8ea4-77ea25ad8162",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MPO",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200508578.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200509256",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side D",
+      "original": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200509256.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200509256-1200.jpg",
+        "250": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200509256-250.jpg",
+        "500": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200509256-500.jpg",
+        "large": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200509256-500.jpg",
+        "small": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200509256-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "71ddfadf-04c9-4fe7-8ea4-77ea25ad8162",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MPO",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200509256.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200517567",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side A",
+      "original": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200517567.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200517567-1200.jpg",
+        "250": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200517567-250.jpg",
+        "500": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200517567-500.jpg",
+        "large": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200517567-500.jpg",
+        "small": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200517567-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c97d736f-5c4c-4a06-98b9-9aa3c21d2e86",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 9
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200517567.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200518414",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side B",
+      "original": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518414.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518414-1200.jpg",
+        "250": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518414-250.jpg",
+        "500": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518414-500.jpg",
+        "large": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518414-500.jpg",
+        "small": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518414-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c97d736f-5c4c-4a06-98b9-9aa3c21d2e86",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 9
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200518414.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200518830",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side C",
+      "original": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518830.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518830-1200.jpg",
+        "250": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518830-250.jpg",
+        "500": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518830-500.jpg",
+        "large": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518830-500.jpg",
+        "small": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200518830-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c97d736f-5c4c-4a06-98b9-9aa3c21d2e86",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 9
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200518830.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200519388",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side D",
+      "original": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200519388.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200519388-1200.jpg",
+        "250": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200519388-250.jpg",
+        "500": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200519388-500.jpg",
+        "large": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200519388-500.jpg",
+        "small": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200519388-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c97d736f-5c4c-4a06-98b9-9aa3c21d2e86",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 9
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "35200519388.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200524210",
+      "types": [
+        "Other"
+      ],
+      "comment": "Gatefold",
+      "original": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524210.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524210-1200.jpg",
+        "250": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524210-250.jpg",
+        "500": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524210-500.jpg",
+        "large": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524210-500.jpg",
+        "small": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524210-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MRP",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "35200524210.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200524931",
+      "types": [
+        "Other"
+      ],
+      "comment": "Gatefold",
+      "original": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524931.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524931-1200.jpg",
+        "250": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524931-250.jpg",
+        "500": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524931-500.jpg",
+        "large": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524931-500.jpg",
+        "small": "https://coverartarchive.org/release/4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af/35200524931-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4cb5feb8-c1fe-491c-8d2a-b8e32d1ea8af",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MRP",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "35200524931.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200506604",
+      "types": [
+        "Other"
+      ],
+      "comment": "Gatefold",
+      "original": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200506604.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200506604-1200.jpg",
+        "250": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200506604-250.jpg",
+        "500": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200506604-500.jpg",
+        "large": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200506604-500.jpg",
+        "small": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200506604-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "71ddfadf-04c9-4fe7-8ea4-77ea25ad8162",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MPO",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "35200506604.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200507061",
+      "types": [
+        "Other"
+      ],
+      "comment": "Gatefold",
+      "original": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507061.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507061-1200.jpg",
+        "250": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507061-250.jpg",
+        "500": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507061-500.jpg",
+        "large": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507061-500.jpg",
+        "small": "https://coverartarchive.org/release/71ddfadf-04c9-4fe7-8ea4-77ea25ad8162/35200507061-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "71ddfadf-04c9-4fe7-8ea4-77ea25ad8162",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "US",
+        "status": "Official",
+        "edition": "MPO",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "35200507061.jpg"
+  },
+  {
+    "album_id": "planet-her",
+    "album": "Planet Her (Deluxe)",
+    "artist": "Doja Cat",
+    "candidate": {
+      "image_id": "35200516838",
+      "types": [
+        "Other"
+      ],
+      "comment": "Gatefold",
+      "original": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200516838.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200516838-1200.jpg",
+        "250": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200516838-250.jpg",
+        "500": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200516838-500.jpg",
+        "large": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200516838-500.jpg",
+        "small": "https://coverartarchive.org/release/c97d736f-5c4c-4a06-98b9-9aa3c21d2e86/35200516838-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c97d736f-5c4c-4a06-98b9-9aa3c21d2e86",
+        "title": "Planet Her",
+        "date": "2022-05-27",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 9
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "35200516838.jpg"
+  },
+  {
+    "album_id": "flume",
+    "album": "Flume: Deluxe Edition",
+    "artist": "Flume",
+    "candidate": {
+      "image_id": "8979886654",
+      "types": [
+        "Other"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/9a700029-ee4e-442b-89fc-7d408edf9983/8979886654.jpg",
+      "thumbnails": {
+        "small": "https://coverartarchive.org/release/9a700029-ee4e-442b-89fc-7d408edf9983/8979886654-250.jpg",
+        "large": "https://coverartarchive.org/release/9a700029-ee4e-442b-89fc-7d408edf9983/8979886654-500.jpg"
+      },
+      "kind": "cd",
+      "release": {
+        "id": "9a700029-ee4e-442b-89fc-7d408edf9983",
+        "title": "Flume",
+        "date": "2013-12",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "CD",
+          "CD",
+          "DVD"
+        ],
+        "art_count": 2
+      }
+    },
+    "curation": {
+      "quality": "detail",
+      "exclude": true,
+      "note": "Insert, sleeve, packaging, or data-side detail rather than a complete printed disc."
+    },
+    "file": "8979886654.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "6198942311",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/4f76244b-b340-3362-9b6e-8cbaa29c51f3/6198942311.jpg",
+      "thumbnails": {
+        "large": "https://coverartarchive.org/release/4f76244b-b340-3362-9b6e-8cbaa29c51f3/6198942311-500.jpg",
+        "small": "https://coverartarchive.org/release/4f76244b-b340-3362-9b6e-8cbaa29c51f3/6198942311-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4f76244b-b340-3362-9b6e-8cbaa29c51f3",
+        "title": "Back in Black",
+        "date": "1980-08-11",
+        "country": "AU",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "6198942311.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "6198943103",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/4f76244b-b340-3362-9b6e-8cbaa29c51f3/6198943103.jpg",
+      "thumbnails": {
+        "small": "https://coverartarchive.org/release/4f76244b-b340-3362-9b6e-8cbaa29c51f3/6198943103-250.jpg",
+        "large": "https://coverartarchive.org/release/4f76244b-b340-3362-9b6e-8cbaa29c51f3/6198943103-500.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "4f76244b-b340-3362-9b6e-8cbaa29c51f3",
+        "title": "Back in Black",
+        "date": "1980-08-11",
+        "country": "AU",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "6198943103.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "27887701606",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/50620974-4de5-4b76-bac2-b0f83a2c743d/27887701606.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/50620974-4de5-4b76-bac2-b0f83a2c743d/27887701606-1200.jpg",
+        "250": "https://coverartarchive.org/release/50620974-4de5-4b76-bac2-b0f83a2c743d/27887701606-250.jpg",
+        "500": "https://coverartarchive.org/release/50620974-4de5-4b76-bac2-b0f83a2c743d/27887701606-500.jpg",
+        "large": "https://coverartarchive.org/release/50620974-4de5-4b76-bac2-b0f83a2c743d/27887701606-500.jpg",
+        "small": "https://coverartarchive.org/release/50620974-4de5-4b76-bac2-b0f83a2c743d/27887701606-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "50620974-4de5-4b76-bac2-b0f83a2c743d",
+        "title": "Back in Black",
+        "date": "1998",
+        "country": "GB",
+        "status": "Promotion",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 2
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "27887701606.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "37185181229",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181229.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181229-1200.jpg",
+        "250": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181229-250.jpg",
+        "500": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181229-500.jpg",
+        "large": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181229-500.jpg",
+        "small": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181229-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "78874b77-589a-4f90-a65b-c3fed8087963",
+        "title": "Back in Black",
+        "date": "2003-10-14",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "37185181229.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "37185181842",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181842.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181842-1200.jpg",
+        "250": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181842-250.jpg",
+        "500": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181842-500.jpg",
+        "large": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181842-500.jpg",
+        "small": "https://coverartarchive.org/release/78874b77-589a-4f90-a65b-c3fed8087963/37185181842-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "78874b77-589a-4f90-a65b-c3fed8087963",
+        "title": "Back in Black",
+        "date": "2003-10-14",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "37185181842.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "32122338130",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338130.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338130-1200.jpg",
+        "250": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338130-250.jpg",
+        "500": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338130-500.jpg",
+        "large": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338130-500.jpg",
+        "small": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338130-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "a5985d9e-d38f-4625-9639-d6790d98a0d4",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "32122338130.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "32122338603",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338603.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338603-1200.jpg",
+        "250": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338603-250.jpg",
+        "500": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338603-500.jpg",
+        "large": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338603-500.jpg",
+        "small": "https://coverartarchive.org/release/a5985d9e-d38f-4625-9639-d6790d98a0d4/32122338603-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "a5985d9e-d38f-4625-9639-d6790d98a0d4",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "32122338603.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "32955087784",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955087784.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955087784-1200.jpg",
+        "250": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955087784-250.jpg",
+        "500": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955087784-500.jpg",
+        "large": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955087784-500.jpg",
+        "small": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955087784-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "bdae9ca6-255a-417d-b4f6-7c95d479636e",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": null,
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "32955087784.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "32955088377",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955088377.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955088377-1200.jpg",
+        "250": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955088377-250.jpg",
+        "500": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955088377-500.jpg",
+        "large": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955088377-500.jpg",
+        "small": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955088377-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "bdae9ca6-255a-417d-b4f6-7c95d479636e",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": null,
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "32955088377.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "43297485116",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485116.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485116-1200.jpg",
+        "250": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485116-250.jpg",
+        "500": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485116-500.jpg",
+        "large": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485116-500.jpg",
+        "small": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485116-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c4b5006f-46e5-4bde-b847-0080002eb57c",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": "US",
+        "status": "Official",
+        "edition": "AR, embossed",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 7
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "43297485116.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "43297485488",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485488.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485488-1200.jpg",
+        "250": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485488-250.jpg",
+        "500": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485488-500.jpg",
+        "large": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485488-500.jpg",
+        "small": "https://coverartarchive.org/release/c4b5006f-46e5-4bde-b847-0080002eb57c/43297485488-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c4b5006f-46e5-4bde-b847-0080002eb57c",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": "US",
+        "status": "Official",
+        "edition": "AR, embossed",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 7
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "43297485488.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "21396361596",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/e47ac3b4-8d22-3aac-bde0-64fe87a01390/21396361596.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/e47ac3b4-8d22-3aac-bde0-64fe87a01390/21396361596-1200.jpg",
+        "250": "https://coverartarchive.org/release/e47ac3b4-8d22-3aac-bde0-64fe87a01390/21396361596-250.jpg",
+        "500": "https://coverartarchive.org/release/e47ac3b4-8d22-3aac-bde0-64fe87a01390/21396361596-500.jpg",
+        "large": "https://coverartarchive.org/release/e47ac3b4-8d22-3aac-bde0-64fe87a01390/21396361596-500.jpg",
+        "small": "https://coverartarchive.org/release/e47ac3b4-8d22-3aac-bde0-64fe87a01390/21396361596-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "e47ac3b4-8d22-3aac-bde0-64fe87a01390",
+        "title": "Back in Black",
+        "date": "1980-07-31",
+        "country": "GB",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "21396361596.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "26413223388",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side One",
+      "original": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413223388.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413223388-1200.jpg",
+        "250": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413223388-250.jpg",
+        "500": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413223388-500.jpg",
+        "large": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413223388-500.jpg",
+        "small": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413223388-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "f7c680af-5b09-3fea-be84-5e00a7da56a0",
+        "title": "Back in Black",
+        "date": "1980-07-25",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 3
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "26413223388.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "26413224849",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side Two",
+      "original": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413224849.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413224849-1200.jpg",
+        "250": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413224849-250.jpg",
+        "500": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413224849-500.jpg",
+        "large": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413224849-500.jpg",
+        "small": "https://coverartarchive.org/release/f7c680af-5b09-3fea-be84-5e00a7da56a0/26413224849-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "f7c680af-5b09-3fea-be84-5e00a7da56a0",
+        "title": "Back in Black",
+        "date": "1980-07-25",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 3
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "26413224849.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "32955089139",
+      "types": [
+        "Other"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955089139.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955089139-1200.jpg",
+        "250": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955089139-250.jpg",
+        "500": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955089139-500.jpg",
+        "large": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955089139-500.jpg",
+        "small": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955089139-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "bdae9ca6-255a-417d-b4f6-7c95d479636e",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": null,
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "32955089139.jpg"
+  },
+  {
+    "album_id": "back-in-black",
+    "album": "Back In Black",
+    "artist": "AC/DC",
+    "candidate": {
+      "image_id": "32955091815",
+      "types": [
+        "Other"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955091815.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955091815-1200.jpg",
+        "250": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955091815-250.jpg",
+        "500": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955091815-500.jpg",
+        "large": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955091815-500.jpg",
+        "small": "https://coverartarchive.org/release/bdae9ca6-255a-417d-b4f6-7c95d479636e/32955091815-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "bdae9ca6-255a-417d-b4f6-7c95d479636e",
+        "title": "Back in Black",
+        "date": "1980",
+        "country": null,
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "32955091815.jpg"
+  },
+  {
+    "album_id": "after-hours",
+    "album": "After Hours",
+    "artist": "The Weeknd",
+    "candidate": {
+      "image_id": "27628269387",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269387.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269387-1200.jpg",
+        "250": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269387-250.jpg",
+        "500": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269387-500.jpg",
+        "large": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269387-500.jpg",
+        "small": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269387-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "805404ae-c029-4915-85cf-f00dd8a2b03d",
+        "title": "After Hours",
+        "date": "2020-09-25",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 12
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "27628269387.jpg"
+  },
+  {
+    "album_id": "after-hours",
+    "album": "After Hours",
+    "artist": "The Weeknd",
+    "candidate": {
+      "image_id": "27628269953",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269953.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269953-1200.jpg",
+        "250": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269953-250.jpg",
+        "500": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269953-500.jpg",
+        "large": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269953-500.jpg",
+        "small": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628269953-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "805404ae-c029-4915-85cf-f00dd8a2b03d",
+        "title": "After Hours",
+        "date": "2020-09-25",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 12
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "27628269953.jpg"
+  },
+  {
+    "album_id": "after-hours",
+    "album": "After Hours",
+    "artist": "The Weeknd",
+    "candidate": {
+      "image_id": "27628272125",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628272125.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628272125-1200.jpg",
+        "250": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628272125-250.jpg",
+        "500": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628272125-500.jpg",
+        "large": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628272125-500.jpg",
+        "small": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628272125-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "805404ae-c029-4915-85cf-f00dd8a2b03d",
+        "title": "After Hours",
+        "date": "2020-09-25",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 12
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "27628272125.jpg"
+  },
+  {
+    "album_id": "after-hours",
+    "album": "After Hours",
+    "artist": "The Weeknd",
+    "candidate": {
+      "image_id": "27628273001",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628273001.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628273001-1200.jpg",
+        "250": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628273001-250.jpg",
+        "500": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628273001-500.jpg",
+        "large": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628273001-500.jpg",
+        "small": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628273001-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "805404ae-c029-4915-85cf-f00dd8a2b03d",
+        "title": "After Hours",
+        "date": "2020-09-25",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 12
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "27628273001.jpg"
+  },
+  {
+    "album_id": "after-hours",
+    "album": "After Hours",
+    "artist": "The Weeknd",
+    "candidate": {
+      "image_id": "27628266328",
+      "types": [
+        "Other"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628266328.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628266328-1200.jpg",
+        "250": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628266328-250.jpg",
+        "500": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628266328-500.jpg",
+        "large": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628266328-500.jpg",
+        "small": "https://coverartarchive.org/release/805404ae-c029-4915-85cf-f00dd8a2b03d/27628266328-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "805404ae-c029-4915-85cf-f00dd8a2b03d",
+        "title": "After Hours",
+        "date": "2020-09-25",
+        "country": "XE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 12
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "27628266328.jpg"
+  },
+  {
+    "album_id": "swimming",
+    "album": "Swimming",
+    "artist": "Mac Miller",
+    "candidate": {
+      "image_id": "45797324906",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side 1",
+      "original": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324906.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324906-1200.jpg",
+        "250": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324906-250.jpg",
+        "500": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324906-500.jpg",
+        "large": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324906-500.jpg",
+        "small": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324906-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "401710fd-9e9b-4eb4-99d3-787ba8fe6b0f",
+        "title": "Swimming",
+        "date": "",
+        "country": "US",
+        "status": "Official",
+        "edition": "2LP reissue",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "45797324906.jpg"
+  },
+  {
+    "album_id": "swimming",
+    "album": "Swimming",
+    "artist": "Mac Miller",
+    "candidate": {
+      "image_id": "45797324938",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side 2",
+      "original": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324938.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324938-1200.jpg",
+        "250": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324938-250.jpg",
+        "500": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324938-500.jpg",
+        "large": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324938-500.jpg",
+        "small": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324938-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "401710fd-9e9b-4eb4-99d3-787ba8fe6b0f",
+        "title": "Swimming",
+        "date": "",
+        "country": "US",
+        "status": "Official",
+        "edition": "2LP reissue",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "45797324938.jpg"
+  },
+  {
+    "album_id": "swimming",
+    "album": "Swimming",
+    "artist": "Mac Miller",
+    "candidate": {
+      "image_id": "45797324967",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side 3",
+      "original": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324967.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324967-1200.jpg",
+        "250": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324967-250.jpg",
+        "500": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324967-500.jpg",
+        "large": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324967-500.jpg",
+        "small": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324967-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "401710fd-9e9b-4eb4-99d3-787ba8fe6b0f",
+        "title": "Swimming",
+        "date": "",
+        "country": "US",
+        "status": "Official",
+        "edition": "2LP reissue",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "45797324967.jpg"
+  },
+  {
+    "album_id": "swimming",
+    "album": "Swimming",
+    "artist": "Mac Miller",
+    "candidate": {
+      "image_id": "45797324997",
+      "types": [
+        "Medium"
+      ],
+      "comment": "Side 4",
+      "original": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324997.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324997-1200.jpg",
+        "250": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324997-250.jpg",
+        "500": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324997-500.jpg",
+        "large": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324997-500.jpg",
+        "small": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797324997-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "401710fd-9e9b-4eb4-99d3-787ba8fe6b0f",
+        "title": "Swimming",
+        "date": "",
+        "country": "US",
+        "status": "Official",
+        "edition": "2LP reissue",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "45797324997.jpg"
+  },
+  {
+    "album_id": "swimming",
+    "album": "Swimming",
+    "artist": "Mac Miller",
+    "candidate": {
+      "image_id": "45797325127",
+      "types": [
+        "Other"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797325127.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797325127-1200.jpg",
+        "250": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797325127-250.jpg",
+        "500": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797325127-500.jpg",
+        "large": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797325127-500.jpg",
+        "small": "https://coverartarchive.org/release/401710fd-9e9b-4eb4-99d3-787ba8fe6b0f/45797325127-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "401710fd-9e9b-4eb4-99d3-787ba8fe6b0f",
+        "title": "Swimming",
+        "date": "",
+        "country": "US",
+        "status": "Official",
+        "edition": "2LP reissue",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "45797325127.jpg"
+  },
+  {
+    "album_id": "life-of-pablo",
+    "album": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "candidate": {
+      "image_id": "38539841959",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539841959.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539841959-1200.jpg",
+        "250": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539841959-250.jpg",
+        "500": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539841959-500.jpg",
+        "large": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539841959-500.jpg",
+        "small": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539841959-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c9f316bd-54b5-4733-ac19-f1fcd2f67c68",
+        "title": "The Life of Pablo",
+        "date": "2016",
+        "country": null,
+        "status": "Bootleg",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "38539841959.jpg"
+  },
+  {
+    "album_id": "life-of-pablo",
+    "album": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "candidate": {
+      "image_id": "38539842364",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842364.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842364-1200.jpg",
+        "250": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842364-250.jpg",
+        "500": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842364-500.jpg",
+        "large": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842364-500.jpg",
+        "small": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842364-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c9f316bd-54b5-4733-ac19-f1fcd2f67c68",
+        "title": "The Life of Pablo",
+        "date": "2016",
+        "country": null,
+        "status": "Bootleg",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "38539842364.jpg"
+  },
+  {
+    "album_id": "life-of-pablo",
+    "album": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "candidate": {
+      "image_id": "38539842658",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842658.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842658-1200.jpg",
+        "250": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842658-250.jpg",
+        "500": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842658-500.jpg",
+        "large": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842658-500.jpg",
+        "small": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539842658-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c9f316bd-54b5-4733-ac19-f1fcd2f67c68",
+        "title": "The Life of Pablo",
+        "date": "2016",
+        "country": null,
+        "status": "Bootleg",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "38539842658.jpg"
+  },
+  {
+    "album_id": "life-of-pablo",
+    "album": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "candidate": {
+      "image_id": "38539843256",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539843256.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539843256-1200.jpg",
+        "250": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539843256-250.jpg",
+        "500": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539843256-500.jpg",
+        "large": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539843256-500.jpg",
+        "small": "https://coverartarchive.org/release/c9f316bd-54b5-4733-ac19-f1fcd2f67c68/38539843256-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "c9f316bd-54b5-4733-ac19-f1fcd2f67c68",
+        "title": "The Life of Pablo",
+        "date": "2016",
+        "country": null,
+        "status": "Bootleg",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "38539843256.jpg"
+  },
+  {
+    "album_id": "jesus-is-king",
+    "album": "JESUS IS KING",
+    "artist": "Kanye West",
+    "candidate": {
+      "image_id": "26549923819",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549923819.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549923819-1200.jpg",
+        "250": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549923819-250.jpg",
+        "500": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549923819-500.jpg",
+        "large": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549923819-500.jpg",
+        "small": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549923819-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "ca1e34af-0200-43eb-aee9-30bf52c4e791",
+        "title": "Jesus Is King",
+        "date": "2020-05-01",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "26549923819.jpg"
+  },
+  {
+    "album_id": "jesus-is-king",
+    "album": "JESUS IS KING",
+    "artist": "Kanye West",
+    "candidate": {
+      "image_id": "26549924727",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549924727.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549924727-1200.jpg",
+        "250": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549924727-250.jpg",
+        "500": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549924727-500.jpg",
+        "large": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549924727-500.jpg",
+        "small": "https://coverartarchive.org/release/ca1e34af-0200-43eb-aee9-30bf52c4e791/26549924727-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "ca1e34af-0200-43eb-aee9-30bf52c4e791",
+        "title": "Jesus Is King",
+        "date": "2020-05-01",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 4
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "26549924727.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "28466193988",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466193988.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466193988-1200.jpg",
+        "250": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466193988-250.jpg",
+        "500": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466193988-500.jpg",
+        "large": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466193988-500.jpg",
+        "small": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466193988-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "25e95f8c-3c7a-4b9a-a956-38e255807e60",
+        "title": "The Game",
+        "date": "1980",
+        "country": "JP",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 11
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "28466193988.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "28466196403",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466196403.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466196403-1200.jpg",
+        "250": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466196403-250.jpg",
+        "500": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466196403-500.jpg",
+        "large": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466196403-500.jpg",
+        "small": "https://coverartarchive.org/release/25e95f8c-3c7a-4b9a-a956-38e255807e60/28466196403-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "25e95f8c-3c7a-4b9a-a956-38e255807e60",
+        "title": "The Game",
+        "date": "1980",
+        "country": "JP",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 11
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "28466196403.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "28467645470",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467645470.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467645470-1200.jpg",
+        "250": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467645470-250.jpg",
+        "500": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467645470-500.jpg",
+        "large": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467645470-500.jpg",
+        "small": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467645470-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "61b54635-a8b0-45df-84f4-286a3056c960",
+        "title": "The Game",
+        "date": "1980-06-24",
+        "country": "GB",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "28467645470.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "28467648949",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467648949.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467648949-1200.jpg",
+        "250": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467648949-250.jpg",
+        "500": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467648949-500.jpg",
+        "large": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467648949-500.jpg",
+        "small": "https://coverartarchive.org/release/61b54635-a8b0-45df-84f4-286a3056c960/28467648949-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "61b54635-a8b0-45df-84f4-286a3056c960",
+        "title": "The Game",
+        "date": "1980-06-24",
+        "country": "GB",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "28467648949.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "19136675851",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136675851.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136675851-1200.jpg",
+        "250": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136675851-250.jpg",
+        "500": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136675851-500.jpg",
+        "large": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136675851-500.jpg",
+        "small": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136675851-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "9a2ebd9a-6b5a-4556-ba49-d096c7355bc5",
+        "title": "The Game",
+        "date": "1980",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "19136675851.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "19136677116",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136677116.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136677116-1200.jpg",
+        "250": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136677116-250.jpg",
+        "500": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136677116-500.jpg",
+        "large": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136677116-500.jpg",
+        "small": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136677116-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "9a2ebd9a-6b5a-4556-ba49-d096c7355bc5",
+        "title": "The Game",
+        "date": "1980",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "19136677116.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "4507215536",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/bcaaa4f0-dfcb-30ff-b725-1e3a786151a6/4507215536.jpg",
+      "thumbnails": {
+        "large": "https://coverartarchive.org/release/bcaaa4f0-dfcb-30ff-b725-1e3a786151a6/4507215536-500.jpg",
+        "small": "https://coverartarchive.org/release/bcaaa4f0-dfcb-30ff-b725-1e3a786151a6/4507215536-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "bcaaa4f0-dfcb-30ff-b725-1e3a786151a6",
+        "title": "The Game",
+        "date": "1980-06-30",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 5
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "4507215536.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "4507223322",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/bcaaa4f0-dfcb-30ff-b725-1e3a786151a6/4507223322.jpg",
+      "thumbnails": {
+        "large": "https://coverartarchive.org/release/bcaaa4f0-dfcb-30ff-b725-1e3a786151a6/4507223322-500.jpg",
+        "small": "https://coverartarchive.org/release/bcaaa4f0-dfcb-30ff-b725-1e3a786151a6/4507223322-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "bcaaa4f0-dfcb-30ff-b725-1e3a786151a6",
+        "title": "The Game",
+        "date": "1980-06-30",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 5
+      }
+    },
+    "curation": {
+      "exclude": true,
+      "quality": "label",
+      "note": "Center-label closeup; the complete vinyl record is outside the image."
+    },
+    "file": "4507223322.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "19136678341",
+      "types": [],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136678341.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136678341-1200.jpg",
+        "250": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136678341-250.jpg",
+        "500": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136678341-500.jpg",
+        "large": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136678341-500.jpg",
+        "small": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136678341-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "9a2ebd9a-6b5a-4556-ba49-d096c7355bc5",
+        "title": "The Game",
+        "date": "1980",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "19136678341.jpg"
+  },
+  {
+    "album_id": "the-game",
+    "album": "The Game (Deluxe Remastered Version)",
+    "artist": "Queen",
+    "candidate": {
+      "image_id": "19136679795",
+      "types": [],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136679795.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136679795-1200.jpg",
+        "250": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136679795-250.jpg",
+        "500": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136679795-500.jpg",
+        "large": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136679795-500.jpg",
+        "small": "https://coverartarchive.org/release/9a2ebd9a-6b5a-4556-ba49-d096c7355bc5/19136679795-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "9a2ebd9a-6b5a-4556-ba49-d096c7355bc5",
+        "title": "The Game",
+        "date": "1980",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Insert, sleeve, or detail crop rather than full disc."
+    },
+    "file": "19136679795.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28058868018",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868018.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868018-1200.jpg",
+        "250": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868018-250.jpg",
+        "500": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868018-500.jpg",
+        "large": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868018-500.jpg",
+        "small": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868018-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "a2ba16f9-aecd-40a3-9390-658dd366b377",
+        "title": "Californication",
+        "date": "1999",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28058868018.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28058868878",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868878.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868878-1200.jpg",
+        "250": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868878-250.jpg",
+        "500": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868878-500.jpg",
+        "large": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868878-500.jpg",
+        "small": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058868878-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "a2ba16f9-aecd-40a3-9390-658dd366b377",
+        "title": "Californication",
+        "date": "1999",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28058868878.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28058869684",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058869684.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058869684-1200.jpg",
+        "250": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058869684-250.jpg",
+        "500": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058869684-500.jpg",
+        "large": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058869684-500.jpg",
+        "small": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058869684-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "a2ba16f9-aecd-40a3-9390-658dd366b377",
+        "title": "Californication",
+        "date": "1999",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28058869684.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28058870600",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058870600.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058870600-1200.jpg",
+        "250": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058870600-250.jpg",
+        "500": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058870600-500.jpg",
+        "large": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058870600-500.jpg",
+        "small": "https://coverartarchive.org/release/a2ba16f9-aecd-40a3-9390-658dd366b377/28058870600-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "a2ba16f9-aecd-40a3-9390-658dd366b377",
+        "title": "Californication",
+        "date": "1999",
+        "country": "DE",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28058870600.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28059072266",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059072266.png",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059072266-1200.jpg",
+        "250": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059072266-250.jpg",
+        "500": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059072266-500.jpg",
+        "large": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059072266-500.jpg",
+        "small": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059072266-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "b5251d00-c9c7-4743-92af-244cf28bc6e4",
+        "title": "Californication",
+        "date": "2012",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28059072266.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28059074027",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074027.png",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074027-1200.jpg",
+        "250": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074027-250.jpg",
+        "500": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074027-500.jpg",
+        "large": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074027-500.jpg",
+        "small": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074027-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "b5251d00-c9c7-4743-92af-244cf28bc6e4",
+        "title": "Californication",
+        "date": "2012",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28059074027.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28059074874",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074874.png",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074874-1200.jpg",
+        "250": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074874-250.jpg",
+        "500": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074874-500.jpg",
+        "large": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074874-500.jpg",
+        "small": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059074874-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "b5251d00-c9c7-4743-92af-244cf28bc6e4",
+        "title": "Californication",
+        "date": "2012",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28059074874.jpg"
+  },
+  {
+    "album_id": "californication",
+    "album": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "candidate": {
+      "image_id": "28059075824",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059075824.png",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059075824-1200.jpg",
+        "250": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059075824-250.jpg",
+        "500": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059075824-500.jpg",
+        "large": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059075824-500.jpg",
+        "small": "https://coverartarchive.org/release/b5251d00-c9c7-4743-92af-244cf28bc6e4/28059075824-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "b5251d00-c9c7-4743-92af-244cf28bc6e4",
+        "title": "Californication",
+        "date": "2012",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "28059075824.jpg"
+  },
+  {
+    "album_id": "curtain-call",
+    "album": "Curtain Call: The Hits (Deluxe Edition)",
+    "artist": "Eminem",
+    "candidate": {
+      "image_id": "27272029871",
+      "types": [
+        "Medium"
+      ],
+      "comment": "side A",
+      "original": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272029871.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272029871-1200.jpg",
+        "250": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272029871-250.jpg",
+        "500": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272029871-500.jpg",
+        "large": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272029871-500.jpg",
+        "small": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272029871-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "2824162b-d08d-4935-b2ba-2699594589dd",
+        "title": "Curtain Call: The Hits",
+        "date": "2005-12-05",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "27272029871.jpg"
+  },
+  {
+    "album_id": "curtain-call",
+    "album": "Curtain Call: The Hits (Deluxe Edition)",
+    "artist": "Eminem",
+    "candidate": {
+      "image_id": "27272030806",
+      "types": [
+        "Medium"
+      ],
+      "comment": "side B",
+      "original": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272030806.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272030806-1200.jpg",
+        "250": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272030806-250.jpg",
+        "500": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272030806-500.jpg",
+        "large": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272030806-500.jpg",
+        "small": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272030806-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "2824162b-d08d-4935-b2ba-2699594589dd",
+        "title": "Curtain Call: The Hits",
+        "date": "2005-12-05",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "27272030806.jpg"
+  },
+  {
+    "album_id": "curtain-call",
+    "album": "Curtain Call: The Hits (Deluxe Edition)",
+    "artist": "Eminem",
+    "candidate": {
+      "image_id": "27272031661",
+      "types": [
+        "Medium"
+      ],
+      "comment": "side C",
+      "original": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272031661.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272031661-1200.jpg",
+        "250": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272031661-250.jpg",
+        "500": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272031661-500.jpg",
+        "large": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272031661-500.jpg",
+        "small": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272031661-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "2824162b-d08d-4935-b2ba-2699594589dd",
+        "title": "Curtain Call: The Hits",
+        "date": "2005-12-05",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "27272031661.jpg"
+  },
+  {
+    "album_id": "curtain-call",
+    "album": "Curtain Call: The Hits (Deluxe Edition)",
+    "artist": "Eminem",
+    "candidate": {
+      "image_id": "27272032549",
+      "types": [
+        "Medium"
+      ],
+      "comment": "side D",
+      "original": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272032549.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272032549-1200.jpg",
+        "250": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272032549-250.jpg",
+        "500": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272032549-500.jpg",
+        "large": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272032549-500.jpg",
+        "small": "https://coverartarchive.org/release/2824162b-d08d-4935-b2ba-2699594589dd/27272032549-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "2824162b-d08d-4935-b2ba-2699594589dd",
+        "title": "Curtain Call: The Hits",
+        "date": "2005-12-05",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl",
+          "12\" Vinyl"
+        ],
+        "art_count": 6
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "27272032549.jpg"
+  },
+  {
+    "album_id": "death-of-a-bachelor",
+    "album": "Death of a Bachelor",
+    "artist": "Panic! At The Disco",
+    "candidate": {
+      "image_id": "16305223413",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223413.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223413-1200.jpg",
+        "250": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223413-250.jpg",
+        "500": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223413-500.jpg",
+        "large": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223413-500.jpg",
+        "small": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223413-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "de788196-565d-4b8d-b8f4-1f1d99fc352e",
+        "title": "Death of a Bachelor",
+        "date": "2016-04-01",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "16305223413.jpg"
+  },
+  {
+    "album_id": "death-of-a-bachelor",
+    "album": "Death of a Bachelor",
+    "artist": "Panic! At The Disco",
+    "candidate": {
+      "image_id": "16305223826",
+      "types": [
+        "Medium"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223826.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223826-1200.jpg",
+        "250": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223826-250.jpg",
+        "500": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223826-500.jpg",
+        "large": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223826-500.jpg",
+        "small": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305223826-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "de788196-565d-4b8d-b8f4-1f1d99fc352e",
+        "title": "Death of a Bachelor",
+        "date": "2016-04-01",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "label",
+      "exclude": true,
+      "note": "Center-label closeup or packaged record; not a clean full-disc photograph."
+    },
+    "file": "16305223826.jpg"
+  },
+  {
+    "album_id": "death-of-a-bachelor",
+    "album": "Death of a Bachelor",
+    "artist": "Panic! At The Disco",
+    "candidate": {
+      "image_id": "16305224467",
+      "types": [
+        "Other"
+      ],
+      "comment": "",
+      "original": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305224467.jpg",
+      "thumbnails": {
+        "1200": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305224467-1200.jpg",
+        "250": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305224467-250.jpg",
+        "500": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305224467-500.jpg",
+        "large": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305224467-500.jpg",
+        "small": "https://coverartarchive.org/release/de788196-565d-4b8d-b8f4-1f1d99fc352e/16305224467-250.jpg"
+      },
+      "kind": "vinyl",
+      "release": {
+        "id": "de788196-565d-4b8d-b8f4-1f1d99fc352e",
+        "title": "Death of a Bachelor",
+        "date": "2016-04-01",
+        "country": "US",
+        "status": "Official",
+        "edition": "",
+        "formats": [
+          "12\" Vinyl"
+        ],
+        "art_count": 10
+      }
+    },
+    "curation": {
+      "quality": "packaging",
+      "exclude": true,
+      "note": "Album insert, sleeve photograph, or label closeup; not a usable full record."
+    },
+    "file": "16305224467.jpg"
+  }
+]

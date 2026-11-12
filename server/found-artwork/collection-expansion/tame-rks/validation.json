@@ -1,0 +1,86 @@
+[
+  {
+    "file": "slow-rush-vinyl.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center": [
+      324,
+      324
+    ],
+    "hole_diameter": 16,
+    "opaque_annulus": true,
+    "file_bytes": 190006
+  },
+  {
+    "file": "slow-rush-cd.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center": [
+      324,
+      324
+    ],
+    "hole_diameter": 80,
+    "opaque_annulus": true,
+    "file_bytes": 329512
+  },
+  {
+    "file": "freefall-vinyl.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center": [
+      324,
+      324
+    ],
+    "hole_diameter": 16,
+    "opaque_annulus": true,
+    "file_bytes": 373300
+  },
+  {
+    "file": "freefall-cd.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "center": [
+      324,
+      324
+    ],
+    "hole_diameter": 80,
+    "opaque_annulus": true,
+    "file_bytes": 480288
+  }
+]

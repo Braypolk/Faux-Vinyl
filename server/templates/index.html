@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+{% block head %}
+<link rel="stylesheet" href="{{ url_for('static', filename='shelf.css') }}">
+<script defer src="{{ url_for('static', filename='shelf.js') }}"></script>
+{% endblock %}
+{% block content %}
+<h1 class="sr-only">Your records</h1>
+<section class="record-browser" data-record-browser aria-label="Browse your record collection">
+  <div class="record-player" hidden>
+    <div class="sleeve-stage">
+      <button class="sleeve" type="button" aria-label="Turn sleeve over" aria-pressed="false">
+        <span class="sleeve-inner">
+          <span class="sleeve-face sleeve-front"></span>
+          <span class="sleeve-face sleeve-back" aria-hidden="true"></span>
+        </span>
+      </button>
+      <div class="sleeve-tools"><button class="quiet turn-sleeve" type="button" aria-label="Show back cover">↻ Flip</button><button class="quiet enlarge-sleeve" type="button" aria-label="Enlarge artwork">⤢</button></div>
+    </div>
+    <div class="record-information">
+      <h2 class="selected-title"><span class="selected-title-text"></span></h2>
+      <div class="selected-actions"><a class="button selected-play" href="/">Play</a><a class="text-link selected-edit" href="/">Edit</a><button class="quiet selected-copy" type="button" data-copy="">Copy NFC URL</button></div>
+    </div>
+  </div>
+  <div class="shelf-toolbar" hidden>
+    <div class="shelf-filter"><label for="record-search">Search records</label><input id="record-search" type="search" placeholder="Search" autocomplete="off" value="{{ request.args.get('q', '')[:140] }}" maxlength="140"></div>
+    <form class="shelf-sort" method="get" action="{{ url_for('index') }}">
+      <input type="hidden" name="q" value="">
+      <label class="sr-only" for="shelf-sort">Sort records</label>
+      <select id="shelf-sort" name="sort">
+        {% for value, label in [('title', 'A–Z'), ('title-desc', 'Z–A'), ('newest', 'Newest'), ('oldest', 'Oldest')] %}<option value="{{ value }}"{% if sort_order == value %} selected{% endif %}>{{ label }}</option>{% endfor %}
+      </select><button class="sort-submit quiet" type="submit">Sort</button>
+    </form>
+    <div class="browse-controls"><button class="record-previous" type="button" aria-label="Previous record">←</button><button class="record-next" type="button" aria-label="Next record">→</button></div>
+  </div>
+  <div class="crate-shell">
+    <section class="collection" aria-label="Records on your shelf" tabindex="-1">
+    {% for card in cards %}
+      <article class="album-card tone-{{ loop.index0 % 5 }}" data-record-id="{{ card.id }}" data-title="{{ card.title }}" data-kind="{{ card.uri.split(':')[1] }}" data-catalogue="FV / {{ '%03d'|format(loop.index) }}" data-front="{{ card.artwork.front|default('', true) }}" data-back="{{ card.artwork.back|default('', true) }}" data-play="{{ url_for('card_page', card_id=card.id) }}" data-edit="{{ url_for('edit_card', card_id=card.id) }}" data-nfc="{{ public_url }}/c/{{ card.id }}">
+        <a class="album-artwork" href="{{ url_for('edit_card', card_id=card.id) }}" aria-label="Edit {{ card.title }}">
+          {% if card.artwork.front %}<img src="{{ card.artwork.front }}" alt="{{ card.title }} cover artwork" width="640" height="640" loading="eager" decoding="sync">{% else %}<span class="artwork-placeholder" aria-hidden="true"><span class="placeholder-record"></span></span>{% endif %}
+        </a>
+        <div class="album-details"><a class="album-title" href="{{ url_for('edit_card', card_id=card.id) }}">{{ card.title }}</a><div class="card-actions"><a href="{{ url_for('card_page', card_id=card.id) }}">Play ↗</a><button class="copy quiet" type="button" data-copy="{{ public_url }}/c/{{ card.id }}">Copy NFC URL</button></div></div>
+      </article>
+    {% else %}<p class="intro">No records yet.</p>{% endfor %}
+    </section>
+    <p class="no-records" hidden>No results.</p>
+    <div class="shelf-edge" aria-hidden="true"></div>
+  </div>
+  <p class="shelf-status" role="status" aria-live="polite" aria-atomic="true"></p>
+</section>
+<div class="collection-management">
+  <details class="add-record" id="add-card"><summary><span>Add record</span><span aria-hidden="true">+</span></summary><form method="post" action="/cards"><input type="hidden" name="csrf" value="{{ csrf() }}"><div><label for="title">Name</label><input id="title" name="title" maxlength="140" required></div><div class="wide"><label for="uri">Spotify link</label><input id="uri" name="uri" type="text" required></div><button type="submit">Add</button></form></details>
+  <a class="text-link" href="/cards.csv">Export NFC URLs</a>
+</div>
+<template id="blank-sleeve"><span class="artwork-placeholder"><span class="placeholder-record"></span></span></template>
+<template id="blank-back"><span class="sleeve-notes">No back artwork.</span></template>
+<dialog class="sleeve-dialog" aria-label="Enlarged record artwork"><div class="dialog-toolbar"><span class="dialog-title"></span><button class="dialog-close" type="button" aria-label="Close enlarged artwork">×</button></div><div class="dialog-artwork"></div><button class="quiet dialog-turn" type="button">↻ Flip</button></dialog>
+{% endblock %}

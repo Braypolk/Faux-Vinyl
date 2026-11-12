@@ -1,0 +1,32 @@
+[
+  {
+    "image_id": "external-vinyl-64e7772113b943f49668",
+    "attempt": 1,
+    "http_status": 400,
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 2695470a-067a-41f4-a0cf-6017b65f9b80.",
+    "type": "image_generation_user_error",
+    "code": "moderation_blocked",
+    "moderation_details": {
+      "moderation_stage": "input",
+      "categories": [
+        "public-figure"
+      ]
+    },
+    "request_id": "2695470a-067a-41f4-a0cf-6017b65f9b80"
+  },
+  {
+    "image_id": "external-vinyl-64e7772113b943f49668",
+    "attempt": 2,
+    "http_status": 400,
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 01d968d1-885a-4b4e-95ef-a626bf943603.",
+    "type": "image_generation_user_error",
+    "code": "moderation_blocked",
+    "moderation_details": {
+      "moderation_stage": "input",
+      "categories": [
+        "public-figure"
+      ]
+    },
+    "request_id": "01d968d1-885a-4b4e-95ef-a626bf943603"
+  }
+]

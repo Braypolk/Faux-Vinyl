@@ -1,0 +1,347 @@
+[
+  {
+    "id": "the-off-season:external-cd-7ecd988a8925d7f6c96a",
+    "image_id": "external-cd-7ecd988a8925d7f6c96a",
+    "album_id": "the-off-season",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-7ecd988a8925d7f6c96a-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [5, 9, 587, 582], spindle [298, 300]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-7ecd988a8925d7f6c96a.jpg",
+    "notes": "Original silver/clear hub ring retained outside the centered 80px CD aperture; scanner texture/surface marks remain.",
+    "source_row_index": 14,
+    "outer_ellipse": [
+      5,
+      9,
+      587,
+      582
+    ],
+    "source_spindle": [
+      298,
+      300
+    ]
+  },
+  {
+    "id": "flume:external-cd-d4cb7c79715535d27062",
+    "image_id": "external-cd-d4cb7c79715535d27062",
+    "album_id": "flume",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-d4cb7c79715535d27062-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [7, 12, 584, 577], spindle [298, 300]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-d4cb7c79715535d27062.jpg",
+    "notes": "Original silver/clear hub ring retained outside the centered 80px CD aperture; scanner texture/surface marks remain.",
+    "source_row_index": 19,
+    "outer_ellipse": [
+      7,
+      12,
+      584,
+      577
+    ],
+    "source_spindle": [
+      298,
+      300
+    ]
+  },
+  {
+    "id": "swimming:external-cd-91fbe6e449c656eeca56",
+    "image_id": "external-cd-91fbe6e449c656eeca56",
+    "album_id": "swimming",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-91fbe6e449c656eeca56-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [3, 5, 594, 586], spindle [300, 298]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-91fbe6e449c656eeca56.jpg",
+    "notes": "Original silver/clear hub ring retained outside the centered 80px CD aperture; scanner texture/surface marks remain.",
+    "source_row_index": 24,
+    "outer_ellipse": [
+      3,
+      5,
+      594,
+      586
+    ],
+    "source_spindle": [
+      300,
+      298
+    ]
+  },
+  {
+    "id": "blonde:external-cd-02a244cdd3cdc9fe2204",
+    "image_id": "external-cd-02a244cdd3cdc9fe2204",
+    "album_id": "blonde",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-02a244cdd3cdc9fe2204-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [28, 22, 553, 554], spindle [305, 299]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-02a244cdd3cdc9fe2204.webp",
+    "notes": "",
+    "source_row_index": 26,
+    "outer_ellipse": [
+      28,
+      22,
+      553,
+      554
+    ],
+    "source_spindle": [
+      305,
+      299
+    ]
+  },
+  {
+    "id": "life-of-pablo:external-vinyl-72ad61283c03038e0f69",
+    "image_id": "external-vinyl-72ad61283c03038e0f69",
+    "album_id": "life-of-pablo",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-72ad61283c03038e0f69-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [14, 14, 578, 574], spindle [305, 299]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-vinyl-72ad61283c03038e0f69.jpg",
+    "notes": "Retains warm photographed amber tone and the approved unofficial side A; no claim of official pressing.",
+    "source_row_index": 27,
+    "outer_ellipse": [
+      14,
+      14,
+      578,
+      574
+    ],
+    "source_spindle": [
+      305,
+      299
+    ]
+  },
+  {
+    "id": "jesus-is-king:external-vinyl-bb7107baa3adb4c458b2",
+    "image_id": "external-vinyl-bb7107baa3adb4c458b2",
+    "album_id": "jesus-is-king",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-bb7107baa3adb4c458b2-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [162, 165, 677, 677], spindle [500, 500]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-vinyl-bb7107baa3adb4c458b2.png",
+    "notes": "Official blue-vinyl render retained; original small spindle enlarged to physical vinyl scale.",
+    "source_row_index": 29,
+    "outer_ellipse": [
+      162,
+      165,
+      677,
+      677
+    ],
+    "source_spindle": [
+      500,
+      500
+    ]
+  },
+  {
+    "id": "the-game:external-vinyl-a126d0b8c425a2aeb662",
+    "image_id": "external-vinyl-a126d0b8c425a2aeb662",
+    "album_id": "the-game",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-a126d0b8c425a2aeb662-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [0, 1, 1999, 1998], spindle [1006, 1035]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-vinyl-a126d0b8c425a2aeb662.jpg",
+    "notes": "Preserved photographed grey marble and lighting; original spindle offset corrected geometrically.",
+    "source_row_index": 30,
+    "outer_ellipse": [
+      0,
+      1,
+      1999,
+      1998
+    ],
+    "source_spindle": [
+      1006,
+      1035
+    ]
+  },
+  {
+    "id": "american-teen:external-vinyl-808ac6a4191fcfec2b92",
+    "image_id": "external-vinyl-808ac6a4191fcfec2b92",
+    "album_id": "american-teen",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-808ac6a4191fcfec2b92-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [33, 187, 636, 636], spindle [350, 504]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-vinyl-808ac6a4191fcfec2b92.jpg",
+    "notes": "",
+    "source_row_index": 32,
+    "outer_ellipse": [
+      33,
+      187,
+      636,
+      636
+    ],
+    "source_spindle": [
+      350,
+      504
+    ]
+  },
+  {
+    "id": "dreamland:external-cd-aa504c3f0b893b2561cc",
+    "image_id": "external-cd-aa504c3f0b893b2561cc",
+    "album_id": "dreamland",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-aa504c3f0b893b2561cc-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [5, 5, 586, 589], spindle [298, 298]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-aa504c3f0b893b2561cc.jpg",
+    "notes": "Original silver/clear hub ring retained outside the centered 80px CD aperture; scanner texture/surface marks remain.",
+    "source_row_index": 35,
+    "outer_ellipse": [
+      5,
+      5,
+      586,
+      589
+    ],
+    "source_spindle": [
+      298,
+      298
+    ]
+  },
+  {
+    "id": "curtain-call:external-vinyl-e21331a304abc852e614",
+    "image_id": "external-vinyl-e21331a304abc852e614",
+    "album_id": "curtain-call",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-e21331a304abc852e614-final.webp",
+    "method": "reference-reconstruction",
+    "processing": "PhotoCraft: individually measured native outer ellipse [19, 25, 1210, 1210], spindle [623, 632]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original label patch composited over reconstructed groove field.",
+    "prompt": "Use case: precise-object-edit. Asset type: FauxVinyl spinning record asset. Edit target: the supplied actual photograph of the 2024 blue Eminem Curtain Call: The Hits side B vinyl. Produce ONE complete top-down, perfectly circular record, perpendicular to camera, centered spindle. Preserve this exact royal/cobalt translucent blue pressing and the exact original circular printed center label: Eminem photograph, tiny SIDE B, EMINEM in white and CURTAIN CALL in green, all existing artwork, lettering, legal lines and track layout. The photograph printed on the center label is intentional and must stay. Reconstruct only the unprinted blue groove surface as necessary to remove the reflected photographer/camera/room and correct perspective; retain realistic concentric record grooves and original blue tone. Remove sleeve, protector, all surrounding objects, and cast shadows. No album cover pasted on the disc, no new print, no new variant. Complete outer rim, evenly circular with no clipping. Transparent background outside the disc and transparent tiny spindle hole, 2.5 percent of disc diameter. Disc fills about 96 percent of a square canvas, equal transparent margin. Photographic fidelity, faithful restoration rather than redesign.",
+    "source_reference": "static/disc-review/images/external-vinyl-e21331a304abc852e614.jpg",
+    "notes": "Unprinted groove field/rim reconstructed using built-in image_gen; original photographed printed center label composited back with PhotoCraft. Fine label detail remains limited by the native source resolution. A narrow reconstructed black border remains around the original label. Photographer/room reflection removed through reconstruction; original label photo is retained intentionally.",
+    "source_row_index": 36,
+    "outer_ellipse": [
+      19,
+      25,
+      1210,
+      1210
+    ],
+    "source_spindle": [
+      623,
+      632
+    ]
+  },
+  {
+    "id": "death-of-a-bachelor:external-vinyl-791fa999097b068f25f2",
+    "image_id": "external-vinyl-791fa999097b068f25f2",
+    "album_id": "death-of-a-bachelor",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-791fa999097b068f25f2-final.webp",
+    "method": "reference-reconstruction",
+    "processing": "PhotoCraft: individually measured native outer ellipse [24, 28, 1204, 1204], spindle [626, 628]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original label patch composited over reconstructed groove field.",
+    "prompt": "Use case: precise-object-edit. Asset type: FauxVinyl spinning record asset. Edit target: supplied actual silver Panic! At The Disco Death Of A Bachelor side A vinyl photograph. Restore a complete perfectly circular top-down record with perpendicular view and spindle centered. The source has slightly clipped outer rim at top and sides: reconstruct the missing unprinted silver groove surface and complete rim only, correcting perspective. Preserve the exact silver/grey pressing, black circular center label, hand-drawn yellow PANIC! AT THE DISCO and DEATH OF A BACHELOR lettering, white mechanical drawing, red A at right, Fueled By Ramen logo and original tiny legal text, relative positions and proportions. No album-cover replacement and no new print. Remove all inner-sleeve, paper, arrows, background text, cast shadow, room reflections and photographer reflection. Keep subtle silver vinyl material texture and concentric grooves. One single disc, entire circumference visible, square canvas, centered with equal transparent margins, transparent outside the disc and tiny spindle hole 2.5 percent of record diameter. Photographic reference restoration with no invented artwork.",
+    "source_reference": "static/disc-review/images/external-vinyl-791fa999097b068f25f2.jpg",
+    "notes": "Unprinted groove field/rim reconstructed using built-in image_gen; original photographed printed center label composited back with PhotoCraft. Fine label detail remains limited by the native source resolution. A narrow reconstructed black border remains around the original label. Clipped source rim reconstructed; source printed sleeve arrows/text excluded.",
+    "source_row_index": 37,
+    "outer_ellipse": [
+      24,
+      28,
+      1204,
+      1204
+    ],
+    "source_spindle": [
+      626,
+      628
+    ]
+  },
+  {
+    "id": "everybody:external-vinyl-ef6743d789946465da03",
+    "image_id": "external-vinyl-ef6743d789946465da03",
+    "album_id": "everybody",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-ef6743d789946465da03-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [0, 0, 600, 600], spindle [298, 297]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-vinyl-ef6743d789946465da03.jpg",
+    "notes": "Source circumference touches image bounds; a centered circular mask retains the full available printed face and red groove field.",
+    "source_row_index": 38,
+    "outer_ellipse": [
+      0,
+      0,
+      600,
+      600
+    ],
+    "source_spindle": [
+      298,
+      297
+    ]
+  },
+  {
+    "id": "everybody:external-cd-c97ad251adee463ba3d4",
+    "image_id": "external-cd-c97ad251adee463ba3d4",
+    "album_id": "everybody",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-c97ad251adee463ba3d4-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [5, 5, 580, 587], spindle [295, 298]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-c97ad251adee463ba3d4.jpg",
+    "notes": "Original silver/clear hub ring retained outside the centered 80px CD aperture; scanner texture/surface marks remain.",
+    "source_row_index": 39,
+    "outer_ellipse": [
+      5,
+      5,
+      580,
+      587
+    ],
+    "source_spindle": [
+      295,
+      298
+    ]
+  },
+  {
+    "id": "woodstock:external-cd-c373776f240d5c0de7a9",
+    "image_id": "external-cd-c373776f240d5c0de7a9",
+    "album_id": "woodstock",
+    "kind": "cd",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-cd-c373776f240d5c0de7a9-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [7, 12, 578, 577], spindle [295, 300]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 80px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-cd-c373776f240d5c0de7a9.jpg",
+    "notes": "Original silver/clear hub ring retained outside the centered 80px CD aperture; scanner texture/surface marks remain.",
+    "source_row_index": 41,
+    "outer_ellipse": [
+      7,
+      12,
+      578,
+      577
+    ],
+    "source_spindle": [
+      295,
+      300
+    ]
+  },
+  {
+    "id": "father-figure-725a6a:external-vinyl-c15aaacb030e6edb8ab3",
+    "image_id": "external-vinyl-c15aaacb030e6edb8ab3",
+    "album_id": "father-figure-725a6a",
+    "kind": "vinyl",
+    "output": "found-artwork/approved-discs-v2/cleanup-b/external-vinyl-c15aaacb030e6edb8ab3-final.webp",
+    "method": "photocraft-cutout",
+    "processing": "PhotoCraft: individually measured native outer ellipse [743, 387, 938, 938], spindle [1208, 849]; crop and Lanczos resample to 640px; circle-preserving projective spindle alignment; circular alpha mask and centered 16px hole; centered 648px canvas with 4px transparent margin; lossless RGBA WebP. Original artwork pixels retained.",
+    "prompt": "",
+    "source_reference": "static/disc-review/images/external-vinyl-c15aaacb030e6edb8ab3.png",
+    "notes": "Official clear-vinyl mockup retained. Native alpha edge had a slight rectangular trim; individually inset geometric mask removes that trim and surrounding shadow. White/clear appearance remains as rendered in source.",
+    "source_row_index": 42,
+    "outer_ellipse": [
+      743,
+      387,
+      938,
+      938
+    ],
+    "source_spindle": [
+      1208,
+      849
+    ]
+  }
+]

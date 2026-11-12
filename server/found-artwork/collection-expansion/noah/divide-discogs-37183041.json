@@ -1,0 +1,802 @@
+{
+  "id": 37183041,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/37183041",
+  "uri": "https://www.discogs.com/release/37183041-Noah-Kahan-The-Great-Divide-",
+  "artists": [
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449",
+      "thumbnail_url": "https://i.discogs.com/oSvkChvpkmfx1xU338EJakvecbPE76KjMeA2usJxMoM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5NTE0/NDktMTcxMDAyMjA2/My03MTIzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Noah Kahan",
+  "labels": [
+    {
+      "name": "Mercury",
+      "catno": "199957317412",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 39357,
+      "resource_url": "https://api.discogs.com/labels/39357",
+      "thumbnail_url": "https://i.discogs.com/Gk10JQfI8xTIB79ehV94mylhBMI0-KediNkDlP0wk3M/rs:fit/g:sm/q:90/h:269/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTE3ODE4ODgzMDIt/MTAyMS5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Mercury Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 25241,
+      "resource_url": "https://api.discogs.com/labels/25241",
+      "thumbnail_url": "https://i.discogs.com/cXvMxqs9ISkkWQ80pnRetJhI0eorZNJF1bC5uR9Kf1I/rs:fit/g:sm/q:90/h:160/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MjQx/LTE0OTc2NDAyNDQt/ODQyOS5qcGVn.jpeg"
+    },
+    {
+      "name": "Mercury Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 25241,
+      "resource_url": "https://api.discogs.com/labels/25241",
+      "thumbnail_url": "https://i.discogs.com/cXvMxqs9ISkkWQ80pnRetJhI0eorZNJF1bC5uR9Kf1I/rs:fit/g:sm/q:90/h:160/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MjQx/LTE0OTc2NDAyNDQt/ODQyOS5qcGVn.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "The ADS Group",
+      "catno": "26715-CD-0111",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 340656,
+      "resource_url": "https://api.discogs.com/labels/340656",
+      "thumbnail_url": "https://i.discogs.com/55XW9ds7UFyVg7WYwrc8ATJhZ3b8TjTUxa3dOBKfuns/rs:fit/g:sm/q:90/h:86/w:282/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0MDY1/Ni0xMzc2NjIyMzQ5/LTkwMjMuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "1",
+      "descriptions": [
+        "Album",
+        "Stereo"
+      ],
+      "text": "Signed Insert"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 844,
+    "want": 41,
+    "rating": {
+      "count": 102,
+      "average": 4.83
+    },
+    "submitter": {
+      "username": "cgtiffany",
+      "resource_url": "https://api.discogs.com/users/cgtiffany"
+    },
+    "contributors": [
+      {
+        "username": "cgtiffany",
+        "resource_url": "https://api.discogs.com/users/cgtiffany"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "F56",
+        "resource_url": "https://api.discogs.com/users/F56"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-04-26T14:05:19-07:00",
+  "date_changed": "2026-05-17T03:24:54-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 22.47,
+  "master_id": 4204443,
+  "master_url": "https://api.discogs.com/masters/4204443",
+  "title": "The Great Divide ",
+  "country": "US",
+  "released": "2026-04-24",
+  "notes": "Artist webstore exclusive release, includes a 22-page booklet in the front panel and a 4\u201dx4\u201d signed insert. \n\nHype sticker on front shrink-wrap includes the catalog number, artist name, album title, and Parental Advisory Logo. \n\nTrack durations are not printed on the release, ",
+  "released_formatted": "24 Apr 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 99957 31743 6",
+      "description": "Stickered, text"
+    },
+    {
+      "type": "Barcode",
+      "value": "199957317436",
+      "description": "Stickered, scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "1 99957 31741 2",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "199957317412",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "26715-CD-0111 26-065-12-2"
+    },
+    {
+      "type": "Mastering SID Code",
+      "value": "IFPI LY89"
+    },
+    {
+      "type": "Mould SID Code",
+      "value": "IFPI L817",
+      "description": "Label side, inner ring"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=SKs80r2Lp34",
+      "title": "Noah Kahan - The Great Divide (Official Music Video)",
+      "description": "Watch the official music video for \"The Great Divide\" by Noah Kahan.\n\nStream/download \"The Great Divide\": https://noahkahan.lnk.to/thegreatdivide-single\nPre-order Noah's album, The Great Divide, out April 24: https://noahkahan.lnk.to/thegreatdivide\n\nCreat",
+      "duration": 346,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Indie Pop",
+    "Folk",
+    "Folk Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "End Of August",
+      "extraartists": [
+        {
+          "name": "Aaron Dessner",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436584,
+          "resource_url": "https://api.discogs.com/artists/436584"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "5:17"
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Doors",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        },
+        {
+          "name": "Sam Westhoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 14899228,
+          "resource_url": "https://api.discogs.com/artists/14899228"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "American Cars",
+      "extraartists": [
+        {
+          "name": "Carrie K",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12621587,
+          "resource_url": "https://api.discogs.com/artists/12621587"
+        },
+        {
+          "name": "Dylan Jones (14)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 11193863,
+          "resource_url": "https://api.discogs.com/artists/11193863"
+        },
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        },
+        {
+          "name": "Noah Levine",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3804636,
+          "resource_url": "https://api.discogs.com/artists/3804636"
+        }
+      ],
+      "duration": "4:32"
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "Downfall",
+      "extraartists": [
+        {
+          "name": "Aaron Dessner",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436584,
+          "resource_url": "https://api.discogs.com/artists/436584"
+        },
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "4:15"
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Paid Time Off",
+      "extraartists": [
+        {
+          "name": "Carrie K",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12621587,
+          "resource_url": "https://api.discogs.com/artists/12621587"
+        },
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        },
+        {
+          "name": "Sam Westhoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 14899228,
+          "resource_url": "https://api.discogs.com/artists/14899228"
+        }
+      ],
+      "duration": "3:48"
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "The Great Divide",
+      "extraartists": [
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "5:18"
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Haircut",
+      "extraartists": [
+        {
+          "name": "Nina de Vitry",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 15110354,
+          "resource_url": "https://api.discogs.com/artists/15110354"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "4:49"
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "Willing And Able",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        },
+        {
+          "name": "Noah Levine",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3804636,
+          "resource_url": "https://api.discogs.com/artists/3804636"
+        }
+      ],
+      "duration": "4:57"
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "Dashboard",
+      "extraartists": [
+        {
+          "name": "Amy Allen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6537357,
+          "resource_url": "https://api.discogs.com/artists/6537357"
+        },
+        {
+          "name": "Carrie K",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12621587,
+          "resource_url": "https://api.discogs.com/artists/12621587"
+        },
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "10",
+      "type_": "track",
+      "title": "23",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "4:42"
+    },
+    {
+      "position": "11",
+      "type_": "track",
+      "title": "Porch Light",
+      "extraartists": [
+        {
+          "name": "Aaron Dessner",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436584,
+          "resource_url": "https://api.discogs.com/artists/436584"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "4:22"
+    },
+    {
+      "position": "12",
+      "type_": "track",
+      "title": "Deny Deny Deny",
+      "extraartists": [
+        {
+          "name": "Carrie K",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12621587,
+          "resource_url": "https://api.discogs.com/artists/12621587"
+        },
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        },
+        {
+          "name": "Sam Westhoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 14899228,
+          "resource_url": "https://api.discogs.com/artists/14899228"
+        },
+        {
+          "name": "Todd Clark (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 14499169,
+          "resource_url": "https://api.discogs.com/artists/14499169"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "13",
+      "type_": "track",
+      "title": "Headed North",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "4:27"
+    },
+    {
+      "position": "14",
+      "type_": "track",
+      "title": "We Go Way Back",
+      "extraartists": [
+        {
+          "name": "Carrie K",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12621587,
+          "resource_url": "https://api.discogs.com/artists/12621587"
+        },
+        {
+          "name": "Dylan Jones (14)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 11193863,
+          "resource_url": "https://api.discogs.com/artists/11193863"
+        },
+        {
+          "name": "Gabe Simon",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4706122,
+          "resource_url": "https://api.discogs.com/artists/4706122"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "4:02"
+    },
+    {
+      "position": "15",
+      "type_": "track",
+      "title": "Spoiled",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "5:06"
+    },
+    {
+      "position": "16",
+      "type_": "track",
+      "title": "All Them Horses",
+      "extraartists": [
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "5:14"
+    },
+    {
+      "position": "17",
+      "type_": "track",
+      "title": "Dan",
+      "extraartists": [
+        {
+          "name": "Aaron Dessner",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436584,
+          "resource_url": "https://api.discogs.com/artists/436584"
+        },
+        {
+          "name": "Noah Kahan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5951449,
+          "resource_url": "https://api.discogs.com/artists/5951449"
+        }
+      ],
+      "duration": "5:06"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Produced By]",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yF5LLSLkDRDlxvJ7JzAS2YTIFRnCxyfK83SuIrSrfPE/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzQ4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yF5LLSLkDRDlxvJ7JzAS2YTIFRnCxyfK83SuIrSrfPE/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzQ4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PyteV8oIjcqsAFwClctWBN1SofAJGlWv__PrEQ32JbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzQ4MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 577
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/houwYor8ejAoj6coOv_09c5jR51AqREhjAQIFs0Qq-k/rs:fit/g:sm/q:90/h:498/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNjA5OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/houwYor8ejAoj6coOv_09c5jR51AqREhjAQIFs0Qq-k/rs:fit/g:sm/q:90/h:498/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNjA5OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/rYn9e0Tc3bRERmplkeLf-rExkFMHrvVQMw6ql7tHUtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNjA5OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 498
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CpqV08mngCzbtIPT1TutjelaV8wPzm7twxc85g7UMVY/rs:fit/g:sm/q:90/h:492/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktOTEwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/CpqV08mngCzbtIPT1TutjelaV8wPzm7twxc85g7UMVY/rs:fit/g:sm/q:90/h:492/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktOTEwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0CnU-Hu2n7_Zpyb1PBiqHQpEUAGBwGsCcan3HmX4w7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktOTEwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 492
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-1GV7WvdhwvQgDlvsbXENUgcJoVlcijRE1Vh_21u7Lc/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzg3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-1GV7WvdhwvQgDlvsbXENUgcJoVlcijRE1Vh_21u7Lc/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzg3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/A5l2lrzapH4v8rHFJLtzjQIEIOpi8NTkC261U8OLnoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzg3MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 513
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/geeEJVaC0OmjG_dURNk4B53Yw3SLnzZtPItBl4TCS34/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktMzE2Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/geeEJVaC0OmjG_dURNk4B53Yw3SLnzZtPItBl4TCS34/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktMzE2Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UW5hDpaCPVVB1jY1g0FoVxQab547MK1K0f-6kMOwfB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktMzE2Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 561
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4AbDfDlEKq1JKdVL8241cD_k3aEwLqcTe7pAKVLakzk/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktMjYzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4AbDfDlEKq1JKdVL8241cD_k3aEwLqcTe7pAKVLakzk/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktMjYzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yUU-OXUBIKvgCFnYe2kY14Y7D0W1_ai-suTEewBSQuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktMjYzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 564
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/abzj38kJk54cVZJBTFMyWBfqR-_7NRr_s4VMMnNq-AI/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNDgwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/abzj38kJk54cVZJBTFMyWBfqR-_7NRr_s4VMMnNq-AI/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNDgwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/s4OhLM_ejqQwtQPr6Xed1X7OsGXkFwzoNvKztQ92_cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNDgwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 499
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GpiEGsLjJCL3qHisUGoxKFOmDYK1CXMnm4smJyUNpjw/rs:fit/g:sm/q:90/h:481/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNTE0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GpiEGsLjJCL3qHisUGoxKFOmDYK1CXMnm4smJyUNpjw/rs:fit/g:sm/q:90/h:481/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNTE0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dQdqZufV5XzJtYhePBmAmiKgGHq_Bs8hrF_eSQXlesM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNTE0NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 481
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/D39rPBY0CH8d3lQen2T5eaiKy_ijS38CYNzFSd0XlKs/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzk4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D39rPBY0CH8d3lQen2T5eaiKy_ijS38CYNzFSd0XlKs/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzk4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d0d_icuqltL2oyEalDrVm74hl2x9Qvf4PLacag7loOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzk4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 454
+    }
+  ],
+  "thumb": "https://i.discogs.com/PyteV8oIjcqsAFwClctWBN1SofAJGlWv__PrEQ32JbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgz/MDQxLTE3NzcyMzg1/MjktNzQ4MS5qcGVn.jpeg",
+  "estimated_weight": 85,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

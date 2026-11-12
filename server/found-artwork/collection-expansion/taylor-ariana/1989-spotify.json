@@ -1,0 +1,314 @@
+{
+  "type": "album",
+  "name": "1989",
+  "uri": "spotify:album:2QJmrSgbdM35R67eoGQo4j",
+  "id": "2QJmrSgbdM35R67eoGQo4j",
+  "title": "1989",
+  "subtitle": "Taylor Swift",
+  "isPreRelease": false,
+  "releaseDate": null,
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:2QJmrSgbdM35R67eoGQo4j",
+  "trackList": [
+    {
+      "uri": "spotify:track:6qnM0XXPZOINWA778uNqQ9",
+      "uid": "0eaab70b44a369f97460",
+      "title": "Welcome To New York",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 212600,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/406ea55a7f13cb2d191af8ce01433ec50684d550"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "uid": "f7e0e59deed4e782bf0d",
+      "title": "Blank Space",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 231826,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/e5cb812c19b14f4dc4c92a4c996bb92d05e2bf39"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "uid": "746798b76b24bd4fb3c9",
+      "title": "Style",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 231000,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/d81d3c6ef4fee753ec19d9894661c7e7df00aa31"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5OndtwLGA9O6XHFcGm2H7r",
+      "uid": "66b758a94b25dcdc7e8d",
+      "title": "Out Of The Woods",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 235800,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/d130f44a286097bf753d8df40ff24b53cfc0e5a2"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0dAb8TY433dl3ZfXYCLE19",
+      "uid": "a1f67ec7f41440e5aecd",
+      "title": "All You Had To Do Was Stay",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 193293,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/7ed29d19c2cbdad43c9307bcd9680b770dd88276"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5xTtaWoae3wi06K5WfVUUH",
+      "uid": "04c69d340d256877b10c",
+      "title": "Shake It Off",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 219200,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/90c43dcdca39db2bed5707998a4e53b2acd1164c"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3wmN11qXGL0HyPojvEE1D9",
+      "uid": "c86c1ff5880353d4f79d",
+      "title": "I Wish You Would",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 207440,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/edbbee2b9cdacc6afd2177984ca7afba7717207b"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:273dCMFseLcVsoSWx59IoE",
+      "uid": "4ae97c2728036d7ae116",
+      "title": "Bad Blood",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 211933,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/0733ad067afc7c486baa06765bd72e7522d28065"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw",
+      "uid": "7728fdec36942b693284",
+      "title": "Wildest Dreams",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 220440,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/a25df04357bb85e0d60aff583092be5eb684d0af"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4dYUOfmWna6DFccnz732n8",
+      "uid": "8cfe69ca20e798e93426",
+      "title": "How You Get The Girl",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 247533,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6dd13d062f3c7f18a68d66528774f6e0f7d80660"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3oKMl2tJv4fdidkXUYMI5x",
+      "uid": "87137553460bf22a4baf",
+      "title": "This Love",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 250093,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/8865b0ffbb14c09ce59c910d2218fa02d652f8b4"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3jBMHD19RZdAqG9iFQh7xc",
+      "uid": "860380b3b5945d5edee0",
+      "title": "I Know Places",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 195706,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/736b0c1f2827c8b18fd7d9cc6b10791aae8dcd1b"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:06WgOCf0LV2h4keYXDRnuh",
+      "uid": "c4976f69fced0fdb5d3b",
+      "title": "Clean",
+      "subtitle": "Taylor Swift",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 271000,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/8334d497a8c2fc33759f75cdc4e780ea1e892ead"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 53,
+      "green": 81,
+      "red": 96
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 21,
+      "green": 49,
+      "red": 62
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 171,
+      "green": 204,
+      "red": 220
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e029abdf14e6058bd3903686148",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000048519abdf14e6058bd3903686148",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

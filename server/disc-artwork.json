@@ -1,0 +1,744 @@
+{
+  "spotify:album:6trNtQUgC8cgbWcqoMYkOR": [
+    {
+      "id": "27957331583",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/27957331583.5fe0c9a14af7.webp"
+    },
+    {
+      "id": "external-cd-a0a6fd323f9dfea9c512",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-a0a6fd323f9dfea9c512.3c4d183deebf.webp"
+    }
+  ],
+  "spotify:album:3BoUxfC7YhxNq3TpOfnRif": [
+    {
+      "id": "37031212075",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/37031212075.1d30f9f9f5a7.webp"
+    },
+    {
+      "id": "11290212496",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/11290212496.000547d569fb.webp"
+    }
+  ],
+  "spotify:album:3DGQ1iZ9XKUQxAUWjfC34w": [
+    {
+      "id": "46301834535",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/46301834535.a06b194cf141.webp"
+    },
+    {
+      "id": "46282183260",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/46282183260.d3a8388f635f.webp"
+    }
+  ],
+  "spotify:album:5lKlFlReHOLShQKyRv6AL9": [
+    {
+      "id": "43055865331",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/43055865331.0471268d1a9f.webp"
+    },
+    {
+      "id": "41378810856",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/41378810856.add1256f9305.webp"
+    }
+  ],
+  "spotify:album:6s84u2TUpR3wdUv4NgKA2j": [
+    {
+      "id": "31525003400",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/31525003400.1c0c006edae6.webp"
+    },
+    {
+      "id": "31525054943",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/31525054943.455691937439.webp"
+    }
+  ],
+  "spotify:album:7xV2TzoaVc0ycW7fwBwAml": [
+    {
+      "id": "27308702840",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/27308702840.30332264699b.webp"
+    },
+    {
+      "id": "43587718872",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/43587718872.f8e575b72a8e.webp"
+    }
+  ],
+  "spotify:album:0S0KGZnfBGSIssfF54WSJh": [
+    {
+      "id": "30672682790",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/30672682790.cff38f4a3333.webp"
+    },
+    {
+      "id": "30664206604",
+      "kind": "cd",
+      "label": "CD 1",
+      "image": "/static/discs/30664206604.25c122c2d8da.webp"
+    },
+    {
+      "id": "30439409589",
+      "kind": "cd",
+      "label": "CD 2",
+      "image": "/static/discs/30439409589.ec8012c8828e.webp"
+    },
+    {
+      "id": "billie-glow-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl 2",
+      "image": "/static/discs/billie-glow-vinyl.9dbc13ab5bfa.webp"
+    }
+  ],
+  "spotify:album:0JGOiO34nwfUdDrD612dOp": [
+    {
+      "id": "36353783387",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/36353783387.1fcf6445bc45.webp"
+    },
+    {
+      "id": "30674242009",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/30674242009.dd3213bfc0db.webp"
+    }
+  ],
+  "spotify:album:7aJuG4TFXa2hmE4z1yxc3n": [
+    {
+      "id": "40754684609",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/40754684609.f4ffa60c6dd3.webp"
+    },
+    {
+      "id": "41013457802",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/41013457802.e1f50940becf.webp"
+    }
+  ],
+  "spotify:album:2jJReDZqTuAxr4R0ItimZc": [
+    {
+      "id": "external-vinyl-46f7b6bccf23087258cf",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-46f7b6bccf23087258cf.f79b35142026.webp"
+    },
+    {
+      "id": "28354668975",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/28354668975.3f6b235f253b.webp"
+    }
+  ],
+  "spotify:album:3REUXdj5OPKhuDTrTtCBU0": [
+    {
+      "id": "external-vinyl-a210d440a145a67d3781",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-a210d440a145a67d3781.7141de9db2a9.webp"
+    },
+    {
+      "id": "20296732042",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/20296732042.01c106948dea.webp"
+    }
+  ],
+  "spotify:album:7DdEbYFPKTZ8KB4z6L4UnQ": [
+    {
+      "id": "external-vinyl-13a437a03f4c946e961b",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-13a437a03f4c946e961b.185fc927f2a8.webp"
+    },
+    {
+      "id": "45675638530",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/45675638530.16297161feee.webp"
+    }
+  ],
+  "spotify:album:77dNyQA0z8dV33M4so4eRY": [
+    {
+      "id": "external-vinyl-64e7772113b943f49668",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-64e7772113b943f49668.41938622223c.webp"
+    },
+    {
+      "id": "29116227297",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/29116227297.4542b0016f67.webp"
+    }
+  ],
+  "spotify:album:4g1ZRSobMefqF6nelkgibi": [
+    {
+      "id": "external-vinyl-b9cb7e2dc86336a13a3d",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-b9cb7e2dc86336a13a3d.d5f9824e93c6.webp"
+    },
+    {
+      "id": "24285145955",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/24285145955.c41ac60f0ec3.webp"
+    }
+  ],
+  "spotify:album:11ZOyF9bKgnusVD1rUapwv": [
+    {
+      "id": "external-vinyl-4c8f03255fc4579b35f8",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-4c8f03255fc4579b35f8.670533c301f6.webp"
+    },
+    {
+      "id": "17875300867",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/17875300867.5b99eb1b53dd.webp"
+    }
+  ],
+  "spotify:album:1mSECpFqHRW6leG4idqTE1": [
+    {
+      "id": "external-vinyl-1a9a0a746e517a2869ec",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-1a9a0a746e517a2869ec.fda802aa6701.webp"
+    },
+    {
+      "id": "43331545565",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/43331545565.25d2db640826.webp"
+    }
+  ],
+  "spotify:album:1LOJfNDxQhbpssKx7oM7at": [
+    {
+      "id": "external-vinyl-79e74288c74f911fa8bf",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-79e74288c74f911fa8bf.1ea56cf03d6e.webp"
+    },
+    {
+      "id": "17876783569",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/17876783569.51492b7cc82c.webp"
+    }
+  ],
+  "spotify:album:3lng6RAtdksQ2q02Fk5jaB": [
+    {
+      "id": "external-vinyl-50fef93d2965b6ed2e41",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-50fef93d2965b6ed2e41.2f8bcf9c7c9e.webp"
+    },
+    {
+      "id": "34431462836",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/34431462836.a846cd3219fc.webp"
+    }
+  ],
+  "spotify:album:3CCnGldVQ90c26aFATC1PW": [
+    {
+      "id": "external-vinyl-1e523e6a8172cfdd1f4d",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-1e523e6a8172cfdd1f4d.482b00bfd20f.webp"
+    },
+    {
+      "id": "29608518514",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/29608518514.022a4e81511a.webp"
+    }
+  ],
+  "spotify:album:0UMMIkurRUmkruZ3KGBLtG": [
+    {
+      "id": "external-vinyl-60ce3c1cd76214885045",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-60ce3c1cd76214885045.f5c9c4e74a18.webp"
+    },
+    {
+      "id": "29608649345",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/29608649345.adc6f4a37165.webp"
+    }
+  ],
+  "spotify:album:4XLPYMERZZaBzkJg0mkdvO": [
+    {
+      "id": "external-vinyl-4643a9d1fde0aaf1b8a4",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-4643a9d1fde0aaf1b8a4.19a130bbd5e6.webp"
+    },
+    {
+      "id": "31475350562",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/31475350562.45b52258699a.webp"
+    }
+  ],
+  "spotify:album:6Fr2rQkZ383FcMqFyT7yPr": [
+    {
+      "id": "40470700521",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/40470700521.e092c3fb9239.webp"
+    }
+  ],
+  "spotify:album:6mUdeDZCsExyJLMdAfDuwh": [
+    {
+      "id": "external-vinyl-ca72a11394ec1c7a99c1",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-ca72a11394ec1c7a99c1.50c260770ee2.webp"
+    },
+    {
+      "id": "8907960564",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/8907960564.286336756fbb.webp"
+    }
+  ],
+  "spotify:album:4yP0hdKOZPNshxUOjY0cZj": [
+    {
+      "id": "external-vinyl-b10ed452a4dd41dd10d6",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-b10ed452a4dd41dd10d6.6216595fa283.webp"
+    },
+    {
+      "id": "45418833805",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/45418833805.635ed2e0646a.webp"
+    }
+  ],
+  "spotify:album:0WzOtZBpXvWdNdH7hCJ4qo": [
+    {
+      "id": "external-vinyl-315cdba5ddd9af2ce315",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-315cdba5ddd9af2ce315.4a5a4c7c9c0c.webp"
+    },
+    {
+      "id": "44399745301",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/44399745301.9ca28d283882.webp"
+    }
+  ],
+  "spotify:album:0FgZKfoU2Br5sHOfvZKTI9": [
+    {
+      "id": "external-vinyl-bb7107baa3adb4c458b2",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-bb7107baa3adb4c458b2.1f17e87d0303.webp"
+    },
+    {
+      "id": "25769020746",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/25769020746.a46ed6da5627.webp"
+    }
+  ],
+  "spotify:album:6wPXUmYJ9mOWrKlLzZ5cCa": [
+    {
+      "id": "external-vinyl-a126d0b8c425a2aeb662",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-a126d0b8c425a2aeb662.c9bd3acfeac8.webp"
+    },
+    {
+      "id": "29058677971",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/29058677971.a4cff1287048.webp"
+    }
+  ],
+  "spotify:album:2Y9IRtehByVkegoD7TcLfi": [
+    {
+      "id": "external-vinyl-cc59cf2688493bad9097",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-cc59cf2688493bad9097.669312789c7a.webp"
+    },
+    {
+      "id": "42574318331",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/42574318331.33dcfa629766.webp"
+    }
+  ],
+  "spotify:album:5qENHeCSlwWpEzb25peRmQ": [
+    {
+      "id": "external-vinyl-e21331a304abc852e614",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-e21331a304abc852e614.547853cb4252.webp"
+    },
+    {
+      "id": "10710753514",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/10710753514.b22916e7e379.webp"
+    }
+  ],
+  "spotify:album:6twKQ0EsUJHVlAr6XBylrj": [
+    {
+      "id": "external-vinyl-791fa999097b068f25f2",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-791fa999097b068f25f2.235145d858b7.webp"
+    },
+    {
+      "id": "31867788425",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/31867788425.b9dca8bd37a4.webp"
+    }
+  ],
+  "spotify:album:59YYObx9wFEFG5zVdlfwvf": [
+    {
+      "id": "external-vinyl-422a9a2f1bc19bc6b2a9",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-422a9a2f1bc19bc6b2a9.2c5c69b17c06.webp"
+    },
+    {
+      "id": "external-cd-fc41f1c0bae028461520",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-fc41f1c0bae028461520.597822b748eb.webp"
+    }
+  ],
+  "spotify:album:30v79AzKU1U5Rc7pwmzbkk": [
+    {
+      "id": "external-vinyl-15f6562b4da0dbe0cb06",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-15f6562b4da0dbe0cb06.688d146deb96.webp"
+    }
+  ],
+  "spotify:album:4JAvwK4APPArjIsOdGoJXX": [
+    {
+      "id": "external-vinyl-ab3c5fa282589648a459",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-ab3c5fa282589648a459.9138af1db280.webp"
+    },
+    {
+      "id": "external-cd-7ecd988a8925d7f6c96a",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-7ecd988a8925d7f6c96a.2ac94b702ad1.webp"
+    }
+  ],
+  "spotify:album:1yc3Ldus5BkJBVX9mSFMt4": [
+    {
+      "id": "external-vinyl-cc90aca29950f906e2cf",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-cc90aca29950f906e2cf.53babc03eff6.webp"
+    },
+    {
+      "id": "external-cd-d4cb7c79715535d27062",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-d4cb7c79715535d27062.840ed9fd9be8.webp"
+    }
+  ],
+  "spotify:album:5wtE5aLX5r7jOosmPhJhhk": [
+    {
+      "id": "external-vinyl-b6355f57f920bf3ee664",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-b6355f57f920bf3ee664.88c6ed0fc0ba.webp"
+    },
+    {
+      "id": "external-cd-91fbe6e449c656eeca56",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-91fbe6e449c656eeca56.c81624a9e4a7.webp"
+    }
+  ],
+  "spotify:album:3mH6qwIy9crq0I9YQbOuDf": [
+    {
+      "id": "external-vinyl-12f777a199c9d216cd75",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-12f777a199c9d216cd75.85e5469b3fe4.webp"
+    },
+    {
+      "id": "external-cd-02a244cdd3cdc9fe2204",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-02a244cdd3cdc9fe2204.67422c3d5229.webp"
+    }
+  ],
+  "spotify:album:7gsWAHLeT0w7es6FofOXk1": [
+    {
+      "id": "external-vinyl-72ad61283c03038e0f69",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-72ad61283c03038e0f69.6f5f263e47b9.webp"
+    },
+    {
+      "id": "external-cd-2c430097931c635c739f",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-2c430097931c635c739f.f04efd26bf4b.webp"
+    }
+  ],
+  "spotify:album:6kf46HbnYCZzP6rjvQHYzg": [
+    {
+      "id": "external-vinyl-808ac6a4191fcfec2b92",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-808ac6a4191fcfec2b92.6e971189ec45.webp"
+    },
+    {
+      "id": "external-cd-3ee33e8fe88bd9125eb2",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-3ee33e8fe88bd9125eb2.1c435bd6b43b.webp"
+    }
+  ],
+  "spotify:album:5bfpRtBW7RNRdsm3tRyl3R": [
+    {
+      "id": "external-vinyl-0bf56825927aaef67005",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-0bf56825927aaef67005.62e4858157a3.webp"
+    },
+    {
+      "id": "external-cd-aa504c3f0b893b2561cc",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-aa504c3f0b893b2561cc.cecb7f300ea1.webp"
+    }
+  ],
+  "spotify:album:1HiN2YXZcc3EjmVZ4WjfBk": [
+    {
+      "id": "external-vinyl-ef6743d789946465da03",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-ef6743d789946465da03.79d077501eec.webp"
+    },
+    {
+      "id": "external-cd-c97ad251adee463ba3d4",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-c97ad251adee463ba3d4.23161e0d1c57.webp"
+    }
+  ],
+  "spotify:album:4VzzEviJGYUtAeSsJlI9QB": [
+    {
+      "id": "external-vinyl-dbb1083d3c40e11659ca",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-dbb1083d3c40e11659ca.52687c8ac240.webp"
+    },
+    {
+      "id": "external-cd-c373776f240d5c0de7a9",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-c373776f240d5c0de7a9.d71f5db95bdf.webp"
+    }
+  ],
+  "spotify:album:5xKTTHKTTFyNxtOLGtznaR": [
+    {
+      "id": "external-vinyl-c15aaacb030e6edb8ab3",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/external-vinyl-c15aaacb030e6edb8ab3.456f846a8816.webp"
+    },
+    {
+      "id": "external-cd-ad42043dd44a534c1312",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/external-cd-ad42043dd44a534c1312.46a84624682f.webp"
+    }
+  ],
+  "spotify:album:2fnkyn9EybagIoFJ7a13oz": [
+    {
+      "id": "collection-the-great-divide-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-the-great-divide-vinyl.29b8c2f9ae2a.webp"
+    },
+    {
+      "id": "collection-the-great-divide-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-the-great-divide-cd.163e6920b49e.webp"
+    }
+  ],
+  "spotify:album:50ZenUP4O2Q5eCy2NRNvuz": [
+    {
+      "id": "collection-stick-season-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-stick-season-vinyl.eb005e8a9ef5.webp"
+    },
+    {
+      "id": "collection-stick-season-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-stick-season-cd.e85b030b3d06.webp"
+    }
+  ],
+  "spotify:album:2QJmrSgbdM35R67eoGQo4j": [
+    {
+      "id": "collection-1989-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-1989-vinyl.21e4a68d143a.webp"
+    },
+    {
+      "id": "collection-1989-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-1989-cd.0f82db7d165b.webp"
+    }
+  ],
+  "spotify:album:2fenSS68JI1h4Fo296JfGr": [
+    {
+      "id": "collection-folklore-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-folklore-vinyl.efc71db1f32f.webp"
+    },
+    {
+      "id": "collection-folklore-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-folklore-cd.92d2bbbb4505.webp"
+    }
+  ],
+  "spotify:album:2fYhqwDWXjbpjaIJPEfKFw": [
+    {
+      "id": "collection-thank-u-next-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-thank-u-next-vinyl.ad050edc4ec3.webp"
+    },
+    {
+      "id": "collection-thank-u-next-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-thank-u-next-cd.e135d1e6a544.webp"
+    }
+  ],
+  "spotify:album:4UlGauD7ROb3YbVOFMgW5u": [
+    {
+      "id": "collection-anti-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-anti-vinyl.becbddb62038.webp"
+    },
+    {
+      "id": "collection-anti-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-anti-cd.27eaab54423a.webp"
+    }
+  ],
+  "spotify:album:5JSDDzvVmUX1axvnUH3ZJy": [
+    {
+      "id": "collection-beyonce-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-beyonce-vinyl.0c2b299b9166.webp"
+    },
+    {
+      "id": "collection-beyonce-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-beyonce-cd.393be8cc3547.webp"
+    }
+  ],
+  "spotify:album:31qVWUdRrlb8thMvts0yYL": [
+    {
+      "id": "collection-the-slow-rush-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-the-slow-rush-vinyl.41b0bb71f533.webp"
+    },
+    {
+      "id": "collection-the-slow-rush-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-the-slow-rush-cd.cd5f52f67319.webp"
+    }
+  ],
+  "spotify:album:7vXiklrUeffx5o2F8VYwm3": [
+    {
+      "id": "collection-how-to-friend-love-freefall-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-how-to-friend-love-freefall-vinyl.12ff0fc08bc4.webp"
+    },
+    {
+      "id": "collection-how-to-friend-love-freefall-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-how-to-friend-love-freefall-cd.0328d5da7c53.webp"
+    }
+  ],
+  "spotify:album:69BqE1V8Bzb9GCyeP1fFeR": [
+    {
+      "id": "collection-harry-kiss-all-the-time-2026-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-harry-kiss-all-the-time-2026-vinyl.70e29afd0c94.webp"
+    },
+    {
+      "id": "collection-harry-kiss-all-the-time-2026-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-harry-kiss-all-the-time-2026-cd.19c73dfd1bbe.webp"
+    }
+  ],
+  "spotify:album:3WZZF72ihlKPZBS4zSsNHl": [
+    {
+      "id": "collection-olivia-you-seem-pretty-sad-2026-vinyl",
+      "kind": "vinyl",
+      "label": "Vinyl",
+      "image": "/static/discs/collection-olivia-you-seem-pretty-sad-2026-vinyl.338152d1e06a.webp"
+    },
+    {
+      "id": "collection-olivia-you-seem-pretty-sad-2026-cd",
+      "kind": "cd",
+      "label": "CD",
+      "image": "/static/discs/collection-olivia-you-seem-pretty-sad-2026-cd.e9c0d55654bb.webp"
+    }
+  ]
+}

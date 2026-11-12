@@ -1,0 +1,264 @@
+{
+  "id": 37164279,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/37164279",
+  "uri": "https://www.discogs.com/release/37164279-Noah-Kahan-The-Great-Divide",
+  "artists": [
+    {
+      "name": "Noah Kahan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 5951449,
+      "resource_url": "https://api.discogs.com/artists/5951449",
+      "thumbnail_url": "https://i.discogs.com/oSvkChvpkmfx1xU338EJakvecbPE76KjMeA2usJxMoM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5NTE0/NDktMTcxMDAyMjA2/My03MTIzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Noah Kahan",
+  "labels": [
+    {
+      "name": "Mercury",
+      "catno": "199957317429",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 39357,
+      "resource_url": "https://api.discogs.com/labels/39357",
+      "thumbnail_url": "https://i.discogs.com/Gk10JQfI8xTIB79ehV94mylhBMI0-KediNkDlP0wk3M/rs:fit/g:sm/q:90/h:269/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTE3ODE4ODgzMDIt/MTAyMS5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Target (11)",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 861774,
+      "resource_url": "https://api.discogs.com/labels/861774",
+      "thumbnail_url": "https://i.discogs.com/PSrhn2vq48a2cr51IAlT1fdMl2UrScC22ONqmN511WI/rs:fit/g:sm/q:90/h:213/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg2MTc3/NC0xNzA1NjExMzM0/LTM3MTguZ2lm.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "2",
+      "descriptions": [
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 228,
+    "want": 45,
+    "rating": {
+      "count": 46,
+      "average": 4.74
+    },
+    "submitter": {
+      "username": "samanthafrech",
+      "resource_url": "https://api.discogs.com/users/samanthafrech"
+    },
+    "contributors": [
+      {
+        "username": "samanthafrech",
+        "resource_url": "https://api.discogs.com/users/samanthafrech"
+      },
+      {
+        "username": "ron_3",
+        "resource_url": "https://api.discogs.com/users/ron_3"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "bhundt216",
+        "resource_url": "https://api.discogs.com/users/bhundt216"
+      },
+      {
+        "username": "yhelfman",
+        "resource_url": "https://api.discogs.com/users/yhelfman"
+      },
+      {
+        "username": "quakerlife",
+        "resource_url": "https://api.discogs.com/users/quakerlife"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2026-04-24T11:42:03-07:00",
+  "date_changed": "2026-06-12T09:06:09-07:00",
+  "num_for_sale": 6,
+  "lowest_price": 14.99,
+  "master_id": 4204443,
+  "master_url": "https://api.discogs.com/masters/4204443",
+  "title": "The Great Divide",
+  "country": "US",
+  "released": "2026-04-24",
+  "notes": "Packaging includes 2 discs, encased in jewel case packaging.\n\nTrack 18 & 19 are bonus tracks.",
+  "released_formatted": "24 Apr 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "199957371429"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=SKs80r2Lp34",
+      "title": "Noah Kahan - The Great Divide (Official Music Video)",
+      "description": "Watch the official music video for \"The Great Divide\" by Noah Kahan.\n\nStream/download \"The Great Divide\": https://noahkahan.lnk.to/thegreatdivide-single\nPre-order Noah's album, The Great Divide, out April 24: https://noahkahan.lnk.to/thegreatdivide\n\nCreat",
+      "duration": 346,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Folk"
+  ],
+  "tracklist": [
+    {
+      "position": "1-1",
+      "type_": "track",
+      "title": "End Of August",
+      "duration": "5:16"
+    },
+    {
+      "position": "1-2",
+      "type_": "track",
+      "title": "Doors",
+      "duration": "3:50"
+    },
+    {
+      "position": "1-2",
+      "type_": "track",
+      "title": "American Cars",
+      "duration": "4:31"
+    },
+    {
+      "position": "1-4",
+      "type_": "track",
+      "title": "Downfall",
+      "duration": "4:15"
+    },
+    {
+      "position": "1-5",
+      "type_": "track",
+      "title": "Paid Time Off",
+      "duration": "3:46"
+    },
+    {
+      "position": "1-6",
+      "type_": "track",
+      "title": "The Great Divide",
+      "duration": "5:17"
+    },
+    {
+      "position": "1-7",
+      "type_": "track",
+      "title": "Haircut",
+      "duration": "4:49"
+    },
+    {
+      "position": "1-8",
+      "type_": "track",
+      "title": "Willing And Able",
+      "duration": "4:56"
+    },
+    {
+      "position": "1-9",
+      "type_": "track",
+      "title": "Dashboard",
+      "duration": "3:50"
+    },
+    {
+      "position": "2-1",
+      "type_": "track",
+      "title": "23",
+      "duration": "4:41"
+    },
+    {
+      "position": "2-2",
+      "type_": "track",
+      "title": "Porch Light",
+      "duration": "4:22"
+    },
+    {
+      "position": "2-3",
+      "type_": "track",
+      "title": "Deny Deny Deny",
+      "duration": "3:50"
+    },
+    {
+      "position": "2-4",
+      "type_": "track",
+      "title": "Headed North",
+      "duration": "4:26"
+    },
+    {
+      "position": "2-5",
+      "type_": "track",
+      "title": "We Go Way Back",
+      "duration": "4:02"
+    },
+    {
+      "position": "2-6",
+      "type_": "track",
+      "title": "Spoiled",
+      "duration": "5:05"
+    },
+    {
+      "position": "2-7",
+      "type_": "track",
+      "title": "All Them Horses",
+      "duration": "5:13"
+    },
+    {
+      "position": "2-8",
+      "type_": "track",
+      "title": "Dan",
+      "duration": "5:05"
+    },
+    {
+      "position": "2-9",
+      "type_": "track",
+      "title": "Godlight (Live From Fenway Park)",
+      "duration": ""
+    },
+    {
+      "position": "2-10",
+      "type_": "track",
+      "title": "Young Blood (Live From Fenway Park)",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/1FrJVR_JoTVmkdfDbEvIB7ot8hpdRfvePFppRxoTB80/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDQtOTg0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1FrJVR_JoTVmkdfDbEvIB7ot8hpdRfvePFppRxoTB80/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDQtOTg0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/D-ompuRQwev-YzsPH2xRb0J28I37Yjj2YYBQzQVyJCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDQtOTg0Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 524
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/U8zBWgtf42wvy6xhwWmuIm_sr0h452EWt-SPcE_T-nA/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDktMTIxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/U8zBWgtf42wvy6xhwWmuIm_sr0h452EWt-SPcE_T-nA/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDktMTIxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_SKuoo0tOg21GiK5L-7vpMG4TRia0c4-UVIJ18HOoII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDktMTIxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 522
+    }
+  ],
+  "thumb": "https://i.discogs.com/D-ompuRQwev-YzsPH2xRb0J28I37Yjj2YYBQzQVyJCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTY0/Mjc5LTE3NzgwMzk4/NDQtOTg0Ni5qcGVn.jpeg",
+  "estimated_weight": 170,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

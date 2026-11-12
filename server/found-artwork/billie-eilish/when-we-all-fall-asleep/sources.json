@@ -1,0 +1,22 @@
+{
+  "release": "6789dd53-0ec6-410c-9c71-c4a75c12d214",
+  "source": "https://musicbrainz.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/cover-art",
+  "images": {
+    "front": {
+      "original": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/43031198460.jpg",
+      "download": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/43031198460-1200.jpg",
+      "size": [
+        1000,
+        1000
+      ]
+    },
+    "back": {
+      "original": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/30664205965.jpg",
+      "download": "https://coverartarchive.org/release/6789dd53-0ec6-410c-9c71-c4a75c12d214/30664205965-1200.jpg",
+      "size": [
+        599,
+        516
+      ]
+    }
+  }
+}

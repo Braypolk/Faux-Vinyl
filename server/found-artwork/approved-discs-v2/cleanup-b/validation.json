@@ -1,0 +1,452 @@
+[
+  {
+    "id": "the-off-season:external-cd-7ecd988a8925d7f6c96a",
+    "source_row_index": 14,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "7ecd988a8925d7f6c96ae92fc559199e401e48f71ae9a898ad86198373f340f6",
+    "reference_matches_approval": true,
+    "output_sha256": "2ac94b702ad1a92f5824107098477233f5ca17ed13e481f6e1b36d6bfb64aab0",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "flume:external-cd-d4cb7c79715535d27062",
+    "source_row_index": 19,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "d4cb7c79715535d27062645a2756ec14c9236a4602be8834b0f7fce59537befb",
+    "reference_matches_approval": true,
+    "output_sha256": "840ed9fd9be8f778db91bcfe2da67e8189914f73eaf28cf2861d7f578cf1516e",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "swimming:external-cd-91fbe6e449c656eeca56",
+    "source_row_index": 24,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "91fbe6e449c656eeca56f056124eaf0e9ffc4decaa4e0df13ca2b17e43b86c82",
+    "reference_matches_approval": true,
+    "output_sha256": "c81624a9e4a749871476a445b4f403847cee6e8d66755ad9dffa933a3c7201ed",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "blonde:external-cd-02a244cdd3cdc9fe2204",
+    "source_row_index": 26,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "02a244cdd3cdc9fe2204bbd48c49077f7fe427f101e65c91115adbf576853927",
+    "reference_matches_approval": true,
+    "output_sha256": "67422c3d5229839bce654cc65a338e84b1aaa7114e0389123926478cd5759548",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "life-of-pablo:external-vinyl-72ad61283c03038e0f69",
+    "source_row_index": 27,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "72ad61283c03038e0f6973f15584dd9499ed841761c626ca66c3f3174e1ef50c",
+    "reference_matches_approval": true,
+    "output_sha256": "6f5f263e47b947c7a763923063c20bc807b59b6acb0d65b6fe9defc8bc2c1184",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "jesus-is-king:external-vinyl-bb7107baa3adb4c458b2",
+    "source_row_index": 29,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "bb7107baa3adb4c458b2662116751b0b43e611f4980955a8897d1c11dff92664",
+    "reference_matches_approval": true,
+    "output_sha256": "1f17e87d030380cdb08dc3f45210f3423acb330c5c6effc86a2353dc9a052833",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "the-game:external-vinyl-a126d0b8c425a2aeb662",
+    "source_row_index": 30,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "a126d0b8c425a2aeb662c3896145ebd5da8e2d252a86ae16f8457543290eb85d",
+    "reference_matches_approval": true,
+    "output_sha256": "c9bd3acfeac847df2cad51f30e593c6173f22c858d7ea7ef557e259892bbd694",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "american-teen:external-vinyl-808ac6a4191fcfec2b92",
+    "source_row_index": 32,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "808ac6a4191fcfec2b92dab36455630b7624c016ea35a4f13120c81cad892650",
+    "reference_matches_approval": true,
+    "output_sha256": "6e971189ec457ed176723d6440941b4584f2b89ebd74afc5d6b3254b49297a8b",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "dreamland:external-cd-aa504c3f0b893b2561cc",
+    "source_row_index": 35,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "aa504c3f0b893b2561cc0147364ad685ebd393f990f9c03ed38c08e1cac77b43",
+    "reference_matches_approval": true,
+    "output_sha256": "cecb7f300ea1483711c980ba31a73e808fd950baa88cfc994d016eff68ea0ca5",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "curtain-call:external-vinyl-e21331a304abc852e614",
+    "source_row_index": 36,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "e21331a304abc852e61499121759156e799d1461555b77dda3b7f3c66e9edb3e",
+    "reference_matches_approval": true,
+    "output_sha256": "547853cb4252501eeae0224a3d5537e05cffb30595934521ba38e119cdb41fcb",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "death-of-a-bachelor:external-vinyl-791fa999097b068f25f2",
+    "source_row_index": 37,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "791fa999097b068f25f219d780a2ad2195bbf74c675463bc6432d707f499d1aa",
+    "reference_matches_approval": true,
+    "output_sha256": "235145d858b726dc8ad35bc8b132ac5c4b593f914cbb068f1774025914ca602a",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "everybody:external-vinyl-ef6743d789946465da03",
+    "source_row_index": 38,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "ef6743d789946465da034ab213a02c1af31c9d708dd5ddab310e7b0a1f6435c8",
+    "reference_matches_approval": true,
+    "output_sha256": "79d077501eec575ca854e76dd8785ec4f56bdd4f6005e84ba47560741a51216a",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "everybody:external-cd-c97ad251adee463ba3d4",
+    "source_row_index": 39,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "c97ad251adee463ba3d422b49865b4db8d472adf2b92817435ad42635dcdc5ad",
+    "reference_matches_approval": true,
+    "output_sha256": "23161e0d1c579eb62fea53ebf82ceacdda356810691ff4248523f7dac965bd4f",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "woodstock:external-cd-c373776f240d5c0de7a9",
+    "source_row_index": 41,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 80,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "c373776f240d5c0de7a96a3deb3e13d79e772d3c5f0375444de5de08685e37e4",
+    "reference_matches_approval": true,
+    "output_sha256": "d71f5db95bdff86f7005e589a6ad9c35ad2c0d6070b2a187d9ab5b06c426322c",
+    "visually_inspected": true,
+    "alpha_note": "Opaque or nearly opaque disc face; transparent outside and through spindle."
+  },
+  {
+    "id": "father-figure-725a6a:external-vinyl-c15aaacb030e6edb8ab3",
+    "source_row_index": 42,
+    "mode": "RGBA",
+    "size": [
+      648,
+      648
+    ],
+    "alpha_bbox": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "outer_diameter_px": 640,
+    "transparent_margin_px": 4,
+    "hole_diameter_px": 16,
+    "hole_center": [
+      324,
+      324
+    ],
+    "center_alpha": 0,
+    "outside_disc_nonzero_alpha": 0,
+    "unexpected_interior_transparent_pixels": 0,
+    "original_reference_sha256": "c15aaacb030e6edb8ab3ac9d6c88d36e128fa116f3e89352c188d9dc2567ef6f",
+    "reference_matches_approval": true,
+    "output_sha256": "456f846a8816088da2ccc1595cfffe1c3b86fe307e154872df5a02db56b18641",
+    "visually_inspected": true,
+    "alpha_note": "Original clear-vinyl partial alpha retained."
+  }
+]

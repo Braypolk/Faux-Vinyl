@@ -1,0 +1,122 @@
+[
+  {
+    "file": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-a0a6fd323f9dfea9c512-final.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bounds": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "hole_bounds_alpha_below_128": [
+      284,
+      284,
+      364,
+      364
+    ],
+    "hole_center": [
+      324.0,
+      324.0
+    ],
+    "hole_diameter": 80,
+    "outside_alpha_max": 0,
+    "center_alpha": 0,
+    "visual_inspection": "passed; final opened with view_image",
+    "sha256": "3c4d183deebf129ae2cb890c7d7c9ab45cdeb08184a88cae881ab03814d3afaa",
+    "bytes": 498746
+  },
+  {
+    "file": "found-artwork/approved-discs-v2/reconstruct-a/external-cd-fc41f1c0bae028461520-final.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bounds": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "hole_bounds_alpha_below_128": [
+      284,
+      284,
+      364,
+      364
+    ],
+    "hole_center": [
+      324.0,
+      324.0
+    ],
+    "hole_diameter": 80,
+    "outside_alpha_max": 0,
+    "center_alpha": 0,
+    "visual_inspection": "passed; final opened with view_image",
+    "sha256": "597822b748eb60b72303b055d842ee40e3b83f11abb2ec654d32d75a006335c0",
+    "bytes": 474308
+  },
+  {
+    "file": "found-artwork/approved-discs-v2/reconstruct-a/external-vinyl-4c8f03255fc4579b35f8-final.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bounds": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "hole_bounds_alpha_below_128": [
+      316,
+      316,
+      332,
+      332
+    ],
+    "hole_center": [
+      324.0,
+      324.0
+    ],
+    "hole_diameter": 16,
+    "outside_alpha_max": 0,
+    "center_alpha": 0,
+    "visual_inspection": "passed; final opened with view_image",
+    "sha256": "670533c301f6a97e18bab9b6cb32fb9e00665a58a1a93d8de9e54a18cb08f2a1",
+    "bytes": 462474
+  },
+  {
+    "file": "found-artwork/approved-discs-v2/reconstruct-a/external-vinyl-50fef93d2965b6ed2e41-final.webp",
+    "size": [
+      648,
+      648
+    ],
+    "mode": "RGBA",
+    "alpha_bounds": [
+      4,
+      4,
+      644,
+      644
+    ],
+    "hole_bounds_alpha_below_128": [
+      315,
+      315,
+      333,
+      333
+    ],
+    "hole_center": [
+      324.0,
+      324.0
+    ],
+    "hole_diameter": 18,
+    "outside_alpha_max": 0,
+    "center_alpha": 0,
+    "visual_inspection": "passed; final opened with view_image",
+    "sha256": "2f8bcf9c7c9e302f03437e02df2b0288c04ee241582ca77bb1a3c20190a610e7",
+    "bytes": 480922
+  }
+]

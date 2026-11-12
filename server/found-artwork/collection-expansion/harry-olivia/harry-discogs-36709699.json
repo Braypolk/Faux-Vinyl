@@ -1,0 +1,513 @@
+{
+  "id": 36709699,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/36709699",
+  "uri": "https://www.discogs.com/release/36709699-Harry-Styles-Kiss-All-The-Time-Disco-Occasionally",
+  "artists": [
+    {
+      "name": "Harry Styles",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2508414,
+      "resource_url": "https://api.discogs.com/artists/2508414",
+      "thumbnail_url": "https://i.discogs.com/aRwS_LlzL_cbddfN8tKD-hyQgp2WmLmvef576Malzzc/rs:fit/g:sm/q:90/h:600/w:530/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MDg0/MTQtMTc3NzQ4MTE3/NC0xNTc4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Harry Styles",
+  "labels": [
+    {
+      "name": "Erskine Records",
+      "catno": "19958417722",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1862513,
+      "resource_url": "https://api.discogs.com/labels/1862513",
+      "thumbnail_url": "https://i.discogs.com/D_l7a8bCW2nUagnmGbYY3z7oQEGPNiHWiec3KfVHweQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjI1/MTMtMTY1MzEyNTI1/MS0zMDczLmpwZWc.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19958417722",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Erskine Records Limited",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1257099,
+      "resource_url": "https://api.discogs.com/labels/1257099"
+    },
+    {
+      "name": "Erskine Records Limited",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1257099,
+      "resource_url": "https://api.discogs.com/labels/1257099"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "SLS Studios (2)",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 3404365,
+      "resource_url": "https://api.discogs.com/labels/3404365"
+    }
+  ],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "1",
+      "descriptions": [
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Hardcover Casebook"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 560,
+    "want": 69,
+    "rating": {
+      "count": 97,
+      "average": 4.85
+    },
+    "submitter": {
+      "username": "lizachhkaa",
+      "resource_url": "https://api.discogs.com/users/lizachhkaa"
+    },
+    "contributors": [
+      {
+        "username": "lizachhkaa",
+        "resource_url": "https://api.discogs.com/users/lizachhkaa"
+      },
+      {
+        "username": "VinchVolt",
+        "resource_url": "https://api.discogs.com/users/VinchVolt"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "LEOGRAPHY",
+        "resource_url": "https://api.discogs.com/users/LEOGRAPHY"
+      },
+      {
+        "username": "Amazvinyl",
+        "resource_url": "https://api.discogs.com/users/Amazvinyl"
+      },
+      {
+        "username": "alanmolioca",
+        "resource_url": "https://api.discogs.com/users/alanmolioca"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-03-07T15:26:27-08:00",
+  "date_changed": "2026-09-13T01:06:07-07:00",
+  "num_for_sale": 4,
+  "lowest_price": 25.0,
+  "master_id": 4153480,
+  "master_url": "https://api.discogs.com/masters/4153480",
+  "title": "Kiss All The Time. Disco, Occasionally.",
+  "country": "US",
+  "released": "2026-03-06",
+  "notes": "Includes 32-page photo book and a 24-page booklet with lyrics and exclusive images.\n\nSold exclusively on the artist's webshop and at the \"Kiss All The Time. Disco, Occasionally.\" pop up stores (in Amsterdam, Atlanta, Berlin, Chicago, Houston, London, Los Angeles, Miami, New York, Paris, Phoenix, Rome, Seattle, Sydney, Tokyo, Toronto) from March 6th to March 8th or 12th, depending on the cities.\n\nThis edition does NOT feature a Sony Music logo on back.",
+  "released_formatted": "06 Mar 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 9958417722 9"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=7sxVHYZ_PnA",
+      "title": "Harry Styles - Aperture (Official Video)",
+      "description": "Official Video for \u201cAperture\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally\n\nYouTube: https://hstyles.lnk.to/Aperture/YouTube \nAmazon Music: htt",
+      "duration": 352,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=o6jQo3-iCao",
+      "title": "Harry Styles - American Girls (Official Video)",
+      "description": "Official Video for \"American Girls\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDiscoOcca",
+      "duration": 228,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jSsK-8Yik4o",
+      "title": "Harry Styles - Ready, Steady, Go! (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Ready, Steady, Go!\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTim",
+      "duration": 161,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BSiX4JFVIuc",
+      "title": "Harry Styles - Are You Listening Yet? (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Are You Listening Yet?\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTh",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PHHue4WIxXw",
+      "title": "Harry Styles - Taste Back (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Taste Back\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDiscoOc",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ncutyX4ejtk",
+      "title": "Harry Styles - The Waiting Game (Official Lyric Video)",
+      "description": "Official Lyric Video for \"The Waiting Game\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeD",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qHJS-xRYUsU",
+      "title": "Harry Styles - Season 2 Weight Loss (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Season 2 Weight Loss\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheT",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_3GKsIFtEoE",
+      "title": "Harry Styles - Coming Up Roses (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Coming Up Roses\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDi",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T7LtL1tyomU",
+      "title": "Harry Styles - Pop (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Pop\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasiona",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bDHiL1HK9RE",
+      "title": "Harry Styles - Dance No More (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Dance No More\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDisc",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EjcpN_gcHkU",
+      "title": "Harry Styles - Paint By Numbers (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Paint By Numbers\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeD",
+      "duration": 148,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JmpxAej67qc",
+      "title": "Harry Styles - Carla's Song (Official Lyric Video)",
+      "description": "Official Lyric Video for \"Carla's Song\u201d by Harry Styles \nHarry\u2019s new album \u201cKiss All The Time. Disco, Occasionally.\u201d is out now. Listen here: https://hstyles.lnk.to/KissAllTheTimeDiscoOccasionally \n\nAmazon Music: https://hstyles.lnk.to/KissAllTheTimeDisco",
+      "duration": 255,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Aperture",
+      "duration": ""
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "American Girls",
+      "duration": ""
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Ready, Steady, Go!",
+      "duration": ""
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "Are You Listening Yet?",
+      "duration": ""
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Taste Back",
+      "duration": ""
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "The Waiting Game",
+      "duration": ""
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Season 2 Weight Loss",
+      "duration": ""
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "Coming Up Roses",
+      "duration": ""
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "Pop",
+      "duration": ""
+    },
+    {
+      "position": "10",
+      "type_": "track",
+      "title": "Dance No More",
+      "duration": ""
+    },
+    {
+      "position": "11",
+      "type_": "track",
+      "title": "Paint By Numbers",
+      "duration": ""
+    },
+    {
+      "position": "12",
+      "type_": "track",
+      "title": "Carla's Song",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Br\u00e1ulio Amado",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 1469788,
+      "resource_url": "https://api.discogs.com/artists/1469788"
+    },
+    {
+      "name": "Molly Hawkins",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 2153527,
+      "resource_url": "https://api.discogs.com/artists/2153527"
+    },
+    {
+      "name": "Patience Harding",
+      "anv": "",
+      "join": "",
+      "role": "Design [Production]",
+      "tracks": "",
+      "id": 13232082,
+      "resource_url": "https://api.discogs.com/artists/13232082"
+    },
+    {
+      "name": "Kid Harpoon",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 621771,
+      "resource_url": "https://api.discogs.com/artists/621771"
+    },
+    {
+      "name": "Harry Styles",
+      "anv": "",
+      "join": "",
+      "role": "Lyrics By, Music By",
+      "tracks": "",
+      "id": 2508414,
+      "resource_url": "https://api.discogs.com/artists/2508414"
+    },
+    {
+      "name": "Kid Harpoon",
+      "anv": "",
+      "join": "",
+      "role": "Lyrics By, Music By",
+      "tracks": "1 to 7, 9 to 12",
+      "id": 621771,
+      "resource_url": "https://api.discogs.com/artists/621771"
+    },
+    {
+      "name": "Tyler Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Lyrics By, Music By",
+      "tracks": "2, 4 to 7, 9, 11",
+      "id": 2190489,
+      "resource_url": "https://api.discogs.com/artists/2190489"
+    },
+    {
+      "name": "Jeffrey Azoff",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4807122,
+      "resource_url": "https://api.discogs.com/artists/4807122"
+    },
+    {
+      "name": "Tom Skoglund",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 9750430,
+      "resource_url": "https://api.discogs.com/artists/9750430"
+    },
+    {
+      "name": "Tommy Bruce (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4143245,
+      "resource_url": "https://api.discogs.com/artists/4143245"
+    },
+    {
+      "name": "Emily Lazar",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 213186,
+      "resource_url": "https://api.discogs.com/artists/213186"
+    },
+    {
+      "name": "Bob Demaa",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By [Assistant]",
+      "tracks": "",
+      "id": 54258,
+      "resource_url": "https://api.discogs.com/artists/54258"
+    },
+    {
+      "name": "Mark Stent",
+      "anv": "Mark \"Spike\" Stent",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 211449,
+      "resource_url": "https://api.discogs.com/artists/211449"
+    },
+    {
+      "name": "Kieran Beardmore",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assistant]",
+      "tracks": "",
+      "id": 10106293,
+      "resource_url": "https://api.discogs.com/artists/10106293"
+    },
+    {
+      "name": "Johnny Dufort",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 17434066,
+      "resource_url": "https://api.discogs.com/artists/17434066"
+    },
+    {
+      "name": "Harry Styles",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 2508414,
+      "resource_url": "https://api.discogs.com/artists/2508414"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/k6DYYDJpc9X9_hiAWIo4NKLKUgtp2P7PogNQOV2RmB4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MDctMjk3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/k6DYYDJpc9X9_hiAWIo4NKLKUgtp2P7PogNQOV2RmB4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MDctMjk3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/S8fV1VimgxbW4RMfk_QWJ9pXIaOtaB4Whbp-RXSK8YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MDctMjk3OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Tpk6NuUFSKDxlP5TefPyNSlBvu-shSDQEU1qo4Rky6k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MTItMTIwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Tpk6NuUFSKDxlP5TefPyNSlBvu-shSDQEU1qo4Rky6k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MTItMTIwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_0V8ZliDixaqzE5fOMyX8Hv6TKNvs71J0JTmnPnJa7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MTItMTIwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/F2XcVni2jVJzEmq5tbI28rVVEoVny2hD-sVJo3K-iIQ/rs:fit/g:sm/q:90/h:346/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODY3/MDgtMTk4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/F2XcVni2jVJzEmq5tbI28rVVEoVny2hD-sVJo3K-iIQ/rs:fit/g:sm/q:90/h:346/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODY3/MDgtMTk4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_jX1Ugms6_IIg9Gp15eBAvywTADr9aBrDDGHM5mr7Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODY3/MDgtMTk4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 346
+    }
+  ],
+  "thumb": "https://i.discogs.com/S8fV1VimgxbW4RMfk_QWJ9pXIaOtaB4Whbp-RXSK8YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MDctMjk3OC5qcGVn.jpeg",
+  "estimated_weight": 85,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

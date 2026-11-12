@@ -1,0 +1,158 @@
+{
+  "created": "2026-11-12T03:40:09.915Z",
+  "count": 1,
+  "offset": 0,
+  "release-groups": [
+    {
+      "id": "8676b232-108c-4229-be09-f1b09b0ec5f6",
+      "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "score": 100,
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "artist-credit-id": "abe456ea-0a50-3480-aa34-53a8d8f2dbe2",
+      "count": 12,
+      "title": "Kiss All the Time. Disco, Occasionally.",
+      "first-release-date": "2026-03-06",
+      "primary-type": "Album",
+      "artist-credit": [
+        {
+          "name": "Harry Styles",
+          "artist": {
+            "id": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+            "name": "Harry Styles",
+            "sort-name": "Styles, Harry",
+            "aliases": [
+              {
+                "sort-name": "Harry Styles",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Harry Styles",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Styles, Harry Edward",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Harry Edward Styles",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "95575c62-10d1-45f0-959a-11c65bf8df4e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "cd3f9ec8-fba1-4e4f-9a29-63feafaf5b82",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "40c1cead-0993-4d0e-b8c4-30c92c224bc5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "dd83923b-b39f-48c3-b022-0781674fb0fa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "35c23d9f-9765-42c2-9ef4-f28fa61c11a3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "2187fc99-ca79-43bd-866e-56fc9b050dd2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "ab9968e1-efb0-4a0e-8e67-b35e5889ba78",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "71d3fee5-5ed5-4bd4-af15-7bb8be811c47",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "e3213ae0-a248-4b83-9fe8-cbf3e309bcac",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "390dace5-ccc2-4fc1-92c7-8487912b35b2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "917f8341-770b-410e-aa02-e0c331997d0a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        },
+        {
+          "id": "427019ff-3c32-4004-9e61-ebc1ce72899e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Kiss All the Time. Disco, Occasionally.",
+          "status": "Official"
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "offizielle charts"
+        },
+        {
+          "count": 1,
+          "name": "laut.de"
+        },
+        {
+          "count": 1,
+          "name": "plattentests.de"
+        },
+        {
+          "count": 1,
+          "name": "5+ wochen"
+        },
+        {
+          "count": 1,
+          "name": "musikexpress.de"
+        }
+      ]
+    }
+  ]
+}

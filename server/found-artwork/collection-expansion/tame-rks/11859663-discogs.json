@@ -1,0 +1,238 @@
+{
+  "id": 11859663,
+  "status": "Accepted",
+  "year": 2018,
+  "resource_url": "https://api.discogs.com/releases/11859663",
+  "uri": "https://www.discogs.com/release/11859663-Rainbow-Kitten-Surprise-How-To-Friend-Love-Freefall",
+  "artists": [
+    {
+      "name": "Rainbow Kitten Surprise",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4517303,
+      "resource_url": "https://api.discogs.com/artists/4517303",
+      "thumbnail_url": "https://i.discogs.com/jfioTKSYfWjfp9R_WPFS43PuxTdg6B9idpIgGkS19ys/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1MTcz/MDMtMTc3MzU5NzY5/NC0yNDA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Rainbow Kitten Surprise",
+  "labels": [
+    {
+      "name": "Elektra",
+      "catno": "566449-2",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 651,
+      "resource_url": "https://api.discogs.com/labels/651",
+      "thumbnail_url": "https://i.discogs.com/7IF4_7mC2pKLD1z0VwHX7dQwilfeiq4zBww61ijrzXw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1MS0x/NjYwMjQ3ODcwLTUw/MDQuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "1",
+      "descriptions": [
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 144,
+    "want": 152,
+    "rating": {
+      "count": 10,
+      "average": 4.3
+    },
+    "submitter": {
+      "username": "DJJohnB",
+      "resource_url": "https://api.discogs.com/users/DJJohnB"
+    },
+    "contributors": [
+      {
+        "username": "DJJohnB",
+        "resource_url": "https://api.discogs.com/users/DJJohnB"
+      },
+      {
+        "username": "64impa",
+        "resource_url": "https://api.discogs.com/users/64impa"
+      },
+      {
+        "username": "ajeffs",
+        "resource_url": "https://api.discogs.com/users/ajeffs"
+      },
+      {
+        "username": "drccds",
+        "resource_url": "https://api.discogs.com/users/drccds"
+      },
+      {
+        "username": "HereForTheVinyl",
+        "resource_url": "https://api.discogs.com/users/HereForTheVinyl"
+      },
+      {
+        "username": "Silverdiscs",
+        "resource_url": "https://api.discogs.com/users/Silverdiscs"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-04-13T06:22:28-07:00",
+  "date_changed": "2024-11-12T20:32:54-08:00",
+  "num_for_sale": 5,
+  "lowest_price": 13.99,
+  "master_id": 1346374,
+  "master_url": "https://api.discogs.com/masters/1346374",
+  "title": "How To: Friend, Love, Freefall",
+  "country": "US",
+  "released": "2018-04-06",
+  "notes": "Issued in foldout cardboard packaging.",
+  "released_formatted": "06 Apr 2018",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "075678658426"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=LKtalf9Fb6M",
+      "title": "Rainbow Kitten Surprise - When It Lands [Official Audio]",
+      "description": "From the album \"\"How to: Friend, Love, Freefall\", out now: http://elektrar.ec/RKSHowToAlbum",
+      "duration": 270,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ftNSv9vVS54",
+      "title": "Rainbow Kitten Surprise - It's Called: Freefall [Official Audio]",
+      "description": "From the album \"\"How to: Friend, Love, Freefall\", out now: http://elektrar.ec/RKSHowToAlbum",
+      "duration": 153,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MQOXbC9irHo",
+      "title": "Rainbow Kitten Surprise - Painkillers [Official Audio]",
+      "description": "From the album \"\"How to: Friend, Love, Freefall\", out now: http://elektrar.ec/RKSHowToAlbum",
+      "duration": 214,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Pacific Love",
+      "duration": ""
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Mission To Mars",
+      "duration": ""
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Fever Pitch",
+      "duration": ""
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "It's Called: Freefall",
+      "duration": ""
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Holy War",
+      "duration": ""
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "Matchbox",
+      "duration": ""
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Moody Orange",
+      "duration": ""
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "Hide",
+      "duration": ""
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "When It Lands",
+      "duration": ""
+    },
+    {
+      "position": "10",
+      "type_": "track",
+      "title": "Painkillers",
+      "duration": ""
+    },
+    {
+      "position": "11",
+      "type_": "track",
+      "title": "Recktify",
+      "duration": ""
+    },
+    {
+      "position": "12",
+      "type_": "track",
+      "title": "Possum Queen",
+      "duration": ""
+    },
+    {
+      "position": "13",
+      "type_": "track",
+      "title": "Polite Company",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/-ZzxDmcPJ0LRDl7jq3LryelqcRqMyTurkmyCdz5H9lA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktMzkzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-ZzxDmcPJ0LRDl7jq3LryelqcRqMyTurkmyCdz5H9lA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktMzkzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hhBuxJCNAUW7CmdVog-iUOj2bC_OBlmN-2IWy4eMxMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktMzkzNy5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZiIu3IeWHMDTGmcyQO6oIWxISxZ6PjiDVsLopyOB7c8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktOTEwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZiIu3IeWHMDTGmcyQO6oIWxISxZ6PjiDVsLopyOB7c8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktOTEwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jpyA-OCaBmL_8gLYjqtf31-3uMy-b2Qi_eoOZxkG7zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktOTEwNC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bk9lSvUPoUD8xvuKNqGHllJCvrEBErZOVpYFSWNP2ns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDgtODE0Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bk9lSvUPoUD8xvuKNqGHllJCvrEBErZOVpYFSWNP2ns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDgtODE0Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DKsOhJVoJGbQH7A_Fkk-_N3C1IEjfj8D-v67BnjAt0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDgtODE0Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/hhBuxJCNAUW7CmdVog-iUOj2bC_OBlmN-2IWy4eMxMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/NjYzLTE3MzE0NzIz/NDktMzkzNy5qcGVn.jpeg",
+  "estimated_weight": 85,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "harry-kiss-all-the-time-2026",
+    "title": "Kiss All The Time. Disco, Occasionally.",
+    "artist": "Harry Styles",
+    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR",
+    "discs": [
+      {
+        "id": "expansion-harry-2026-vinyl-blue",
+        "kind": "vinyl",
+        "label": "Vinyl · Blue",
+        "path": "found-artwork/collection-expansion/harry-olivia/harry-vinyl-final.webp",
+        "source": "https://musicbrainz.org/release/40c1cead-0993-4d0e-b8c4-30c92c224bc5/cover-art",
+        "reference": "found-artwork/collection-expansion/harry-olivia/harry-vinyl.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original Cover Art Archive side A scan, image 44668922556. Blue pressing; original printed label and photographic surface retained. Mild native photographed sheen. Source 597×600.",
+        "sha256": "70e29afd0c946ac16649b905ba7f9448d2469b1d4e284bdbebe8ed553ee1e7b3"
+      },
+      {
+        "id": "expansion-harry-2026-cd-silver",
+        "kind": "cd",
+        "label": "CD · Silver",
+        "path": "found-artwork/collection-expansion/harry-olivia/harry-cd-final.webp",
+        "source": "https://www.discogs.com/release/36690721",
+        "reference": "found-artwork/collection-expansion/harry-olivia/harry-discogs-cd-uri.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original complete 600×600 CD scan, Discogs image index 2. Silver surface, printing, matrix ring, and rainbow reflections retained.",
+        "sha256": "19c73dfd1bbee9672887109800338e9b6c75f41d1f79fc89e759b1a6f7bb5aba"
+      }
+    ]
+  },
+  {
+    "id": "olivia-you-seem-pretty-sad-2026",
+    "title": "you seem pretty sad for a girl so in love",
+    "artist": "Olivia Rodrigo",
+    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl",
+    "discs": [
+      {
+        "id": "expansion-olivia-2026-vinyl-white",
+        "kind": "vinyl",
+        "label": "Vinyl · Hope Like Snow",
+        "path": "found-artwork/collection-expansion/harry-olivia/olivia-vinyl-final.webp",
+        "source": "https://flashback.co.uk/products/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-397621",
+        "reference": "found-artwork/collection-expansion/harry-olivia/olivia-vinyl.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original full-disc retailer photo of Hope Like Snow white indie-exclusive pressing, side one. All printed label pixels retained; source 595×600.",
+        "sha256": "338152d1e06a359db8b998c7a6d2945aee28e4943a2356413017109767a7b5eb"
+      },
+      {
+        "id": "expansion-olivia-2026-cd-floral",
+        "kind": "cd",
+        "label": "CD · Floral",
+        "path": "found-artwork/collection-expansion/harry-olivia/olivia-cd-final.webp",
+        "source": "https://store.oliviarodrigo.com/products/you-seem-pretty-sad-for-a-girl-so-in-love-exclusive-cd",
+        "reference": "found-artwork/collection-expansion/harry-olivia/olivia-exclusive-cd-product-0.png",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original fully visible floral CD from official store exclusive CD product packshot. Native disc diameter about 333px; upscaled, so fine detail is source-limited. Dark backing removes partly transparent source rim pixels. No generated printing.",
+        "sha256": "e9c0d55654bb34e946584c0ebdfeb665f65e92f5565275a46a91ac1da1adf281"
+      }
+    ]
+  }
+]

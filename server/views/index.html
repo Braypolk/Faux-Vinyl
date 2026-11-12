@@ -1,0 +1,69 @@
+{{define "head"}}
+<link rel="stylesheet" href="/static/shelf.css">
+<script defer src="/static/shelf.js"></script>
+<link rel="stylesheet" href="/static/discs.css"><script defer src="/static/discs.js"></script>
+{{end}}
+{{define "content"}}
+<h1 class="sr-only">Your records</h1>
+{{if .Card.ID}}<noscript><form id="autoplay" method="post" action="/c/{{.Card.ID}}/play"><input type="hidden" name="csrf" value="{{.CSRF}}"><input type="hidden" name="action_token" value="{{.ActionToken}}"><button type="submit">Play {{.Card.Title}}</button></form></noscript>{{end}}
+<section class="record-browser" data-record-browser data-preview="{{.Dev}}" data-autoplay-id="{{.Card.ID}}" data-csrf="{{.CSRF}}" data-order-version="{{.OrderVersion}}" aria-label="Browse your record collection">
+  <div class="record-player" hidden>
+    <div class="sleeve-stage">
+      <button class="sleeve" type="button" aria-label="Turn sleeve over" aria-pressed="false">
+        <span class="sleeve-inner">
+          <span class="sleeve-face sleeve-front"></span>
+          <span class="sleeve-face sleeve-back" aria-hidden="true"></span>
+        </span>
+      </button>
+      <div class="sleeve-tools"><button class="quiet turn-sleeve" type="button" aria-label="Show back cover">↻ Flip</button><button class="quiet enlarge-sleeve" type="button" aria-label="Enlarge artwork">⤢</button></div>
+    </div>
+    <div class="record-information">
+      <h2 class="selected-title"><span class="selected-title-text"></span></h2>
+      <div class="disc-choices" role="group" aria-label="Disc artwork" hidden></div>
+      <div class="selected-actions"><button class="selected-play" type="button">Play</button><a class="text-link selected-edit" href="/">Edit</a><button class="quiet selected-copy" type="button" data-copy="">Copy NFC URL</button></div>
+      <label class="playback-test-mode" hidden><input class="test-mode-toggle" type="checkbox"><span>Test mode</span></label>
+      <div class="playback-feedback" role="status" aria-live="polite" aria-atomic="true" hidden><span data-playback-message></span><a class="text-link playback-settings" href="/settings" hidden>Choose a device</a><a class="text-link playback-login" href="/login?next=/" hidden>Sign in</a></div>
+    </div>
+  </div>
+  <div class="crate-shell">
+    <section class="collection" aria-label="Records on your shelf" tabindex="-1">
+    {{range .Cards}}
+      <article class="album-card tone-{{.Tone}}" data-record-id="{{.ID}}" data-disc-key="{{.URI}}" data-disc-options="{{.Discs}}" data-title="{{.Title}}" data-search="{{.Title}} {{.Metadata.Artist}} {{.Metadata.Album}} {{.Metadata.Songs}}" data-kind="{{.Kind}}" data-catalogue="{{.Catalogue}}" data-front="{{.Front}}" data-back="{{.Back}}" data-front-candidates="{{.FrontSrcset}}" data-back-candidates="{{.BackSrcset}}" data-play="/c/{{.ID}}" data-edit="/cards/{{.ID}}/edit" data-nfc="{{$.PublicURL}}/c/{{.ID}}">
+        <a class="album-artwork" href="/cards/{{.ID}}/edit" aria-label="Edit {{.Title}}">
+          {{if .Front}}<img src="{{.ShelfImage}}" srcset="{{.ShelfSrcset}}" sizes="(max-width: 560px) 118px, 154px" alt="{{.Title}} cover artwork" width="320" height="320" loading="eager" decoding="async">{{else}}<span class="artwork-placeholder" aria-hidden="true"><span class="placeholder-record"></span></span>{{end}}
+        </a>
+        <div class="album-details"><a class="album-title" href="/cards/{{.ID}}/edit">{{.Title}}</a><div class="card-actions"><a href="/c/{{.ID}}">Play ↗</a><button class="copy quiet" type="button" data-copy="{{$.PublicURL}}/c/{{.ID}}">Copy NFC URL</button></div></div>
+      </article>
+    {{else}}<p class="intro">No records yet.</p>{{end}}
+    </section>
+    <p class="no-records" hidden>No results.</p>
+    <div class="shelf-edge" aria-hidden="true"></div>
+  </div>
+  <div class="shelf-toolbar" hidden>
+    <div class="shelf-filter"><label for="record-search">Search artists, songs or albums</label><input id="record-search" type="search" placeholder="Artist, song or album" autocomplete="off" value="{{.Q}}" maxlength="140"></div>
+    <form class="shelf-sort" method="get" action="/">
+      <input type="hidden" name="q" value="">
+      <label class="sr-only" for="shelf-sort">Sort records</label>
+      <select id="shelf-sort" name="sort">
+        <option value="custom"{{if eq .Sort "custom"}} selected{{end}}>Custom</option><option value="title"{{if eq .Sort "title"}} selected{{end}}>A–Z</option><option value="title-desc"{{if eq .Sort "title-desc"}} selected{{end}}>Z–A</option><option value="newest"{{if eq .Sort "newest"}} selected{{end}}>Newest</option><option value="oldest"{{if eq .Sort "oldest"}} selected{{end}}>Oldest</option>
+      </select><button class="sort-submit quiet" type="submit">Sort</button>
+    </form>
+    <button class="quiet arrange-records" type="button" hidden>Arrange</button><span class="order-feedback" role="status" hidden></span>
+    <div class="browse-controls"><button class="record-previous" type="button" aria-label="Previous record">←</button><button class="record-next" type="button" aria-label="Next record">→</button></div>
+  </div>
+  <div class="arrange-toolbar" hidden>
+    <span class="arrange-hint">Drag records to arrange.</span>
+    <div class="arrange-moves"><button class="quiet arrange-left" type="button" aria-label="Move selected record left">← Move</button><button class="quiet arrange-right" type="button" aria-label="Move selected record right">Move →</button></div>
+    <button class="arrange-save" type="button">Save order</button><button class="quiet arrange-cancel" type="button">Cancel</button>
+    <span class="arrange-status" role="status" aria-live="polite"></span>
+  </div>
+  <p class="shelf-status" role="status" aria-live="polite" aria-atomic="true"></p>
+</section>
+<div class="collection-management">
+  <details class="add-record" id="add-card"><summary><span>Add record</span><span aria-hidden="true">+</span></summary><form method="post" action="/cards"><input type="hidden" name="csrf" value="{{.CSRF}}"><div><label for="title">Name</label><input id="title" name="title" maxlength="140" required></div><div class="wide"><label for="uri">Spotify link</label><input id="uri" name="uri" type="text" required></div><button type="submit">Add</button></form></details>
+  <a class="text-link" href="/cards.csv">Export NFC URLs</a>
+</div>
+<template id="blank-sleeve"><span class="artwork-placeholder"><span class="placeholder-record"></span></span></template>
+<template id="blank-back"><span class="sleeve-notes">No back artwork.</span></template>
+<dialog class="sleeve-dialog" aria-label="Enlarged record artwork"><div class="dialog-toolbar"><span class="dialog-title"></span><button class="dialog-close" type="button" aria-label="Close enlarged artwork">×</button></div><div class="dialog-artwork"></div><button class="quiet dialog-turn" type="button">↻ Flip</button></dialog>
+{{end}}

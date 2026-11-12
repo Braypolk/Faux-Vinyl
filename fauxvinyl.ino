@@ -3,7 +3,7 @@
 #include <WiFiClient.h>
 #include <WebServer.h>
 #include <SpotifyArduino.h>
-#include <SpotifyArduinoCert.h>
+#include "spotify_certificates.h"
 #include <ArduinoJson.h>
 #include "settings.h"
 #include "env.h"
@@ -17,6 +17,7 @@ String music[] = {"playlist:618LE2v4fI3bSBMjczORn1", "album:59YYObx9wFEFG5zVdlfw
 
 bool getDeviceCallback(SpotifyDevice device, int index, int numDevices)
 {
+//  Serial.println("in device callback");
   if (index == 0)
   {
     // This is a first device from this batch
@@ -59,6 +60,8 @@ bool getDeviceCallback(SpotifyDevice device, int index, int numDevices)
 // From url, make correct commands to play item on device
 void sendInfo(SimpleDevice device, String itemCharArr)
 {
+//  Serial.println("sending info");
+
   reloaded = false;
   char itemId[itemCharArr.length() + 1];
   itemCharArr.toCharArray(itemId, itemCharArr.length() + 1);
@@ -83,7 +86,10 @@ void sendInfo(SimpleDevice device, String itemCharArr)
 
 void handleTag(String itemCharArr)
 {
+//  Serial.println("handling tag");
+
   int status = spotify.getDevices(getDeviceCallback);
+  Serial.println(status);
   if (status == 200)
   {
     int lr = 99;
@@ -151,6 +157,7 @@ void norm()
 
 void runTest()
 {
+  Serial.println("run test");
   server.send(200, "text/plain", "Server is running");
 }
 

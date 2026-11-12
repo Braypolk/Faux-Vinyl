@@ -1,0 +1,419 @@
+{
+  "id": 20978806,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/20978806",
+  "uri": "https://www.discogs.com/release/20978806-Rihanna-Anti",
+  "artists": [
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128",
+      "thumbnail_url": "https://i.discogs.com/IVogAplqrkSOw5ixNRBr8NC5ic3AtGi5uWHi7QmzAkk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMTEy/OC0xNzkwNjM2Nzk0/LTYxNjUuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rihanna",
+  "labels": [
+    {
+      "name": "Roc Nation",
+      "catno": "B0033091-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 286913,
+      "resource_url": "https://api.discogs.com/labels/286913",
+      "thumbnail_url": "https://i.discogs.com/1lWAu5gO6aXldghELFDi_AJCJlBsb36sVu0X0ZzLxos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Njkx/My0xNzUxMzEyMTkw/LTQ5NjEuanBlZw.jpeg"
+    }
+  ],
+  "series": [
+    {
+      "name": "RIH-ISSUE",
+      "catno": "8",
+      "entity_type": "2",
+      "entity_type_name": "Series",
+      "id": 2489302,
+      "resource_url": "https://api.discogs.com/labels/2489302",
+      "thumbnail_url": "https://i.discogs.com/sxEKnD6o-tiTZsFs3ymM_lJ7ogoh_XLbo7F6NtO5M5o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0ODkz/MDItMTYzNzQ3NjYw/NC03MjY0LmpwZWc.jpeg"
+    }
+  ],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Box Set",
+      "qty": "1",
+      "descriptions": [
+        "Limited Edition"
+      ]
+    },
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Reissue"
+      ],
+      "text": "Red Opaque"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 798,
+    "want": 733,
+    "rating": {
+      "count": 64,
+      "average": 4.69
+    },
+    "submitter": {
+      "username": "brs282",
+      "resource_url": "https://api.discogs.com/users/brs282"
+    },
+    "contributors": [
+      {
+        "username": "brs282",
+        "resource_url": "https://api.discogs.com/users/brs282"
+      },
+      {
+        "username": "dreamshop",
+        "resource_url": "https://api.discogs.com/users/dreamshop"
+      },
+      {
+        "username": "boytoysoldierco",
+        "resource_url": "https://api.discogs.com/users/boytoysoldierco"
+      },
+      {
+        "username": "A3RL",
+        "resource_url": "https://api.discogs.com/users/A3RL"
+      },
+      {
+        "username": "nasaow",
+        "resource_url": "https://api.discogs.com/users/nasaow"
+      },
+      {
+        "username": "jdawgnat",
+        "resource_url": "https://api.discogs.com/users/jdawgnat"
+      },
+      {
+        "username": "leonardoaraujo",
+        "resource_url": "https://api.discogs.com/users/leonardoaraujo"
+      },
+      {
+        "username": "Do-notTellMe",
+        "resource_url": "https://api.discogs.com/users/Do-notTellMe"
+      },
+      {
+        "username": "malvada",
+        "resource_url": "https://api.discogs.com/users/malvada"
+      },
+      {
+        "username": "diewithyou",
+        "resource_url": "https://api.discogs.com/users/diewithyou"
+      },
+      {
+        "username": "vinylwarp",
+        "resource_url": "https://api.discogs.com/users/vinylwarp"
+      },
+      {
+        "username": "chrisberr3",
+        "resource_url": "https://api.discogs.com/users/chrisberr3"
+      },
+      {
+        "username": "koalalolal",
+        "resource_url": "https://api.discogs.com/users/koalalolal"
+      },
+      {
+        "username": "EricThaddeus",
+        "resource_url": "https://api.discogs.com/users/EricThaddeus"
+      },
+      {
+        "username": "tauzin09",
+        "resource_url": "https://api.discogs.com/users/tauzin09"
+      },
+      {
+        "username": "zevulon",
+        "resource_url": "https://api.discogs.com/users/zevulon"
+      },
+      {
+        "username": "jesus864",
+        "resource_url": "https://api.discogs.com/users/jesus864"
+      },
+      {
+        "username": "Berke_Yilmaz",
+        "resource_url": "https://api.discogs.com/users/Berke_Yilmaz"
+      },
+      {
+        "username": "rbvloch",
+        "resource_url": "https://api.discogs.com/users/rbvloch"
+      },
+      {
+        "username": "conansheather",
+        "resource_url": "https://api.discogs.com/users/conansheather"
+      },
+      {
+        "username": "iamsheritaj",
+        "resource_url": "https://api.discogs.com/users/iamsheritaj"
+      },
+      {
+        "username": "Natemccarron",
+        "resource_url": "https://api.discogs.com/users/Natemccarron"
+      },
+      {
+        "username": "OnTheAnd",
+        "resource_url": "https://api.discogs.com/users/OnTheAnd"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 3,
+  "date_added": "2021-11-14T09:09:17-08:00",
+  "date_changed": "2023-09-04T19:24:15-07:00",
+  "num_for_sale": 14,
+  "lowest_price": 115.0,
+  "master_id": 950545,
+  "master_url": "https://api.discogs.com/masters/950545",
+  "title": "Anti",
+  "country": "US",
+  "released": "2021-11-11",
+  "notes": "Limited edition packaging of the first eight albums of Rihanna's catalogue. The records have been re-pressed in unique colorways and paired with album-specific, exclusive apparel items. \n\nAnti T-shirt:\nUnisex crewneck black t-shirt\n100% cotton\nRib knit collar\nScreen printed designs at front and back\nPrinted neck label ",
+  "released_formatted": "11 Nov 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602435327723"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=HL1UzIK-flA",
+      "title": "Rihanna - Work (Explicit) ft. Drake",
+      "description": "Get Rihanna\u2019s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nDownload on iTunes: http://smarturl.it/i_dlx_ANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: http://geni.us/amzANTI \nStream on ",
+      "duration": 455,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=49lY0HqqUVc",
+      "title": "Rihanna - Kiss It Better (Explicit)",
+      "description": "\u201cKiss It Better\u201d from Rihanna\u2019s eighth studio album ANTI, available now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nDownload on iTunes: http://smarturl.it/i_dlx_ANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: h",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wfN4PVaOU5Q",
+      "title": "Rihanna - Needed Me",
+      "description": "\"Needed Me\" from Rihanna\u2019s eighth studio album ANTI, available now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nDownload on iTunes: http://smarturl.it/i_dlx_ANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: http://gen",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QMP-o8WXSPM",
+      "title": "Love On The Brain",
+      "description": "Provided to YouTube by Universal Music Group\n\nLove On The Brain \u00b7 Rihanna\n\nANTI\n\n\u2117 2016 Westbury Road Entertainment. Distributed by Roc Nation Records\n\nReleased on: 2016-01-28\n\nComposer Lyricist, Producer: Fredrik Ball\nRecording Engineer: Marcos Tovar\nAdd",
+      "duration": 224,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Consideration",
+      "extraartists": [
+        {
+          "name": "SZA (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3272791,
+          "resource_url": "https://api.discogs.com/artists/3272791"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "James Joint",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Kiss It Better",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Work",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Desperado",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Woo",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Needed Me",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Yeah, I Said It",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Same Ol' Mistakes",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Never Ending",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Love On The Brain",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Higher",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Close To You",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Goodnight Gotham",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Pose",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Sex With Me",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/K3ZIBEA5TA38q33vKuzZzIE-MRbJ-IK4R0cqz9lMIMw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDMtMzg3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/K3ZIBEA5TA38q33vKuzZzIE-MRbJ-IK4R0cqz9lMIMw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDMtMzg3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/I_jgTHUDOCWtoTOCeiyq5fKoAWfQF41KyKjPQmQBm6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDMtMzg3Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 586
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8yuaLQqF46ty5cP3gtE6PaxVuDtq0nf9f5E9HnOB3Bk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDYtODIxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8yuaLQqF46ty5cP3gtE6PaxVuDtq0nf9f5E9HnOB3Bk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDYtODIxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ERnFUIkGgJVfXx1t2Tu_Y9l3LhLgYcNwlipvtG_9sy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDYtODIxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IiAXRrrv7MkPL1TM3-2vhS0Ocr2X8NPg2onq6SrLdSg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjAtNjY0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IiAXRrrv7MkPL1TM3-2vhS0Ocr2X8NPg2onq6SrLdSg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjAtNjY0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Fme7-_AdXmItAWgtkwWWLSKXI0X8HGzvq-EqGtgxsXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjAtNjY0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XXtZnm2xn60db8XxEBMhHs6TQ5HgV6pH2KNYjvsXuog/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzcyNzgz/MjQtODg0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/XXtZnm2xn60db8XxEBMhHs6TQ5HgV6pH2KNYjvsXuog/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzcyNzgz/MjQtODg0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QITbDIMsb_8I6EHf13A4EPvYA0Xsznt5MV-qfM2s9nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzcyNzgz/MjQtODg0Ny5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/K5oc4IrDT1GUzD06L7R_bN--g7JPMYJZxtFJBXttcVE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjQtMjQ3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/K5oc4IrDT1GUzD06L7R_bN--g7JPMYJZxtFJBXttcVE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjQtMjQ3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/O3qn0UVrO5ozBFggZzDUljlFg_ai06rVok5I-OXyhqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjQtMjQ3Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MpG6tzKgHE0a1H1vdnNo9qhUTf5XQL5gcBqG07LKCT8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjctMjQ2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MpG6tzKgHE0a1H1vdnNo9qhUTf5XQL5gcBqG07LKCT8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjctMjQ2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/sW-aLBhBN9TbXRqhrcMWu3tm3oJgBQlEEs2xtlxVpt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjctMjQ2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/NlYhDjS4JrYA2rGZt_YmEEgHmJLM8GAPS_uQ9D-KHK4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MzAtMzUwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NlYhDjS4JrYA2rGZt_YmEEgHmJLM8GAPS_uQ9D-KHK4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MzAtMzUwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iwNSYDCcUOI9tcsdM2cRqv_NelzxNKu6pYBhv6ZC8fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MzAtMzUwNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rKx_FAgexbYa12PlSLSOyAAiqyty_lCQQpXJL0yMxyQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MzItNzMwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rKx_FAgexbYa12PlSLSOyAAiqyty_lCQQpXJL0yMxyQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MzItNzMwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cGmGB-FZz8BKNv5vs3kZw5UDgNU7-DTBq75Ir8NYEi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MzItNzMwMS5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/I_jgTHUDOCWtoTOCeiyq5fKoAWfQF41KyKjPQmQBm6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDMtMzg3Ni5qcGVn.jpeg",
+  "estimated_weight": 690,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

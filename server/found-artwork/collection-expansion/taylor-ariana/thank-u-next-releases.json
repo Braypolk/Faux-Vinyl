@@ -1,0 +1,1550 @@
+{
+  "release-count": 25,
+  "releases": [
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": true,
+        "back": true,
+        "front": true,
+        "count": 17
+      },
+      "disambiguation": "",
+      "id": "1f1dcbfd-d191-4da5-9cec-66dd194a3ed9",
+      "release-events": [
+        {
+          "date": "2019-06-26",
+          "area": {
+            "type": null,
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "sort-name": "Japan",
+            "type-id": null,
+            "name": "Japan",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "barcode": "4988031334973",
+      "asin": null,
+      "quality": "normal",
+      "title": "thank u, next",
+      "media": [
+        {
+          "id": "4e62860f-7e42-3005-9068-3828fce41af5",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "title": "",
+          "format": "CD",
+          "position": 1,
+          "track-count": 14
+        },
+        {
+          "title": "",
+          "format-id": "2875c583-4580-3a90-b723-ba1b39921e23",
+          "id": "f8daff62-e151-34c9-b19c-6f3d0026ab34",
+          "track-count": 3,
+          "format": "DVD",
+          "position": 2
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-06-26",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "status": "Official",
+      "country": "JP"
+    },
+    {
+      "disambiguation": "clean",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "type": null,
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "type-id": null
+          }
+        }
+      ],
+      "barcode": "0602577465369",
+      "title": "thank u, next",
+      "quality": "normal",
+      "media": [
+        {
+          "id": "dab04c1e-16a8-3774-ac15-5d32d2169c5b",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "position": 1,
+          "format": "Digital Media",
+          "track-count": 12
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "281d4b00-e0d3-49a4-99c3-282650181bc1",
+      "date": "2019-02-08",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "XW",
+      "packaging": "None",
+      "status": "Official"
+    },
+    {
+      "country": null,
+      "status": "Official",
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2020",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 15,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "1a814f98-6173-372b-bb83-c4f1b49bc76f",
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "title": "thank u, next",
+      "barcode": "00602435644431",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2020",
+          "area": null
+        }
+      ],
+      "id": "2d492d36-eaf7-4e6a-b941-ed82d4a80c38",
+      "disambiguation": "video album, explicit",
+      "cover-art-archive": {
+        "count": 1,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      }
+    },
+    {
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "disambiguation": "Eternal Sunshine tour exclusive; pink & clear marble",
+      "quality": "normal",
+      "title": "thank u, next",
+      "barcode": "602577476228",
+      "asin": null,
+      "release-events": [
+        {
+          "area": null,
+          "date": "2026-06-04"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": null
+      },
+      "media": [
+        {
+          "title": "",
+          "id": "87edb3ae-eca0-4ca9-a336-8c870d79a05a",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "track-count": 6,
+          "format": "12\" Vinyl",
+          "position": 1
+        },
+        {
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "4df0d74c-fb94-4f5b-9004-b55d78ce6c1f",
+          "track-count": 6,
+          "format": "12\" Vinyl",
+          "position": 2
+        }
+      ],
+      "id": "2f39f1fb-8809-43aa-80ce-6108a521aa61",
+      "packaging-id": null,
+      "date": "2026-06-04",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": null,
+      "packaging": null,
+      "status": "Official"
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "track-count": 12,
+          "format": "Digital Media",
+          "position": 1,
+          "title": "",
+          "id": "6283b17c-44cb-3d86-b92e-ad8499ee4c35",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "quality": "normal",
+      "title": "thank u, next",
+      "asin": null,
+      "barcode": "0602577490354",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "type": null
+          },
+          "date": "2019-02-08"
+        },
+        {
+          "area": {
+            "disambiguation": "",
+            "name": "Canada",
+            "type-id": null,
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "sort-name": "Canada",
+            "type": null
+          },
+          "date": ""
+        },
+        {
+          "area": {
+            "type-id": null,
+            "name": "Egypt",
+            "disambiguation": "",
+            "type": null,
+            "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+            "sort-name": "Egypt",
+            "iso-3166-1-codes": [
+              "EG"
+            ]
+          },
+          "date": ""
+        },
+        {
+          "area": {
+            "type": null,
+            "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+            "sort-name": "Indonesia",
+            "iso-3166-1-codes": [
+              "ID"
+            ],
+            "type-id": null,
+            "name": "Indonesia",
+            "disambiguation": ""
+          },
+          "date": ""
+        },
+        {
+          "area": {
+            "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+            "sort-name": "Ireland",
+            "iso-3166-1-codes": [
+              "IE"
+            ],
+            "type": null,
+            "name": "Ireland",
+            "disambiguation": "",
+            "type-id": null
+          },
+          "date": ""
+        },
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "name": "Malaysia",
+            "type": null,
+            "sort-name": "Malaysia",
+            "iso-3166-1-codes": [
+              "MY"
+            ],
+            "id": "305d19c7-c040-349c-8d5f-6ac75d2d2a09"
+          },
+          "date": ""
+        },
+        {
+          "date": "",
+          "area": {
+            "type": null,
+            "id": "9705be0d-51fb-3990-8726-ec9f56c66ba0",
+            "sort-name": "Saudi Arabia",
+            "iso-3166-1-codes": [
+              "SA"
+            ],
+            "type-id": null,
+            "name": "Saudi Arabia",
+            "disambiguation": ""
+          }
+        },
+        {
+          "area": {
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "type": null,
+            "name": "United Kingdom",
+            "disambiguation": "",
+            "type-id": null
+          },
+          "date": ""
+        }
+      ],
+      "id": "335419ee-aacf-4951-9a7d-e591a19165bd",
+      "cover-art-archive": {
+        "count": 1,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      },
+      "disambiguation": "clean",
+      "country": "US",
+      "status": "Official",
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2019-02-08",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "9bb36490-06b3-3de4-b866-47a5a5ad8dc6",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 12
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "barcode": "00602577497452",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": null
+        }
+      ],
+      "id": "44bdf559-f352-474b-a09f-9c2b1a55d90f",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "disambiguation": "hi-res, clean",
+      "country": null,
+      "status": "Official",
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2019-02-08",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "disambiguation": "",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "barcode": "0602577490385",
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "asin": null,
+      "quality": "normal",
+      "title": "thank u, next",
+      "media": [
+        {
+          "position": 1,
+          "format": "Digital Media",
+          "track-count": 12,
+          "id": "60e1a965-49f7-32f0-9200-092ee1ed2553",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": ""
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "id": "733980e3-e5ea-478f-8d5f-11b5d29ecd31",
+      "date": "2019-02-08",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "XW",
+      "packaging": "None",
+      "status": "Official"
+    },
+    {
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "disambiguation": "",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "type-id": null,
+            "name": "[Worldwide]",
+            "disambiguation": ""
+          },
+          "date": "2019-02-08"
+        }
+      ],
+      "asin": null,
+      "barcode": "0602577465284",
+      "title": "thank u, next",
+      "quality": "normal",
+      "media": [
+        {
+          "title": "",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "05661205-6063-30fb-ab74-fd6b3899bd87",
+          "track-count": 12,
+          "format": "Digital Media",
+          "position": 1
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "id": "7cfcd66f-878f-483a-9efd-7e54231b6ca3",
+      "date": "2019-02-08",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "XW",
+      "packaging": "None",
+      "status": "Official"
+    },
+    {
+      "id": "7ff46d60-f82c-4e1e-bb87-2ba8d0971e76",
+      "media": [
+        {
+          "track-count": 12,
+          "format": "Digital Media",
+          "position": 1,
+          "title": "",
+          "id": "b3b8f4b1-d9e1-3622-afb9-fcf0faceb724",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "asin": null,
+      "barcode": "00602577464980",
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": null
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "disambiguation": "explicit",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "status": "Official",
+      "packaging": "None",
+      "country": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-02-08",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+    },
+    {
+      "id": "80d095f7-11f6-4268-8bab-d9d5744f4791",
+      "media": [
+        {
+          "track-count": 6,
+          "format": "12\" Vinyl",
+          "position": 1,
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "e23e0ad5-499b-43c6-bb17-8ad16d9d3d9c"
+        },
+        {
+          "track-count": 6,
+          "position": 2,
+          "format": "12\" Vinyl",
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "da0bee1e-c08b-4073-b937-6bc20a6d64a6"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": null
+      },
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "sort-name": "Europe",
+            "type-id": null,
+            "disambiguation": "",
+            "name": "Europe"
+          },
+          "date": "2019-04"
+        }
+      ],
+      "asin": null,
+      "barcode": "0602577476228",
+      "quality": "normal",
+      "title": "thank u, next",
+      "disambiguation": "",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "back": false
+      },
+      "status": "Official",
+      "packaging": null,
+      "country": "XE",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-04",
+      "packaging-id": null
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-02-08",
+      "packaging-id": "c70b737a-0114-39a9-88f7-82843e54f906",
+      "packaging": "Cassette Case",
+      "status": "Official",
+      "country": "US",
+      "cover-art-archive": {
+        "count": 1,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      },
+      "disambiguation": "",
+      "id": "85be4440-7bdc-42cf-aeb5-5e74e06a6f2b",
+      "asin": null,
+      "barcode": null,
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null,
+            "name": "United States",
+            "disambiguation": ""
+          },
+          "date": "2019-02-08"
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "media": [
+        {
+          "format": "Cassette",
+          "position": 1,
+          "track-count": 12,
+          "format-id": "f5e6e254-8f39-331c-936b-9c69d686dc47",
+          "id": "5b31491a-2928-3b02-9d6c-4cdc10910631",
+          "title": ""
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      }
+    },
+    {
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "disambiguation": "Urban Outfitters exclusive; orchid & black swirl vinyl",
+      "media": [
+        {
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "2df3d60c-52f9-45cc-a468-ac2b261bac1c",
+          "track-count": 6,
+          "format": "12\" Vinyl",
+          "position": 1
+        },
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "e4867108-7706-4f21-bf89-aed2a8ad622e",
+          "title": "",
+          "position": 2,
+          "format": "12\" Vinyl",
+          "track-count": 6
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": null
+      },
+      "release-events": [
+        {
+          "area": {
+            "name": "United States",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type": null
+          },
+          "date": "2026-06-05"
+        }
+      ],
+      "barcode": "199957668040",
+      "asin": null,
+      "quality": "normal",
+      "title": "thank u, next",
+      "id": "87baffe5-3f19-4caa-aeb3-5daf7709ee1e",
+      "date": "2026-06-05",
+      "packaging-id": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "US",
+      "status": "Official",
+      "packaging": null
+    },
+    {
+      "packaging": null,
+      "status": "Official",
+      "country": "XE",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-12-06",
+      "packaging-id": null,
+      "id": "8bd4be9a-8401-4f9c-b3af-a8686d66b717",
+      "asin": null,
+      "barcode": "602577476228",
+      "release-events": [
+        {
+          "date": "2019-12-06",
+          "area": {
+            "type": null,
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "sort-name": "Europe",
+            "type-id": null,
+            "name": "Europe",
+            "disambiguation": ""
+          }
+        },
+        {
+          "date": "2019-12-06",
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type": null
+          }
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "media": [
+        {
+          "id": "a3f7ccc9-7ad5-41a0-8b19-0d53b0f09056",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "title": "",
+          "position": 1,
+          "format": "12\" Vinyl",
+          "track-count": 6
+        },
+        {
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "8925bb62-266f-42b1-a5b8-9bcb2134a84a",
+          "track-count": 6,
+          "format": "12\" Vinyl",
+          "position": 2
+        }
+      ],
+      "text-representation": {
+        "script": null,
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "count": 1,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      },
+      "disambiguation": "pink / clear split vinyl"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-02-08",
+      "packaging-id": "9f2e13bc-f84f-428a-8342-fd86ece7fc4d",
+      "status": "Official",
+      "packaging": "Digibook",
+      "country": "TW",
+      "cover-art-archive": {
+        "count": 0,
+        "back": false,
+        "front": false,
+        "artwork": false,
+        "darkened": false
+      },
+      "disambiguation": "",
+      "id": "908ecb12-f466-4647-8237-c628b05ce615",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "9b40288e-f952-3768-a7ef-93c7d847cfd2",
+          "title": "",
+          "format": "CD",
+          "position": 1,
+          "track-count": 12
+        }
+      ],
+      "text-representation": {
+        "script": "Qaaa",
+        "language": "mul"
+      },
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "name": "Taiwan",
+            "disambiguation": "",
+            "type": null,
+            "sort-name": "Taiwan",
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "iso-3166-2-codes": [
+              "CN-71"
+            ]
+          },
+          "date": "2019-02-08"
+        }
+      ],
+      "barcode": "602577378034",
+      "asin": null,
+      "title": "thank u, next \u8b1d\u8b1d\uff0c\u4e0b\u4e00\u4f4d",
+      "quality": "normal"
+    },
+    {
+      "status": "Official",
+      "packaging": "None",
+      "country": "JP",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-02-08",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "id": "a49651ba-be2a-4316-9fd4-feaa992efc32",
+      "media": [
+        {
+          "id": "f5cdd613-593c-368a-855d-d4f7771e881c",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "title": "",
+          "position": 1,
+          "format": "Digital Media",
+          "track-count": 12
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "00602577497421",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "type-id": null,
+            "name": "Japan",
+            "disambiguation": ""
+          },
+          "date": "2019-02-08"
+        },
+        {
+          "date": "2019-02-08",
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "type-id": null,
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type": null
+          }
+        }
+      ],
+      "asin": null,
+      "quality": "normal",
+      "title": "thank u, next",
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "disambiguation": "hi-res, explicit"
+    },
+    {
+      "date": "2019-02-08",
+      "packaging-id": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "XW",
+      "packaging": null,
+      "status": "Official",
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": false,
+        "front": false,
+        "back": false,
+        "count": 0
+      },
+      "disambiguation": "",
+      "asin": null,
+      "barcode": null,
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": {
+            "name": "[Worldwide]",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type": null
+          }
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 12,
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "3ca05c11-943a-3b49-8ab2-c247d5157a51",
+          "title": ""
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "id": "a87db6e8-acac-43fe-94a8-539b7d302ac4"
+    },
+    {
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "disambiguation": "",
+      "id": "ad86cea0-bf02-402e-ba78-cff342c7103e",
+      "media": [
+        {
+          "position": 1,
+          "format": "12\" Vinyl",
+          "track-count": 6,
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "e6e63c70-24ef-4d1c-8518-f43804932a6b",
+          "title": ""
+        },
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "6882ff29-072f-4dcc-b5a5-27305488451c",
+          "title": "",
+          "position": 2,
+          "format": "12\" Vinyl",
+          "track-count": 6
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": null
+      },
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "type-id": null,
+            "disambiguation": "",
+            "name": "United States"
+          },
+          "date": "2019-05-03"
+        }
+      ],
+      "asin": null,
+      "barcode": "602577476228",
+      "quality": "normal",
+      "title": "thank u, next",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2019-05-03",
+      "packaging-id": null,
+      "status": "Official",
+      "packaging": null,
+      "country": "US"
+    },
+    {
+      "disambiguation": "pink & clear marble",
+      "cover-art-archive": {
+        "darkened": false,
+        "artwork": false,
+        "back": false,
+        "front": false,
+        "count": 0
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": null
+      },
+      "media": [
+        {
+          "format": "12\" Vinyl",
+          "position": 1,
+          "track-count": 6,
+          "id": "915a0c94-c5cf-4db6-b7e4-f1e91641e9f1",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "title": ""
+        },
+        {
+          "id": "622bb505-e209-4e7d-a568-1b5782e95369",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "title": "",
+          "position": 2,
+          "format": "12\" Vinyl",
+          "track-count": 6
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "release-events": [
+        {
+          "date": "2026-08-15",
+          "area": {
+            "type": null,
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "type-id": null,
+            "name": "United Kingdom",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "asin": null,
+      "barcode": "199957668033",
+      "id": "bdfcdd15-5fd0-4475-bd79-3cd0b7cca52e",
+      "packaging-id": null,
+      "date": "2026-08-15",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "GB",
+      "status": "Official",
+      "packaging": null
+    },
+    {
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "date": "2019-02-08",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "JP",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "disambiguation": "",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "front": true
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "title": "",
+          "id": "43fc5861-724d-3864-b8fd-d1ebee81b52e",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 12,
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "title": "thank u, next",
+      "barcode": "4988031321584",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "name": "Japan",
+            "disambiguation": "",
+            "type": null,
+            "sort-name": "Japan",
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c"
+          },
+          "date": "2019-02-08"
+        }
+      ],
+      "asin": null,
+      "id": "d8e0c6db-023f-402e-9825-11476dba2199"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2019-02-08",
+      "status": "Official",
+      "packaging": "None",
+      "country": null,
+      "cover-art-archive": {
+        "count": 1,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      },
+      "disambiguation": "video album, explicit",
+      "id": "d9af2bac-9fac-441f-8120-e194155b98f8",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "track-count": 15,
+          "format": "Digital Media",
+          "position": 1,
+          "title": "",
+          "id": "1f890c24-b797-3fbb-b3a0-f600c917c6e7",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": null
+        }
+      ],
+      "barcode": "00602435803210"
+    },
+    {
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2019-02-08",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "US",
+      "status": "Official",
+      "packaging": "None",
+      "cover-art-archive": {
+        "back": false,
+        "front": true,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      },
+      "disambiguation": "clean",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "6576001b-1067-3375-be41-6f3177d04614",
+          "title": "",
+          "position": 1,
+          "format": "Digital Media",
+          "track-count": 12
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "asin": null,
+      "barcode": "602577464997",
+      "release-events": [
+        {
+          "area": {
+            "name": "United States",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type": null
+          },
+          "date": "2019-02-08"
+        },
+        {
+          "area": {
+            "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+            "iso-3166-1-codes": [
+              "DZ"
+            ],
+            "sort-name": "Algeria",
+            "type": null,
+            "disambiguation": "",
+            "name": "Algeria",
+            "type-id": null
+          },
+          "date": ""
+        },
+        {
+          "date": "",
+          "area": {
+            "disambiguation": "",
+            "name": "Canada",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type": null
+          }
+        },
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "name": "Egypt",
+            "type": null,
+            "sort-name": "Egypt",
+            "iso-3166-1-codes": [
+              "EG"
+            ],
+            "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667"
+          },
+          "date": ""
+        },
+        {
+          "date": "",
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "name": "India",
+            "type": null,
+            "iso-3166-1-codes": [
+              "IN"
+            ],
+            "sort-name": "India",
+            "id": "d31a9a15-537f-3669-ad53-25753ddd2772"
+          }
+        },
+        {
+          "area": {
+            "name": "Ireland",
+            "disambiguation": "",
+            "type-id": null,
+            "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+            "iso-3166-1-codes": [
+              "IE"
+            ],
+            "sort-name": "Ireland",
+            "type": null
+          },
+          "date": ""
+        },
+        {
+          "date": "",
+          "area": {
+            "type": null,
+            "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+            "sort-name": "Mexico",
+            "iso-3166-1-codes": [
+              "MX"
+            ],
+            "type-id": null,
+            "name": "Mexico",
+            "disambiguation": ""
+          }
+        },
+        {
+          "area": {
+            "type-id": null,
+            "name": "Morocco",
+            "disambiguation": "",
+            "type": null,
+            "id": "b84d8617-249a-3a06-849d-fc5c25e2249b",
+            "iso-3166-1-codes": [
+              "MA"
+            ],
+            "sort-name": "Morocco"
+          },
+          "date": ""
+        },
+        {
+          "area": {
+            "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+            "sort-name": "Singapore",
+            "iso-3166-1-codes": [
+              "SG"
+            ],
+            "type": null,
+            "name": "Singapore",
+            "disambiguation": "",
+            "type-id": null
+          },
+          "date": ""
+        },
+        {
+          "area": {
+            "type": null,
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "sort-name": "United Kingdom",
+            "type-id": null,
+            "disambiguation": "",
+            "name": "United Kingdom"
+          },
+          "date": ""
+        }
+      ],
+      "id": "dbbe0c19-6fa3-4621-af9f-d22ddb0ab35f"
+    },
+    {
+      "country": "US",
+      "packaging": null,
+      "status": "Official",
+      "date": "2019-05-03",
+      "packaging-id": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": "602577500879",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "name": "United States",
+            "type": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2019-05-03"
+        }
+      ],
+      "asin": null,
+      "quality": "normal",
+      "title": "thank u, next",
+      "media": [
+        {
+          "track-count": 6,
+          "format": "12\" Vinyl",
+          "position": 1,
+          "title": "",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "02c88374-c895-4605-9cd3-9715641fa720"
+        },
+        {
+          "id": "96da4dad-ae1d-4ecf-a18a-ebaaf20c5355",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "title": "",
+          "format": "12\" Vinyl",
+          "position": 2,
+          "track-count": 6
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": null
+      },
+      "id": "e5eaf291-4399-449f-ae74-545c4c25fbec",
+      "disambiguation": "Target exclusive; clear vinyl",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "count": 1,
+        "darkened": false,
+        "artwork": true
+      }
+    },
+    {
+      "id": "ebed229c-f1d9-4783-be4a-aa961ff3a57e",
+      "quality": "normal",
+      "title": "thank u, next",
+      "asin": "B07N37VTFY",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "name": "Europe",
+            "type-id": null,
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "type": null
+          },
+          "date": "2019-02-08"
+        }
+      ],
+      "barcode": "602577378034",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "57e28fc0-f457-3abd-93f0-ed86f1399015",
+          "title": "",
+          "position": 1,
+          "format": "CD",
+          "track-count": 12
+        }
+      ],
+      "disambiguation": "",
+      "cover-art-archive": {
+        "artwork": true,
+        "darkened": false,
+        "count": 2,
+        "front": true,
+        "back": true
+      },
+      "packaging": "Jewel Case",
+      "status": "Official",
+      "country": "XE",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "date": "2019-02-08"
+    },
+    {
+      "cover-art-archive": {
+        "count": 9,
+        "back": true,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      },
+      "disambiguation": "explicit",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "title": "",
+          "id": "4747dbcc-7fa6-380f-a43a-3b101b4c20b4",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "track-count": 12,
+          "format": "CD",
+          "position": 1
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "release-events": [
+        {
+          "date": "2019-02-08",
+          "area": {
+            "disambiguation": "",
+            "name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "type": null
+          }
+        }
+      ],
+      "asin": "B07N37VTFY",
+      "barcode": "602577378034",
+      "id": "f180cef1-c7b6-4933-92b9-d7292ad1f15c",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "date": "2019-02-08",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "US",
+      "status": "Official",
+      "packaging": "Jewel Case"
+    },
+    {
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "date": "2019-02-07",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "US",
+      "status": "Official",
+      "packaging": "None",
+      "cover-art-archive": {
+        "count": 1,
+        "back": false,
+        "front": true,
+        "artwork": true,
+        "darkened": false
+      },
+      "disambiguation": "Hi-Res, explicit",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "title": "",
+          "id": "080a3a94-37ec-38ff-8dea-c41219dcda37",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "track-count": 12,
+          "format": "Digital Media",
+          "position": 1
+        }
+      ],
+      "title": "thank u, next",
+      "quality": "normal",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "name": "United States",
+            "disambiguation": "",
+            "type": null,
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "id": "489ce91b-6658-3307-9877-795b68554c98"
+          },
+          "date": "2019-02-07"
+        }
+      ],
+      "barcode": "602577497452",
+      "asin": null,
+      "id": "f3c1f76d-d436-4402-8888-1fdcf9e6cba8"
+    }
+  ],
+  "release-offset": 0
+}

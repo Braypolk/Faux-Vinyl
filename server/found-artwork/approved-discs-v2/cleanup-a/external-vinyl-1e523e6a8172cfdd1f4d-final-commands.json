@@ -1,0 +1,37 @@
+[
+  [
+    "file.placeEmbedded",
+    {
+      "path": "found-artwork/approved-discs-v2/cleanup-a/row-15-original-label.png",
+      "fit": false,
+      "scale": 100,
+      "center": [
+        324,
+        324
+      ],
+      "smartObject": false
+    }
+  ],
+  [
+    "layer.mergeVisible",
+    {}
+  ],
+  [
+    "select.rect",
+    {
+      "x": 316,
+      "y": 316,
+      "width": 16,
+      "height": 16,
+      "ellipse": true
+    }
+  ],
+  [
+    "edit.clear",
+    {}
+  ],
+  [
+    "select.deselect",
+    {}
+  ]
+]

@@ -1,0 +1,510 @@
+{
+  "checked": "2026-11-11",
+  "basis": "Saved Spotify public catalogue metadata; original artist/title styling retained. Personal playlist G Songs uses readable title case.",
+  "entries": [
+    {
+      "id": "discover-weekly",
+      "uri": "spotify:playlist:37i9dQZEVXcEhQ4vCW9RIF",
+      "previous_title": "Discover weekly",
+      "title": "Discover Weekly",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/37i9dQZEVXcEhQ4vCW9RIF"
+    },
+    {
+      "id": "2021-discover-yearly",
+      "uri": "spotify:playlist:1KvcofIOKAV8Nd6nwMfZSo",
+      "previous_title": "2021 Discover yearly",
+      "title": "2021 Discover Yearly",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/1KvcofIOKAV8Nd6nwMfZSo"
+    },
+    {
+      "id": "dang",
+      "uri": "spotify:playlist:6OCtr4sywS88NjMyGrfFlL",
+      "previous_title": "Dang",
+      "title": "Dang",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/6OCtr4sywS88NjMyGrfFlL"
+    },
+    {
+      "id": "g-songs",
+      "uri": "spotify:playlist:5ql0M8OHdsJNmhEjNEy7pW",
+      "previous_title": "G songs",
+      "title": "G Songs",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/5ql0M8OHdsJNmhEjNEy7pW"
+    },
+    {
+      "id": "80s-hits",
+      "uri": "spotify:playlist:37i9dQZF1DXb57FjYWz00c",
+      "previous_title": "80s Hits",
+      "title": "80s Hits",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/37i9dQZF1DXb57FjYWz00c"
+    },
+    {
+      "id": "party-hits",
+      "uri": "spotify:playlist:37i9dQZF1DXa2PvUpywmrr",
+      "previous_title": "Party hits",
+      "title": "Party Hits",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr"
+    },
+    {
+      "id": "party-hits-2000",
+      "uri": "spotify:playlist:37i9dQZF1DX7e8TjkFNKWH",
+      "previous_title": "Party hits 2000",
+      "title": "Party Hits 2000s",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/37i9dQZF1DX7e8TjkFNKWH"
+    },
+    {
+      "id": "party-hits-2010",
+      "uri": "spotify:playlist:37i9dQZF1DWWylYLMvjuRG",
+      "previous_title": "Party hits 2010",
+      "title": "Party Hits 2010s",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG"
+    },
+    {
+      "id": "other",
+      "uri": "spotify:playlist:618LE2v4fI3bSBMjczORn1",
+      "previous_title": "Other",
+      "title": "Other",
+      "artist": "",
+      "source": "https://open.spotify.com/playlist/618LE2v4fI3bSBMjczORn1"
+    },
+    {
+      "id": "glory-sound-prep",
+      "uri": "spotify:album:59YYObx9wFEFG5zVdlfwvf",
+      "previous_title": "Glory Sound Prep",
+      "title": "Glory Sound Prep",
+      "artist": "Jon Bellion",
+      "source": "https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf"
+    },
+    {
+      "id": "the-human-condition",
+      "uri": "spotify:album:2jJReDZqTuAxr4R0ItimZc",
+      "previous_title": "The human condition",
+      "title": "The Human Condition",
+      "artist": "Jon Bellion",
+      "source": "https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc"
+    },
+    {
+      "id": "the-story-of-us-quinn",
+      "uri": "spotify:album:30v79AzKU1U5Rc7pwmzbkk",
+      "previous_title": "The story of us (quinn)",
+      "title": "The Story of Us (Deluxe)",
+      "artist": "Quinn XCII",
+      "source": "https://open.spotify.com/album/30v79AzKU1U5Rc7pwmzbkk"
+    },
+    {
+      "id": "a-letter-to-my-younger-self-quinn",
+      "uri": "spotify:album:1dVw3jSdgZp7PfGhCEo32t",
+      "previous_title": "A letter to my younger self (quinn)",
+      "title": "A Letter To My Younger Self",
+      "artist": "Quinn XCII",
+      "source": "https://open.spotify.com/album/1dVw3jSdgZp7PfGhCEo32t"
+    },
+    {
+      "id": "1984",
+      "uri": "spotify:album:3REUXdj5OPKhuDTrTtCBU0",
+      "previous_title": "1984",
+      "title": "1984 (Remastered)",
+      "artist": "Van Halen",
+      "source": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+    },
+    {
+      "id": "van-halen-album",
+      "uri": "spotify:album:7DdEbYFPKTZ8KB4z6L4UnQ",
+      "previous_title": "Van Halen (album)",
+      "title": "Van Halen (Remastered)",
+      "artist": "Van Halen",
+      "source": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+    },
+    {
+      "id": "michael-jackson",
+      "uri": "spotify:album:77dNyQA0z8dV33M4so4eRY",
+      "previous_title": "Michael Jackson",
+      "title": "The Essential Michael Jackson",
+      "artist": "Michael Jackson",
+      "source": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
+    },
+    {
+      "id": "beerbongs-and-bentleys",
+      "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR",
+      "previous_title": "Beerbongs and bentleys",
+      "title": "beerbongs & bentleys",
+      "artist": "Post Malone",
+      "source": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+    },
+    {
+      "id": "hollywood-s-bleeding",
+      "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi",
+      "previous_title": "Hollywood's bleeding",
+      "title": "Hollywood's Bleeding",
+      "artist": "Post Malone",
+      "source": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+    },
+    {
+      "id": "sheryl-crow-tuesday-night-music-club",
+      "uri": "spotify:album:11ZOyF9bKgnusVD1rUapwv",
+      "previous_title": "(Sheryl crow) tuesday night music club",
+      "title": "Tuesday Night Music Club (Deluxe Edition)",
+      "artist": "Sheryl Crow",
+      "source": "https://open.spotify.com/album/11ZOyF9bKgnusVD1rUapwv"
+    },
+    {
+      "id": "seal",
+      "uri": "spotify:album:1mSECpFqHRW6leG4idqTE1",
+      "previous_title": "seal",
+      "title": "Seal",
+      "artist": "Seal",
+      "source": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+    },
+    {
+      "id": "funhouse",
+      "uri": "spotify:album:1LOJfNDxQhbpssKx7oM7at",
+      "previous_title": "funhouse",
+      "title": "Funhouse (Expanded Edition)",
+      "artist": "P!nk",
+      "source": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+    },
+    {
+      "id": "the-end-black-eyed-peas",
+      "uri": "spotify:album:3lng6RAtdksQ2q02Fk5jaB",
+      "previous_title": "the end (black eyed peas)",
+      "title": "THE E.N.D. (THE ENERGY NEVER DIES)",
+      "artist": "Black Eyed Peas",
+      "source": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+    },
+    {
+      "id": "the-off-season",
+      "uri": "spotify:album:4JAvwK4APPArjIsOdGoJXX",
+      "previous_title": "the off season",
+      "title": "The Off-Season",
+      "artist": "J. Cole",
+      "source": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+    },
+    {
+      "id": "4-your-eyes-only",
+      "uri": "spotify:album:3CCnGldVQ90c26aFATC1PW",
+      "previous_title": "4 your eyes only",
+      "title": "4 Your Eyez Only",
+      "artist": "J. Cole",
+      "source": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+    },
+    {
+      "id": "forest-hill-drive",
+      "uri": "spotify:album:0UMMIkurRUmkruZ3KGBLtG",
+      "previous_title": "forest hill drive",
+      "title": "2014 Forest Hills Drive",
+      "artist": "J. Cole",
+      "source": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+    },
+    {
+      "id": "planet-her",
+      "uri": "spotify:album:4XLPYMERZZaBzkJg0mkdvO",
+      "previous_title": "planet her",
+      "title": "Planet Her (Deluxe)",
+      "artist": "Doja Cat",
+      "source": "https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO"
+    },
+    {
+      "id": "purpose",
+      "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr",
+      "previous_title": "purpose",
+      "title": "Purpose (Deluxe)",
+      "artist": "Justin Bieber",
+      "source": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+    },
+    {
+      "id": "flume",
+      "uri": "spotify:album:1yc3Ldus5BkJBVX9mSFMt4",
+      "previous_title": "flume",
+      "title": "Flume: Deluxe Edition",
+      "artist": "Flume",
+      "source": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
+    },
+    {
+      "id": "back-in-black",
+      "uri": "spotify:album:6mUdeDZCsExyJLMdAfDuwh",
+      "previous_title": "back in black",
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "source": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+    },
+    {
+      "id": "after-hours",
+      "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj",
+      "previous_title": "after hours",
+      "title": "After Hours",
+      "artist": "The Weeknd",
+      "source": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+    },
+    {
+      "id": "kids",
+      "uri": "spotify:album:0WzOtZBpXvWdNdH7hCJ4qo",
+      "previous_title": "kids",
+      "title": "K.I.D.S.",
+      "artist": "Mac Miller",
+      "source": "https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo"
+    },
+    {
+      "id": "swimming",
+      "uri": "spotify:album:5wtE5aLX5r7jOosmPhJhhk",
+      "previous_title": "swimming",
+      "title": "Swimming",
+      "artist": "Mac Miller",
+      "source": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+    },
+    {
+      "id": "blonde",
+      "uri": "spotify:album:3mH6qwIy9crq0I9YQbOuDf",
+      "previous_title": "blonde",
+      "title": "Blonde",
+      "artist": "Frank Ocean",
+      "source": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+    },
+    {
+      "id": "life-of-pablo",
+      "uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1",
+      "previous_title": "life of pablo",
+      "title": "The Life Of Pablo",
+      "artist": "Kanye West",
+      "source": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+    },
+    {
+      "id": "jesus-is-king",
+      "uri": "spotify:album:0FgZKfoU2Br5sHOfvZKTI9",
+      "previous_title": "jesus is king",
+      "title": "JESUS IS KING",
+      "artist": "Kanye West",
+      "source": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+    },
+    {
+      "id": "teenage-dream",
+      "uri": "spotify:album:3BoUxfC7YhxNq3TpOfnRif",
+      "previous_title": "teenage dream",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "source": "https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif"
+    },
+    {
+      "id": "the-game",
+      "uri": "spotify:album:6wPXUmYJ9mOWrKlLzZ5cCa",
+      "previous_title": "the game",
+      "title": "The Game (Deluxe Remastered Version)",
+      "artist": "Queen",
+      "source": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+    },
+    {
+      "id": "maad-city",
+      "uri": "spotify:album:3DGQ1iZ9XKUQxAUWjfC34w",
+      "previous_title": "maad city",
+      "title": "good kid, m.A.A.d city (Deluxe)",
+      "artist": "Kendrick Lamar",
+      "source": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+    },
+    {
+      "id": "californication",
+      "uri": "spotify:album:2Y9IRtehByVkegoD7TcLfi",
+      "previous_title": "californication",
+      "title": "Californication (Deluxe Edition)",
+      "artist": "Red Hot Chili Peppers",
+      "source": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+    },
+    {
+      "id": "american-teen",
+      "uri": "spotify:album:6kf46HbnYCZzP6rjvQHYzg",
+      "previous_title": "american teen",
+      "title": "American Teen",
+      "artist": "Khalid",
+      "source": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+    },
+    {
+      "id": "dreamland",
+      "uri": "spotify:album:5bfpRtBW7RNRdsm3tRyl3R",
+      "previous_title": "dreamland",
+      "title": "Dreamland",
+      "artist": "Glass Animals",
+      "source": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+    },
+    {
+      "id": "curtain-call",
+      "uri": "spotify:album:5qENHeCSlwWpEzb25peRmQ",
+      "previous_title": "curtain call",
+      "title": "Curtain Call: The Hits (Deluxe Edition)",
+      "artist": "Eminem",
+      "source": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+    },
+    {
+      "id": "future-nostalgia",
+      "uri": "spotify:album:5lKlFlReHOLShQKyRv6AL9",
+      "previous_title": "future nostalgia",
+      "title": "Future Nostalgia",
+      "artist": "Dua Lipa",
+      "source": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+    },
+    {
+      "id": "death-of-a-bachelor",
+      "uri": "spotify:album:6twKQ0EsUJHVlAr6XBylrj",
+      "previous_title": "death of a bachelor",
+      "title": "Death of a Bachelor",
+      "artist": "Panic! At The Disco",
+      "source": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+    },
+    {
+      "id": "everybody",
+      "uri": "spotify:album:1HiN2YXZcc3EjmVZ4WjfBk",
+      "previous_title": "everybody",
+      "title": "Everybody",
+      "artist": "Logic",
+      "source": "https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"
+    },
+    {
+      "id": "sour",
+      "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j",
+      "previous_title": "sour",
+      "title": "SOUR",
+      "artist": "Olivia Rodrigo",
+      "source": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+    },
+    {
+      "id": "woodstock",
+      "uri": "spotify:album:4VzzEviJGYUtAeSsJlI9QB",
+      "previous_title": "woodstock",
+      "title": "Woodstock",
+      "artist": "Portugal. The Man",
+      "source": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+    },
+    {
+      "id": "fine-line",
+      "uri": "spotify:album:7xV2TzoaVc0ycW7fwBwAml",
+      "previous_title": "fine line",
+      "title": "Fine Line",
+      "artist": "Harry Styles",
+      "source": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+    },
+    {
+      "id": "father-figure-725a6a",
+      "uri": "spotify:album:5xKTTHKTTFyNxtOLGtznaR",
+      "previous_title": "Father Figure",
+      "title": "FATHER FIGURE",
+      "artist": "Jon Bellion",
+      "source": "https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR"
+    },
+    {
+      "id": "when-we-all-fall-asleep-where-do-we-go-4f6944",
+      "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh",
+      "previous_title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "artist": "Billie Eilish",
+      "source": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+    },
+    {
+      "id": "happier-than-ever-5a5a4e",
+      "uri": "spotify:album:0JGOiO34nwfUdDrD612dOp",
+      "previous_title": "Happier Than Ever",
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "source": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+    },
+    {
+      "id": "hit-me-hard-and-soft-756336",
+      "uri": "spotify:album:7aJuG4TFXa2hmE4z1yxc3n",
+      "previous_title": "HIT ME HARD AND SOFT",
+      "title": "HIT ME HARD AND SOFT",
+      "artist": "Billie Eilish",
+      "source": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+    },
+    {
+      "id": "kiss-all-the-time-disco-occasionally",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR",
+      "previous_title": "Kiss All The Time. Disco, Occasionally.",
+      "artist": "Harry Styles",
+      "source": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+    },
+    {
+      "id": "you-seem-pretty-sad-for-a-girl-so-in-love",
+      "title": "you seem pretty sad for a girl so in love",
+      "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl",
+      "previous_title": "you seem pretty sad for a girl so in love",
+      "artist": "Olivia Rodrigo",
+      "source": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+    },
+    {
+      "title": "The Great Divide",
+      "uri": "spotify:album:2fnkyn9EybagIoFJ7a13oz",
+      "id": "the-great-divide",
+      "previous_title": "The Great Divide",
+      "artist": "Noah Kahan",
+      "source": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+    },
+    {
+      "title": "Stick Season",
+      "uri": "spotify:album:50ZenUP4O2Q5eCy2NRNvuz",
+      "id": "stick-season",
+      "previous_title": "Stick Season",
+      "artist": "Noah Kahan",
+      "source": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+    },
+    {
+      "title": "1989",
+      "uri": "spotify:album:2QJmrSgbdM35R67eoGQo4j",
+      "id": "1989",
+      "previous_title": "1989",
+      "artist": "Taylor Swift",
+      "source": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+    },
+    {
+      "title": "folklore",
+      "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr",
+      "id": "folklore",
+      "previous_title": "folklore",
+      "artist": "Taylor Swift",
+      "source": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+    },
+    {
+      "title": "thank u, next",
+      "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw",
+      "id": "thank-u-next",
+      "previous_title": "thank u, next",
+      "artist": "Ariana Grande",
+      "source": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+    },
+    {
+      "title": "ANTI",
+      "uri": "spotify:album:4UlGauD7ROb3YbVOFMgW5u",
+      "id": "anti",
+      "previous_title": "ANTI",
+      "artist": "Rihanna",
+      "source": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+    },
+    {
+      "title": "BEYONCÉ",
+      "uri": "spotify:album:5JSDDzvVmUX1axvnUH3ZJy",
+      "id": "beyonce",
+      "previous_title": "BEYONCÉ",
+      "artist": "Beyoncé",
+      "source": "https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy"
+    },
+    {
+      "title": "The Slow Rush",
+      "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
+      "id": "the-slow-rush",
+      "previous_title": "The Slow Rush",
+      "artist": "Tame Impala",
+      "source": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+    },
+    {
+      "title": "How to: Friend, Love, Freefall",
+      "uri": "spotify:album:7vXiklrUeffx5o2F8VYwm3",
+      "id": "how-to-friend-love-freefall",
+      "previous_title": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "source": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+    }
+  ]
+}

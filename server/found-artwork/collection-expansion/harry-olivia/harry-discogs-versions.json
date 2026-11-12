@@ -1,0 +1,774 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "items": 24,
+    "urls": {}
+  },
+  "filters": {
+    "applied": {},
+    "available": {
+      "format": {
+        "Album": 24,
+        "LP": 14,
+        "Stereo": 14,
+        "Vinyl": 14,
+        "Limited Edition": 9,
+        "CD": 7,
+        "Box Set": 2,
+        "File": 2,
+        "Reissue": 2,
+        "AAC": 1,
+        "Cassette": 1,
+        "FLAC": 1,
+        "Unofficial Release": 1
+      },
+      "label": {
+        "Columbia": 24,
+        "Columbia Records": 22,
+        "Erskine Records": 22,
+        "Erskine Records Limited": 22,
+        "Sony Music Entertainment": 20,
+        "Sony Music": 13,
+        "Sony Music Entertainment International Services Gmbh": 12,
+        "Sony Music Uk": 12,
+        "Sls Studios": 6,
+        "The Lodge, New York": 4,
+        "Indigo Books And Music": 1,
+        "Mpo": 1,
+        "Record Technology Incorporated": 1,
+        "Schallplattenfabrik Pallas Gmbh": 1,
+        "Sonopress": 1,
+        "Target": 1
+      },
+      "country": {
+        "Worldwide": 8,
+        "US": 7,
+        "Europe": 4,
+        "UK": 2,
+        "USA & Canada": 2,
+        "Russia": 1
+      },
+      "released": {
+        "2026": 24
+      }
+    }
+  },
+  "filter_facets": [
+    {
+      "title": "Format",
+      "id": "format",
+      "values": [
+        {
+          "title": "Album",
+          "value": "Album",
+          "count": 24
+        },
+        {
+          "title": "LP",
+          "value": "LP",
+          "count": 14
+        },
+        {
+          "title": "Stereo",
+          "value": "Stereo",
+          "count": 14
+        },
+        {
+          "title": "Vinyl",
+          "value": "Vinyl",
+          "count": 14
+        },
+        {
+          "title": "Limited Edition",
+          "value": "Limited+Edition",
+          "count": 9
+        },
+        {
+          "title": "CD",
+          "value": "CD",
+          "count": 7
+        },
+        {
+          "title": "Box Set",
+          "value": "Box+Set",
+          "count": 2
+        },
+        {
+          "title": "File",
+          "value": "File",
+          "count": 2
+        },
+        {
+          "title": "Reissue",
+          "value": "Reissue",
+          "count": 2
+        },
+        {
+          "title": "AAC",
+          "value": "AAC",
+          "count": 1
+        },
+        {
+          "title": "Cassette",
+          "value": "Cassette",
+          "count": 1
+        },
+        {
+          "title": "FLAC",
+          "value": "FLAC",
+          "count": 1
+        },
+        {
+          "title": "Unofficial Release",
+          "value": "Unofficial+Release",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Label",
+      "id": "label",
+      "values": [
+        {
+          "title": "Columbia",
+          "value": "Columbia",
+          "count": 24
+        },
+        {
+          "title": "Columbia Records",
+          "value": "Columbia+Records",
+          "count": 22
+        },
+        {
+          "title": "Erskine Records",
+          "value": "Erskine+Records",
+          "count": 22
+        },
+        {
+          "title": "Erskine Records Limited",
+          "value": "Erskine+Records+Limited",
+          "count": 22
+        },
+        {
+          "title": "Sony Music Entertainment",
+          "value": "Sony+Music+Entertainment",
+          "count": 20
+        },
+        {
+          "title": "Sony Music",
+          "value": "Sony+Music",
+          "count": 13
+        },
+        {
+          "title": "Sony Music Entertainment International Services Gmbh",
+          "value": "Sony+Music+Entertainment+International+Services+Gmbh",
+          "count": 12
+        },
+        {
+          "title": "Sony Music Uk",
+          "value": "Sony+Music+Uk",
+          "count": 12
+        },
+        {
+          "title": "Sls Studios",
+          "value": "Sls+Studios",
+          "count": 6
+        },
+        {
+          "title": "The Lodge, New York",
+          "value": "The+Lodge%2C+New+York",
+          "count": 4
+        },
+        {
+          "title": "Indigo Books And Music",
+          "value": "Indigo+Books+And+Music",
+          "count": 1
+        },
+        {
+          "title": "Mpo",
+          "value": "Mpo",
+          "count": 1
+        },
+        {
+          "title": "Record Technology Incorporated",
+          "value": "Record+Technology+Incorporated",
+          "count": 1
+        },
+        {
+          "title": "Schallplattenfabrik Pallas Gmbh",
+          "value": "Schallplattenfabrik+Pallas+Gmbh",
+          "count": 1
+        },
+        {
+          "title": "Sonopress",
+          "value": "Sonopress",
+          "count": 1
+        },
+        {
+          "title": "Target",
+          "value": "Target",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Country",
+      "id": "country",
+      "values": [
+        {
+          "title": "Worldwide",
+          "value": "Worldwide",
+          "count": 8
+        },
+        {
+          "title": "US",
+          "value": "US",
+          "count": 7
+        },
+        {
+          "title": "Europe",
+          "value": "Europe",
+          "count": 4
+        },
+        {
+          "title": "UK",
+          "value": "UK",
+          "count": 2
+        },
+        {
+          "title": "USA & Canada",
+          "value": "USA+%26+Canada",
+          "count": 2
+        },
+        {
+          "title": "Russia",
+          "value": "Russia",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Released",
+      "id": "released",
+      "values": [
+        {
+          "title": "2026",
+          "value": "2026",
+          "count": 24
+        }
+      ],
+      "allows_multiple_values": false
+    }
+  ],
+  "versions": [
+    {
+      "id": 36690721,
+      "label": "Erskine Records",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album",
+      "catno": "19958417732",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36690721",
+      "thumb": "https://i.discogs.com/8WgJZDjJoPwxtT33IeZvXq-M2uwSAY1dqu66KulpEmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzIxLTE3NzQ0Nzk2/MTYtMjk2NS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 239,
+          "in_collection": 1875
+        }
+      }
+    },
+    {
+      "id": 36699772,
+      "label": "Erskine Records",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album",
+      "catno": "19958417732",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36699772",
+      "thumb": "https://i.discogs.com/ytRW4P7WT-I1EQxq2f29d2WQ-xtuDgnkk_227vN6Iak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk5/NzcyLTE3NzI4NDQx/OTYtMjg4OC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 77,
+          "in_collection": 430
+        }
+      }
+    },
+    {
+      "id": 38340381,
+      "label": "Erskine Records",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Reissue, Stereo",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/38340381",
+      "thumb": "https://i.discogs.com/bWqoWvgeEuouti3sSLtKZNM8sHSj2MZ-BIR0vKgu_X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzQw/MzgxLTE3ODg1NjE3/NjgtMTQ4Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 40,
+          "in_collection": 308
+        }
+      }
+    },
+    {
+      "id": 36695836,
+      "label": "Erskine Records",
+      "country": "UK",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Cassette"
+      ],
+      "format": "Album, Limited Edition, Stereo",
+      "catno": "19958429664",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36695836",
+      "thumb": "https://i.discogs.com/T5-XCs4zmCMtZbkJOhIP4Bjv01fTlE2FkqBf5ZyZFe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/ODM2LTE3NzQ0Nzk3/NDUtNjQxOC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 69,
+          "in_collection": 435
+        }
+      }
+    },
+    {
+      "id": 36709699,
+      "label": "Erskine Records",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album, Limited Edition",
+      "catno": "19958417722",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36709699",
+      "thumb": "https://i.discogs.com/S8fV1VimgxbW4RMfk_QWJ9pXIaOtaB4Whbp-RXSK8YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/Njk5LTE3ODkyODYy/MDctMjk3OC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 69,
+          "in_collection": 560
+        }
+      }
+    },
+    {
+      "id": 36729079,
+      "label": "Columbia",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Stereo",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36729079",
+      "thumb": "https://i.discogs.com/n8JIn-QU0Bfnrn4AkquKR_ZeDoyjS8a_gufKBc9FVTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzI5/MDc5LTE3NzMxNjAw/ODktNDA1OS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 251,
+          "in_collection": 2003
+        }
+      }
+    },
+    {
+      "id": 36737227,
+      "label": "Columbia",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Stereo",
+      "catno": "19958424691",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36737227",
+      "thumb": "https://i.discogs.com/-WKjNI7j8f5Fy1hiT4P9UtO6jK8bN2Pxwkk7dAuTJBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM3/MjI3LTE3ODIyMjky/MzgtOTY5Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 126,
+          "in_collection": 951
+        }
+      }
+    },
+    {
+      "id": 36701095,
+      "label": "Columbia",
+      "country": "USA & Canada",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36701095",
+      "thumb": "https://i.discogs.com/K0_akWgqDnXQ1q9ioobgH1XELH9YiG82PEnslNQN6tA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzAx/MDk1LTE3NzI4NjIx/MjYtOTk0MC5wbmc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 144,
+          "in_collection": 2968
+        }
+      }
+    },
+    {
+      "id": 36782023,
+      "label": "Columbia",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36782023",
+      "thumb": "https://i.discogs.com/rP8pdrmzfPSpRG_0yznmO0deDZtP0SsQtRk4vuGe2dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzgy/MDIzLTE3NzM1OTUz/MzMtNjEwOC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 64,
+          "in_collection": 90
+        }
+      }
+    },
+    {
+      "id": 36698362,
+      "label": "Erskine Records",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition",
+      "catno": "19958424701",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36698362",
+      "thumb": "https://i.discogs.com/i9E0XvaAUj78R-q6-fsfMQzlWf5aqhIep4XOZUWRSpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk4/MzYyLTE3NzM4NzI1/OTctNTI2MS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 178,
+          "in_collection": 3618
+        }
+      }
+    },
+    {
+      "id": 36697393,
+      "label": "Erskine Records",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "File"
+      ],
+      "format": "AAC, Album, Stereo",
+      "catno": "none",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36697393",
+      "thumb": "https://i.discogs.com/8V3v7FS9URR8uaQAk_96KXBZ-pSTpyILVpoYTMIY5ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk3/MzkzLTE3NzI4MjQw/NTAtMzk5OC5wbmc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 32,
+          "in_collection": 27
+        }
+      }
+    },
+    {
+      "id": 36834049,
+      "label": "Erskine Records",
+      "country": "Europe",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album",
+      "catno": "19958417732",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36834049",
+      "thumb": "https://i.discogs.com/tARQY04rS1Ig_fPBQDduamA0Fn87gTGgVOgb83hGxhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM0/MDQ5LTE3NzQwODAy/MjEtODY5OC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 43,
+          "in_collection": 77
+        }
+      }
+    },
+    {
+      "id": 36693364,
+      "label": "Columbia",
+      "country": "Europe",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "19958434351",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36693364",
+      "thumb": "https://i.discogs.com/XI9uTWOuUUccRoalcSprqRvWtBPB-0veaaqoFpcikaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkz/MzY0LTE3NzMxMzgw/MjItOTgxMi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 104,
+          "in_collection": 864
+        }
+      }
+    },
+    {
+      "id": 36757786,
+      "label": "Erskine Records",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album, Limited Edition",
+      "catno": "19958417722",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36757786",
+      "thumb": "https://i.discogs.com/rskwyEkL6hc47p2e43y6jpMd46-EsPBvWdgd73Sr1_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU3/Nzg2LTE3NzM0MjAw/MTktNzYyOS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 58,
+          "in_collection": 523
+        }
+      }
+    },
+    {
+      "id": 36690745,
+      "label": "Erskine Records",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "19958433991",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36690745",
+      "thumb": "https://i.discogs.com/3nDgkHehd5Jj0gVOs9U4O6x95jggZ36emNCgW1S2CsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NzQ1LTE3NzMyMzA0/NTUtMjUyMy5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 528,
+          "in_collection": 4852
+        }
+      }
+    },
+    {
+      "id": 36695515,
+      "label": "Columbia",
+      "country": "Europe",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Stereo",
+      "catno": "19958424691",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36695515",
+      "thumb": "https://i.discogs.com/xOKIwvG0G6intcMI3ajCnEvDPviQ-iCAiPinMnmXErI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/NTE1LTE3ODQyODQ4/NTUtNzQ3Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 385,
+          "in_collection": 4530
+        }
+      }
+    },
+    {
+      "id": 36695572,
+      "label": "Columbia",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "19958429651",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36695572",
+      "thumb": "https://i.discogs.com/yHir2YJAlI4bvLVmN-h5ClCmIN3cXFggq1C1YxRGt1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/NTcyLTE3NzI4MTIx/MzctODA1NC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 108,
+          "in_collection": 2152
+        }
+      }
+    },
+    {
+      "id": 36695227,
+      "label": "Columbia",
+      "country": "US",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36695227",
+      "thumb": "https://i.discogs.com/RBRya9HdlWC7zvFLxDtijcYPH764rbGKujV_D4ryw8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/MjI3LTE3NzI4MTE1/NDYtMTgwMC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 119,
+          "in_collection": 1394
+        }
+      }
+    },
+    {
+      "id": 36695113,
+      "label": "Erskine Records",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Stereo",
+      "catno": "19958424681",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36695113",
+      "thumb": "https://i.discogs.com/IP7n6CsWkkSgfXQcO_q6E2XRdwqZfo9uunvwxitDbys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/MTEzLTE3NzMyMzMx/MDQtMjU4MC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 940,
+          "in_collection": 11778
+        }
+      }
+    },
+    {
+      "id": 37022670,
+      "label": "Erskine Records (2)",
+      "country": "Russia",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album, Unofficial Release",
+      "catno": "19958417732",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/37022670",
+      "thumb": "https://i.discogs.com/GGffmH_KKeLyadIPGBvjEOCdoYj5fOwSyS8iaJdIgU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDIy/NjcwLTE3NzU3NzE3/NTQtNTM5My5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 21,
+          "in_collection": 9
+        }
+      }
+    },
+    {
+      "id": 37268271,
+      "label": "Columbia",
+      "country": "Worldwide",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "File"
+      ],
+      "format": "FLAC, Album, Stereo",
+      "catno": "none",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/37268271",
+      "thumb": "https://i.discogs.com/FWDsqJyeXK2U6rM2AMeAwQtLiKazhAzX_cgqPiN4xFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjY4/MjcxLTE3NzgwOTA0/MzctOTE2OC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 4,
+          "in_collection": 4
+        }
+      }
+    },
+    {
+      "id": 37826394,
+      "label": "Columbia",
+      "country": "UK",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue, Stereo",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/37826394",
+      "thumb": "https://i.discogs.com/tmxYyMMgAmzZXBAnu5pspYO903aqUB3sADqa6RejQ6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI2/Mzk0LTE3ODU3MDg1/NjMtNjYzNC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 25,
+          "in_collection": 170
+        }
+      }
+    },
+    {
+      "id": 38587146,
+      "label": "Columbia",
+      "country": "USA & Canada",
+      "title": "Kiss all the time, disco occasionally",
+      "major_formats": [
+        "CD"
+      ],
+      "format": "Album",
+      "catno": "19958417732",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/38587146",
+      "thumb": "https://i.discogs.com/KyxOKQCSN2NZucThHQKKzwORmgxOg9yrjtU0SH42AZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTg3/MTQ2LTE3OTA4Nzgw/NjItNTk5OS5wbmc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 2,
+          "in_collection": 0
+        }
+      }
+    },
+    {
+      "id": 36693664,
+      "label": "Columbia",
+      "country": "Europe",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "19958417711",
+      "released": "2026",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/36693664",
+      "thumb": "https://i.discogs.com/jOyIKsmmrkg4VXo2RzCCnnFRdUtzinrWTeuVwf5_Dww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkz/NjY0LTE3NzI4MDc0/MjYtMzc2Ni5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 176,
+          "in_collection": 2586
+        }
+      }
+    }
+  ]
+}

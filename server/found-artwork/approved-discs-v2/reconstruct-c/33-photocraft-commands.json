@@ -1,0 +1,94 @@
+[
+  [
+    "layer.new.layerFromBackground",
+    {
+      "ifPresent": true
+    }
+  ],
+  [
+    "layer.new.layer",
+    {
+      "name": "Smooth hub repair backing",
+      "position": "below"
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 556,
+      "y": 482,
+      "width": 200,
+      "height": 200,
+      "ellipse": true
+    }
+  ],
+  [
+    "edit.fill",
+    {
+      "contents": "color",
+      "color": "#c5c4c5"
+    }
+  ],
+  [
+    "select.deselect",
+    {}
+  ],
+  [
+    "layer.selectAbove",
+    {}
+  ],
+  [
+    "layer.mergeDown",
+    {}
+  ],
+  [
+    "image.crop",
+    {
+      "x": 108,
+      "y": 29,
+      "width": 1096,
+      "height": 1106,
+      "targetWidth": 640,
+      "targetHeight": 640,
+      "resample": "lanczos"
+    }
+  ],
+  [
+    "image.canvasSize",
+    {
+      "width": 648,
+      "height": 648,
+      "anchor": "center",
+      "extensionColor": "transparent"
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 4,
+      "y": 4,
+      "width": 640,
+      "height": 640,
+      "ellipse": true
+    }
+  ],
+  [
+    "select.rect",
+    {
+      "x": 284,
+      "y": 284,
+      "width": 80,
+      "height": 80,
+      "ellipse": true,
+      "mode": "subtract"
+    }
+  ],
+  [
+    "layer.layerMask.revealSelection",
+    {}
+  ],
+  [
+    "select.deselect",
+    {}
+  ]
+]

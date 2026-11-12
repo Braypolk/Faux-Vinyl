@@ -1,0 +1,30 @@
+{
+  "first-release-date": "2018-04-06",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "secondary-type-ids": [],
+  "secondary-types": [],
+  "relations": [
+    {
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/master/1346374",
+        "id": "952a8c08-b3c8-4fe8-b6dd-21d5ada208b1"
+      },
+      "type": "discogs",
+      "attribute-values": {},
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "type-id": "99e550f3-5ab4-3110-b5b9-fe01d970b126",
+      "attribute-ids": {},
+      "target-credit": ""
+    }
+  ],
+  "disambiguation": "",
+  "title": "How to: Friend, Love, Freefall",
+  "id": "73c28a90-d4ef-45b4-a5b9-01eaef267739",
+  "primary-type": "Album"
+}

@@ -1,0 +1,5250 @@
+{
+  "release-offset": 0,
+  "release-count": 97,
+  "releases": [
+    {
+      "media": [
+        {
+          "id": "ea1f1eea-1bc6-46a3-8b96-730a2102d715",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 19,
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "country": null,
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "id": "02fefa3f-b477-4663-b25d-fe483c040250",
+      "date": "2021-12-03",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2021-12-03"
+        }
+      ],
+      "packaging": "None",
+      "asin": null,
+      "barcode": "00602547066893",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989 D.L.X.",
+      "status": "Withdrawn"
+    },
+    {
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "CA",
+      "media": [
+        {
+          "id": "121a5b27-798e-4447-9b2d-b822b081ed75",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "track-count": 15,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": {
+            "name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "sort-name": "Canada",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "id": "07eb7e76-f0b8-4245-910e-20bb535f9b64",
+      "asin": null,
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930013630",
+      "status": "Official",
+      "title": "1989 D.L.X."
+    },
+    {
+      "packaging": "None",
+      "asin": null,
+      "id": "09e3b9ad-a346-4b29-a5b2-80a57f043b9a",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "name": "Japan",
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ]
+          }
+        }
+      ],
+      "status": "Withdrawn",
+      "title": "1989",
+      "barcode": "00602547071538",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "b23d7fd7-f680-3e8f-ba14-6d6eb310e954",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "Digital Media"
+        }
+      ],
+      "country": "JP",
+      "quality": "normal",
+      "disambiguation": "",
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "darkened": false,
+        "count": 1
+      }
+    },
+    {
+      "country": "TW",
+      "quality": "normal",
+      "disambiguation": "",
+      "media": [
+        {
+          "id": "8b8aa431-9b0d-312f-be2f-1e0685c3765e",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 19,
+          "position": 1
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "0c93eabb-23d3-4608-9b6e-9b6777a5d56c",
+      "date": "2015",
+      "release-events": [
+        {
+          "date": "2015",
+          "area": {
+            "iso-3166-2-codes": [
+              "CN-71"
+            ],
+            "type": null,
+            "iso-3166-1-codes": [
+              "TW"
+            ],
+            "type-id": null,
+            "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+            "disambiguation": "",
+            "sort-name": "Taiwan",
+            "name": "Taiwan"
+          }
+        }
+      ],
+      "asin": null,
+      "packaging": null,
+      "barcode": "4718622312840",
+      "packaging-id": null,
+      "title": "1989 D.L.X.",
+      "status": "Official"
+    },
+    {
+      "media": [
+        {
+          "id": "90f586af-ae2e-4beb-864b-cc26d56b04cc",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 19
+        }
+      ],
+      "quality": "normal",
+      "country": null,
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "count": 2,
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "date": "2025-06-06",
+          "area": null
+        }
+      ],
+      "date": "2025-06-06",
+      "id": "0d6372a2-08d0-432a-a9d2-6970f4d3df2e",
+      "packaging": "None",
+      "asin": null,
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602547066893",
+      "status": "Official",
+      "title": "1989 D.L.X."
+    },
+    {
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "0dc1f3dd-6135-48cf-b2f9-24e6a4e13ff1",
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "name": "Hong Kong",
+            "type-id": null,
+            "sort-name": "Hong Kong",
+            "disambiguation": "",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "date": "2014",
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "f563d232-bed9-3665-b4c6-5248aa1cb878",
+          "title": "",
+          "track-count": 19,
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "HK",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": true,
+        "artwork": true,
+        "darkened": false,
+        "count": 4
+      }
+    },
+    {
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "country": "JP",
+      "quality": "normal",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 13,
+          "title": "",
+          "id": "2f10651e-0812-3773-8668-d701e2749883",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "status": "Withdrawn",
+      "title": "1989",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602537993826",
+      "asin": null,
+      "packaging": "None",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "disambiguation": "",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "type-id": null,
+            "name": "Japan"
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "1325a5d6-761e-4dc0-8711-ba63ee62db07"
+    },
+    {
+      "media": [
+        {
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "5c42c66b-a740-4bd8-8eb0-ac2554064703"
+        }
+      ],
+      "country": null,
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2025-06-06"
+        }
+      ],
+      "id": "163ca2d2-df86-416f-9800-069ccfc2bed0",
+      "packaging": "None",
+      "asin": null,
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602537993765",
+      "status": "Official",
+      "title": "1989 D.L.X."
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 8,
+        "darkened": false,
+        "front": true,
+        "back": true,
+        "artwork": true
+      },
+      "quality": "normal",
+      "country": "GB",
+      "disambiguation": "",
+      "media": [
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "a85227f4-a942-32a2-8574-a97c3862c187",
+          "track-count": 6,
+          "position": 1,
+          "title": "",
+          "format": "12\" Vinyl"
+        },
+        {
+          "title": "",
+          "position": 2,
+          "track-count": 7,
+          "format": "12\" Vinyl",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "901e38d7-2c82-37cf-87ef-0ab0adbf768f"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "barcode": "602547092687",
+      "status": "Official",
+      "title": "1989",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "type-id": null,
+            "sort-name": "United Kingdom",
+            "disambiguation": "",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom"
+          },
+          "date": "2014-12-09"
+        }
+      ],
+      "date": "2014-12-09",
+      "id": "22d466ee-85e3-430b-930b-f01d4db36f97",
+      "asin": null,
+      "packaging": "Gatefold Cover"
+    },
+    {
+      "disambiguation": "EDC",
+      "quality": "normal",
+      "country": "XE",
+      "media": [
+        {
+          "id": "54d74e03-a465-3bfc-a73d-6398ee47bc53",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "track-count": 13,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 23,
+        "artwork": true,
+        "back": true,
+        "front": true
+      },
+      "id": "23f7b88c-264b-42e7-82f1-4b7ad033fecf",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "disambiguation": "",
+            "sort-name": "Europe",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "type-id": null,
+            "name": "Europe",
+            "type": null,
+            "iso-3166-1-codes": [
+              "XE"
+            ]
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "asin": "B00OBRI7FS",
+      "packaging": "Jewel Case",
+      "barcode": "602547071668",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989"
+    },
+    {
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2025-06-06"
+        }
+      ],
+      "id": "27b934e7-59de-483b-9410-74b6f2c664cd",
+      "packaging": "None",
+      "asin": null,
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602547066886",
+      "title": "1989",
+      "status": "Official",
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "8d3f5d2b-d9e9-4793-98ca-0e02346b17e7",
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "format": "Digital Media"
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 2
+      }
+    },
+    {
+      "media": [
+        {
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "e2b87ded-1952-3063-9a4c-8438bb756bd2"
+        }
+      ],
+      "quality": "normal",
+      "country": "TR",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "date": "2014-12-10",
+      "release-events": [
+        {
+          "date": "2014-12-10",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "TR"
+            ],
+            "type-id": null,
+            "sort-name": "T\u00fcrkiye",
+            "disambiguation": "",
+            "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+            "name": "T\u00fcrkiye"
+          }
+        }
+      ],
+      "id": "2b349f50-86c9-466b-99b3-6e59047001a4",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547018830",
+      "status": "Official",
+      "title": "1989"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 0,
+        "darkened": false,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "country": "US",
+      "quality": "normal",
+      "disambiguation": "Record Store Day exclusive",
+      "media": [
+        {
+          "format": "12\" Vinyl",
+          "title": "",
+          "position": 1,
+          "track-count": 6,
+          "id": "0e5781e7-2527-3146-8d22-9acf82635536",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+        },
+        {
+          "id": "1709cdfe-7e02-3584-b1b4-ac64beaf1f79",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "format": "12\" Vinyl",
+          "title": "",
+          "position": 2,
+          "track-count": 7
+        }
+      ],
+      "title": "1989",
+      "status": "Official",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "barcode": "843930034680",
+      "asin": null,
+      "packaging": "Gatefold Cover",
+      "date": "2018-04-21",
+      "release-events": [
+        {
+          "area": {
+            "name": "United States",
+            "type-id": null,
+            "sort-name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null
+          },
+          "date": "2018-04-21"
+        }
+      ],
+      "id": "3126fed3-94c8-4aa3-92b3-569f81cbb56d"
+    },
+    {
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "e284b6e0-2ee2-3909-8f39-ea5a337eca51"
+        }
+      ],
+      "quality": "normal",
+      "country": null,
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "00602547066886",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989",
+      "status": "Withdrawn",
+      "id": "31a3c881-3718-4bea-baa8-59eb4996316a",
+      "date": "2021-12-03",
+      "release-events": [
+        {
+          "date": "2021-12-03",
+          "area": null
+        }
+      ],
+      "packaging": "None",
+      "asin": null
+    },
+    {
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "7ae2cacc-5503-47bc-a025-673a2483c49b",
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "Digital Media"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "CA",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "id": "348dc713-519a-4469-9696-1b6d5fb4f2fb",
+      "release-events": [
+        {
+          "area": {
+            "name": "Canada",
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null
+          },
+          "date": "2025-06-06"
+        },
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "type-id": null
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "date": "2025-06-06",
+      "packaging": "None",
+      "asin": null,
+      "barcode": "00843930013609",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989 D.L.X.",
+      "status": "Official"
+    },
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 2,
+        "front": true,
+        "back": true,
+        "artwork": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "300532be-ee1d-3964-84c1-e6f20c1ff4ac",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "position": 1,
+          "track-count": 19,
+          "title": ""
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "TH",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998913",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "TH"
+            ],
+            "disambiguation": "",
+            "sort-name": "Thailand",
+            "id": "ce209e56-cda5-358e-96db-830e3405b675",
+            "type-id": null,
+            "name": "Thailand"
+          },
+          "date": "2014"
+        }
+      ],
+      "id": "3aa4e319-626d-4ffe-aed7-5a8450c6119c"
+    },
+    {
+      "packaging": "Gatefold Cover",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2018-04-21",
+          "area": {
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "type": null,
+            "name": "Europe",
+            "type-id": null,
+            "sort-name": "Europe",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "date": "2018-04-21",
+      "id": "3b081424-fc9a-4c69-94cc-ee8685e93267",
+      "status": "Official",
+      "title": "1989",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "barcode": "843930034680",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "e3f3415c-04b6-3f2a-8cff-649fb1f0992f",
+          "track-count": 6,
+          "position": 1,
+          "title": "",
+          "format": "12\" Vinyl"
+        },
+        {
+          "format": "12\" Vinyl",
+          "position": 2,
+          "track-count": 7,
+          "title": "",
+          "id": "d618990d-4074-395a-9044-a978f46eb2b4",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+        }
+      ],
+      "disambiguation": "Record Store Day exclusive",
+      "quality": "normal",
+      "country": "XE",
+      "cover-art-archive": {
+        "front": false,
+        "artwork": false,
+        "back": false,
+        "count": 0,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "quality": "normal",
+      "country": null,
+      "disambiguation": "",
+      "media": [
+        {
+          "id": "3427b60a-9a67-3964-90d3-41b5da625e90",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 13
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "00602537993772",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Withdrawn",
+      "title": "1989",
+      "id": "408a484b-86ad-4cfb-8b79-704b48aad121",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": null
+        }
+      ],
+      "asin": null,
+      "packaging": "None"
+    },
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 23,
+        "front": true,
+        "back": true,
+        "artwork": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format": "CD",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "id": "6db09bd0-5393-3d18-a531-47de63cfba26",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "DE",
+      "status": "Official",
+      "title": "1989",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998906",
+      "packaging": "Jewel Case",
+      "asin": "B00MV0FQFG",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "DE"
+            ],
+            "disambiguation": "",
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "sort-name": "Germany",
+            "type-id": null,
+            "name": "Germany"
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "40924c0d-d84f-4034-8a09-dc3b041b1b9f"
+    },
+    {
+      "cover-art-archive": {
+        "count": 6,
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "RU",
+      "media": [
+        {
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "id": "bb17377e-8a4d-3488-aead-7453ef2aedac",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "status": "Official",
+      "title": "1989",
+      "barcode": "4605026715622",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "id": "40d0baef-139b-419b-b84b-6e87578f5630",
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "RU"
+            ],
+            "type": null,
+            "name": "Russia",
+            "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+            "disambiguation": "",
+            "sort-name": "Russia",
+            "type-id": null
+          },
+          "date": "2014"
+        }
+      ]
+    },
+    {
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "front": true,
+        "count": 24,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "quality": "normal",
+      "country": "PL",
+      "disambiguation": "",
+      "media": [
+        {
+          "id": "f8d32da3-d546-3c98-882c-75969f9422b5",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 13,
+          "position": 1
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "602547018830",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989",
+      "id": "48e966bc-a1eb-417a-b772-34a753217cc2",
+      "date": "2014",
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "iso-3166-1-codes": [
+              "PL"
+            ],
+            "type": null,
+            "name": "Poland",
+            "sort-name": "Poland",
+            "disambiguation": "",
+            "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+            "type-id": null
+          }
+        }
+      ],
+      "asin": null,
+      "packaging": "Jewel Case"
+    },
+    {
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "3bc6ca02-c158-39ac-a646-2568707e9efc",
+          "position": 1,
+          "track-count": 13,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "country": "ZA",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": true,
+        "count": 3,
+        "darkened": false
+      },
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "name": "South Africa",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "South Africa",
+            "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+            "iso-3166-1-codes": [
+              "ZA"
+            ],
+            "type": null
+          },
+          "date": "2014"
+        }
+      ],
+      "id": "4d7d8161-4721-4226-8b4e-e30337e1c4b0",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "title": "1989",
+      "status": "Official"
+    },
+    {
+      "asin": "B00P2HSETA",
+      "packaging": "Gatefold Cover",
+      "id": "516531f3-acdd-4926-b958-845ad6f21d89",
+      "date": "2014-12-08",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type-id": null,
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "sort-name": "Canada",
+            "disambiguation": "",
+            "name": "Canada"
+          },
+          "date": "2014-12-08"
+        },
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2014-12-08"
+        }
+      ],
+      "title": "1989",
+      "status": "Official",
+      "barcode": "843930013548",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "CA",
+      "media": [
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "7da9e3d3-6558-3243-baf2-847bcecdabc8",
+          "position": 1,
+          "track-count": 6,
+          "title": "",
+          "format": "12\" Vinyl"
+        },
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "9a912b64-3912-3873-a186-1767d72dcaaf",
+          "title": "",
+          "track-count": 7,
+          "position": 2,
+          "format": "12\" Vinyl"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "front": true,
+        "count": 9,
+        "darkened": false
+      }
+    },
+    {
+      "media": [
+        {
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "7420a7ed-e41f-4910-8bd9-264a027d09a9"
+        }
+      ],
+      "country": "XE",
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "front": true,
+        "count": 2,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "area": {
+            "name": "Europe",
+            "disambiguation": "",
+            "sort-name": "Europe",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "type": null
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "date": "2025-06-06",
+      "id": "56c5589d-8a23-4b6c-a6af-0c67faf8f070",
+      "packaging": "None",
+      "asin": null,
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602547066053",
+      "status": "Official",
+      "title": "1989"
+    },
+    {
+      "id": "5c1e75f7-f875-4c5c-9f0c-362b4b98227d",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null,
+            "name": "United States"
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "barcode": "843930013524",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989",
+      "quality": "normal",
+      "country": "US",
+      "disambiguation": "Walmart exclusive",
+      "media": [
+        {
+          "id": "0bfc14b4-5f07-30a6-ad86-908646a277cd",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 13
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": true,
+        "artwork": true,
+        "count": 18,
+        "darkened": false
+      }
+    },
+    {
+      "packaging": "None",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2014-10-24",
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "date": "2014-10-24",
+      "id": "5e045192-76e0-4234-8de5-31b7a38c601f",
+      "status": "Bootleg",
+      "title": "1989",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format": "Digital Media",
+          "title": "",
+          "track-count": 19,
+          "position": 1,
+          "id": "a5323093-41c7-3bfc-a8c2-bf0b64eccf80",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "quality": "normal",
+      "country": "XW",
+      "disambiguation": "",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9"
+    },
+    {
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "MX",
+      "media": [
+        {
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "id": "66e6eb26-ff11-3906-af9c-01f65c1561af",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": true,
+        "darkened": false,
+        "count": 2
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "id": "6084b225-0712-4029-b003-5b386605c891",
+      "date": "2014",
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "type-id": null,
+            "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+            "sort-name": "Mexico",
+            "disambiguation": "",
+            "name": "Mexico",
+            "type": null,
+            "iso-3166-1-codes": [
+              "MX"
+            ]
+          }
+        }
+      ],
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+    },
+    {
+      "title": "1989",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "BR"
+            ],
+            "type-id": null,
+            "sort-name": "Brazil",
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+            "disambiguation": "",
+            "name": "Brazil"
+          },
+          "date": "2019"
+        }
+      ],
+      "date": "2019",
+      "id": "60f330fe-b034-4d10-b40a-2fcaa5b0b3a8",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": false,
+        "back": false,
+        "front": false,
+        "count": 0,
+        "darkened": false
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "BR",
+      "media": [
+        {
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "18d24710-6e2b-3b08-8d7f-92127662fd7c"
+        }
+      ]
+    },
+    {
+      "status": "Official",
+      "title": "1989",
+      "barcode": "00602537993772",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "id": "61f61a95-3833-4174-8d12-8b27079f59e4",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2025-06-06"
+        }
+      ],
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "2aacb31a-3eca-4cd4-a862-9d38061b7f83"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": null
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "92f762a3-fc2c-3330-9c5a-5f0566e61bd9"
+        },
+        {
+          "format-id": "bb71fd58-ff93-32b4-a201-4ad1b2a80e5f",
+          "id": "a3fd101a-c5d7-3bd9-9fa7-c49127b001cc",
+          "title": "",
+          "track-count": 8,
+          "position": 2,
+          "format": "DVD-Video"
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "JP",
+      "cover-art-archive": {
+        "artwork": false,
+        "back": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      },
+      "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "626845ce-1d96-4f6f-9dd5-27e38d69f57f",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "sort-name": "Japan",
+            "disambiguation": "",
+            "type-id": null
+          },
+          "date": "2014-10-29"
+        }
+      ],
+      "date": "2014-10-29",
+      "status": "Promotion",
+      "title": "1989 D.L.X.",
+      "barcode": "4988005858542",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+    },
+    {
+      "asin": null,
+      "packaging": "Jewel Case",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "disambiguation": ""
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "id": "62e8f42c-369a-4003-b98b-26063e2ce305",
+      "status": "Official",
+      "title": "1989",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "843930013500",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "country": "US",
+      "quality": "normal",
+      "disambiguation": "",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "879c8672-e613-3e3c-aa52-0e65bcd2d563",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": true,
+        "count": 9,
+        "darkened": false
+      }
+    },
+    {
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "front": true,
+        "darkened": false,
+        "count": 1
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "quality": "normal",
+      "disambiguation": "Dolby Atmos mix",
+      "country": null,
+      "media": [
+        {
+          "id": "a5503a6e-e52d-4fdd-ab43-2f88ec2ae2ad",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "track-count": 13,
+          "position": 1
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "00199957210232",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989",
+      "status": "Official",
+      "id": "650b0cd5-56b4-49ca-afdf-2333a973923b",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2025-12-12"
+        }
+      ],
+      "date": "2025-12-12",
+      "asin": null,
+      "packaging": "None"
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "quality": "normal",
+      "country": "CA",
+      "disambiguation": "",
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "e6e70c5e-5ece-4a24-9402-a7af7e24de66",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "Digital Media"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "asin": null,
+      "packaging": "None",
+      "id": "68c45fc5-db7f-4b25-8863-79deffc41e6c",
+      "release-events": [
+        {
+          "area": {
+            "name": "Canada",
+            "type-id": null,
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null
+          },
+          "date": "2025-06-06"
+        },
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type-id": null,
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "name": "United States"
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "date": "2025-06-06",
+      "status": "Official",
+      "title": "1989",
+      "barcode": "00843930013555",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+    },
+    {
+      "id": "6a717313-ffe3-4577-be7f-7ceaea9312ad",
+      "date": "2019-11-01",
+      "release-events": [
+        {
+          "date": "2019-11-01",
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "disambiguation": "",
+            "sort-name": "Japan",
+            "type-id": null
+          }
+        },
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2019-11-01"
+        }
+      ],
+      "asin": null,
+      "packaging": "None",
+      "barcode": "00843930048717",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989 D.L.X.",
+      "status": "Withdrawn",
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "JP",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 19,
+          "position": 1,
+          "title": "",
+          "id": "54959307-3efa-35a8-8655-56c3712bc0ef",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b"
+    },
+    {
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type-id": null,
+            "name": "Canada"
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "6ad551ab-f684-45cd-8f2d-2cd4ae35478d",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "843930013593",
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "quality": "normal",
+      "disambiguation": "Target exclusive",
+      "country": "CA",
+      "media": [
+        {
+          "format": "CD",
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "id": "11a42e3a-7758-3400-aa7d-2b09b27a8fee",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 8,
+        "darkened": false,
+        "front": true,
+        "back": true,
+        "artwork": true
+      }
+    },
+    {
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "6671f7c4-58b4-450e-9852-225b41c9c9bd",
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "Digital Media"
+        }
+      ],
+      "country": "XW",
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "00843930048717",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "id": "6bbba9c0-29b0-4f35-adec-1ad6c289e0a9",
+      "release-events": [
+        {
+          "date": "2025-06-06",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]"
+          }
+        }
+      ],
+      "date": "2025-06-06",
+      "packaging": "None",
+      "asin": null
+    },
+    {
+      "asin": null,
+      "packaging": "Jewel Case",
+      "release-events": [
+        {
+          "date": "2014-10-28",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "AU"
+            ],
+            "disambiguation": "",
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+            "sort-name": "Australia",
+            "type-id": null,
+            "name": "Australia"
+          }
+        },
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "NZ"
+            ],
+            "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+            "disambiguation": "",
+            "sort-name": "New Zealand",
+            "type-id": null,
+            "name": "New Zealand"
+          },
+          "date": "2014-10-28"
+        }
+      ],
+      "date": "2014-10-28",
+      "id": "6dba5d4c-ffd8-4237-ac68-662e71c79e05",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998913",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "quality": "normal",
+      "country": "AU",
+      "disambiguation": "",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "5a46dec1-4d37-36c0-9737-ae32f8364bf8",
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "front": true,
+        "count": 4,
+        "darkened": false
+      }
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "media": [
+        {
+          "id": "9dd12e20-67d0-396a-a140-1dc9a3431a28",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "position": 1,
+          "track-count": 19,
+          "title": ""
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "BR",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998913",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "sort-name": "Brazil",
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+            "type-id": null,
+            "name": "Brazil",
+            "type": null,
+            "iso-3166-1-codes": [
+              "BR"
+            ]
+          },
+          "date": "2014"
+        }
+      ],
+      "date": "2014",
+      "id": "7024b0cf-522c-4638-a7fc-09cff62b33a0",
+      "packaging": "Jewel Case",
+      "asin": null
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "df2208e0-e059-3cd8-a3eb-f1b084000ef0",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 19
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "JP",
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "packaging": "None",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "disambiguation": "",
+            "type-id": null
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "706525f4-92d6-4719-a50a-327e24e9e6fb",
+      "status": "Withdrawn",
+      "title": "1989 D.L.X.",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602537993819"
+    },
+    {
+      "cover-art-archive": {
+        "artwork": false,
+        "back": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      },
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format": "CD",
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "id": "47c5643e-67ab-3aa7-9fa6-c6d10bd1b3e3",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "CN",
+      "status": "Bootleg",
+      "title": "1989 D.L.X.",
+      "barcode": "843930013593",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "73d14f73-e970-45f2-960a-69fb538f537f",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "disambiguation": "",
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "type-id": null,
+            "name": "China"
+          },
+          "date": "2020"
+        }
+      ],
+      "date": "2020"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 3,
+        "darkened": false,
+        "front": true,
+        "back": true,
+        "artwork": true
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "f62fa7b1-e112-31f7-982b-413ef3dfff66",
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "TH",
+      "title": "1989",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "TH"
+            ],
+            "disambiguation": "",
+            "id": "ce209e56-cda5-358e-96db-830e3405b675",
+            "sort-name": "Thailand",
+            "type-id": null,
+            "name": "Thailand"
+          },
+          "date": "2014"
+        }
+      ],
+      "date": "2014",
+      "id": "788275f7-845f-4aa5-b66c-1977c4d6126a"
+    },
+    {
+      "cover-art-archive": {
+        "artwork": true,
+        "back": false,
+        "front": true,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "id": "e39bbc4c-47a0-3536-b379-47f6d6b6171b",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 19,
+          "title": ""
+        }
+      ],
+      "country": "CA",
+      "quality": "normal",
+      "disambiguation": "",
+      "title": "1989 D.L.X.",
+      "status": "Withdrawn",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930013609",
+      "packaging": "None",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "name": "Canada",
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null
+          }
+        },
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "sort-name": "United States"
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "79d5b2c2-0650-4e06-9903-7255c79ba3cd"
+    },
+    {
+      "id": "7b702bd8-4247-42a1-8704-7c3cbc3844eb",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "area": {
+            "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+            "sort-name": "Philippines",
+            "disambiguation": "",
+            "type-id": null,
+            "name": "Philippines",
+            "type": null,
+            "iso-3166-1-codes": [
+              "PH"
+            ]
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "asin": null,
+      "packaging": "Jewel Case",
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "quality": "normal",
+      "country": "PH",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "CD",
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "id": "42ea8513-69f3-36cb-b377-7fdc286aca50",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 4,
+        "front": true,
+        "artwork": true,
+        "back": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "53ba8de3-cdd1-3030-8f0f-6a322e5d1eab"
+        }
+      ],
+      "country": "US",
+      "quality": "normal",
+      "disambiguation": "Kroger exclusive",
+      "title": "1989",
+      "status": "Official",
+      "barcode": "843930013531",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "7bcb4372-82b1-46c2-8a51-08ce00d6a4f5",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "sort-name": "United States",
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "darkened": false,
+        "count": 1
+      },
+      "quality": "normal",
+      "country": "CA",
+      "disambiguation": "",
+      "media": [
+        {
+          "id": "3ea55e20-e339-42f9-9aea-7d7022b352b8",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "track-count": 13,
+          "position": 1
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930013562",
+      "title": "1989",
+      "status": "Withdrawn",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null,
+            "name": "Canada",
+            "type-id": null,
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "disambiguation": "",
+            "sort-name": "Canada"
+          },
+          "date": "2021-12-03"
+        },
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type-id": null,
+            "sort-name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States"
+          },
+          "date": "2021-12-03"
+        }
+      ],
+      "date": "2021-12-03",
+      "id": "7db852a4-470f-4499-9e1a-18c9054cde8b",
+      "asin": null,
+      "packaging": "None"
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "country": "HK",
+      "quality": "normal",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "CD",
+          "position": 1,
+          "track-count": 13,
+          "title": "",
+          "id": "8e6e9e45-f477-3bf4-ada2-ed7aa0826191",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "cover-art-archive": {
+        "count": 0,
+        "darkened": false,
+        "back": false,
+        "artwork": false,
+        "front": false
+      },
+      "asin": null,
+      "packaging": "Jewel Case",
+      "id": "7ee7dec6-56eb-4ad0-820f-fc421293640d",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "HK"
+            ],
+            "type": null,
+            "iso-3166-2-codes": [
+              "CN-91"
+            ],
+            "name": "Hong Kong",
+            "sort-name": "Hong Kong",
+            "disambiguation": "",
+            "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+            "type-id": null
+          },
+          "date": "2015"
+        }
+      ],
+      "date": "2015",
+      "status": "Bootleg",
+      "title": "1989",
+      "barcode": "843930013593",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "deb70823-f5cf-3132-bc9f-bad2e870e7dd",
+          "position": 1,
+          "track-count": 13,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "country": "CA",
+      "quality": "normal",
+      "disambiguation": "",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": true,
+        "count": 91,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type-id": null,
+            "name": "Canada",
+            "type": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "7f992415-2563-408e-a398-5c905d74e084",
+      "title": "1989",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "843930013500"
+    },
+    {
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "name": "Japan",
+            "sort-name": "Japan",
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "82e3310a-0b3e-41a5-9c54-ebca712bf8f7",
+      "asin": null,
+      "packaging": "None",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602547071576",
+      "status": "Withdrawn",
+      "title": "1989 D.L.X.",
+      "quality": "normal",
+      "country": "JP",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "id": "930f5f92-a4d7-3fbc-b1d5-42bb95374ed7",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b"
+    },
+    {
+      "media": [
+        {
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "id": "b6edc6ff-253a-313d-9e1c-89aa3019aba3",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "disambiguation": "Sony DADC",
+      "quality": "normal",
+      "country": "XE",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 8,
+        "darkened": false,
+        "back": true,
+        "artwork": true,
+        "front": true
+      },
+      "id": "8494e10c-3ec8-43a1-ac24-28225e4eda7a",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "disambiguation": "",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "sort-name": "Europe",
+            "type-id": null,
+            "name": "Europe"
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "barcode": "602547071668",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989"
+    },
+    {
+      "id": "86ce0473-15a1-468b-a6aa-3a9f0b2b6750",
+      "date": "2015",
+      "release-events": [
+        {
+          "date": "2015",
+          "area": {
+            "iso-3166-1-codes": [
+              "FR"
+            ],
+            "type": null,
+            "name": "France",
+            "type-id": null,
+            "id": "08310658-51eb-3801-80de-5a0739207115",
+            "sort-name": "France",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "packaging": "Jewel Case",
+      "asin": null,
+      "barcode": "602547071668",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "c2188072-a12e-333b-a303-bcecdc0685af",
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "format": "CD"
+        }
+      ],
+      "disambiguation": "MOINS CH\u20acR MAINTENANT",
+      "quality": "normal",
+      "country": "FR",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": false,
+        "artwork": false,
+        "back": false,
+        "darkened": false,
+        "count": 0
+      }
+    },
+    {
+      "title": "1989",
+      "status": "Official",
+      "barcode": "0843930013548",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "packaging": "Gatefold Cover",
+      "asin": null,
+      "id": "8aee8952-2cfa-408d-bf36-363b8c057f93",
+      "date": "2018-11-26",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "sort-name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2018-11-26"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "position": 1,
+          "track-count": 6,
+          "title": "",
+          "format": "12\" Vinyl",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "12c93577-978f-3ec2-bf51-4c1483b72a5b"
+        },
+        {
+          "format": "12\" Vinyl",
+          "track-count": 7,
+          "position": 2,
+          "title": "",
+          "id": "c4869f37-9fc3-3e70-a06c-807e0fce3736",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+        }
+      ],
+      "quality": "normal",
+      "country": "US",
+      "disambiguation": "signed"
+    },
+    {
+      "id": "8e19056a-b929-460c-934e-bac791ac1a62",
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "sort-name": "Brunei",
+            "disambiguation": "",
+            "id": "5d1fe672-9c9a-3d58-a221-4b23e9274709",
+            "name": "Brunei",
+            "type": null,
+            "iso-3166-1-codes": [
+              "BN"
+            ]
+          },
+          "date": "2014"
+        },
+        {
+          "date": "2014",
+          "area": {
+            "iso-3166-1-codes": [
+              "KH"
+            ],
+            "type": null,
+            "name": "Cambodia",
+            "disambiguation": "",
+            "id": "ee26e886-87f5-33a2-8e8e-f9591490426d",
+            "sort-name": "Cambodia",
+            "type-id": null
+          }
+        },
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "LA"
+            ],
+            "type": null,
+            "name": "Laos",
+            "type-id": null,
+            "disambiguation": "",
+            "id": "c81cb1f4-0858-3f28-9082-c06e2ce24bea",
+            "sort-name": "Laos"
+          },
+          "date": "2014"
+        },
+        {
+          "area": {
+            "name": "Malaysia",
+            "disambiguation": "",
+            "id": "305d19c7-c040-349c-8d5f-6ac75d2d2a09",
+            "sort-name": "Malaysia",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "MY"
+            ],
+            "type": null
+          },
+          "date": "2014"
+        },
+        {
+          "date": "2014",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "MM"
+            ],
+            "type-id": null,
+            "sort-name": "Myanmar",
+            "id": "fb1fb575-39ee-34d8-a744-6a880700fd73",
+            "disambiguation": "",
+            "name": "Myanmar"
+          }
+        },
+        {
+          "date": "2014",
+          "area": {
+            "iso-3166-1-codes": [
+              "SG"
+            ],
+            "type": null,
+            "name": "Singapore",
+            "disambiguation": "",
+            "sort-name": "Singapore",
+            "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+            "type-id": null
+          }
+        },
+        {
+          "area": {
+            "name": "Vietnam",
+            "type-id": null,
+            "sort-name": "Vietnam",
+            "disambiguation": "",
+            "id": "0158e991-c3c6-374a-9b9d-024bbaff6980",
+            "iso-3166-1-codes": [
+              "VN"
+            ],
+            "type": null
+          },
+          "date": "2014"
+        }
+      ],
+      "packaging": "Jewel Case",
+      "asin": null,
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "media": [
+        {
+          "title": "",
+          "track-count": 19,
+          "position": 1,
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "0ce7a5c9-81cb-31c7-925c-d4207ee3fc4e"
+        }
+      ],
+      "country": "BN",
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "count": 2,
+        "darkened": false,
+        "artwork": true,
+        "back": true,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "id": "1eae56fc-b6e7-340c-a9ca-45058162b15b",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 19,
+          "position": 1
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "MY",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 2,
+        "front": true,
+        "artwork": true,
+        "back": true
+      },
+      "packaging": "Jewel Case",
+      "asin": null,
+      "date": "2014",
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "name": "Malaysia",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Malaysia",
+            "id": "305d19c7-c040-349c-8d5f-6ac75d2d2a09",
+            "iso-3166-1-codes": [
+              "MY"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "id": "8e770637-ae30-4473-815b-aee558bcd2de",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998913"
+    },
+    {
+      "country": "US",
+      "quality": "normal",
+      "disambiguation": "Sony DADC",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "37d77d96-37a5-3361-ac04-bced56286a6d",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": true,
+        "artwork": true,
+        "count": 49,
+        "darkened": false
+      },
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null,
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "907d30af-234e-4b63-b6a7-34ee88929e2b",
+      "asin": "B00MRHANNI",
+      "packaging": "Jewel Case",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "843930013500",
+      "title": "1989",
+      "status": "Official"
+    },
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "XW",
+      "media": [
+        {
+          "id": "a2185736-4427-4028-8279-b54e9575c2a1",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 26,
+          "title": ""
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "asin": null,
+      "packaging": "None",
+      "release-events": [
+        {
+          "date": "2025-06-06",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]"
+          }
+        }
+      ],
+      "date": "2025-06-06",
+      "id": "9387f6b9-c0f2-4560-8ea3-8e04f2e8bc7d",
+      "title": "1989 (Big Machine Radio release special)",
+      "status": "Official",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930039562"
+    },
+    {
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "81c9b45f-ea9e-3edd-98c0-25d067a5f712",
+          "format-id": "8759db4e-8451-33c0-8a8f-05e5f95f192e",
+          "format": "HDCD",
+          "title": "",
+          "position": 1,
+          "track-count": 13
+        }
+      ],
+      "quality": "normal",
+      "country": "VN",
+      "disambiguation": "",
+      "title": "1989",
+      "status": "Bootleg",
+      "barcode": "843930013500",
+      "packaging-id": null,
+      "packaging": null,
+      "asin": null,
+      "id": "99eee7e4-ac1d-4523-b733-95c7e859a180",
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "id": "0158e991-c3c6-374a-9b9d-024bbaff6980",
+            "sort-name": "Vietnam",
+            "name": "Vietnam",
+            "type": null,
+            "iso-3166-1-codes": [
+              "VN"
+            ]
+          },
+          "date": "2014"
+        }
+      ]
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 2,
+        "darkened": false,
+        "artwork": true,
+        "back": true,
+        "front": true
+      },
+      "media": [
+        {
+          "id": "10007c0a-1f2e-3f35-a259-b68b63bd0ee1",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "track-count": 13,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "CL",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "barcode": "602547071668",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "title": "1989",
+      "status": "Official",
+      "id": "9f6d3b39-9dfb-4961-b70d-fcf61da18e7b",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "sort-name": "Chile",
+            "id": "82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7",
+            "type-id": null,
+            "name": "Chile",
+            "type": null,
+            "iso-3166-1-codes": [
+              "CL"
+            ]
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "packaging": "Jewel Case",
+      "asin": null
+    },
+    {
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "front": true,
+        "count": 17,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "9569786b-6e1b-30e4-8857-7e9670379a67",
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "format": "CD"
+        }
+      ],
+      "country": "FR",
+      "quality": "normal",
+      "disambiguation": "",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998913",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "date": "2014-10-28",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "FR"
+            ],
+            "type": null,
+            "name": "France",
+            "id": "08310658-51eb-3801-80de-5a0739207115",
+            "sort-name": "France",
+            "disambiguation": "",
+            "type-id": null
+          },
+          "date": "2014-10-28"
+        }
+      ],
+      "id": "a1f6b703-110f-468d-81ce-6776d842d5f2"
+    },
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "4c81ae23-8717-3a71-b6ab-865d5194d9d3",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 13,
+          "position": 1
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "MX",
+      "status": "Official",
+      "title": "1989",
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "a5e65a70-b579-4c9b-92ac-5391c93adc39",
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "MX"
+            ],
+            "type": null,
+            "name": "Mexico",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Mexico",
+            "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e"
+          },
+          "date": "2014"
+        }
+      ]
+    },
+    {
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 26,
+          "position": 1,
+          "title": "",
+          "id": "04c22212-048f-36e8-8e42-58d8eee5bdce",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "country": "XW",
+      "quality": "normal",
+      "disambiguation": "",
+      "status": "Withdrawn",
+      "title": "1989 (Big Machine Radio release special)",
+      "barcode": "00843930039562",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "id": "a9df0ab7-4007-419d-8668-f88788e8d9bc",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]"
+          },
+          "date": "2018-12-13"
+        }
+      ],
+      "date": "2018-12-13"
+    },
+    {
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "artwork": true,
+        "back": false,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "media": [
+        {
+          "id": "a773b876-dd9d-327f-877f-80c52f3f55c1",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 15
+        }
+      ],
+      "quality": "normal",
+      "country": "CA",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "843930013869",
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null,
+            "name": "Canada",
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type-id": null
+          }
+        }
+      ],
+      "id": "aabe1047-0f67-4d7b-99d7-e3121fe55be8",
+      "packaging": "Jewel Case",
+      "asin": null
+    },
+    {
+      "asin": null,
+      "packaging": "None",
+      "id": "ae7a1076-b294-4b60-a2f6-cbc1617f84f9",
+      "date": "2025-12-12",
+      "release-events": [
+        {
+          "date": "2025-12-12",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type-id": null,
+            "sort-name": "Canada",
+            "disambiguation": "",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada"
+          }
+        },
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "2025-12-12"
+        }
+      ],
+      "status": "Official",
+      "title": "1989",
+      "barcode": "00843930013562",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "quality": "normal",
+      "country": "CA",
+      "disambiguation": "",
+      "media": [
+        {
+          "id": "20e31ca7-5a3a-4632-b5f8-69df658ecdc7",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "track-count": 13,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "artwork": true,
+        "back": false,
+        "front": true
+      }
+    },
+    {
+      "id": "b0bf9042-2dbf-4215-a947-eda9ed2528b4",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2017-06-09"
+        }
+      ],
+      "date": "2017-06-09",
+      "asin": null,
+      "packaging": "None",
+      "barcode": "00602547066893",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989 D.L.X.",
+      "status": "Withdrawn",
+      "quality": "normal",
+      "country": null,
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "id": "3c056045-fd1c-31a5-b1e4-db55f4ec126c",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b"
+    },
+    {
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00602537993765",
+      "title": "1989 D.L.X.",
+      "status": "Withdrawn",
+      "release-events": [
+        {
+          "area": null,
+          "date": "2014-10-28"
+        }
+      ],
+      "date": "2014-10-28",
+      "id": "b15d9a20-5fe8-4b35-ad58-bf686787d950",
+      "packaging": "None",
+      "asin": null,
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "media": [
+        {
+          "title": "",
+          "track-count": 19,
+          "position": 1,
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "76033581-6310-30d5-bfd5-f6b3e45c3aaa"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      }
+    },
+    {
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "barcode": "00602547071576",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "id": "b34a73ab-cab4-4000-9120-d7581296cbf0",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "date": "2025-06-06",
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "sort-name": "Japan",
+            "disambiguation": "",
+            "type-id": null
+          }
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "count": 1,
+        "darkened": false
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "ed0eae74-63fd-458a-af87-8af535aca7c1",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "track-count": 19,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "JP"
+    },
+    {
+      "id": "b36d1e3d-6159-4583-9ba4-645c717ae2b7",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null,
+            "name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "type-id": null
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "packaging": "None",
+      "asin": null,
+      "barcode": "00843930013630",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Withdrawn",
+      "title": "1989 D.L.X.",
+      "media": [
+        {
+          "position": 1,
+          "track-count": 15,
+          "title": "",
+          "format": "Digital Media",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "2c56d251-6159-32be-ad23-23315b94fb15"
+        }
+      ],
+      "quality": "normal",
+      "country": "CA",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "artwork": true,
+        "back": false,
+        "front": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b"
+    },
+    {
+      "id": "b3d10e40-75a6-4f66-9d06-225f040c07b2",
+      "date": "",
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "name": "United States",
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "packaging": "Gatefold Cover",
+      "asin": null,
+      "barcode": "843930013548",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "status": "Official",
+      "title": "1989",
+      "media": [
+        {
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "2b2a3417-009d-3614-9780-a44dcf2e3381",
+          "title": "",
+          "track-count": 6,
+          "position": 1,
+          "format": "12\" Vinyl"
+        },
+        {
+          "position": 2,
+          "track-count": 7,
+          "title": "",
+          "format": "12\" Vinyl",
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "8863969f-65d0-37ba-873e-e079884d5a67"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "US",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 8,
+        "front": true,
+        "artwork": true,
+        "back": true
+      }
+    },
+    {
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602537998913",
+      "asin": null,
+      "packaging": "Jewel Case",
+      "date": "2014",
+      "release-events": [
+        {
+          "date": "2014",
+          "area": {
+            "name": "Argentina",
+            "disambiguation": "",
+            "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+            "sort-name": "Argentina",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "AR"
+            ],
+            "type": null
+          }
+        },
+        {
+          "date": "2014",
+          "area": {
+            "type-id": null,
+            "sort-name": "Chile",
+            "id": "82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7",
+            "disambiguation": "",
+            "name": "Chile",
+            "type": null,
+            "iso-3166-1-codes": [
+              "CL"
+            ]
+          }
+        },
+        {
+          "date": "2014",
+          "area": {
+            "name": "Uruguay",
+            "id": "ea88d395-87c9-3c47-b49a-114cad41fd39",
+            "sort-name": "Uruguay",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "UY"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "id": "b8d2dd24-9ef2-4644-a3ba-80f45d736636",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 2,
+        "darkened": false,
+        "front": true,
+        "artwork": true,
+        "back": true
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "AR",
+      "media": [
+        {
+          "track-count": 19,
+          "position": 1,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "f8203b32-710a-3522-aa0c-a3c870ec5d6b"
+        }
+      ]
+    },
+    {
+      "packaging": null,
+      "asin": "B00NBRJJM4",
+      "date": "2014-10-29",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "disambiguation": "",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "type-id": null,
+            "name": "Japan"
+          },
+          "date": "2014-10-29"
+        }
+      ],
+      "id": "b972397c-9b27-4db9-a409-6b233e32fb15",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "packaging-id": null,
+      "barcode": "4988005858542",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "id": "ebb1e4ef-15a6-3cb1-a967-ed1870dea741",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        },
+        {
+          "format-id": "bb71fd58-ff93-32b4-a201-4ad1b2a80e5f",
+          "id": "91830b1d-5456-3778-9bc8-dd9c55e6680b",
+          "position": 2,
+          "track-count": 8,
+          "title": "",
+          "format": "DVD-Video"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "JP",
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "front": true,
+        "count": 28,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "status": "Official",
+      "title": "1989",
+      "barcode": "4988031397442",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "ba08005b-e33b-40c2-809d-766ba216d74f",
+      "date": "2020-10-07",
+      "release-events": [
+        {
+          "area": {
+            "name": "Japan",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null
+          },
+          "date": "2020-10-07"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": false,
+        "back": false,
+        "front": false,
+        "count": 0,
+        "darkened": false
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "id": "e7125f7a-41d9-3b1b-ae09-bd7e515b6b94",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 13,
+          "position": 1
+        }
+      ],
+      "quality": "normal",
+      "country": "JP",
+      "disambiguation": ""
+    },
+    {
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "quality": "normal",
+      "country": "AU",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "CD",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "id": "ce616331-32d0-3dcb-80fa-bca3eb96ea81",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 5,
+        "front": true,
+        "back": true,
+        "artwork": true
+      },
+      "asin": null,
+      "packaging": "Jewel Case",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "AU"
+            ],
+            "type-id": null,
+            "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+            "disambiguation": "",
+            "sort-name": "Australia",
+            "name": "Australia"
+          }
+        },
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "NZ"
+            ],
+            "type": null,
+            "name": "New Zealand",
+            "type-id": null,
+            "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+            "sort-name": "New Zealand",
+            "disambiguation": ""
+          },
+          "date": "2014-10-27"
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "be0193d5-55b3-4750-8d43-c33eed1ad28f",
+      "status": "Official",
+      "title": "1989",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668"
+    },
+    {
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "barcode": "00843930013623",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "asin": null,
+      "packaging": "None",
+      "id": "bf6832a7-1039-4f81-9aa9-c789b2a7af27",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": {
+            "name": "Canada",
+            "type-id": null,
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "CA",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 15,
+          "position": 1,
+          "title": "",
+          "id": "c5156799-2538-4cf5-a654-4d55eeb5e5b1",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ]
+    },
+    {
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930014811",
+      "status": "Withdrawn",
+      "title": "1989",
+      "date": "2019-05-17",
+      "release-events": [
+        {
+          "date": "2019-05-17",
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "sort-name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null
+          }
+        }
+      ],
+      "id": "c0c23311-9c67-44a3-af66-0cc94b95c9b2",
+      "packaging": "None",
+      "asin": null,
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "media": [
+        {
+          "format": "Digital Media",
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "id": "f2d2c1cb-b07a-34d9-8749-dc492398240c",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "quality": "normal",
+      "country": "US",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      }
+    },
+    {
+      "id": "c6f24f5f-aa18-4428-8d1b-7ed3c540393b",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "name": "Brazil",
+            "type-id": null,
+            "sort-name": "Brazil",
+            "disambiguation": "",
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+            "iso-3166-1-codes": [
+              "BR"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "packaging": "Jewel Case",
+      "asin": null,
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "media": [
+        {
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "a9d64575-2f69-37eb-baa3-e498675e012d"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "BR",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "artwork": true,
+        "back": true,
+        "front": true,
+        "darkened": false,
+        "count": 18
+      }
+    },
+    {
+      "status": "Official",
+      "title": "1989 (tour edition)",
+      "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+      "barcode": "4988005890351",
+      "packaging": "Digipak",
+      "asin": null,
+      "date": "2015-04-29",
+      "release-events": [
+        {
+          "area": {
+            "name": "Japan",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "disambiguation": "",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null
+          },
+          "date": "2015-04-29"
+        }
+      ],
+      "id": "d0ace358-081d-4280-abe3-39e7644e4b70",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "darkened": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "3edb273e-d8eb-34b8-aa07-fbe5f56b3b79",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "position": 1,
+          "track-count": 19,
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "country": "JP",
+      "disambiguation": ""
+    },
+    {
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 2,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "FR",
+      "media": [
+        {
+          "id": "0a25a7b2-f337-354d-be80-7bf136ea6f57",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 13
+        }
+      ],
+      "title": "1989",
+      "status": "Withdrawn",
+      "barcode": "00602547066053",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "asin": null,
+      "packaging": "None",
+      "id": "d1d67a29-4581-4f6b-aac7-c126af86b8b6",
+      "release-events": [
+        {
+          "area": {
+            "name": "France",
+            "id": "08310658-51eb-3801-80de-5a0739207115",
+            "disambiguation": "",
+            "sort-name": "France",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "FR"
+            ],
+            "type": null
+          },
+          "date": "2014-10-29"
+        }
+      ],
+      "date": "2014-10-29"
+    },
+    {
+      "release-events": [
+        {
+          "area": {
+            "name": "Brazil",
+            "disambiguation": "",
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+            "sort-name": "Brazil",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "BR"
+            ],
+            "type": null
+          },
+          "date": "2019"
+        }
+      ],
+      "date": "2019",
+      "id": "d27f962e-ca51-42bd-af3f-c27b6acda894",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "status": "Official",
+      "title": "1989",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "c62ff3b6-2d8f-3bae-a34e-7838ab7a85f4",
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "format": "CD"
+        }
+      ],
+      "country": "BR",
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "count": 1,
+        "darkened": false
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "id": "f76b5a64-4fa1-306b-a5ef-b030808523c1",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "quality": "normal",
+      "country": "CA",
+      "disambiguation": "",
+      "status": "Withdrawn",
+      "title": "1989",
+      "barcode": "00843930013562",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "asin": null,
+      "id": "d5cb50d8-8897-4029-b9b3-32806df7e06d",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type-id": null,
+            "sort-name": "Canada",
+            "disambiguation": "",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "type": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        },
+        {
+          "date": "2014-10-27",
+          "area": {
+            "name": "United States",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "date": "2014-10-27"
+    },
+    {
+      "packaging": "Cassette Case",
+      "asin": null,
+      "date": "",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Indonesia",
+            "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+            "name": "Indonesia",
+            "type": null,
+            "iso-3166-1-codes": [
+              "ID"
+            ]
+          },
+          "date": ""
+        }
+      ],
+      "id": "d5daa362-dab6-49a0-8a8b-6e80144f0005",
+      "status": "Bootleg",
+      "title": "1989",
+      "packaging-id": "c70b737a-0114-39a9-88f7-82843e54f906",
+      "barcode": null,
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "Cassette",
+          "format-id": "f5e6e254-8f39-331c-936b-9c69d686dc47",
+          "id": "4baf4ce3-b233-37bb-87b3-ec82c83816d9"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "ID",
+      "cover-art-archive": {
+        "back": true,
+        "artwork": true,
+        "front": true,
+        "darkened": false,
+        "count": 5
+      },
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "artwork": true,
+        "back": false,
+        "front": true
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "country": "JP",
+      "quality": "normal",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 19,
+          "position": 1,
+          "title": "",
+          "id": "3502d1b3-c821-4196-b6b3-3a3b48d47aa2",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "barcode": "00602537993819",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "asin": null,
+      "packaging": "None",
+      "id": "d5e2547a-1f32-41e4-8254-257f34537cfb",
+      "release-events": [
+        {
+          "date": "2025-06-06",
+          "area": {
+            "type-id": null,
+            "sort-name": "Japan",
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "name": "Japan",
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ]
+          }
+        }
+      ],
+      "date": "2025-06-06"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "count": 5,
+        "darkened": false,
+        "back": true,
+        "artwork": true,
+        "front": true
+      },
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "BG",
+      "media": [
+        {
+          "format": "CD",
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "id": "1134f6dd-df4c-34ac-b627-176ba21288f5",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547018830",
+      "title": "1989",
+      "status": "Official",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "iso-3166-1-codes": [
+              "BG"
+            ],
+            "type": null,
+            "name": "Bulgaria",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Bulgaria",
+            "id": "114c14ad-9776-34e9-81b0-6299507f3771"
+          }
+        },
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type-id": null,
+            "sort-name": "Romania",
+            "disambiguation": "",
+            "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+            "name": "Romania",
+            "type": null,
+            "iso-3166-1-codes": [
+              "RO"
+            ]
+          }
+        }
+      ],
+      "id": "d9feba30-b801-42a6-a5ae-cd813614e9b0",
+      "asin": null,
+      "packaging": "Jewel Case"
+    },
+    {
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "barcode": "843930013593",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "e223f526-bbd9-4aa3-a5fb-5618291e80a6",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "sort-name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null
+          }
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 5,
+        "artwork": true,
+        "back": true,
+        "front": true
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "id": "bed7f5c6-2c95-3ae6-8278-16c143f7e4bf",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "position": 1,
+          "track-count": 19
+        }
+      ],
+      "disambiguation": "Target exclusive",
+      "quality": "normal",
+      "country": "US"
+    },
+    {
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "title": "1989",
+      "status": "Official",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+            "disambiguation": "",
+            "sort-name": "Argentina",
+            "type-id": null,
+            "name": "Argentina",
+            "type": null,
+            "iso-3166-1-codes": [
+              "AR"
+            ]
+          }
+        },
+        {
+          "date": "2014-10-27",
+          "area": {
+            "iso-3166-1-codes": [
+              "CL"
+            ],
+            "type": null,
+            "name": "Chile",
+            "id": "82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7",
+            "sort-name": "Chile",
+            "disambiguation": "",
+            "type-id": null
+          }
+        },
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "UY"
+            ],
+            "sort-name": "Uruguay",
+            "disambiguation": "",
+            "id": "ea88d395-87c9-3c47-b49a-114cad41fd39",
+            "type-id": null,
+            "name": "Uruguay"
+          }
+        }
+      ],
+      "date": "2014-10-27",
+      "id": "e3f0984a-4036-4cd7-8c8c-0217b87c577a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 2,
+        "artwork": true,
+        "back": true,
+        "front": true
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "82f8418c-6179-34a3-b3f2-84525c5c7cdd",
+          "title": "",
+          "track-count": 13,
+          "position": 1,
+          "format": "CD"
+        }
+      ],
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "AR",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      }
+    },
+    {
+      "media": [
+        {
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "8d179322-e0ca-3d5d-8365-d276dc15a814"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "BR",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "artwork": true,
+        "back": false
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "id": "e4417eaf-7a8c-40e2-8ae1-979f3c793157",
+      "date": "2019",
+      "release-events": [
+        {
+          "date": "2019",
+          "area": {
+            "iso-3166-1-codes": [
+              "BR"
+            ],
+            "type": null,
+            "name": "Brazil",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Brazil",
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8"
+          }
+        }
+      ],
+      "packaging": "Jewel Case",
+      "asin": null,
+      "barcode": "602547071668",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "darkened": false
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "dcd6dac6-a905-3a31-9190-e4bf5d353ccc",
+          "position": 1,
+          "track-count": 13,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "IN",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "status": "Official",
+      "title": "1989",
+      "date": "2015-02",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "IN"
+            ],
+            "type": null,
+            "name": "India",
+            "type-id": null,
+            "sort-name": "India",
+            "id": "d31a9a15-537f-3669-ad53-25753ddd2772",
+            "disambiguation": ""
+          },
+          "date": "2015-02"
+        }
+      ],
+      "id": "e5e53661-e397-4a58-bc85-3a96a82bc53e",
+      "packaging": "Jewel Case",
+      "asin": null
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 8,
+        "back": true,
+        "artwork": true,
+        "front": true
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "XE",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "f5781a06-f623-353b-8313-f3bead4d569b",
+          "track-count": 19,
+          "position": 1,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "asin": "B00MV0FT4Y",
+      "packaging": "Jewel Case",
+      "id": "eb1acde0-35b3-4acc-bd36-b5a7037b7f38",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "area": {
+            "name": "Europe",
+            "disambiguation": "",
+            "sort-name": "Europe",
+            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "XE"
+            ],
+            "type": null
+          },
+          "date": "2014-10-27"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "id": "108ce355-070b-39e7-946e-bcd6e11b905e",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "track-count": 15,
+          "position": 1
+        }
+      ],
+      "country": "CA",
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "front": true,
+        "back": false,
+        "artwork": true
+      },
+      "id": "ebf06cf6-3457-4834-b39a-9fa14b29ca12",
+      "date": "2014-10-27",
+      "release-events": [
+        {
+          "date": "2014-10-27",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Canada",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada"
+          }
+        }
+      ],
+      "packaging": "None",
+      "asin": null,
+      "barcode": "00843930013623",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "status": "Withdrawn",
+      "title": "1989 D.L.X."
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 3,
+        "artwork": true,
+        "back": true,
+        "front": true
+      },
+      "media": [
+        {
+          "id": "6696134c-a11e-3b92-857b-086ed55bf8cb",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 13,
+          "position": 1
+        }
+      ],
+      "quality": "normal",
+      "country": "ID",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "602547071668",
+      "title": "1989",
+      "status": "Official",
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "ID"
+            ],
+            "type-id": null,
+            "sort-name": "Indonesia",
+            "disambiguation": "",
+            "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+            "name": "Indonesia"
+          },
+          "date": "2014"
+        }
+      ],
+      "id": "ebf53076-0a52-422d-b94b-a05f04860fb8",
+      "packaging": "Jewel Case",
+      "asin": null
+    },
+    {
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "JP",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "id": "f59b8170-5f0b-4789-8f8f-8b1867f87e2b",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "artwork": true,
+        "back": false,
+        "darkened": false,
+        "count": 1
+      },
+      "id": "eecdfab4-feaf-41cc-9be2-bc565f070f93",
+      "release-events": [
+        {
+          "date": "2025-06-06",
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan",
+            "type-id": null,
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "sort-name": "Japan"
+          }
+        }
+      ],
+      "date": "2025-06-06",
+      "asin": null,
+      "packaging": "None",
+      "barcode": "00602537993826",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "1989",
+      "status": "Official"
+    },
+    {
+      "title": "1989",
+      "status": "Official",
+      "barcode": "8808678260656",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "packaging": "Jewel Case",
+      "asin": null,
+      "id": "eeef7c5a-be99-446a-897c-520edaab068b",
+      "date": "2014",
+      "release-events": [
+        {
+          "area": {
+            "name": "South Korea",
+            "type-id": null,
+            "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+            "sort-name": "South Korea",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "KR"
+            ],
+            "type": null
+          },
+          "date": "2014"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "front": true,
+        "back": true,
+        "artwork": true,
+        "darkened": false,
+        "count": 2
+      },
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "id": "8e6d97af-271e-3be9-b9a2-dfcf7a1197a4",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "track-count": 13,
+          "position": 1,
+          "title": ""
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "KR"
+    },
+    {
+      "asin": null,
+      "packaging": "None",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": {
+            "name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "id": "f04b5341-454f-4085-b90d-82d5c6a6cb82",
+      "title": "1989",
+      "status": "Official",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930014811",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "quality": "normal",
+      "country": "US",
+      "disambiguation": "",
+      "media": [
+        {
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "id": "077e8e2d-bb16-4d6b-9e83-45d39c93f0c7",
+          "title": "",
+          "position": 1,
+          "track-count": 13,
+          "format": "Digital Media"
+        }
+      ],
+      "cover-art-archive": {
+        "back": false,
+        "artwork": true,
+        "front": true,
+        "darkened": false,
+        "count": 1
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "cover-art-archive": {
+        "front": true,
+        "back": false,
+        "artwork": true,
+        "darkened": false,
+        "count": 1
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "98793c15-093b-3cbd-a3b8-b9fb04464500",
+          "track-count": 13,
+          "position": 1,
+          "title": "",
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "JP",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "barcode": "4988005858559",
+      "packaging-id": null,
+      "title": "1989",
+      "status": "Official",
+      "id": "f229cc90-76aa-4b70-b955-7c7772627710",
+      "release-events": [
+        {
+          "date": "2014-10-29",
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "sort-name": "Japan",
+            "name": "Japan",
+            "type": null,
+            "iso-3166-1-codes": [
+              "JP"
+            ]
+          }
+        }
+      ],
+      "date": "2014-10-29",
+      "packaging": null,
+      "asin": "B00NBRJGXQ"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "darkened": false,
+        "count": 0
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "ID",
+      "media": [
+        {
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "b8c3a46a-8f72-3e1f-85f1-ac1e3d4a6698"
+        }
+      ],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "barcode": "602537998913",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "status": "Official",
+      "title": "1989 D.L.X.",
+      "id": "f396b1e4-3145-49dd-895e-b66ffa445d54",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "ID"
+            ],
+            "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+            "disambiguation": "",
+            "sort-name": "Indonesia",
+            "type-id": null,
+            "name": "Indonesia"
+          },
+          "date": "2015"
+        }
+      ],
+      "date": "2015",
+      "asin": null,
+      "packaging": "Jewel Case"
+    },
+    {
+      "packaging": "None",
+      "asin": null,
+      "id": "f5818519-29a6-4eac-a58f-bdb73757e658",
+      "date": "2025-06-06",
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "type": null,
+            "name": "Japan",
+            "type-id": null,
+            "disambiguation": "",
+            "sort-name": "Japan",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c"
+          },
+          "date": "2025-06-06"
+        }
+      ],
+      "title": "1989",
+      "status": "Official",
+      "barcode": "00602547071538",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "media": [
+        {
+          "format": "Digital Media",
+          "position": 1,
+          "track-count": 13,
+          "title": "",
+          "id": "1aa86cbb-66fd-4a02-876e-bd53c7aeca02",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "JP",
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "back": false,
+        "artwork": true,
+        "front": true
+      },
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "packaging": "Box",
+      "asin": null,
+      "date": "2017",
+      "release-events": [
+        {
+          "date": "2017",
+          "area": {
+            "name": "China",
+            "type-id": null,
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "type": null
+          }
+        }
+      ],
+      "id": "f60e0d14-b7d1-436f-a4c0-765beeba748c",
+      "status": "Bootleg",
+      "title": "1989 D.L.X.",
+      "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+      "barcode": "9787885312077",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "media": [
+        {
+          "position": 1,
+          "track-count": 19,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "4eebbce6-4f68-3c66-b5f1-5b086159b4a5"
+        },
+        {
+          "id": "35f05494-fdc1-36db-a81a-4447a31549a7",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "format": "CD",
+          "title": "",
+          "track-count": 18,
+          "position": 2
+        },
+        {
+          "track-count": 18,
+          "position": 3,
+          "title": "",
+          "format": "CD",
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "9b210ad3-c094-3cba-8a8b-7d43aa223006"
+        }
+      ],
+      "quality": "normal",
+      "country": "CN",
+      "disambiguation": "",
+      "cover-art-archive": {
+        "count": 0,
+        "darkened": false,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9"
+    },
+    {
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "darkened": false
+      },
+      "media": [
+        {
+          "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+          "id": "54c10050-1ad0-3234-a088-fa99bbc96d37",
+          "title": "",
+          "position": 1,
+          "track-count": 19,
+          "format": "CD"
+        }
+      ],
+      "quality": "normal",
+      "disambiguation": "",
+      "country": "CN",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "barcode": "9787883257219",
+      "title": "1989 D.L.X.",
+      "status": "Official",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "CN"
+            ],
+            "sort-name": "China",
+            "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+            "disambiguation": "",
+            "type-id": null,
+            "name": "China"
+          },
+          "date": "2014-12-30"
+        }
+      ],
+      "date": "2014-12-30",
+      "id": "fe261227-b9d4-46cd-a59a-375edf2054a7",
+      "packaging": "Jewel Case",
+      "asin": null
+    },
+    {
+      "cover-art-archive": {
+        "count": 1,
+        "darkened": false,
+        "artwork": true,
+        "back": false,
+        "front": true
+      },
+      "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "quality": "normal",
+      "country": "CA",
+      "media": [
+        {
+          "id": "f87a5a54-9dff-3d44-84a2-f60e4e95d36c",
+          "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+          "format": "Digital Media",
+          "title": "",
+          "position": 1,
+          "track-count": 13
+        }
+      ],
+      "status": "Withdrawn",
+      "title": "1989",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "00843930013555",
+      "asin": null,
+      "packaging": "None",
+      "release-events": [
+        {
+          "date": "2017-06-09",
+          "area": {
+            "iso-3166-1-codes": [
+              "CA"
+            ],
+            "type": null,
+            "name": "Canada",
+            "sort-name": "Canada",
+            "disambiguation": "",
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "type-id": null
+          }
+        },
+        {
+          "date": "2017-06-09",
+          "area": {
+            "type": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type-id": null,
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "sort-name": "United States",
+            "name": "United States"
+          }
+        }
+      ],
+      "date": "2017-06-09",
+      "id": "ffe9d2ee-6b29-43a7-9114-0dd0de8955ec"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "1989-vinyl",
+    "release": "516531f3-acdd-4926-b958-845ad6f21d89",
+    "image_id": "31607018451",
+    "source": "https://musicbrainz.org/release/516531f3-acdd-4926-b958-845ad6f21d89/cover-art",
+    "download": "https://coverartarchive.org/release/516531f3-acdd-4926-b958-845ad6f21d89/31607018451-1200.jpg"
+  },
+  {
+    "name": "1989-cd",
+    "release": "23f7b88c-264b-42e7-82f1-4b7ad033fecf",
+    "image_id": "27366695516",
+    "source": "https://musicbrainz.org/release/23f7b88c-264b-42e7-82f1-4b7ad033fecf/cover-art",
+    "download": "https://coverartarchive.org/release/23f7b88c-264b-42e7-82f1-4b7ad033fecf/27366695516-1200.jpg"
+  },
+  {
+    "name": "1989-back",
+    "release": "516531f3-acdd-4926-b958-845ad6f21d89",
+    "image_id": "31607017200",
+    "source": "https://musicbrainz.org/release/516531f3-acdd-4926-b958-845ad6f21d89/cover-art",
+    "download": "https://coverartarchive.org/release/516531f3-acdd-4926-b958-845ad6f21d89/31607017200-1200.jpg"
+  },
+  {
+    "name": "folklore-vinyl",
+    "release": "91dad4d8-72d5-40a1-867f-f96c2cc1d559",
+    "image_id": "28017932267",
+    "source": "https://musicbrainz.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/cover-art",
+    "download": "https://coverartarchive.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/28017932267-1200.jpg"
+  },
+  {
+    "name": "folklore-cd",
+    "release": "0369d5ae-060b-41f4-aa21-c9da99bc66b8",
+    "image_id": "30695273841",
+    "source": "https://musicbrainz.org/release/0369d5ae-060b-41f4-aa21-c9da99bc66b8/cover-art",
+    "download": "https://coverartarchive.org/release/0369d5ae-060b-41f4-aa21-c9da99bc66b8/30695273841-1200.jpg"
+  },
+  {
+    "name": "folklore-back",
+    "release": "91dad4d8-72d5-40a1-867f-f96c2cc1d559",
+    "image_id": "28017931417",
+    "source": "https://musicbrainz.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/cover-art",
+    "download": "https://coverartarchive.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/28017931417-1200.jpg"
+  },
+  {
+    "name": "thank-u-next-cd",
+    "release": "f180cef1-c7b6-4933-92b9-d7292ad1f15c",
+    "image_id": "22711650850",
+    "source": "https://musicbrainz.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/cover-art",
+    "download": "https://coverartarchive.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/22711650850-1200.jpg"
+  },
+  {
+    "name": "thank-u-next-back",
+    "release": "f180cef1-c7b6-4933-92b9-d7292ad1f15c",
+    "image_id": "22711650242",
+    "source": "https://musicbrainz.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/cover-art",
+    "download": "https://coverartarchive.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/22711650242-1200.jpg"
+  },
+  {
+    "name": "1989-vinyl-b",
+    "release": "22d466ee-85e3-430b-930b-f01d4db36f97",
+    "image_id": "31607007040",
+    "source": "https://musicbrainz.org/release/22d466ee-85e3-430b-930b-f01d4db36f97/cover-art",
+    "download": "https://coverartarchive.org/release/22d466ee-85e3-430b-930b-f01d4db36f97/31607007040-1200.jpg"
+  },
+  {
+    "name": "1989-vinyl-c",
+    "release": "b3d10e40-75a6-4f66-9d06-225f040c07b2",
+    "image_id": "44503730649",
+    "source": "https://musicbrainz.org/release/b3d10e40-75a6-4f66-9d06-225f040c07b2/cover-art",
+    "download": "https://coverartarchive.org/release/b3d10e40-75a6-4f66-9d06-225f040c07b2/44503730649-1200.jpg"
+  },
+  {
+    "name": "folklore-vinyl-b",
+    "release": "3e77f288-eb38-4640-8716-c05e55afb414",
+    "image_id": "28017719770",
+    "source": "https://musicbrainz.org/release/3e77f288-eb38-4640-8716-c05e55afb414/cover-art",
+    "download": "https://coverartarchive.org/release/3e77f288-eb38-4640-8716-c05e55afb414/28017719770-1200.jpg"
+  },
+  {
+    "name": "folklore-vinyl-c",
+    "release": "d1f1bd0b-5f5f-4a02-b7bc-eb02d00bccfd",
+    "image_id": "28017809650",
+    "source": "https://musicbrainz.org/release/d1f1bd0b-5f5f-4a02-b7bc-eb02d00bccfd/cover-art",
+    "download": "https://coverartarchive.org/release/d1f1bd0b-5f5f-4a02-b7bc-eb02d00bccfd/28017809650-1200.jpg"
+  }
+]

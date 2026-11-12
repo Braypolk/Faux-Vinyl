@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "the-great-divide",
+    "title": "The Great Divide",
+    "artist": "Noah Kahan",
+    "uri": "spotify:album:2fnkyn9EybagIoFJ7a13oz",
+    "release_date": "2026-04-24",
+    "release_source": "https://www.universalmusic.ca/2026/01/30/noah-kahan-makes-highly-anticipated-return-with-brand-new-single-the-great-divide-out-now/",
+    "songs": [
+      "End of August",
+      "Doors",
+      "American Cars",
+      "Downfall",
+      "Paid Time Off",
+      "The Great Divide",
+      "Haircut",
+      "Willing and Able",
+      "Dashboard",
+      "23",
+      "Porch Light",
+      "Deny Deny Deny",
+      "Headed North",
+      "We Go Way Back",
+      "Spoiled",
+      "All Them Horses",
+      "Dan"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/noah/divide-front.webp",
+      "source": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "method": "Clean official Spotify cover; lossless PhotoCraft conversion.",
+      "sha256": "bde13c811e4873ed1704bd1a582acb7864746bce43e03e355f28f666597e7672"
+    },
+    "discs": [
+      {
+        "id": "great-divide-american-rust-vinyl",
+        "kind": "vinyl",
+        "label": "American Rust vinyl · side B",
+        "path": "found-artwork/collection-expansion/noah/divide-vinyl.webp",
+        "source": "https://noahkahan.com/products/the-great-divide-american-rust-vinyl",
+        "source_image": "https://cdn.shopify.com/s/files/1/0912/0736/9004/files/NK-TGD_STANDARD-VINYL_AMERICAN-RUST__LP_2_60f6781f-67e5-4e29-9d4f-121d0940c926.png?v=1769611006",
+        "method": "Official standalone promotional disc rendering; PhotoCraft rescale/cutout and hole normalization. No generation.",
+        "prompt": null,
+        "notes": "Preserves original rusty marbled surface and insect label pixels. Annulus remains fully opaque. A tiny gold matte ring normalizes the source spindle opening to 16px.",
+        "sha256": "29b8c2f9ae2a181005088d91e5e7aad792ffda69d5b221ffaa0ca7b3c28816ef"
+      },
+      {
+        "id": "great-divide-gold-cd",
+        "kind": "cd",
+        "label": "Gold insect CD",
+        "path": "found-artwork/collection-expansion/noah/divide-cd.webp",
+        "source": "https://www.discogs.com/release/37170543",
+        "source_image": "https://i.discogs.com/zLuI98hz7rL8oe0Dz06KAAeSsC5hlAQcZIeziP5kQko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcw/NTQzLTE3NzcxMjU0/NzItNTAyMC5qcGVn.jpeg",
+        "method": "Actual complete CD photograph; measured outer ellipse and spindle projective rectification with PhotoCraft, circular mask and centered 80px hole. No generation.",
+        "prompt": null,
+        "notes": "Original label, silver hub and rim retained. Source texture and lighting remain visible; cork background removed.",
+        "sha256": "163e6920b49ed431915c8150f3d205d68917af4406b2383e1abb3b8f4a3e00af"
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/noah/divide-back.webp",
+      "source": "https://www.discogs.com/release/37170543",
+      "source_image": "https://i.discogs.com/J9bDIKsq8dyfwwuUFspLsFVdeT6argwxnA1Ig0u-jfs/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcw/NTQzLTE3NzcxMjgy/NTctNzQzMy5qcGVn.jpeg",
+      "method": "Actual CD back photograph, tiny perspective skew corrected and background cropped with PhotoCraft; original print preserved.",
+      "sha256": "5e9d0c87822ae99a236b229567a55ae71fa61cee4a4dceabfb3982c4293a3c4a"
+    },
+    "assets": {
+      "front": "/static/covers/collection/the-great-divide.front.bde13c811e48.webp",
+      "back": "/static/covers/collection/the-great-divide.back.5e9d0c87822a.webp",
+      "vinyl": "/static/discs/collection-the-great-divide-vinyl.29b8c2f9ae2a.webp",
+      "cd": "/static/discs/collection-the-great-divide-cd.163e6920b49e.webp"
+    }
+  },
+  {
+    "id": "stick-season",
+    "title": "Stick Season",
+    "artist": "Noah Kahan",
+    "uri": "spotify:album:50ZenUP4O2Q5eCy2NRNvuz",
+    "release_date": "2022-10-14",
+    "release_source": "https://musicbrainz.org/release-group/14fc4370-9b90-411b-a02e-6c6d5a8799fc",
+    "songs": [
+      "Northern Attitude",
+      "Stick Season",
+      "All My Love",
+      "She Calls Me Back",
+      "Come Over",
+      "New Perspective",
+      "Everywhere, Everything",
+      "Orange Juice",
+      "Strawberry Wine",
+      "Growing Sideways",
+      "Halloween",
+      "Homesick",
+      "Still",
+      "The View Between Villages"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/noah/stick-front.webp",
+      "source": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2736ee35072df1af802cca09918",
+      "method": "Clean official Spotify cover; lossless PhotoCraft conversion.",
+      "sha256": "d1692725b82c825bbcc7031cd8a6ca1e18e213eb5bfc91d02e359da329f41caa"
+    },
+    "discs": [
+      {
+        "id": "stick-season-green-vinyl",
+        "kind": "vinyl",
+        "label": "Green vinyl · side A",
+        "path": "found-artwork/collection-expansion/noah/stick-vinyl.webp",
+        "source": "https://www.discogs.com/release/27318180",
+        "source_image": "https://i.discogs.com/5mmDD8t6KO-M--TxIhrT4fRO7iqEJL8QKRI4xBAEeHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE4/MTgwLTE2ODY2ODQy/ODUtMTc5Mi5qcGVn.jpeg",
+        "method": "Actual full green vinyl photograph; PhotoCraft measured outer ellipse/spindle rectification, circular cutout, centered 16px hole. No generation.",
+        "prompt": null,
+        "notes": "Original grooved green surface, dark printed label and ordinary highlights preserved. No sleeve, packaging or hand remains.",
+        "sha256": "eb005e8a9ef5e81437c211ced986fb8a80c4f4fe5da7d26070327cb39d23b0bd"
+      },
+      {
+        "id": "stick-season-map-cd",
+        "kind": "cd",
+        "label": "Black and gold map CD",
+        "path": "found-artwork/collection-expansion/noah/stick-cd.webp",
+        "source": "https://www.discogs.com/release/24957121",
+        "source_image": "https://i.discogs.com/ZyGMcjLGIHMIYR4_IFZGGhJjq_OJEnAIj-1NEDx6-cw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MTIxLTE2NjgxMTYx/MzMtNTQzMi5qcGVn.jpeg",
+        "method": "Actual full CD photograph; PhotoCraft measured ellipse/spindle rectification, circular cutout, centered 80px hole. No generation.",
+        "prompt": null,
+        "notes": "Original contour-map print, gold lettering and white/silver hub preserved. No plastic case spindle remains.",
+        "sha256": "e85b030b3d06b2ae01371a2c2bd495f7314b8590684c498221ad7161c49beba0"
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/noah/stick-back.webp",
+      "source": "https://noahkahan.com/products/stick-season-vinyl-standard-black",
+      "source_image": "https://cdn.shopify.com/s/files/1/0912/0736/9004/files/stickseason_vinyl_back.png?v=1769562108",
+      "method": "Clean official rear sleeve artwork cropped from product gallery with PhotoCraft; original pixels preserved.",
+      "sha256": "9832ee620fc7d27ddbc3412554336ebf51a75beb72eb7ba2b100708d143bb085"
+    },
+    "assets": {
+      "front": "/static/covers/collection/stick-season.front.d1692725b82c.webp",
+      "back": "/static/covers/collection/stick-season.back.9832ee620fc7.webp",
+      "vinyl": "/static/discs/collection-stick-season-vinyl.eb005e8a9ef5.webp",
+      "cd": "/static/discs/collection-stick-season-cd.e85b030b3d06.webp"
+    }
+  },
+  {
+    "id": "1989",
+    "title": "1989",
+    "artist": "Taylor Swift",
+    "uri": "spotify:album:2QJmrSgbdM35R67eoGQo4j",
+    "release_date": "2014-10-27",
+    "songs": "Welcome To New York\nBlank Space\nStyle\nOut Of The Woods\nAll You Had To Do Was Stay\nShake It Off\nI Wish You Would\nBad Blood\nWildest Dreams\nHow You Get The Girl\nThis Love\nI Know Places\nClean",
+    "tracks": [
+      {
+        "title": "Welcome To New York",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:6qnM0XXPZOINWA778uNqQ9"
+      },
+      {
+        "title": "Blank Space",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky"
+      },
+      {
+        "title": "Style",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5"
+      },
+      {
+        "title": "Out Of The Woods",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:5OndtwLGA9O6XHFcGm2H7r"
+      },
+      {
+        "title": "All You Had To Do Was Stay",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:0dAb8TY433dl3ZfXYCLE19"
+      },
+      {
+        "title": "Shake It Off",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:5xTtaWoae3wi06K5WfVUUH"
+      },
+      {
+        "title": "I Wish You Would",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:3wmN11qXGL0HyPojvEE1D9"
+      },
+      {
+        "title": "Bad Blood",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:273dCMFseLcVsoSWx59IoE"
+      },
+      {
+        "title": "Wildest Dreams",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:59HjlYCeBsxdI0fcm3zglw"
+      },
+      {
+        "title": "How You Get The Girl",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:4dYUOfmWna6DFccnz732n8"
+      },
+      {
+        "title": "This Love",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:3oKMl2tJv4fdidkXUYMI5x"
+      },
+      {
+        "title": "I Know Places",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:3jBMHD19RZdAqG9iFQh7xc"
+      },
+      {
+        "title": "Clean",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:06WgOCf0LV2h4keYXDRnuh"
+      }
+    ],
+    "metadata_sources": {
+      "spotify": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j",
+      "original_release_date": "https://music.apple.com/us/album/1989/1440935467"
+    },
+    "front": {
+      "path": "found-artwork/collection-expansion/taylor-ariana/1989-front-final.webp",
+      "source": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j",
+      "method": "spotify-official-artwork",
+      "reference_path": "found-artwork/collection-expansion/taylor-ariana/1989-front-source.jpg"
+    },
+    "back": {
+      "path": "found-artwork/collection-expansion/taylor-ariana/1989-back-final.webp",
+      "source": "https://musicbrainz.org/release/516531f3-acdd-4926-b958-845ad6f21d89/cover-art",
+      "download": "https://coverartarchive.org/release/516531f3-acdd-4926-b958-845ad6f21d89/31607017200-1200.jpg",
+      "method": "photocraft-original-scan",
+      "reference_path": "found-artwork/collection-expansion/taylor-ariana/1989-back-source.jpg"
+    },
+    "discs": [
+      {
+        "id": "1989-vinyl",
+        "kind": "vinyl",
+        "label": "Vinyl · original 2014 black pressing, side A",
+        "path": "found-artwork/collection-expansion/taylor-ariana/1989-vinyl-final.webp",
+        "source": "https://musicbrainz.org/release/22d466ee-85e3-430b-930b-f01d4db36f97/cover-art",
+        "download": "https://coverartarchive.org/release/22d466ee-85e3-430b-930b-f01d4db36f97/31607007040-1200.jpg",
+        "reference_path": "found-artwork/collection-expansion/taylor-ariana/1989-vinyl-b-source.jpg",
+        "method": "reference-reconstruction",
+        "prompt": "Use case: precise-object-edit. Input image is a photographed close-up of the actual Taylor Swift 1989 ORIGINAL 2014 black vinyl side A center label (not Taylor's Version). Reconstruct exactly ONE complete black 12-inch vinyl record in a perpendicular flat top-down view on a truly transparent square background. Entire circular rim must fit with small equal margin. Center the small transparent spindle hole precisely. Black record has realistic fine concentric grooves and three track bands, clean diffuse studio illumination, no reflected photographer, no room/window reflections, no scratches or sleeve. The actual center label occupies approximately ONE THIRD of the whole record diameter and uses precisely the reference's pastel lavender sky, yellow/cream seagulls, hand-painted T.S. 1989 and side A text. Preserve this label's artwork, orientation, typography and track placement faithfully. Do not enlarge label to fill disc; the majority of diameter is BLACK VINYL GROOVES. No album sleeve, no artist portrait, no second record, no background, no cast shadow. This is a reference reconstruction; original label pixels will later be composited over the center for exact lettering.\n\nFOLLOW-UP SURFACE EDIT:\nPrecise object edit. Remove the ENTIRE large pastel printed paper label from the center of this black vinyl record and replace it with continuous plain BLACK vinyl/deadwax matching the existing black record material. There must be NO paper label, NO illustration, NO lettering, NO artwork anywhere on this output. I will composite an authentic photographed paper label separately afterward. Keep the complete black vinyl rim, realistic fine concentric grooves and three track band divisions. Flat top-down, perfectly centered circular shape, tiny centered transparent spindle hole and truly transparent background. Preserve the existing record diameter and equal margin; no shadow. High-quality clean diffuse material without camera/window reflections.",
+        "notes": "Complete black vinyl groove field is reconstructed; authentic photographed printed label pixels were perspective-corrected and composited at 212px diameter, with no generated lettering. The groove plate is shared with the other reconstructed black record; detailed groove positions are approximate.",
+        "geometry": {
+          "size": [
+            648,
+            648
+          ],
+          "disc_diameter": 640,
+          "label_diameter": 212,
+          "hole_diameter": 16,
+          "center": [
+            324,
+            324
+          ]
+        },
+        "generated_original": "found-artwork/collection-expansion/taylor-ariana/black-vinyl-surface-generated.png"
+      },
+      {
+        "id": "1989-cd",
+        "kind": "cd",
+        "label": "CD · original 2014",
+        "path": "found-artwork/collection-expansion/taylor-ariana/1989-cd-final.webp",
+        "source": "https://musicbrainz.org/release/23f7b88c-264b-42e7-82f1-4b7ad033fecf/cover-art",
+        "download": "https://coverartarchive.org/release/23f7b88c-264b-42e7-82f1-4b7ad033fecf/27366695516-1200.jpg",
+        "reference_path": "found-artwork/collection-expansion/taylor-ariana/1989-cd-source.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Actual physical CD scan; PhotoCraft ellipse/spindle correction, circular alpha and centered 80px hole. Original photographed printing and ordinary surface highlights retained.",
+        "geometry": {
+          "size": [
+            648,
+            648
+          ],
+          "disc_diameter": 640,
+          "hole_diameter": 80,
+          "center": [
+            324,
+            324
+          ]
+        }
+      }
+    ],
+    "assets": {
+      "front": "/static/covers/collection/1989.front.087c5c2611b4.webp",
+      "back": "/static/covers/collection/1989.back.011e842d3546.webp",
+      "vinyl": "/static/discs/collection-1989-vinyl.21e4a68d143a.webp",
+      "cd": "/static/discs/collection-1989-cd.0f82db7d165b.webp"
+    }
+  },
+  {
+    "id": "folklore",
+    "title": "folklore",
+    "artist": "Taylor Swift",
+    "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr",
+    "release_date": "2020-07-24",
+    "songs": "the 1\ncardigan\nthe last great american dynasty\nexile (feat. Bon Iver)\nmy tears ricochet\nmirrorball\nseven\naugust\nthis is me trying\nillicit affairs\ninvisible string\nmad woman\nepiphany\nbetty\npeace\nhoax",
+    "tracks": [
+      {
+        "title": "the 1",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:0Jlcvv8IykzHaSmj49uNW8"
+      },
+      {
+        "title": "cardigan",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+      },
+      {
+        "title": "the last great american dynasty",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:2Eeur20xVqfUoM3Q7EFPFt"
+      },
+      {
+        "title": "exile (feat. Bon Iver)",
+        "artists": "Taylor Swift, Bon Iver",
+        "uri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+      },
+      {
+        "title": "my tears ricochet",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC"
+      },
+      {
+        "title": "mirrorball",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:0ZNU020wNYvgW84iljPkPP"
+      },
+      {
+        "title": "seven",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:6KJqZcs9XDgVck7Lg9QOTC"
+      },
+      {
+        "title": "august",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+      },
+      {
+        "title": "this is me trying",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+      },
+      {
+        "title": "illicit affairs",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:2NmsngXHeC1GQ9wWrzhOMf"
+      },
+      {
+        "title": "invisible string",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
+      },
+      {
+        "title": "mad woman",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:2QDyYdZyhlP2fp79KZX8Bi"
+      },
+      {
+        "title": "epiphany",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:08fa9LFcFBTcilB3iq2e2A"
+      },
+      {
+        "title": "betty",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+      },
+      {
+        "title": "peace",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:7MbT4I8qGntX4fMdqMQgke"
+      },
+      {
+        "title": "hoax",
+        "artists": "Taylor Swift",
+        "uri": "spotify:track:6MWoRt97mnSTXZhu3ggi9C"
+      }
+    ],
+    "metadata_sources": {
+      "spotify": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr",
+      "original_release_date": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+    },
+    "front": {
+      "path": "found-artwork/collection-expansion/taylor-ariana/folklore-front-final.webp",
+      "source": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr",
+      "method": "spotify-official-artwork",
+      "reference_path": "found-artwork/collection-expansion/taylor-ariana/folklore-front-source.jpg"
+    },
+    "back": {
+      "path": "found-artwork/collection-expansion/taylor-ariana/folklore-back-final.webp",
+      "source": "https://musicbrainz.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/cover-art",
+      "download": "https://coverartarchive.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/28017931417-1200.jpg",
+      "method": "photocraft-perspective-correction",
+      "reference_path": "found-artwork/collection-expansion/taylor-ariana/folklore-back-source.jpg",
+      "notes": "Actual in-the-trees physical sleeve back includes bonus track the lakes; Spotify URI and searchable tracklist use the original 16-track album. PhotoCraft corner rectification removed photographed tabletop."
+    },
+    "discs": [
+      {
+        "id": "folklore-vinyl",
+        "kind": "vinyl",
+        "label": "Vinyl · in the trees, beige, side 1",
+        "path": "found-artwork/collection-expansion/taylor-ariana/folklore-vinyl-final.webp",
+        "source": "https://musicbrainz.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/cover-art",
+        "download": "https://coverartarchive.org/release/91dad4d8-72d5-40a1-867f-f96c2cc1d559/28017932267-1200.jpg",
+        "reference_path": "found-artwork/collection-expansion/taylor-ariana/folklore-vinyl-source.jpg",
+        "method": "reference-reconstruction",
+        "prompt": "Precise object reconstruction from reference: create a flat perpendicular top-down view of exactly ONE complete beige-brown vinyl record matching this photographed folklore 'in the trees' pressing's actual muted warm taupe-beige plastic material and four-track concentric fine grooves. Remove all distracting window-grid, room, packaging and camera reflections. Most important: remove the ENTIRE circular printed forest paper center label and replace its area with matching plain unprinted beige vinyl deadwax, with no lettering and no artwork; the original photographed paper label will be composited separately afterward. Tiny transparent circular spindle hole precisely in the geometric center. Complete circular record rim fully visible with small equal margin around it. Truly transparent square background, no cast shadow. Clean realistic physical vinyl texture and subtle diffuse highlights, no oversaturated orange, no sleeves, no extra record, no text.",
+        "notes": "Grooved beige surface reconstructed from the physical in-the-trees pressing to remove strong window-grid reflections. Original printed forest label pixels were rectified and composited, including real text. Plastic tint and groove field remain an approximation of the photographed pressing.",
+        "geometry": {
+          "size": [
+            648,
+            648
+          ],
+          "disc_diameter": 640,
+          "label_diameter": 212,
+          "hole_diameter": 16,
+          "center": [
+            324,
+            324
+          ]
+        },
+        "generated_original": "found-artwork/collection-expansion/taylor-ariana/beige-vinyl-surface-generated.png"
+      },
+      {
+        "id": "folklore-cd",
+        "kind": "cd",
+        "label": "CD · in the weeds",
+        "path": "found-artwork/collection-expansion/taylor-ariana/folklore-cd-final.webp",
+        "source": "https://musicbrainz.org/release/0369d5ae-060b-41f4-aa21-c9da99bc66b8/cover-art",
+        "download": "https://coverartarchive.org/release/0369d5ae-060b-41f4-aa21-c9da99bc66b8/30695273841-1200.jpg",
+        "reference_path": "found-artwork/collection-expansion/taylor-ariana/folklore-cd-source.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Actual physical CD scan; PhotoCraft ellipse/spindle correction, circular alpha and centered 80px hole. Original photographed printing and ordinary surface highlights retained. This is the official in-the-weeds alternate art edition (Brazil pressing), accurately labeled as that variant.",
+        "geometry": {
+          "size": [
+            648,
+            648
+          ],
+          "disc_diameter": 640,
+          "hole_diameter": 80,
+          "center": [
+            324,
+            324
+          ]
+        }
+      }
+    ],
+    "assets": {
+      "front": "/static/covers/collection/folklore.front.7e9aab171445.webp",
+      "back": "/static/covers/collection/folklore.back.bd2953053b1f.webp",
+      "vinyl": "/static/discs/collection-folklore-vinyl.efc71db1f32f.webp",
+      "cd": "/static/discs/collection-folklore-cd.92d2bbbb4505.webp"
+    }
+  },
+  {
+    "id": "thank-u-next",
+    "title": "thank u, next",
+    "artist": "Ariana Grande",
+    "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw",
+    "release_date": "2019-02-08",
+    "songs": "imagine\nneedy\nNASA\nbloodline\nfake smile\nbad idea\nmake up\nghostin\nin my head\n7 rings\nthank u, next\nbreak up with your girlfriend, i'm bored",
+    "tracks": [
+      {
+        "title": "imagine",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:39LmTF9RgyakzSYX8txrow"
+      },
+      {
+        "title": "needy",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:1TEL6MlSSVLSdhOSddidlJ"
+      },
+      {
+        "title": "NASA",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:4uTvPEr01pjTbZgl7jcKBD"
+      },
+      {
+        "title": "bloodline",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:2hloaUoRonYssMuqLCBLTX"
+      },
+      {
+        "title": "fake smile",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:3wFLWP0FcIqHK1wb1CPthQ"
+      },
+      {
+        "title": "bad idea",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:5Il6Oe7lr5XM7A0cWbVQtr"
+      },
+      {
+        "title": "make up",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:27356GVuMPFWiJSZCragoM"
+      },
+      {
+        "title": "ghostin",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:2vdBo4ALPYbHRUPKgtE5iC"
+      },
+      {
+        "title": "in my head",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:4T652DlATVHe0jdLKaN3Bw"
+      },
+      {
+        "title": "7 rings",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF"
+      },
+      {
+        "title": "thank u, next",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:3e9HZxeyfWwjeyPAMmWSSQ"
+      },
+      {
+        "title": "break up with your girlfriend, i'm bored",
+        "artists": "Ariana Grande",
+        "uri": "spotify:track:4kV4N9D1iKVxx1KLvtTpjS"
+      }
+    ],
+    "metadata_sources": {
+      "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
+      "original_release_date": "https://music.apple.com/us/album/thank-u-next/1450330588"
+    },
+    "front": {
+      "path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-front-final.webp",
+      "source": "https://musicbrainz.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/cover-art",
+      "method": "original-scan",
+      "reference_path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-front-caa-source.jpg",
+      "notes": "Original black-background physical CD cover; Spotify URI has regional pink cover art."
+    },
+    "back": {
+      "path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-back-final.webp",
+      "source": "https://musicbrainz.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/cover-art",
+      "download": "https://coverartarchive.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/22711650242-1200.jpg",
+      "method": "photocraft-original-scan",
+      "reference_path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-back-source.jpg",
+      "notes": "Original CD rear tray scan cropped to remove side spines. Small text and wear retain source limitations."
+    },
+    "discs": [
+      {
+        "id": "thank-u-next-vinyl",
+        "kind": "vinyl",
+        "label": "Vinyl · black, side 1",
+        "path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-vinyl-final.webp",
+        "source": "https://www.urbanoutfitters.com/en-gb/shop/ariana-grande-thank-u-next-lp",
+        "download": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0550434962525_000_d?$xlarge$=&fit=constrain&qlt=95&wid=1600",
+        "reference_path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-vinyl-uo-source.jpg",
+        "method": "reference-reconstruction",
+        "prompt": "Use case: precise-object-edit. Input image is a photographed close-up of the actual Taylor Swift 1989 ORIGINAL 2014 black vinyl side A center label (not Taylor's Version). Reconstruct exactly ONE complete black 12-inch vinyl record in a perpendicular flat top-down view on a truly transparent square background. Entire circular rim must fit with small equal margin. Center the small transparent spindle hole precisely. Black record has realistic fine concentric grooves and three track bands, clean diffuse studio illumination, no reflected photographer, no room/window reflections, no scratches or sleeve. The actual center label occupies approximately ONE THIRD of the whole record diameter and uses precisely the reference's pastel lavender sky, yellow/cream seagulls, hand-painted T.S. 1989 and side A text. Preserve this label's artwork, orientation, typography and track placement faithfully. Do not enlarge label to fill disc; the majority of diameter is BLACK VINYL GROOVES. No album sleeve, no artist portrait, no second record, no background, no cast shadow. This is a reference reconstruction; original label pixels will later be composited over the center for exact lettering.\n\nFOLLOW-UP SURFACE EDIT:\nPrecise object edit. Remove the ENTIRE large pastel printed paper label from the center of this black vinyl record and replace it with continuous plain BLACK vinyl/deadwax matching the existing black record material. There must be NO paper label, NO illustration, NO lettering, NO artwork anywhere on this output. I will composite an authentic photographed paper label separately afterward. Keep the complete black vinyl rim, realistic fine concentric grooves and three track band divisions. Flat top-down, perfectly centered circular shape, tiny centered transparent spindle hole and truly transparent background. Preserve the existing record diameter and equal margin; no shadow. High-quality clean diffuse material without camera/window reflections.",
+        "notes": "Complete black vinyl groove field is reconstructed; authentic photographed printed label pixels were perspective-corrected and composited at 212px diameter, with no generated lettering. The groove plate is shared with the other reconstructed black record; detailed groove positions are approximate. Retailer reference shows only a partial record, so the outer record geometry was completed using the black material plate; original pink side-1 printing is retained.",
+        "geometry": {
+          "size": [
+            648,
+            648
+          ],
+          "disc_diameter": 640,
+          "label_diameter": 212,
+          "hole_diameter": 16,
+          "center": [
+            324,
+            324
+          ]
+        },
+        "generated_original": "found-artwork/collection-expansion/taylor-ariana/black-vinyl-surface-generated.png"
+      },
+      {
+        "id": "thank-u-next-cd",
+        "kind": "cd",
+        "label": "CD · pink",
+        "path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-cd-final.webp",
+        "source": "https://musicbrainz.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/cover-art",
+        "download": "https://coverartarchive.org/release/f180cef1-c7b6-4933-92b9-d7292ad1f15c/22711650850-1200.jpg",
+        "reference_path": "found-artwork/collection-expansion/taylor-ariana/thank-u-next-cd-source.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Actual physical CD scan; PhotoCraft ellipse/spindle correction, circular alpha and centered 80px hole. Original photographed printing and ordinary surface highlights retained.",
+        "geometry": {
+          "size": [
+            648,
+            648
+          ],
+          "disc_diameter": 640,
+          "hole_diameter": 80,
+          "center": [
+            324,
+            324
+          ]
+        }
+      }
+    ],
+    "assets": {
+      "front": "/static/covers/collection/thank-u-next.front.5fe7694045d4.webp",
+      "back": "/static/covers/collection/thank-u-next.back.b883713f8f34.webp",
+      "vinyl": "/static/discs/collection-thank-u-next-vinyl.ad050edc4ec3.webp",
+      "cd": "/static/discs/collection-thank-u-next-cd.e135d1e6a544.webp"
+    }
+  },
+  {
+    "id": "anti",
+    "title": "ANTI",
+    "artist": "Rihanna",
+    "uri": "spotify:album:4UlGauD7ROb3YbVOFMgW5u",
+    "release_date": "2016-01-28",
+    "songs": "Consideration\nJames Joint\nKiss It Better\nWork\nDesperado\nWoo\nNeeded Me\nYeah, I Said It\nSame Ol’ Mistakes\nNever Ending\nLove On The Brain\nHigher\nClose To You\nGoodnight Gotham\nPose\nSex With Me",
+    "tracks": [
+      {
+        "name": "Consideration",
+        "uri": "spotify:track:6t90Z9XkdsHD8xMxro6KRP",
+        "artists": "Rihanna, SZA"
+      },
+      {
+        "name": "James Joint",
+        "uri": "spotify:track:6K4Co1NQyOnoFEJMkZHkln",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Kiss It Better",
+        "uri": "spotify:track:0UHB9METy4VCXNgkcGqHqS",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Work",
+        "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+        "artists": "Rihanna, Drake"
+      },
+      {
+        "name": "Desperado",
+        "uri": "spotify:track:4mCf3vQf7z0Yseo0RxAi3V",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Woo",
+        "uri": "spotify:track:3HQcsqRjRdruUjkbDSgmVF",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Needed Me",
+        "uri": "spotify:track:4pAl7FkDMNBsjykPXo91B3",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Yeah, I Said It",
+        "uri": "spotify:track:7eDYNlBwRMeFOZHOZ95dZ1",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Same Ol’ Mistakes",
+        "uri": "spotify:track:6RtzmszGXs32TRhv5zTKNM",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Never Ending",
+        "uri": "spotify:track:7Jd5LgnSRQElW6FsTWVPzE",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Love On The Brain",
+        "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Higher",
+        "uri": "spotify:track:1KnJwhZU3DIBe54Q4HPpIl",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Close To You",
+        "uri": "spotify:track:6D2tzc8kRnZb7P1lNwMBLH",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Goodnight Gotham",
+        "uri": "spotify:track:5LJz7kmFhLqB53tmVWxig5",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Pose",
+        "uri": "spotify:track:4UTizOdGljPIIbXtoXycAd",
+        "artists": "Rihanna"
+      },
+      {
+        "name": "Sex With Me",
+        "uri": "spotify:track:7BiELrM90hRxpozaIXbsLw",
+        "artists": "Rihanna"
+      }
+    ],
+    "metadata_sources": [
+      "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u",
+      "https://www.rihannanow.com/music/anti/"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/rihanna-beyonce/anti-front.webp",
+      "source": {
+        "release_page": "https://www.discogs.com/release/20978806",
+        "image_url": "https://i.discogs.com/8yuaLQqF46ty5cP3gtE6PaxVuDtq0nf9f5E9HnOB3Bk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTA0/MDYtODIxNS5qcGVn.jpeg"
+      },
+      "method": "Original physical sleeve photograph retained and converted with PhotoCraft; no generated imagery.",
+      "notes": "Small native scan resolution and lighting/embossing retained; no AI relettering."
+    },
+    "back": {
+      "path": "found-artwork/collection-expansion/rihanna-beyonce/anti-back.webp",
+      "source": {
+        "release_page": "https://www.discogs.com/release/20978806",
+        "image_url": "https://i.discogs.com/IiAXRrrv7MkPL1TM3-2vhS0Ocr2X8NPg2onq6SrLdSg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzY5MTMy/MjAtNjY0MS5qcGVn.jpeg"
+      },
+      "method": "Original physical sleeve photograph retained and converted with PhotoCraft; no generated imagery.",
+      "notes": "Small native scan resolution and lighting/embossing retained; no AI relettering."
+    },
+    "notes": "Spotify playback uses the 16-track Deluxe album; sorting uses the original ANTI album release date Jan 28, 2016, rather than the Deluxe Jan 29 date or vinyl repress date.",
+    "discs": [
+      {
+        "id": "anti-vinyl-collection-v1",
+        "kind": "vinyl",
+        "label": "Red vinyl",
+        "path": "found-artwork/collection-expansion/rihanna-beyonce/anti-vinyl.webp",
+        "source": {
+          "release_page": "https://www.discogs.com/release/20978806",
+          "image_url": "https://i.discogs.com/XXtZnm2xn60db8XxEBMhHs6TQ5HgV6pH2KNYjvsXuog/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc4/ODA2LTE2MzcyNzgz/MjQtODg0Ny5qcGVn.jpeg"
+        },
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Actual red opaque 2021 RIH-ISSUE pressing, side A. Original printed cream label and photographed disc surface retained; sleeve/background removed. No generated image.",
+        "processing": "PhotoCraft measured ellipse normalization, circle-preserving spindle alignment, opaque 640px circular annulus, centered transparent 16px aperture, centered 648px RGBA lossless WebP with 4px transparent margin.",
+        "reference_path": "found-artwork/collection-expansion/rihanna-beyonce/anti-discogs-3.jpg"
+      },
+      {
+        "id": "anti-cd-collection-v1",
+        "kind": "cd",
+        "label": "CD",
+        "path": "found-artwork/collection-expansion/rihanna-beyonce/anti-cd.webp",
+        "source": {
+          "release_page": "https://musicbrainz.org/release/a0f89482-f6ea-4f74-a75c-ebce6b8bd3d5",
+          "image_url": "https://coverartarchive.org/release/a0f89482-f6ea-4f74-a75c-ebce6b8bd3d5/24278005176.jpg"
+        },
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Actual white ANTI CD scan. Original printed face, lettering, reflective rim and plastic hub retained. No generated image.",
+        "processing": "PhotoCraft measured ellipse normalization, circle-preserving spindle alignment, opaque 640px circular annulus, centered transparent 80px aperture, centered 648px RGBA lossless WebP with 4px transparent margin.",
+        "reference_path": "found-artwork/collection-expansion/rihanna-beyonce/anti-cd-24278005176.jpg"
+      }
+    ],
+    "assets": {
+      "front": "/static/covers/collection/anti.front.362513cc85d9.webp",
+      "back": "/static/covers/collection/anti.back.95c37cc589d0.webp",
+      "vinyl": "/static/discs/collection-anti-vinyl.becbddb62038.webp",
+      "cd": "/static/discs/collection-anti-cd.27eaab54423a.webp"
+    }
+  },
+  {
+    "id": "beyonce",
+    "title": "BEYONCÉ",
+    "artist": "Beyoncé",
+    "uri": "spotify:album:5JSDDzvVmUX1axvnUH3ZJy",
+    "release_date": "2013-12-13",
+    "songs": "Pretty Hurts\nHaunted\nDrunk in Love (feat. Jay-Z)\nBlow\nNo Angel\nPartition\nJealous\nRocket\nMine (feat. Drake)\nXO\n***Flawless (feat. Chimamanda Ngozi Adichie)\nSuperpower (feat. Frank Ocean)\nHeaven\nBlue (feat. Blue Ivy)",
+    "tracks": [
+      {
+        "name": "Pretty Hurts",
+        "uri": "spotify:track:6itVTFZWfIA9J6XJaC1eMT",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Haunted",
+        "uri": "spotify:track:5WoW9FK7H6xDWRv3fjEShG",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Drunk in Love (feat. Jay-Z)",
+        "uri": "spotify:track:6AgchEnWSy5ZtnngvMFNhQ",
+        "artists": "Beyoncé, JAŸ-Z"
+      },
+      {
+        "name": "Blow",
+        "uri": "spotify:track:3TbpoThkVkjwmwf0BOnEFa",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "No Angel",
+        "uri": "spotify:track:4sEUuxVx5yRtcIPskD9G36",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Partition",
+        "uri": "spotify:track:1vtqJ1ttGuvG7sJmznFAH9",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Jealous",
+        "uri": "spotify:track:63DXuM8QogF1b3hi0tNG0i",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Rocket",
+        "uri": "spotify:track:3LqBEyhZyLm3XFiIikH8so",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Mine (feat. Drake)",
+        "uri": "spotify:track:6tsu70cKL5l04NjRDrOXXo",
+        "artists": "Beyoncé, Drake"
+      },
+      {
+        "name": "XO",
+        "uri": "spotify:track:0XeoUk4l1rbZTIBEYeVKPc",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "***Flawless (feat. Chimamanda Ngozi Adichie)",
+        "uri": "spotify:track:1BH3ULKpxyFO15uMwxmFym",
+        "artists": "Beyoncé, Chimamanda Ngozi Adichie"
+      },
+      {
+        "name": "Superpower (feat. Frank Ocean)",
+        "uri": "spotify:track:7r844FNOowBhcsnfHutnus",
+        "artists": "Beyoncé, Frank Ocean"
+      },
+      {
+        "name": "Heaven",
+        "uri": "spotify:track:6FSFFNF6RpNb4a9DjqeGp4",
+        "artists": "Beyoncé"
+      },
+      {
+        "name": "Blue (feat. Blue Ivy)",
+        "uri": "spotify:track:4qzJGKiVk7hqYwP2kHCOob",
+        "artists": "Beyoncé, Blue Ivy"
+      }
+    ],
+    "metadata_sources": [
+      "https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy",
+      "https://open.spotify.com/track/2BruZeV86mhihFs4wVuKSt"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/rihanna-beyonce/beyonce-front.webp",
+      "source": {
+        "release_page": "https://www.discogs.com/release/5890382",
+        "image_url": "https://i.discogs.com/-Tbb9bFJJ2x63iuAQc0NTaYpb0IUaC5O7ZBx48mSDhA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcyMzA5NzE1/NC05MDQ3LmpwZWc.jpeg"
+      },
+      "method": "Original physical sleeve photograph retained and converted with PhotoCraft; no generated imagery.",
+      "notes": "Small native scan resolution and lighting/embossing retained; no AI relettering."
+    },
+    "back": {
+      "path": "found-artwork/collection-expansion/rihanna-beyonce/beyonce-back.webp",
+      "source": {
+        "release_page": "https://www.discogs.com/release/5890382",
+        "image_url": "https://i.discogs.com/w_TlgGBKvcOyzv8gBpr8MsYBObjDe4jKwIN0y9-x-W4/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTUxNTAwMDgy/OS01MjIxLmpwZWc.jpeg"
+      },
+      "method": "Original physical sleeve photograph retained and converted with PhotoCraft; no generated imagery.",
+      "notes": "Small native scan resolution and lighting/embossing retained; no AI relettering."
+    },
+    "notes": "Original 14-track album; sorting uses Dec 13, 2013 rather than the later Spotify catalogue/reissue date.",
+    "discs": [
+      {
+        "id": "beyonce-vinyl-collection-v1",
+        "kind": "vinyl",
+        "label": "Black vinyl",
+        "path": "found-artwork/collection-expansion/rihanna-beyonce/beyonce-vinyl.webp",
+        "source": {
+          "release_page": "https://www.discogs.com/release/5890382",
+          "image_url": "https://i.discogs.com/JTd6SHBTNSYtPDW0nmMc2JeQtrOS6Bv9t23R70m2Kzk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTcwNDU1NTAy/OS00MTI3LmpwZWc.jpeg"
+        },
+        "method": "reference-reconstruction-original-label",
+        "prompt": "Use case: product-mockup. Asset type: album web app spinning vinyl asset. Reference image shows the actual black center label from Beyoncé self-titled 2014 12-inch vinyl, NOT the full vinyl disc. Create a physically accurate, perfectly face-on full 12-inch black vinyl record. Black glossy groove field with subtle natural concentric grooves and soft studio reflections, exactly round, evenly lit. Small black center label occupying only 33% of disc diameter; reference pink BEYONCÉ typography and layout on the label, but do not enlarge the label into the groove field. Centered tiny spindle hole 2.5% of outer diameter. Transparent background, no shadows outside rim. Disc fills 92% of square canvas with equal margins. Retain original black pressing appearance; no sleeve, packaging, other objects, tilted perspective, text outside label, or any human figure. Original printed label will be composited back after generation.",
+        "notes": "Full black groove field/rim reconstructed with built-in image_gen using the official vinyl side A label reference. The original photographed printed label is composited back at 240px diameter with PhotoCraft, retaining title, track lettering and surface texture. A 26px central hub region was filled near-black before the 16px hole to remove the photographed background/large aperture. Groove reflections are approximate; final is explicitly a reconstruction, not an authentic full-disc scan.",
+        "processing": "PhotoCraft measured ellipse normalization, circle-preserving spindle alignment, opaque 640px circular annulus, centered transparent 16px aperture, centered 648px RGBA lossless WebP with 4px transparent margin.",
+        "reference_path": "found-artwork/collection-expansion/rihanna-beyonce/beyonce-discogs-4.jpg"
+      },
+      {
+        "id": "beyonce-cd-collection-v1",
+        "kind": "cd",
+        "label": "CD",
+        "path": "found-artwork/collection-expansion/rihanna-beyonce/beyonce-cd.webp",
+        "source": {
+          "release_page": "https://musicbrainz.org/release/c1f288ba-6266-41f3-a9c3-fd3dbe2798ef",
+          "image_url": "https://coverartarchive.org/release/c1f288ba-6266-41f3-a9c3-fd3dbe2798ef/37516036127.png"
+        },
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Actual original black/pink BEYONCÉ CD scan. Original printed face, lettering, silver rim and plastic hub retained. No generated image.",
+        "processing": "PhotoCraft measured ellipse normalization, circle-preserving spindle alignment, opaque 640px circular annulus, centered transparent 80px aperture, centered 648px RGBA lossless WebP with 4px transparent margin.",
+        "reference_path": "found-artwork/collection-expansion/rihanna-beyonce/beyonce-cd-37516036127.jpg"
+      }
+    ],
+    "assets": {
+      "front": "/static/covers/collection/beyonce.front.f5274d86f956.webp",
+      "back": "/static/covers/collection/beyonce.back.49d5dc57b8bf.webp",
+      "vinyl": "/static/discs/collection-beyonce-vinyl.0c2b299b9166.webp",
+      "cd": "/static/discs/collection-beyonce-cd.393be8cc3547.webp"
+    }
+  },
+  {
+    "id": "the-slow-rush",
+    "title": "The Slow Rush",
+    "artist": "Tame Impala",
+    "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
+    "release_date": "2020-02-14",
+    "songs": [
+      "One More Year",
+      "Instant Destiny",
+      "Borderline",
+      "Posthumous Forgiveness",
+      "Breathe Deeper",
+      "Tomorrow's Dust",
+      "On Track",
+      "Lost In Yesterday",
+      "Is It True",
+      "It Might Be Time",
+      "Glimmer",
+      "One More Hour"
+    ],
+    "metadata_sources": [
+      "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL",
+      "https://interscope.com/products/the-slow-rush-2lp"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/tame-rks/slow-rush-front.webp",
+      "source": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+      "method": "PhotoCraft lossily optimized official Spotify front artwork",
+      "notes": ""
+    },
+    "discs": [
+      {
+        "id": "slow-rush-red-vinyl",
+        "kind": "vinyl",
+        "label": "Red vinyl · Side A",
+        "path": "found-artwork/collection-expansion/tame-rks/slow-rush-vinyl.webp",
+        "source": "https://eu.rarevinyl.com/de/products/tame-impala-the-slow-rush-red-and-blue-vinyl-plus-bonus-7-plus-shrink-uk-2-lp-vinyl-record-double-0846007-810213",
+        "method": "PhotoCraft ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Actual red vinyl pressing with blue side-A label; source surface marks and subtle edge reflections retained. No generated content.",
+        "prompt": null
+      },
+      {
+        "id": "slow-rush-red-cd",
+        "kind": "cd",
+        "label": "CD",
+        "path": "found-artwork/collection-expansion/tame-rks/slow-rush-cd.webp",
+        "source": "https://coverartarchive.org/release/452ccdb4-d6f5-4ac2-9eea-3eb2df8e5bb6/27821463908.jpg",
+        "method": "PhotoCraft ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Genuine Japanese CD scan. Complete printed design and clear/white hub pixels retained around normalized80px hole. No generated content.",
+        "prompt": null
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/tame-rks/slow-rush-back.webp",
+      "source": "https://coverartarchive.org/release/1cf564b9-4e24-4362-89fb-1aa702ff60f2/46047919208.jpg",
+      "method": "PhotoCraft optimized original CD back scan",
+      "notes": "Physical rectangular CD back artwork retained without inventing square edges."
+    },
+    "assets": {
+      "front": "/static/covers/collection/the-slow-rush.front.b1f54bdc8553.webp",
+      "back": "/static/covers/collection/the-slow-rush.back.64c60fcb3a76.webp",
+      "vinyl": "/static/discs/collection-the-slow-rush-vinyl.41b0bb71f533.webp",
+      "cd": "/static/discs/collection-the-slow-rush-cd.cd5f52f67319.webp"
+    }
+  },
+  {
+    "id": "how-to-friend-love-freefall",
+    "title": "How to: Friend, Love, Freefall",
+    "artist": "Rainbow Kitten Surprise",
+    "uri": "spotify:album:7vXiklrUeffx5o2F8VYwm3",
+    "release_date": "2018-04-06",
+    "songs": [
+      "Pacific Love",
+      "Mission to Mars",
+      "Fever Pitch",
+      "It's Called: Freefall",
+      "Holy War",
+      "Matchbox",
+      "Moody Orange",
+      "Hide",
+      "When It Lands",
+      "Painkillers",
+      "Recktify",
+      "Possum Queen",
+      "Polite Company"
+    ],
+    "metadata_sources": [
+      "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3",
+      "https://shop.rksband.com/products/how-to-friend-love-freefall-lp"
+    ],
+    "front": {
+      "path": "found-artwork/collection-expansion/tame-rks/freefall-front.webp",
+      "source": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2739529217e48fc8bab89c8a1f9",
+      "method": "PhotoCraft lossily optimized official Spotify front artwork",
+      "notes": ""
+    },
+    "discs": [
+      {
+        "id": "freefall-purple-vinyl",
+        "kind": "vinyl",
+        "label": "Purple vinyl · Side B",
+        "path": "found-artwork/collection-expansion/tame-rks/freefall-vinyl.webp",
+        "source": "https://www.turntablelab.com/products/rainbow-kitten-surprise-how-to-friend-love-freefall-indie-exclusive-colored-vinyl-vinyl-lp",
+        "method": "PhotoCraft projective ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Complete foreground purple LP extracted from retailer photo. Corrected oblique perspective using measured outer ellipse and actual spindle, preserving all original label/surface pixels. Photographic lighting highlights retained. This is sideB as printed; no generated content.",
+        "prompt": null
+      },
+      {
+        "id": "freefall-cd",
+        "kind": "cd",
+        "label": "CD",
+        "path": "found-artwork/collection-expansion/tame-rks/freefall-cd.webp",
+        "source": "https://www.discogs.com/release/11859663-Rainbow-Kitten-Surprise-How-To-Friend-Love-Freefall",
+        "method": "PhotoCraft ellipse/spindle rectification and circular alpha cutout",
+        "notes": "Actual full CD photograph from original European2018 release image index2. Some original lighting/scan texture retained; printed Jupiter artwork preserved. No generated content.",
+        "prompt": null
+      }
+    ],
+    "back": {
+      "path": "found-artwork/collection-expansion/tame-rks/freefall-back.webp",
+      "source": "https://www.discogs.com/release/11825457-Rainbow-Kitten-Surprise-How-To-Friend-Love-Freefall",
+      "method": "PhotoCraft optimized original vinyl back scan",
+      "notes": "Clean full physical LP rear artwork, image index1 from Discogs original2018 vinyl release."
+    },
+    "assets": {
+      "front": "/static/covers/collection/how-to-friend-love-freefall.front.447231df35bb.webp",
+      "back": "/static/covers/collection/how-to-friend-love-freefall.back.b5391c2bc86d.webp",
+      "vinyl": "/static/discs/collection-how-to-friend-love-freefall-vinyl.12ff0fc08bc4.webp",
+      "cd": "/static/discs/collection-how-to-friend-love-freefall-cd.0328d5da7c53.webp"
+    }
+  },
+  {
+    "id": "harry-kiss-all-the-time-2026",
+    "title": "Kiss All The Time. Disco, Occasionally.",
+    "artist": "Harry Styles",
+    "uri": "spotify:album:69BqE1V8Bzb9GCyeP1fFeR",
+    "discs": [
+      {
+        "id": "expansion-harry-2026-vinyl-blue",
+        "kind": "vinyl",
+        "label": "Vinyl · Blue",
+        "path": "found-artwork/collection-expansion/harry-olivia/harry-vinyl-final.webp",
+        "source": "https://musicbrainz.org/release/40c1cead-0993-4d0e-b8c4-30c92c224bc5/cover-art",
+        "reference": "found-artwork/collection-expansion/harry-olivia/harry-vinyl.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original Cover Art Archive side A scan, image 44668922556. Blue pressing; original printed label and photographic surface retained. Mild native photographed sheen. Source 597×600.",
+        "sha256": "70e29afd0c946ac16649b905ba7f9448d2469b1d4e284bdbebe8ed553ee1e7b3"
+      },
+      {
+        "id": "expansion-harry-2026-cd-silver",
+        "kind": "cd",
+        "label": "CD · Silver",
+        "path": "found-artwork/collection-expansion/harry-olivia/harry-cd-final.webp",
+        "source": "https://www.discogs.com/release/36690721",
+        "reference": "found-artwork/collection-expansion/harry-olivia/harry-discogs-cd-uri.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original complete 600×600 CD scan, Discogs image index 2. Silver surface, printing, matrix ring, and rainbow reflections retained.",
+        "sha256": "19c73dfd1bbee9672887109800338e9b6c75f41d1f79fc89e759b1a6f7bb5aba"
+      }
+    ],
+    "assets": {
+      "vinyl": "/static/discs/collection-harry-kiss-all-the-time-2026-vinyl.70e29afd0c94.webp",
+      "cd": "/static/discs/collection-harry-kiss-all-the-time-2026-cd.19c73dfd1bbe.webp"
+    }
+  },
+  {
+    "id": "olivia-you-seem-pretty-sad-2026",
+    "title": "you seem pretty sad for a girl so in love",
+    "artist": "Olivia Rodrigo",
+    "uri": "spotify:album:3WZZF72ihlKPZBS4zSsNHl",
+    "discs": [
+      {
+        "id": "expansion-olivia-2026-vinyl-white",
+        "kind": "vinyl",
+        "label": "Vinyl · Hope Like Snow",
+        "path": "found-artwork/collection-expansion/harry-olivia/olivia-vinyl-final.webp",
+        "source": "https://flashback.co.uk/products/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-397621",
+        "reference": "found-artwork/collection-expansion/harry-olivia/olivia-vinyl.jpg",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original full-disc retailer photo of Hope Like Snow white indie-exclusive pressing, side one. All printed label pixels retained; source 595×600.",
+        "sha256": "338152d1e06a359db8b998c7a6d2945aee28e4943a2356413017109767a7b5eb"
+      },
+      {
+        "id": "expansion-olivia-2026-cd-floral",
+        "kind": "cd",
+        "label": "CD · Floral",
+        "path": "found-artwork/collection-expansion/harry-olivia/olivia-cd-final.webp",
+        "source": "https://store.oliviarodrigo.com/products/you-seem-pretty-sad-for-a-girl-so-in-love-exclusive-cd",
+        "reference": "found-artwork/collection-expansion/harry-olivia/olivia-exclusive-cd-product-0.png",
+        "method": "photocraft-cutout",
+        "prompt": null,
+        "notes": "Original fully visible floral CD from official store exclusive CD product packshot. Native disc diameter about 333px; upscaled, so fine detail is source-limited. Dark backing removes partly transparent source rim pixels. No generated printing.",
+        "sha256": "e9c0d55654bb34e946584c0ebdfeb665f65e92f5565275a46a91ac1da1adf281"
+      }
+    ],
+    "assets": {
+      "vinyl": "/static/discs/collection-olivia-you-seem-pretty-sad-2026-vinyl.338152d1e06a.webp",
+      "cd": "/static/discs/collection-olivia-you-seem-pretty-sad-2026-cd.e9c0d55654bb.webp"
+    }
+  }
+]

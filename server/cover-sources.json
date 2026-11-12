@@ -1,0 +1,174 @@
+{
+  "discover-weekly": {
+    "front": "discover weekly.jpg"
+  },
+  "2021-discover-yearly": {
+    "front": "discover yearly 21.png"
+  },
+  "dang": {
+    "front": "dang.png"
+  },
+  "g-songs": {
+    "front": "g songs.png"
+  },
+  "80s-hits": {
+    "front": "80s.png"
+  },
+  "party-hits-2000": {
+    "front": "party 2000.png"
+  },
+  "party-hits-2010": {
+    "front": "party 2010.png"
+  },
+  "glory-sound-prep": {
+    "front": "done/gsp.webp",
+    "back": "done/gsp songlist.jpg"
+  },
+  "the-human-condition": {
+    "front": "done/human condition.jpeg",
+    "back": "done/human condition songlist.jpeg"
+  },
+  "the-story-of-us-quinn": {
+    "front": "done/the story of us.jpg",
+    "back": "done/The story of us trck list1.jpeg"
+  },
+  "a-letter-to-my-younger-self-quinn": {
+    "front": "done/a letter to my younger self.jpeg",
+    "back": "done/A letter to my younger self track list.jpeg"
+  },
+  "1984": {
+    "front": "done/1984.jpg",
+    "back": "done/1984 tracklist.jpg"
+  },
+  "van-halen-album": {
+    "front": "done/van halen.jpeg",
+    "back": "done/Van Halen track list.jpg"
+  },
+  "michael-jackson": {
+    "front": "done/michael jackson.jpg",
+    "back": "done/Michael Jackson tracklist.webp"
+  },
+  "beerbongs-and-bentleys": {
+    "front": "done/Beerbongs and bentleys.jpeg",
+    "back": "done/Beerbongs and bentleys songlist.jpeg"
+  },
+  "hollywood-s-bleeding": {
+    "front": "done/Hollywood's bleeding.webp",
+    "back": "done/Hollywood's bleeding song list.jpeg"
+  },
+  "sheryl-crow-tuesday-night-music-club": {
+    "front": "done/tuesday night music club.png"
+  },
+  "seal": {
+    "front": "done/seal.png",
+    "back": "done/seal track list.jpeg"
+  },
+  "funhouse": {
+    "front": "done/funhouse.jpg",
+    "back": "done/funhouse tracklist.jpg"
+  },
+  "the-end-black-eyed-peas": {
+    "front": "done/the end.webp",
+    "back": "done/the end tracklist.jpeg"
+  },
+  "the-off-season": {
+    "front": "done/the off season.webp",
+    "back": "done/the off season tracklist.jpg"
+  },
+  "4-your-eyes-only": {
+    "front": "done/4 your eyez only.jpg",
+    "back": "done/4 your eyez only tracklist.jpeg"
+  },
+  "forest-hill-drive": {
+    "front": "done/forest hill drive.webp",
+    "back": "done/forest hill drive tracklist.jpeg"
+  },
+  "planet-her": {
+    "front": "done/planet her.jpg",
+    "back": "done/planet her tracklist.jpeg"
+  },
+  "purpose": {
+    "front": "done/purpose.webp",
+    "back": "done/purpose tracklist.jpg"
+  },
+  "flume": {
+    "front": "done/flume.jpeg",
+    "back": "done/flume tracklist.jpeg"
+  },
+  "back-in-black": {
+    "front": "done/back in black.jpeg",
+    "back": "done/back in black tracklist.jpg"
+  },
+  "after-hours": {
+    "front": "done/after hours.webp",
+    "back": "done/after hours tracklist.jpg"
+  },
+  "kids": {
+    "front": "done/kids.jpg",
+    "back": "done/kids tracklist.jpg"
+  },
+  "swimming": {
+    "front": "done/swimming.png",
+    "back": "done/swimming tracklist.jpg"
+  },
+  "blonde": {
+    "front": "done/blonde.jpeg",
+    "back": "done/blond tracklist.jpeg"
+  },
+  "life-of-pablo": {
+    "front": "done/life of pablo.webp",
+    "back": "done/life of pablo tracklist.webp"
+  },
+  "jesus-is-king": {
+    "front": "done/jesus is king.jpeg",
+    "back": "done/jesus is king tracklist.png"
+  },
+  "teenage-dream": {
+    "front": "done/teenage dream.jpeg",
+    "back": "done/teenage dream tracklist.jpg"
+  },
+  "the-game": {
+    "front": "done/the game.jpeg",
+    "back": "done/the game track list.jpeg"
+  },
+  "californication": {
+    "front": "done/californication.jpeg",
+    "back": "done/californication tracklist.jpeg"
+  },
+  "american-teen": {
+    "front": "done/american teen.jpg",
+    "back": "done/american teen tracklist.jpeg"
+  },
+  "dreamland": {
+    "front": "done/dreamland.webp",
+    "back": "done/dreamland tracklist.jpg"
+  },
+  "curtain-call": {
+    "front": "done/curtain call.jpg",
+    "back": "done/curatin call tracklist.jpg"
+  },
+  "future-nostalgia": {
+    "front": "done/future nostalgia.webp",
+    "back": "done/future nostalgia tracklist.jpg"
+  },
+  "death-of-a-bachelor": {
+    "front": "done/death of a bachelor.jpeg",
+    "back": "done/death of a bachelor trakclist.jpg"
+  },
+  "everybody": {
+    "front": "done/everybody.jpeg",
+    "back": "done/everybody tracklist.jpg"
+  },
+  "sour": {
+    "front": "done/sour.webp",
+    "back": "done/sour tracklist.jpg"
+  },
+  "woodstock": {
+    "front": "done/woodstock.jpeg",
+    "back": "done/woodstock tracklist.jpg"
+  },
+  "fine-line": {
+    "front": "done/fine line.jpeg",
+    "back": "done/fine line tracklist.jpeg"
+  }
+}

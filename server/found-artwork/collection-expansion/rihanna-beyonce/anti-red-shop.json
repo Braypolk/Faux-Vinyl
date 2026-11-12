@@ -1,0 +1,104 @@
+{
+  "id": 15010265366896,
+  "title": "Rihanna - Anti Limited Edition Translucent Red (2LP)",
+  "handle": "rihanna-anti-limited-edition-translucent-red-2lp",
+  "description": "<p>Tracklist<br>Disc 1 <br>Side A<br>1. Consideration<br>2. James Joint<br>3. Kiss It Better<br>4. Work<br>Side B<br>1. Desperado<br>2. Woo<br>3. Needed Me<br>4. Yeah, I Said It<br>Disc 2<br>Side C<br>1. Same Ol Mistakes<br>2. Never Ending<br>3. Love On The Brain<br>Side D<br>1. Higher<br>2. Close To You<br>3. Goodnight Gotham<br>4. Pose<br>5. Sex With Me</p>\n<p>Please note that each vinyl is unique and the colors may appear slightly different from the image displayed.</p>",
+  "published_at": "2026-01-28T14:18:54-05:00",
+  "created_at": "2026-01-26T12:17:58-05:00",
+  "vendor": "Def Jam | Official Store",
+  "type": "2LP",
+  "tags": [
+    "4.6restock",
+    "all",
+    "cat: rihanna",
+    "Collective_Rihanna",
+    "color lp",
+    "Complex_Collective",
+    "DFJAM-00123",
+    "july-4th-sale-26",
+    "ldw-sale-26",
+    "LP",
+    "mdw26",
+    "Music",
+    "music-product",
+    "nvrd26",
+    "Shopify Collective",
+    "Vinyl",
+    "wh_cycle_count"
+  ],
+  "price": 3998,
+  "price_min": 3998,
+  "price_max": 3998,
+  "available": false,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53208749605232,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "00199957263740",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "name": "Rihanna - Anti Limited Edition Translucent Red (2LP)",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 3998,
+      "weight": 630,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "00199957263740",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1978/6859/files/Anti_packshotlayers.png?v=1769456853"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1978/6859/files/Anti_packshotlayers.png?v=1769456853",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/rihanna-anti-limited-edition-translucent-red-2lp",
+  "media": [
+    {
+      "alt": "Anti Opaque Red Limited Edition 2LP",
+      "id": 56194453438832,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "width": 1000,
+        "src": "https://cdn.shopify.com/s/files/1/1978/6859/files/Anti_packshotlayers.png?v=1769456853"
+      },
+      "aspect_ratio": 1.0,
+      "height": 1000,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1978/6859/files/Anti_packshotlayers.png?v=1769456853",
+      "width": 1000
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

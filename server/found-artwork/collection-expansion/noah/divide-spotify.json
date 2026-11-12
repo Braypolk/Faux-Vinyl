@@ -1,0 +1,422 @@
+{
+  "type": "album",
+  "name": "The Great Divide",
+  "uri": "spotify:album:2fnkyn9EybagIoFJ7a13oz",
+  "id": "2fnkyn9EybagIoFJ7a13oz",
+  "title": "The Great Divide",
+  "subtitle": "Noah Kahan",
+  "isPreRelease": false,
+  "releaseDate": {
+    "isoString": "2026-04-24T04:00:00Z"
+  },
+  "duration": 0,
+  "isPlayable": true,
+  "playabilityReason": "PLAYABLE",
+  "isExplicit": false,
+  "hasVideo": false,
+  "relatedEntityUri": "spotify:album:2fnkyn9EybagIoFJ7a13oz",
+  "trackList": [
+    {
+      "uri": "spotify:track:4fEUmNN8KK5sNqvKjBstKg",
+      "uid": "503a3e844a7b47e84f78",
+      "title": "End of August",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 317232,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/195daaffa88993b765cff93ee9345390435352b9"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3iU2qsthCTo5EeTE03l3Si",
+      "uid": "25c1e8e6305c880f327d",
+      "title": "Doors",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 231086,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/0f730628dbcee974aefe883578d0aa74b06febf7"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3WRgRy12YW4I9mjodKXWwy",
+      "uid": "8af6ccef39a120a9611b",
+      "title": "American Cars",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 272084,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/e6bf21de42fef012f6c9b6e00a02c055ec6890e6"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:5tGnphp8D9Doa2ZULhJSMx",
+      "uid": "f342e7003a2e54f6cae1",
+      "title": "Downfall",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 255521,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/e082629ba5f9dd47cc927a65f4dd2dc42305f6a6"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:7mOe6qQYMq1MCzJcifwPu4",
+      "uid": "9df117e8fdb53d5d6972",
+      "title": "Paid Time Off",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 227159,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/b4bd537faf51e79665675e0b35d57194e1d81d9c"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4ck9vo0gEmjVHWUb5q2rYe",
+      "uid": "a749b27b326950e55f4d",
+      "title": "The Great Divide",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 317961,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/d6dd4dc5b10db13bb4702b25c9d5cae507a2186f"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4rECUI03C2RMqr5GYvqjlJ",
+      "uid": "5d23d4edb5d39ff64aba",
+      "title": "Haircut",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 289513,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/976361c5a946c5aa6ed3833951cb5336a0918673"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6pk6E0SZxILzfaAGFngxEs",
+      "uid": "ca4f134779a3ce45b3e4",
+      "title": "Willing and Able",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 297262,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/8eb49268d9af885663b11806463604ce5bd86bc2"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6rlU0kRQNjMZ7t5I92yCIi",
+      "uid": "d8b1e789959cad020304",
+      "title": "Dashboard",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 230787,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/4e9e523cb510fce24eb214d5f469d2feb90da14d"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3EnTGnmNu1TDEcpbbTajuo",
+      "uid": "8f211c456ec15d23321d",
+      "title": "23",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 281404,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/9d3bfdc4acabf2197f54e18bf4a4e8a590aa0e12"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:7N3d1hsZZpmmnovfAtnVFU",
+      "uid": "4661e3c7b0c6c0166165",
+      "title": "Porch Light",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 262726,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/6ffdc61643fa41503bb1788b094457ca4a79c209"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:6OICC2Us0JVbUgGXFJJOzZ",
+      "uid": "df72f6227712189a35e8",
+      "title": "Deny Deny Deny",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 230689,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/5adb3c5e8f69f6aa8f12f60b3cd519cd1e6a67e4"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:18nzftpeT2fUyazRK3rDek",
+      "uid": "4da53cfacf9235f2b1ef",
+      "title": "Headed North",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 266785,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/abe825efafb1a49462acb422c56c4637fe5e5965"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0BCWfP8NXjwmINTW1MyMu1",
+      "uid": "82fe04af3fb0d9ed89c1",
+      "title": "We Go Way Back",
+      "subtitle": "Noah Kahan",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": []
+      },
+      "duration": 242578,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/61566ed26b25df50e1fe9086993959f87b01bb67"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:0Shd736f6A7tJxzCTUI69X",
+      "uid": "cbae8e70accb13e8ad3e",
+      "title": "Spoiled",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 306065,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/5d45535d8a4851a755280a26919d9750c06a9676"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:4y3VBhJPEztyRmNxfK3tZ5",
+      "uid": "dfddee4ab2650f8170b9",
+      "title": "All Them Horses",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 313653,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/37cde0711f5742bb6cda4e79913e00552c8d3c2c"
+      },
+      "entityType": "track"
+    },
+    {
+      "uri": "spotify:track:3x0J8f16jDLhOr4ohzoq9u",
+      "uid": "24d33d394f58a61cbf2c",
+      "title": "Dan",
+      "subtitle": "Noah Kahan",
+      "isExplicit": true,
+      "isNineteenPlus": false,
+      "contentRatings": {
+        "labels": [
+          "EXPLICIT"
+        ]
+      },
+      "duration": 305718,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "audioPreview": {
+        "format": "MP3_96",
+        "url": "https://p.scdn.co/mp3-preview/94e297f2d9c5fba9ae8302034cb13f7daafb7191"
+      },
+      "entityType": "track"
+    }
+  ],
+  "visualIdentity": {
+    "backgroundBase": {
+      "alpha": 255,
+      "blue": 31,
+      "green": 79,
+      "red": 103
+    },
+    "backgroundTintedBase": {
+      "alpha": 255,
+      "blue": 0,
+      "green": 46,
+      "red": 68
+    },
+    "textBase": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textBrightAccent": {
+      "alpha": 255,
+      "blue": 255,
+      "green": 255,
+      "red": 255
+    },
+    "textSubdued": {
+      "alpha": 255,
+      "blue": 152,
+      "green": 202,
+      "red": 229
+    },
+    "image": [
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02d879855b819250d3d00a1a38",
+        "maxHeight": 300,
+        "maxWidth": 300
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00004851d879855b819250d3d00a1a38",
+        "maxHeight": 64,
+        "maxWidth": 64
+      },
+      {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273d879855b819250d3d00a1a38",
+        "maxHeight": 640,
+        "maxWidth": 640
+      }
+    ]
+  }
+}

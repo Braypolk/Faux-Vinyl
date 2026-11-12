@@ -1,0 +1,112 @@
+/* Keep one artwork layout even when the selected album has no disc. */
+.sleeve-stage.has-disc-layout{display:grid;grid-template-columns:minmax(0,36fr) minmax(0,32fr) minmax(0,32fr);width:min(100%,440px);isolation:isolate}
+.has-disc-layout .sleeve{grid-area:1/1/2/3;width:100%;z-index:1}
+.has-disc-layout .sleeve-tools{grid-area:2/1/3/3;width:100%}
+.record-disc{position:relative;grid-area:1/2/2/4;align-self:center;width:100%;aspect-ratio:1;filter:drop-shadow(4px 12px 9px #30281f38);pointer-events:none}
+.record-disc-image{display:block;width:100%;height:100%;object-fit:contain;animation:record-disc-spin 6s linear infinite;animation-play-state:paused;transition:opacity .15s}
+.record-disc.is-loading .record-disc-image{opacity:0}
+.record-disc.is-spinning .record-disc-image{animation-play-state:running}
+@keyframes record-disc-spin{to{transform:rotate(360deg)}}
+.disc-choices{display:flex;flex-wrap:nowrap;gap:8px;min-height:42px;margin:-6px 0 22px;overflow-x:auto;scrollbar-width:none}
+.disc-choices::-webkit-scrollbar{display:none}
+/* Reserve the choice row without exposing absent controls to focus or AT. */
+.record-player:has(.has-disc-layout) .disc-choices[hidden]{display:flex!important;visibility:hidden}
+.disc-choice{display:flex;flex-shrink:0;align-items:center;gap:8px;min-height:42px;padding:5px 11px 5px 6px;background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:5px;font-size:11px;white-space:nowrap}
+.disc-choice img{width:30px;height:30px;object-fit:contain}
+.disc-choice:hover{background:#e9e4d8}
+.disc-choice[aria-pressed=true]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink);background:#e9e4d8}
+@media(min-width:801px){.record-player:has(.has-disc-layout){grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:40px}}
+@media(max-width:560px){.sleeve-stage.has-disc-layout{width:100%;max-width:420px}.disc-choices{min-height:44px;margin:0 0 18px}.disc-choice{min-height:44px}}
+/* The playing record remains a shortcut while another sleeve is selected. */
+header:has(.now-playing){position:relative}
+.now-playing{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:60px;height:60px;padding:4px;border:0;border-radius:50%;background:transparent;color:var(--ink);cursor:pointer}
+.now-playing:hover{background:#e9e4d8}
+.now-playing:focus-visible{outline:2px solid var(--orange);outline-offset:4px}
+.now-playing-art{display:block;width:52px;height:52px;filter:drop-shadow(0 2px 3px #30281f30);animation:record-disc-spin 6s linear infinite;animation-play-state:paused}
+.now-playing.is-spinning .now-playing-art{animation-play-state:running}
+.now-playing-art img{display:block;width:100%;height:100%;object-fit:contain}
+.now-playing-fallback{display:block;width:100%;height:100%;border-radius:50%;background:repeating-radial-gradient(circle,#30362b 0 2px,#464b3f 3px 4px);position:relative}
+.now-playing-fallback:after{content:'';position:absolute;inset:35%;border-radius:50%;background:var(--orange);border:5px solid #e87551;box-shadow:inset 0 0 0 4px var(--paper)}
+@media(max-width:650px){header:has(.now-playing){padding-bottom:91px}.now-playing{top:auto;bottom:7px;transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.record-disc-image,.now-playing-art{animation:none;transition:none}}
+
+/* Billie Eilish's hidden phosphorescent editions turn down the listening room lights. */
+.glow-word{position:fixed;z-index:1000;pointer-events:none;padding:8px 15px 10px;border:1px solid var(--line);border-radius:48% 54% 46% 52%/55% 48% 58% 45%;background:var(--ink);color:var(--paper);font-size:14px;font-weight:600;letter-spacing:.02em;line-height:1;box-shadow:0 4px 12px #0002;animation:glow-word-pop 1.2s ease-out both}
+@keyframes glow-word-pop{0%{opacity:0;transform:translate(-50%,-35%) scale(.65)}15%{opacity:1;transform:translate(-50%,-70%) scale(1.08)}30%{opacity:1;transform:translate(-50%,-85%) scale(1)}75%{opacity:1}100%{opacity:0;transform:translate(-50%,-165%) scale(.95)}}
+@media(prefers-reduced-motion:reduce){.glow-word{animation:glow-word-fade 1.2s ease-out both;transform:translate(-50%,-100%)}}
+@keyframes glow-word-fade{0%,75%{opacity:1}100%{opacity:0}}
+:root.glow-mode{color-scheme:dark;--paper:#0b110e;--ink:#e3efe5;--muted:#9aafa0;--line:#2b3b31;--orange:#b9f7a6;--green:#95d7ad}
+.glow-mode body{background:radial-gradient(ellipse at 30% 15%,#17291b 0,transparent 55%),var(--paper);background-attachment:fixed}
+.glow-mode .record-player{background:radial-gradient(ellipse at 25% 50%,#a0f79b0c 0,transparent 65%)}
+.glow-mode .intro,.glow-mode .selected-description,.glow-mode .stage-caption,.glow-mode .nfc-symbol{color:var(--muted)}
+.glow-mode input,.glow-mode select,.glow-mode .panel,.glow-mode .sleeve-face,.glow-mode .sleeve-loading,.glow-mode .sleeve-notes,.glow-mode .dialog-artwork{background:#152019;color:var(--ink);border-color:var(--line)}
+.glow-mode input::placeholder{color:var(--muted);opacity:1}
+.glow-mode .is-enhanced .crate-shell{background:linear-gradient(transparent,#a0f79b08)}
+.glow-mode .is-enhanced .shelf-edge{background:linear-gradient(#302c20,#1c1e17);box-shadow:inset 0 1px #64734c66,inset 0 -1px #070d09,0 4px 12px #0006}
+.glow-mode .sleeve-face{box-shadow:0 18px 24px -10px #0009,1px 1px 0 #e0f9dd19,-2px 0 0 #28382a}
+.glow-mode .browse-controls button{border-color:var(--line)}
+.glow-mode .disc-choice:hover,.glow-mode .disc-choice[aria-pressed=true],.glow-mode .now-playing:hover,.glow-mode .browse-controls button:hover{background:#243529}
+.glow-mode .selected-play:hover{background:#d1ffc2;border-color:#d1ffc2}
+.glow-mode .playback-feedback.is-error{color:#ffb6a2}
+.glow-mode .notice{background:#1e2b23;border-color:var(--line)}
+.glow-mode .notice.error{background:#39251f;border-color:#805448}
+.glow-mode .notice.success{background:#203524;border-color:#4e7655}
+.glow-mode .artwork-placeholder{background:linear-gradient(135deg,#26362b,#17231a)}
+.glow-mode .placeholder-label{color:var(--muted)}
+.record-disc.is-glowing{filter:drop-shadow(0 0 9px #adffae88) drop-shadow(0 0 28px #8fff9340)}
+/* Keep the aura's layout bounds inside the disc so mobile page width stays fixed. */
+.record-disc.is-glowing::before{content:'';position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle,#a4ffa334 15%,#91ff8c1f 45%,transparent 69%);filter:blur(14px);animation:disc-glow 5s ease-in-out infinite;pointer-events:none}
+.record-disc.is-glowing .record-disc-image{position:relative;filter:brightness(1.13) saturate(1.15)}
+/* Phosphorescent vinyl emits green light; its photographed black label stays dark. */
+.record-disc.is-glow-vinyl .record-disc-image,.is-glow-vinyl .now-playing-art img,.disc-choice.is-glowing.is-glow-vinyl img{clip-path:circle(48.5%);filter:sepia(.65) saturate(2.1) hue-rotate(42deg) brightness(1.12)}
+.disc-choice.is-glowing{color:var(--orange);border-color:var(--orange);box-shadow:inset 0 0 0 1px var(--orange),0 0 16px #a9ff9414}
+.disc-choice.is-glowing img{filter:drop-shadow(0 0 3px #adffae88)}
+.now-playing.is-glowing .now-playing-art{filter:drop-shadow(0 0 5px #adffaeaa) drop-shadow(0 0 13px #8fff9355)}
+@keyframes disc-glow{0%,100%{opacity:.55;transform:scale(.96)}50%{opacity:1;transform:scale(1.04)}}
+@media(prefers-reduced-motion:reduce){.record-disc.is-glowing::before{animation:none;opacity:.8}}
+
+/* Keep the entire shelf in the first phone viewport, with browsing tools below. */
+@media(min-width:801px){
+  .record-browser>.record-player{grid-row:1}
+  .record-browser>.shelf-toolbar{grid-row:2}
+  .record-browser>.arrange-toolbar{grid-row:3;grid-column:1/-1}
+  .record-browser>.crate-shell{grid-row:4}
+}
+@media(max-width:650px){
+  .shell:has(.record-browser){padding-inline:16px}
+  .shell:has(.record-browser)>header:has(.now-playing){display:grid;grid-template-columns:minmax(0,1fr) 40px minmax(0,1fr);gap:8px;align-items:center;min-height:68px;padding:12px 0;flex-wrap:nowrap}
+  .shell:has(.record-browser)>header .brand{grid-column:1;grid-row:1;font-size:19px;letter-spacing:-1px;white-space:nowrap}
+  .shell:has(.record-browser)>header .record-mark{width:16px;height:16px;border-width:4px;margin-right:8px;flex-shrink:0}
+  .shell:has(.record-browser)>header nav{grid-column:3;grid-row:1;justify-self:end;justify-content:flex-end;gap:10px;width:auto;font-size:11px;white-space:nowrap}
+  .shell:has(.record-browser)>header nav button{font-size:11px}
+  .shell:has(.record-browser) .now-playing{grid-column:2;grid-row:1;position:static;transform:none;width:40px;height:40px;padding:2px}
+  .shell:has(.record-browser) .now-playing-art{width:36px;height:36px}
+  main:has(.record-browser){padding-top:16px;padding-bottom:24px}
+  .record-browser{display:flex;flex-direction:column}
+  .record-player{grid-template-columns:minmax(0,1fr);gap:12px;padding:0 0 12px}
+  .sleeve-stage,.sleeve-stage.has-disc-layout{width:min(100%,clamp(160px,calc((100svh - 416px)/.68),420px));max-width:100%;margin-inline:auto}
+  .sleeve-tools{margin-top:8px;flex-wrap:nowrap}
+  .sleeve-tools button{min-height:32px}
+  .record-information{padding:0}
+  .selected-title{font-size:24px;letter-spacing:-.7px;margin-bottom:10px}
+  .disc-choices{min-height:44px;margin:0 0 10px}
+  .disc-choice{min-height:44px}
+  .selected-actions{gap:18px;flex-wrap:nowrap;min-height:44px}
+  .selected-play{min-height:44px;padding:10px 24px}
+  .selected-copy,.selected-actions .text-link{font-size:11px}
+  .playback-test-mode,.playback-feedback.is-playback-summary{display:none!important}
+  .playback-feedback{margin-top:10px}
+  .is-enhanced .collection{min-height:0;gap:1px;padding:16px 4px 6px}
+  .is-enhanced .album-artwork{height:clamp(56px,12svh,88px)}
+  .is-enhanced .shelf-edge{min-height:10px}
+  .shelf-toolbar{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:10px 12px;margin:16px 0 0}
+  .shelf-toolbar .shelf-filter{grid-column:1/-1;grid-row:1}
+  .shelf-toolbar input{width:100%;height:44px;font-size:16px;padding:10px 12px}
+  .shelf-toolbar .browse-controls{grid-column:1;grid-row:2;gap:8px}
+  .browse-controls button{width:44px;height:44px}
+  .shelf-sort{grid-column:2;grid-row:2}
+  .shelf-sort select{width:98px;min-height:44px;font-size:14px;padding:9px 10px}
+  .arrange-records{grid-column:3;grid-row:2;min-height:44px}
+  .order-feedback{grid-column:1/-1;grid-row:3}
+  .collection-management{margin-top:18px}
+}
