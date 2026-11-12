@@ -149,6 +149,9 @@ test('sleeve, controls and shelf stay fixed across albums with and without discs
         values.forEach((value, i) => assert.ok(Math.abs(value - samples[0].rects[selector][i]) < 1, width + 'px: ' + selector + ' moved/resized on ' + sample.title + ': ' + JSON.stringify(sample.rects[selector]) + ' vs ' + JSON.stringify(samples[0].rects[selector])));
       }
     }
+    const shelf = samples[0].rects['.crate-shell'];
+    const toolbar = samples[0].rects['.shelf-toolbar'];
+    assert.ok(toolbar[1] >= shelf[1] + shelf[3], width + 'px: search and browsing controls must sit below the shelf');
     assert.equal(playingHeader.hidden, false);
     assert.equal(playingHeader.before.height, playingHeader.after.height, 'starting playback must not resize the header');
     const {disc, after: header, others} = playingHeader;

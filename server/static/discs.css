@@ -65,12 +65,12 @@ header:has(.now-playing){position:relative}
 @keyframes disc-glow{0%,100%{opacity:.55;transform:scale(.96)}50%{opacity:1;transform:scale(1.04)}}
 @media(prefers-reduced-motion:reduce){.record-disc.is-glowing::before{animation:none;opacity:.8}}
 
-/* Keep the entire shelf in the first phone viewport, with browsing tools below. */
+/* Keep browsing tools below the shelf at every screen size. */
 @media(min-width:801px){
   .record-browser>.record-player{grid-row:1}
-  .record-browser>.shelf-toolbar{grid-row:2}
-  .record-browser>.arrange-toolbar{grid-row:3;grid-column:1/-1}
-  .record-browser>.crate-shell{grid-row:4}
+  .record-browser>.crate-shell{grid-row:2}
+  .record-browser>.shelf-toolbar{grid-row:3}
+  .record-browser>.arrange-toolbar{grid-row:4;grid-column:1/-1}
 }
 @media(max-width:650px){
   .shell:has(.record-browser){padding-inline:16px}
