@@ -13,13 +13,3 @@ for (const button of document.querySelectorAll('[data-copy]')) {
     }
   });
 }
-const play = document.querySelector('#autoplay');
-if (play && !document.querySelector('[data-record-browser]')) {
-  let submitted = false;
-  play.addEventListener('submit', (event) => {
-    if (submitted) { event.preventDefault(); return; }
-    submitted = true;
-    play.querySelector('button').disabled = true;
-  });
-  requestAnimationFrame(() => play.requestSubmit());
-}

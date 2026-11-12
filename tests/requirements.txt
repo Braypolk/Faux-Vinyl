@@ -1,0 +1,3 @@
+-r ../tools/artwork/requirements.txt
+-r ../tools/requirements.txt
+pytest

@@ -1,5 +1,6 @@
 {{define "head"}}
 <link rel="stylesheet" href="/static/shelf.css">
+<script defer src="/static/playback.js"></script>
 <script defer src="/static/shelf.js"></script>
 <link rel="stylesheet" href="/static/discs.css"><script defer src="/static/discs.js"></script>
 {{end}}
@@ -27,7 +28,7 @@
   <div class="crate-shell">
     <section class="collection" aria-label="Records on your shelf" tabindex="-1">
     {{range .Cards}}
-      <article class="album-card tone-{{.Tone}}" data-record-id="{{.ID}}" data-disc-key="{{.URI}}" data-disc-options="{{.Discs}}" data-title="{{.Title}}" data-search="{{.Title}} {{.Metadata.Artist}} {{.Metadata.Album}} {{.Metadata.Songs}}" data-kind="{{.Kind}}" data-catalogue="{{.Catalogue}}" data-front="{{.Front}}" data-back="{{.Back}}" data-front-candidates="{{.FrontSrcset}}" data-back-candidates="{{.BackSrcset}}" data-play="/c/{{.ID}}" data-edit="/cards/{{.ID}}/edit" data-nfc="{{$.PublicURL}}/c/{{.ID}}">
+      <article class="album-card tone-{{.Tone}}" data-record-id="{{.ID}}" data-disc-key="{{.URI}}" data-disc-options="{{.Discs}}" data-glow="{{.Glow}}" data-title="{{.Title}}" data-search="{{.Title}} {{.Metadata.Artist}} {{.Metadata.Album}} {{.Metadata.Songs}}" data-front="{{.Front}}" data-back="{{.Back}}" data-front-candidates="{{.FrontSrcset}}" data-back-candidates="{{.BackSrcset}}" data-play="/c/{{.ID}}" data-edit="/cards/{{.ID}}/edit" data-nfc="{{$.PublicURL}}/c/{{.ID}}">
         <a class="album-artwork" href="/cards/{{.ID}}/edit" aria-label="Edit {{.Title}}">
           {{if .Front}}<img src="{{.ShelfImage}}" srcset="{{.ShelfSrcset}}" sizes="(max-width: 560px) 118px, 154px" alt="{{.Title}} cover artwork" width="320" height="320" loading="eager" decoding="async">{{else}}<span class="artwork-placeholder" aria-hidden="true"><span class="placeholder-record"></span></span>{{end}}
         </a>

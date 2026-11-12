@@ -6,12 +6,12 @@ services:
     restart: unless-stopped
     env_file: .env
     environment:
-      PUBLIC_URL: https://vinyl.bray.dev
       DATA_DIR: /data
       GOMEMLIMIT: 96MiB
       GOGC: "50"
     volumes:
       - ./data:/data
+      - ./collection:/app/collection:ro
     ports:
       - 127.0.0.1:8787:8787
     mem_limit: 256m

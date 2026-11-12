@@ -14,8 +14,64 @@ import (
 )
 
 type ImageVariant struct {
-	URL   string `json:"url"`
-	Width int    `json:"width"`
+	URL   string
+	Width int
+}
+
+// Bundled images are discovered once at startup. Only existing sizes are used;
+// the optimizer can omit sizes that a particular display role does not need.
+func (a *App) loadBundledVariants() error {
+	sources := map[string]bool{}
+	for _, sides := range a.art {
+		for _, file := range sides {
+			sources["/static/"+file] = true
+		}
+	}
+	for _, options := range a.discs {
+		for _, option := range options {
+			sources[option.Image] = true
+		}
+	}
+	a.variants = make(map[string][]ImageVariant, len(sources))
+	for url := range sources {
+		base := "/static/optimized/" + filepath.Base(filepath.Dir(url)) + "-" + filepath.Base(url)
+		variants, err := discoverImageVariants(a.cfg.CollectionDir, url, base, []int{64, 160, 320, 640})
+		if err != nil {
+			return fmt.Errorf("bundled artwork %s: %w", url, err)
+		}
+		a.variants[url] = variants
+	}
+	return nil
+}
+
+func discoverImageVariants(root, url, base string, widths []int) ([]ImageVariant, error) {
+	f, err := os.Open(filepath.Join(root, strings.TrimPrefix(url, "/")))
+	if err != nil {
+		return nil, err
+	}
+	cfg, _, err := image.DecodeConfig(f)
+	f.Close()
+	if err != nil {
+		return nil, err
+	}
+	var variants []ImageVariant
+	for _, width := range widths {
+		if width >= cfg.Width {
+			continue
+		}
+		candidate := imageVariantName(base, width)
+		info, err := os.Stat(filepath.Join(root, strings.TrimPrefix(candidate, "/")))
+		if os.IsNotExist(err) {
+			continue
+		}
+		if err != nil {
+			return nil, err
+		}
+		if info.Mode().IsRegular() && info.Size() > 0 {
+			variants = append(variants, ImageVariant{candidate, width})
+		}
+	}
+	return append(variants, ImageVariant{url, cfg.Width}), nil
 }
 
 func variantSet(variants []ImageVariant, limit int) (string, string) {
@@ -42,25 +98,19 @@ func (a *App) imageVariants(url string) []ImageVariant {
 	if !uploadPattern.MatchString(name) {
 		return nil
 	}
-	var variants []ImageVariant
-	for _, width := range []int{160, 320, 640} {
-		file := uploadVariantName(name, width)
-		if _, err := os.Stat(filepath.Join(a.cfg.DataDir, "artwork", file)); err == nil {
-			variants = append(variants, ImageVariant{"/artwork/" + file, width})
-		}
+	if cached, ok := a.uploadVariants.Load(url); ok {
+		return cached.([]ImageVariant)
 	}
-	f, err := os.Open(filepath.Join(a.cfg.DataDir, "artwork", name))
-	if err == nil {
-		cfg, _, err := image.DecodeConfig(f)
-		f.Close()
-		if err == nil {
-			variants = append(variants, ImageVariant{url, cfg.Width})
-		}
+	variants, err := discoverImageVariants(a.cfg.DataDir, url, url, []int{160, 320, 640})
+	if err != nil {
+		return nil
 	}
-	return variants
+	// Upload names are content hashes; dimensions and derivatives are immutable.
+	cached, _ := a.uploadVariants.LoadOrStore(url, variants)
+	return cached.([]ImageVariant)
 }
 
-func uploadVariantName(name string, width int) string {
+func imageVariantName(name string, width int) string {
 	ext := filepath.Ext(name)
 	return strings.TrimSuffix(name, ext) + fmt.Sprintf("-w%d", width) + ext
 }
@@ -81,7 +131,7 @@ func prepareUploadVariants(dir, name string) error {
 		if width >= cfg.Width {
 			continue
 		}
-		file := filepath.Join(dir, uploadVariantName(name, width))
+		file := filepath.Join(dir, imageVariantName(name, width))
 		if _, err := os.Stat(file); err == nil {
 			continue
 		}

@@ -35,27 +35,6 @@ func (s *Store) metadata(uri string) (SearchMetadata, error) {
 	return m, e
 }
 
-func (s *Store) seedMetadata(data []byte) error {
-	var items map[string]SearchMetadata
-	if e := json.Unmarshal(data, &items); e != nil {
-		return e
-	}
-	tx, e := s.db.Begin()
-	if e != nil {
-		return e
-	}
-	defer tx.Rollback()
-	for uri, m := range items {
-		if !m.valid() {
-			return errors.New("Invalid bundled search details")
-		}
-		if _, e = tx.Exec("INSERT OR IGNORE INTO search_metadata(uri,artist,album,songs,checked_at) VALUES(?,?,?,?,?)", uri, m.Artist, m.Album, m.Songs, time.Now().Unix()); e != nil {
-			return e
-		}
-	}
-	return tx.Commit()
-}
-
 func (s *Store) cacheMetadata(uri string, m SearchMetadata, success bool) error {
 	if !success {
 		_, e := s.db.Exec(`INSERT INTO search_metadata(uri,artist,album,songs,checked_at) VALUES(?,'','','',?)
@@ -77,7 +56,7 @@ func (s *Store) metadataDue(uri string) bool {
 	if e != nil || custom != 0 {
 		return false
 	}
-	complete := artist != "" && album != "" && songs != ""
+	complete := artist != "" && songs != "" && (album != "" || strings.HasPrefix(uri, "spotify:track:"))
 	if complete && !strings.HasPrefix(uri, "spotify:playlist:") {
 		return false
 	}

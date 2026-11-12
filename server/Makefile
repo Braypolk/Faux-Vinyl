@@ -1,7 +1,7 @@
 DEV_ADDR ?= 127.0.0.1:18787
 BIN := .local/bin/fauxvinyl
 
-.PHONY: dev build test
+.PHONY: dev build test test-race
 
 build:
 	@mkdir -p .local/bin
@@ -11,5 +11,7 @@ dev: build
 	$(BIN) -dev -listen $(DEV_ADDR)
 
 test:
-	go test ./...
-	go vet ./...
+	$(MAKE) -C .. test
+
+test-race:
+	$(MAKE) -C .. test-race

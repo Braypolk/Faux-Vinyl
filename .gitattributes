@@ -7,5 +7,3 @@
 *.html text eol=lf
 *.json text eol=lf
 *.md text eol=lf
-server/nfc-writing/*.csv text eol=crlf
-server/nfc-writing/fauxvinyl-nfc-urls.txt text eol=crlf

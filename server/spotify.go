@@ -158,6 +158,7 @@ func (s *Spotify) PlaybackState() (PlaybackState, error) {
 			URI string `json:"uri"`
 		} `json:"context"`
 		Item struct {
+			URI   string `json:"uri"`
 			Album struct {
 				URI string `json:"uri"`
 			} `json:"album"`
@@ -166,7 +167,7 @@ func (s *Spotify) PlaybackState() (PlaybackState, error) {
 	if err := s.request("GET", "me/player", nil, &result); err != nil {
 		return PlaybackState{}, err
 	}
-	return PlaybackState{Playing: result.Playing, ContextURI: result.Context.URI, AlbumURI: result.Item.Album.URI}, nil
+	return PlaybackState{Playing: result.Playing, ContextURI: result.Context.URI, AlbumURI: result.Item.Album.URI, ItemURI: result.Item.URI}, nil
 }
 
 // Change transport on the current device without replacing its queue or position.
@@ -203,7 +204,7 @@ func (s *Spotify) SetPlaying(uri string, playing bool) error {
 	}
 	return s.request("PUT", "me/player/"+action+"?"+url.Values{"device_id": {current.Device.ID}}.Encode(), nil, nil)
 }
-func chooseDevice(ds []Device, pref string) (Device, error) {
+func chooseDevice(ds []Device, pref, priority string) (Device, error) {
 	if pref != "auto" {
 		for _, d := range ds {
 			if d.Name == pref || d.ID == pref {
@@ -217,7 +218,11 @@ func chooseDevice(ds []Device, pref string) (Device, error) {
 			return d, nil
 		}
 	}
-	for _, name := range []string{"Living Room TV", "Living Room"} {
+	for _, name := range strings.Split(priority, "\n") {
+		name = strings.TrimSpace(name)
+		if name == "" {
+			continue
+		}
 		for _, d := range ds {
 			if d.Name == name {
 				return d, nil
@@ -239,7 +244,8 @@ func (s *Spotify) Play(uri, pref string, shuffle bool) (string, string, error) {
 	if e != nil {
 		return "", "", e
 	}
-	d, e := chooseDevice(ds, pref)
+	priority, _ := s.store.setting("device_priority", "").(string)
+	d, e := chooseDevice(ds, pref, priority)
 	if e != nil {
 		return "", "", e
 	}

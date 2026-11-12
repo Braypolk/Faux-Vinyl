@@ -38,7 +38,7 @@ header:has(.now-playing){position:relative}
 :root.glow-mode{color-scheme:dark;--paper:#0b110e;--ink:#e3efe5;--muted:#9aafa0;--line:#2b3b31;--orange:#b9f7a6;--green:#95d7ad}
 .glow-mode body{background:radial-gradient(ellipse at 30% 15%,#17291b 0,transparent 55%),var(--paper);background-attachment:fixed}
 .glow-mode .record-player{background:radial-gradient(ellipse at 25% 50%,#a0f79b0c 0,transparent 65%)}
-.glow-mode .intro,.glow-mode .selected-description,.glow-mode .stage-caption,.glow-mode .nfc-symbol{color:var(--muted)}
+.glow-mode .intro{color:var(--muted)}
 .glow-mode input,.glow-mode select,.glow-mode .panel,.glow-mode .sleeve-face,.glow-mode .sleeve-loading,.glow-mode .sleeve-notes,.glow-mode .dialog-artwork{background:#152019;color:var(--ink);border-color:var(--line)}
 .glow-mode input::placeholder{color:var(--muted);opacity:1}
 .glow-mode .is-enhanced .crate-shell{background:linear-gradient(transparent,#a0f79b08)}
@@ -52,7 +52,7 @@ header:has(.now-playing){position:relative}
 .glow-mode .notice.error{background:#39251f;border-color:#805448}
 .glow-mode .notice.success{background:#203524;border-color:#4e7655}
 .glow-mode .artwork-placeholder{background:linear-gradient(135deg,#26362b,#17231a)}
-.glow-mode .placeholder-label{color:var(--muted)}
+
 .record-disc.is-glowing{filter:drop-shadow(0 0 9px #adffae88) drop-shadow(0 0 28px #8fff9340)}
 /* Keep the aura's layout bounds inside the disc so mobile page width stays fixed. */
 .record-disc.is-glowing::before{content:'';position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle,#a4ffa334 15%,#91ff8c1f 45%,transparent 69%);filter:blur(14px);animation:disc-glow 5s ease-in-out infinite;pointer-events:none}

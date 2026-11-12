@@ -51,6 +51,7 @@ type PlaybackState struct {
 	Playing    bool   `json:"is_playing"`
 	ContextURI string `json:"context_uri"`
 	AlbumURI   string `json:"album_uri"`
+	ItemURI    string `json:"item_uri"`
 }
 
 type playbackReader interface {

@@ -3,11 +3,15 @@
   const browser = document.querySelector('[data-record-browser]');
   if (!browser) return;
   const cards = [...browser.querySelectorAll('[data-record-id]')];
+  const playback = window.FauxVinylPlayback;
   const catalogue = new Map();
+  const effects = new Map();
   for (const card of cards) {
     try {
       const options = JSON.parse(card.dataset.discOptions || 'null');
       if (Array.isArray(options) && options.length) catalogue.set(card.dataset.discKey, options);
+      const effect = JSON.parse(card.dataset.glow || 'null');
+      if (effect?.variants) effects.set(card.dataset.discKey, effect);
     } catch { /* A missing catalogue never interferes with the shelf. */ }
   }
   const stage = browser.querySelector('.sleeve-stage');
@@ -19,17 +23,11 @@
   const images = new Map();
   const albumChoices = new Map();
   const choiceArtwork = new WeakMap();
-  const glowAlbum = 'spotify:album:0S0KGZnfBGSIssfF54WSJh';
-  const normalCD = '30664206604';
-  const glowCD = '30439409589';
-  const glowVariants = new Map([[normalCD, glowCD], ['30672682790', 'billie-glow-vinyl']]);
-  const hiddenVariants = new Set(glowVariants.values());
   let revealPresses = 0;
   let revealChoice = null;
-  let glowActive = null;
+  let glowActive = null; // {key, id}: one revealed edition owns the room theme.
   let wordBubble = null;
   let wordBubbleTimer;
-  const glowWords = ['where', 'do', 'we', 'go'];
   const glowStatus = document.createElement('span');
   glowStatus.className = 'sr-only';
   glowStatus.setAttribute('role', 'status');
@@ -63,13 +61,6 @@
   } catch { /* Artwork selection also works when browser storage is disabled. */ }
   let selected = null;
   let lastAlbum = null;
-  let previewID = null;
-  let state = {is_playing: false};
-  let testState = {is_playing: false};
-  let revision = 0;
-  let timer;
-  let inFlight = false;
-
   function clearWordBubble() {
     clearTimeout(wordBubbleTimer);
     wordBubble?.remove();
@@ -89,33 +80,21 @@
   }
 
   function updateSpin() {
-    const key = selected?.dataset.discKey;
-    const playing = browser.dataset.testMode === 'true'
-      ? testState.is_playing && selected?.dataset.recordId === testState.id
-      : browser.dataset.preview === 'true'
-      ? selected?.dataset.recordId === previewID
-      : state.is_playing && (state.context_uri === key || state.album_uri === key);
+    const playing = playback.state.is_playing && playback.matches(selected);
     frame.classList.toggle('is-spinning', Boolean(playing && !document.hidden && !frame.hidden));
-    let card = null;
-    if (browser.dataset.testMode === 'true') {
-      if (testState.is_playing) card = cards.find(card => card.dataset.recordId === testState.id);
-    } else if (browser.dataset.preview === 'true') {
-      card = cards.find(card => card.dataset.recordId === previewID);
-    } else if (state.is_playing) {
-      card = cards.find(card => card.dataset.discKey === state.context_uri) || cards.find(card => card.dataset.discKey === state.album_uri);
-    }
-    updateNowPlaying(card);
+    updateNowPlaying(playback.state.is_playing ? playback.findCard() : null);
   }
 
   function optionsFor(card) {
     const key = card?.dataset.discKey;
     const options = catalogue.get(key) || [];
     // Hidden editions are revealed only by a five-press sequence, never a saved choice.
-    return key === glowAlbum ? options.filter(o => !hiddenVariants.has(o.id)) : options;
+    const hidden = new Set(Object.values(effects.get(key)?.variants || {}));
+    return options.filter(o => !hidden.has(o.id));
   }
   function chosen(options, key) {
-    if (glowActive && key === glowAlbum) {
-      const secret = catalogue.get(key)?.find(o => o.id === glowActive);
+    if (glowActive?.key === key) {
+      const secret = catalogue.get(key)?.find(o => o.id === glowActive.id);
       if (secret) return secret;
     }
     return options.find(o => o.id === preferences.albums[key]) || options.find(o => o.kind === preferences.kind) || options[0];
@@ -124,8 +103,8 @@
     nowCard = card;
     nowPlaying.hidden = !card;
     nowPlaying.classList.toggle('is-spinning', Boolean(card && !document.hidden));
-    nowPlaying.classList.toggle('is-glowing', Boolean(card && glowActive && card.dataset.discKey === glowAlbum));
-    nowPlaying.classList.toggle('is-glow-vinyl', Boolean(card && glowActive === 'billie-glow-vinyl' && card.dataset.discKey === glowAlbum));
+    nowPlaying.classList.toggle('is-glowing', Boolean(card && glowActive?.key === card.dataset.discKey));
+    nowPlaying.classList.toggle('is-glow-vinyl', Boolean(card && glowActive?.key === card.dataset.discKey && chosen(optionsFor(card), card.dataset.discKey)?.kind === 'vinyl'));
     if (!card) return;
     const label = 'Return to ' + card.dataset.title + ', now playing';
     nowPlaying.setAttribute('aria-label', label);
@@ -172,7 +151,6 @@
       images.delete(url); // Retry on the next visit instead of caching an error.
       if (image.parentNode !== frame) return;
       frame.hidden = true;
-      stage.classList.remove('has-disc');
       frame.classList.remove('is-loading', 'is-spinning');
     }, {once: true});
     image.sizes = '(max-width: 560px) 72vw, (max-width: 800px) 40vw, 340px';
@@ -189,16 +167,15 @@
     const key = selected?.dataset.discKey;
     const options = optionsFor(selected);
     const option = chosen(options, key);
-    const glowing = hiddenVariants.has(option?.id) && key === glowAlbum;
+    const glowing = Boolean(glowActive && glowActive.key === key && option?.id === glowActive.id);
     if (document.documentElement.classList.contains('glow-mode') !== Boolean(glowActive)) {
-      const secret = catalogue.get(glowAlbum)?.find(o => o.id === glowActive);
+      const secret = catalogue.get(glowActive?.key)?.find(o => o.id === glowActive.id);
       glowStatus.textContent = glowActive ? secret.label + ' unlocked. Glow-in-the-dark mode.' : 'Glow mode off.';
     }
     document.documentElement.classList.toggle('glow-mode', Boolean(glowActive));
     frame.classList.toggle('is-glowing', glowing);
     frame.classList.toggle('is-glow-vinyl', glowing && option.kind === 'vinyl');
     const available = Boolean(option);
-    stage.classList.toggle('has-disc', available);
     frame.hidden = !available;
     choices.hidden = options.length < 2;
     if (!available) {
@@ -228,14 +205,15 @@
         button.append(thumb, label);
         choiceArtwork.set(button, {option: o, thumb, label, glowThumb: null});
         button.addEventListener('click', () => {
-          const secretID = key === glowAlbum ? glowVariants.get(o.id) : null;
+          const secretID = effects.get(key)?.variants[o.id];
           if (secretID) {
-            if (glowActive && glowActive !== secretID) glowActive = null;
+            if (glowActive && (glowActive.key !== key || glowActive.id !== secretID)) glowActive = null;
             if (revealChoice !== o.id) resetSequence();
             revealChoice = o.id;
             revealPresses = Math.min(revealPresses + 1, 5);
-            if (!glowActive && revealPresses >= 2) showGlowWord(button, glowWords[revealPresses - 2]);
-            if (revealPresses === 5 && catalogue.get(key)?.some(option => option.id === secretID)) glowActive = secretID;
+            const word = effects.get(key)?.words?.[revealPresses - 2];
+            if (!glowActive && word) showGlowWord(button, word);
+            if (revealPresses === 5 && catalogue.get(key)?.some(option => option.id === secretID)) glowActive = {key, id: secretID};
           } else {
             resetSequence();
             if (chosen(optionsFor(selected), key)?.id !== o.id) glowActive = null;
@@ -252,7 +230,7 @@
     }
     for (const button of choices.querySelectorAll('button')) {
       const artwork = choiceArtwork.get(button);
-      const revealed = glowing && glowVariants.get(button.dataset.discId) === option.id;
+      const revealed = glowing && effects.get(key)?.variants[button.dataset.discId] === option.id;
       button.setAttribute('aria-pressed', String(revealed || button.dataset.discId === option.id));
       button.classList.toggle('is-glowing', revealed);
       button.classList.toggle('is-glow-vinyl', revealed && option.kind === 'vinyl');
@@ -288,80 +266,12 @@
   browser.addEventListener('shelf:selection', render);
   document.addEventListener('click', event => {
     const button = event.composedPath().find(node => node.classList?.contains('disc-choice'));
-    if (selected?.dataset.discKey !== glowAlbum || button?.dataset.discId !== revealChoice) resetSequence();
+    if (!effects.has(selected?.dataset.discKey) || button?.dataset.discId !== revealChoice) resetSequence();
   });
-  browser.addEventListener('shelf:test-playback', event => {
-    revision++;
-    const previousID = testState.id;
-    testState = event.detail;
-    if (testState.is_playing && testState.id !== previousID && cards.find(c => c.dataset.recordId === testState.id)?.dataset.discKey !== glowAlbum) endGlow();
-    clearTimeout(timer);
-    if (!event.detail.enabled) schedulePoll(0);
+  browser.addEventListener('shelf:playback-state', () => {
+    if (playback.state.is_playing && glowActive && playback.findCard()?.dataset.discKey !== glowActive.key) endGlow();
     updateSpin();
   });
-  browser.addEventListener('shelf:playback-started', event => {
-    revision++;
-    const card = cards.find(c => c.dataset.recordId === event.detail.id);
-    if (card?.dataset.discKey !== glowAlbum) endGlow();
-    if (event.detail.preview) previewID = event.detail.id;
-    else {
-      state = {is_playing: true, context_uri: card?.dataset.discKey};
-      // Allow Spotify a moment to apply the playback request before reading it.
-      schedulePoll(4000);
-    }
-    updateSpin();
-  });
-
-  browser.addEventListener('shelf:playback-pending', () => { revision++; clearTimeout(timer); });
-  browser.addEventListener('shelf:transport-changed', event => {
-    revision++;
-    state = event.detail;
-    if (browser.dataset.preview === 'true') previewID = state.is_playing ? cards.find(card => card.dataset.discKey === state.context_uri)?.dataset.recordId : null;
-    updateSpin();
-    schedulePoll(4000);
-  });
-  browser.addEventListener('shelf:refresh-playback', () => schedulePoll(0));
-
-  function schedulePoll(delay = 20000) {
-    clearTimeout(timer);
-    if (browser.dataset.testMode !== 'true' && browser.dataset.preview !== 'true' && !document.hidden) timer = setTimeout(poll, delay);
-  }
-  async function poll() {
-    if (inFlight || document.hidden || browser.dataset.testMode === 'true') return;
-    inFlight = true;
-    const atStart = revision;
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 12000);
-    let nextDelay = 20000;
-    try {
-      const response = await fetch('/playback', {headers: {Accept: 'application/json'}, signal: controller.signal});
-      if (!response.ok) throw new Error('Playback state unavailable');
-      const current = await response.json();
-      if (atStart === revision) {
-        const changed = current.context_uri !== state.context_uri || current.album_uri !== state.album_uri;
-        state = current;
-        browser.dispatchEvent(new CustomEvent('shelf:playback-state', {detail: state}));
-        if (changed && current.is_playing && current.context_uri !== glowAlbum && current.album_uri !== glowAlbum) endGlow();
-      }
-    } catch {
-      if (atStart === revision) {
-        state = {is_playing: false};
-        browser.dispatchEvent(new CustomEvent('shelf:playback-state', {detail: state}));
-      }
-      nextDelay = 60000;
-    } finally {
-      clearTimeout(timeout);
-      inFlight = false;
-      updateSpin();
-      schedulePoll(nextDelay);
-    }
-  }
-  document.addEventListener('visibilitychange', () => {
-    updateSpin();
-    clearTimeout(timer);
-    if (!document.hidden) schedulePoll(0);
-  });
-  window.addEventListener('pagehide', () => clearTimeout(timer));
+  document.addEventListener('visibilitychange', updateSpin);
   render();
-  schedulePoll(0);
 })();

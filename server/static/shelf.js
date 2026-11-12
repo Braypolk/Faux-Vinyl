@@ -40,17 +40,10 @@
   let suppressClickUntil = 0;
   const playButton = find('.selected-play');
   const feedback = find('.playback-feedback');
-  // Simulated playback is confined to the local development server.
-  const testMode = browser.dataset.preview === 'true';
-  browser.dataset.testMode = String(testMode);
-  const testPlayback = {id: null, playing: false};
+  const playback = window.FauxVinylPlayback;
   const arrangeButton = find('.arrange-records');
   const arrangeBar = find('.arrange-toolbar');
-  let pendingPlayback = false;
-  let playingID = null;
-  let liveState = {};
-  const matchesPlayback = (card) => Boolean(card && (card.dataset.discKey === liveState.context_uri || card.dataset.discKey === liveState.album_uri));
-  let pendingLabel = 'Starting…';
+  const matchesPlayback = card => playback.matches(card);
   let failedID = null;
   let arranging = false;
   let savingOrder = false;
@@ -60,31 +53,18 @@
   let savedFeedbackTimer;
 
   function updatePlayButton() {
-    playButton.disabled = pendingPlayback;
-    playButton.setAttribute('aria-busy', String(pendingPlayback));
-    if (testMode) {
-      const selectedTest = current?.dataset.recordId === testPlayback.id;
-      playButton.textContent = selectedTest ? testPlayback.playing ? 'Pause' : 'Resume' : 'Play';
-      playButton.setAttribute('aria-pressed', String(selectedTest && testPlayback.playing));
-    } else {
-      playButton.setAttribute('aria-pressed', String(matchesPlayback(current) && liveState.is_playing));
-      playButton.textContent = pendingPlayback ? pendingLabel : current?.dataset.recordId === failedID ? 'Try again' : matchesPlayback(current) ? liveState.is_playing ? 'Pause' : 'Resume' : 'Play';
-    }
+    playButton.disabled = playback.pending;
+    playButton.setAttribute('aria-busy', String(playback.pending));
+    playButton.setAttribute('aria-pressed', String(Boolean(matchesPlayback(current) && playback.state.is_playing)));
+    playButton.textContent = playback.pending ? playback.pendingLabel : current?.dataset.recordId === failedID ? 'Try again' : matchesPlayback(current) ? playback.state.is_playing ? 'Pause' : 'Resume' : 'Play';
   }
 
   function updatePlayingCards() {
-    const id = testMode ? testPlayback.playing ? testPlayback.id : null : playingID;
+    const id = playback.state.is_playing ? playback.findCard()?.dataset.recordId : null;
     cards.forEach((card) => card.classList.toggle('is-playing', card.dataset.recordId === id));
   }
 
-  function publishTestPlayback() {
-    browser.dispatchEvent(new CustomEvent('shelf:test-playback', {detail: {enabled: testMode, id: testPlayback.id, is_playing: testPlayback.playing}}));
-  }
-
-  browser.addEventListener('shelf:playback-state', event => {
-    if (pendingPlayback) return;
-    liveState = event.detail;
-    playingID = liveState.is_playing ? (cards.find(card => card.dataset.discKey === liveState.context_uri) || cards.find(card => card.dataset.discKey === liveState.album_uri))?.dataset.recordId : null;
+  browser.addEventListener('shelf:playback-state', () => {
     updatePlayingCards();
     updatePlayButton();
   });
@@ -109,83 +89,21 @@
     return data;
   }
 
-  async function startPlayback(card = current) {
-    if (pendingPlayback || !card) return;
-    const record = {...card.dataset};
-    if (testMode) {
-      testPlayback.playing = testPlayback.id === record.recordId ? !testPlayback.playing : true;
-      testPlayback.id = record.recordId;
-      updatePlayingCards();
-      updatePlayButton();
-      playbackMessage('');
-      publishTestPlayback();
-      return;
-    }
-    pendingPlayback = true;
-    pendingLabel = 'Starting…';
-    browser.dispatchEvent(new CustomEvent('shelf:playback-pending'));
+  async function changePlayback(card = current, restart = false) {
+    if (playback.pending || !card) return;
     failedID = null;
-    updatePlayButton();
     playbackMessage('');
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 110000);
-    let sent = false;
     try {
-      // Each explicit Play or NFC tap gets a fresh, short-lived one-time action.
-      const action = await readResponse(await fetch(record.play, {headers: {Accept: 'application/json'}, signal: controller.signal}));
-      browser.dataset.csrf = action.csrf;
-      const body = new URLSearchParams({csrf: action.csrf, action_token: action.action_token});
-      sent = true;
-      const result = await readResponse(await fetch(record.play + '/play', {method: 'POST', headers: {Accept: 'application/json'}, body, signal: controller.signal}));
-      playingID = record.recordId;
-      liveState = {is_playing: true, context_uri: record.discKey};
-      updatePlayingCards();
-      browser.dispatchEvent(new CustomEvent('shelf:playback-started', {detail: {id: playingID, preview: result.preview}}));
-      playbackMessage(result.preview ? '' : result.warning || '');
-    } catch (error) {
-      failedID = record.recordId;
-      const message = error.status ? error.message : sent ? 'Could not confirm playback. Check your device before trying again.' : 'Could not reach your shelf. Try again.';
-      playbackMessage(message, {error: true, settings: error.status === 503, login: error.status === 401});
-    } finally {
-      clearTimeout(timeout);
-      pendingPlayback = false;
-      updatePlayButton();
-    }
-  }
-  async function togglePlayback() {
-    if (pendingPlayback || !current) return;
-    if (testMode || !matchesPlayback(current)) { await startPlayback(); return; }
-    const card = current;
-    const playing = !liveState.is_playing;
-    pendingPlayback = true;
-    pendingLabel = playing ? 'Resuming…' : 'Pausing…';
-    playbackMessage('');
-    failedID = null;
-    browser.dispatchEvent(new CustomEvent('shelf:playback-pending'));
-    updatePlayButton();
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 45000);
-    try {
-      const result = await readResponse(await fetch('/playback', {
-        method: 'POST', headers: {Accept: 'application/json'}, signal: controller.signal,
-        body: new URLSearchParams({csrf: browser.dataset.csrf, card_id: card.dataset.recordId, action: playing ? 'resume' : 'pause'})
-      }));
-      liveState = {is_playing: result.is_playing, context_uri: result.context_uri};
-      playingID = result.is_playing ? card.dataset.recordId : null;
-      updatePlayingCards();
-      browser.dispatchEvent(new CustomEvent('shelf:transport-changed', {detail: liveState}));
-      playbackMessage('');
+      const result = await (restart ? playback.start(card) : playback.toggle(card));
+      playbackMessage(result?.warning || '');
     } catch (error) {
       failedID = card.dataset.recordId;
-      playbackMessage(error.status ? error.message : 'Could not confirm playback. Check your device and try again.', {error: true, settings: error.status === 503, login: error.status === 401});
-      browser.dispatchEvent(new CustomEvent('shelf:refresh-playback'));
+      playbackMessage(error.message, {error: true, settings: error.status === 503, login: error.status === 401});
     } finally {
-      clearTimeout(timeout);
-      pendingPlayback = false;
       updatePlayButton();
     }
   }
-  playButton.addEventListener('click', togglePlayback);
+  playButton.addEventListener('click', () => changePlayback());
 
   function arrangeControls() {
     const index = cards.indexOf(current);
@@ -589,6 +507,6 @@
     select(autoplayCard);
     // Reloading the shelf should not repeat a tap's playback request.
     try { history.replaceState(history.state, '', '/#record=' + encodeURIComponent(autoplayCard.dataset.recordId)); } catch { /* Playback still works without history access. */ }
-    requestAnimationFrame(() => startPlayback(autoplayCard));
+    requestAnimationFrame(() => changePlayback(autoplayCard, true));
   }
 })();

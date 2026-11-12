@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "items": {
+    "spotify:album:1111111111111111111111": {
+      "title": "Demo Album",
+      "artist": "Example Artist",
+      "songs": "First Song\nSecond Song",
+      "source": "https://open.spotify.com/album/1111111111111111111111",
+      "release": {
+        "date": "1984-01-09",
+        "source": "https://example.com/releases/demo-album"
+      },
+      "artwork": {
+        "front": "covers/front.webp",
+        "back": "covers/back.webp"
+      },
+      "discs": [
+        {
+          "id": "demo-album-vinyl",
+          "kind": "vinyl",
+          "label": "VINYL",
+          "image": "/static/discs/disc.webp"
+        },
+        {
+          "id": "demo-album-cd",
+          "kind": "cd",
+          "label": "CD",
+          "image": "/static/discs/disc.webp"
+        }
+      ]
+    },
+    "spotify:album:2222222222222222222222": {
+      "title": "New Album",
+      "artist": "Example Artist",
+      "songs": "First Song\nSecond Song",
+      "source": "https://open.spotify.com/album/2222222222222222222222",
+      "release": {
+        "date": "2026-03-06",
+        "source": "https://example.com/releases/new-album"
+      },
+      "artwork": {
+        "front": "covers/front.webp",
+        "back": "covers/back.webp"
+      },
+      "discs": [
+        {
+          "id": "new-album-vinyl",
+          "kind": "vinyl",
+          "label": "VINYL",
+          "image": "/static/discs/disc.webp"
+        }
+      ]
+    },
+    "spotify:album:3333333333333333333333": {
+      "title": "Another Album",
+      "artist": "Example Artist",
+      "songs": "First Song\nSecond Song",
+      "source": "https://open.spotify.com/album/3333333333333333333333",
+      "release": {
+        "date": "2012-10-22",
+        "source": "https://example.com/releases/search-album"
+      },
+      "artwork": {
+        "front": "covers/front.webp",
+        "back": "covers/back.webp"
+      },
+      "discs": [
+        {
+          "id": "search-album-vinyl",
+          "kind": "vinyl",
+          "label": "VINYL",
+          "image": "/static/discs/disc.webp"
+        },
+        {
+          "id": "search-album-cd",
+          "kind": "cd",
+          "label": "CD",
+          "image": "/static/discs/disc.webp"
+        }
+      ]
+    },
+    "spotify:album:4444444444444444444444": {
+      "title": "Song Album",
+      "artist": "Example Artist",
+      "songs": "BIRDS OF A FEATHER\nBLUE",
+      "source": "https://open.spotify.com/album/4444444444444444444444",
+      "release": {
+        "date": "2024-05-17",
+        "source": "https://example.com/releases/song-album"
+      },
+      "artwork": {
+        "front": "covers/front.webp",
+        "back": "covers/back.webp"
+      },
+      "discs": [
+        {
+          "id": "song-album-vinyl",
+          "kind": "vinyl",
+          "label": "VINYL",
+          "image": "/static/discs/disc.webp"
+        },
+        {
+          "id": "song-album-cd",
+          "kind": "cd",
+          "label": "CD",
+          "image": "/static/discs/disc.webp"
+        }
+      ]
+    },
+    "spotify:album:6666666666666666666666": {
+      "title": "Blank Album",
+      "artist": "Example Artist",
+      "songs": "First Song\nSecond Song",
+      "source": "https://open.spotify.com/album/6666666666666666666666",
+      "release": {
+        "date": "2000-01-01",
+        "source": "https://example.com/releases/blank-album"
+      }
+    },
+    "spotify:playlist:5555555555555555555555": {
+      "title": "Demo Mix",
+      "artist": "",
+      "songs": "First Song",
+      "source": "https://open.spotify.com/playlist/5555555555555555555555"
+    },
+    "spotify:album:0S0KGZnfBGSIssfF54WSJh": {
+      "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "artist": "Billie Eilish",
+      "songs": "bad guy",
+      "source": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+      "release": {
+        "date": "2019-03-29",
+        "source": "https://example.com/releases/glow"
+      },
+      "artwork": {
+        "front": "covers/front.webp",
+        "back": "covers/back.webp"
+      },
+      "discs": [
+        {
+          "id": "30664206604",
+          "kind": "cd",
+          "label": "CD 1",
+          "image": "/static/discs/disc.webp"
+        },
+        {
+          "id": "30439409589",
+          "kind": "cd",
+          "label": "CD 2",
+          "image": "/static/discs/disc.webp"
+        },
+        {
+          "id": "30672682790",
+          "kind": "vinyl",
+          "label": "Vinyl",
+          "image": "/static/discs/disc.webp"
+        },
+        {
+          "id": "billie-glow-vinyl",
+          "kind": "vinyl",
+          "label": "Glow Vinyl",
+          "image": "/static/discs/disc.webp"
+        }
+      ],
+      "glow": {
+        "variants": {
+          "30664206604": "30439409589",
+          "30672682790": "billie-glow-vinyl"
+        },
+        "words": [
+          "where",
+          "do",
+          "we",
+          "go"
+        ]
+      }
+    }
+  },
+  "starter_cards": [
+    {
+      "id": "demo-album",
+      "uri": "spotify:album:1111111111111111111111"
+    },
+    {
+      "id": "new-album",
+      "uri": "spotify:album:2222222222222222222222"
+    },
+    {
+      "id": "search-album",
+      "uri": "spotify:album:3333333333333333333333"
+    },
+    {
+      "id": "song-album",
+      "uri": "spotify:album:4444444444444444444444"
+    },
+    {
+      "id": "blank-album",
+      "uri": "spotify:album:6666666666666666666666"
+    },
+    {
+      "id": "demo-mix",
+      "uri": "spotify:playlist:5555555555555555555555"
+    },
+    {
+      "id": "glow-demo",
+      "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh"
+    }
+  ],
+  "legacy_name_corrections": {
+    "entries": [
+      {
+        "id": "demo-album",
+        "uri": "spotify:album:1111111111111111111111",
+        "previous_title": "demo album"
+      },
+      {
+        "id": "new-album",
+        "uri": "spotify:album:2222222222222222222222",
+        "previous_title": "new album"
+      },
+      {
+        "id": "search-album",
+        "uri": "spotify:album:3333333333333333333333",
+        "previous_title": "another album"
+      },
+      {
+        "id": "song-album",
+        "uri": "spotify:album:4444444444444444444444",
+        "previous_title": "song album"
+      },
+      {
+        "id": "blank-album",
+        "uri": "spotify:album:6666666666666666666666",
+        "previous_title": "blank album"
+      }
+    ]
+  }
+}

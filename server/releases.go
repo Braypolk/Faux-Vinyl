@@ -2,9 +2,6 @@ package main
 
 import (
 	"database/sql"
-	"encoding/json"
-	"errors"
-	"strings"
 	"time"
 )
 
@@ -26,28 +23,4 @@ func (s *Store) releaseDate(uri string) (string, error) {
 		e = nil
 	}
 	return date, e
-}
-
-func (s *Store) seedReleaseDates(raw []byte) error {
-	var dates map[string]struct {
-		Date string `json:"date"`
-	}
-	if e := json.Unmarshal(raw, &dates); e != nil {
-		return e
-	}
-	tx, e := s.db.Begin()
-	if e != nil {
-		return e
-	}
-	defer tx.Rollback()
-	for uri, release := range dates {
-		checked, err := spotifyURI(uri)
-		if err != nil || uri != checked || !strings.HasPrefix(uri, "spotify:album:") || release.Date == "" || !validReleaseDate(release.Date) {
-			return errors.New("Invalid bundled original release date")
-		}
-		if _, e = tx.Exec("INSERT OR IGNORE INTO album_releases(uri,release_date) VALUES(?,?)", uri, release.Date); e != nil {
-			return e
-		}
-	}
-	return tx.Commit()
 }

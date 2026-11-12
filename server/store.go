@@ -6,7 +6,6 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
-	"fmt"
 	_ "github.com/mattn/go-sqlite3"
 	"net/url"
 	"path/filepath"
@@ -18,11 +17,12 @@ type Card struct {
 	Title                                            string `json:"title"`
 	URI                                              string `json:"uri"`
 	Created                                          string
-	Front, Back, Kind, Catalogue                     string
+	Front, Back                                      string
 	FrontSrcset, BackSrcset, ShelfImage, ShelfSrcset string
-	Discs                                            string
+	Discs, Glow                                      string
 	Tone                                             int
 	Metadata                                         SearchMetadata
+	CustomArtwork                                    map[string]string `json:"-"`
 	MetadataEdited                                   bool
 	ReleaseDate                                      string
 	ReleaseDateEdited                                bool
@@ -43,7 +43,7 @@ func openStore(dir string) (*Store, error) {
 	_, e = db.Exec(`CREATE TABLE IF NOT EXISTS cards(id TEXT PRIMARY KEY,title TEXT NOT NULL,uri TEXT NOT NULL,created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP);
  CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT NOT NULL);
  CREATE TABLE IF NOT EXISTS card_artwork(card_id TEXT NOT NULL,side TEXT NOT NULL,filename TEXT NOT NULL,PRIMARY KEY(card_id,side));
- CREATE TABLE IF NOT EXISTS album_releases(uri TEXT PRIMARY KEY,release_date TEXT NOT NULL);
+ CREATE TABLE IF NOT EXISTS album_releases(uri TEXT PRIMARY KEY,release_date TEXT NOT NULL,custom INTEGER NOT NULL DEFAULT 0);
  CREATE TABLE IF NOT EXISTS shelf_order(card_id TEXT PRIMARY KEY,position INTEGER NOT NULL);
  INSERT OR IGNORE INTO shelf_order(card_id,position)
  SELECT id,COALESCE((SELECT MAX(position)+1 FROM shelf_order),0)+ROW_NUMBER() OVER(ORDER BY title COLLATE NOCASE,id)-1
@@ -55,6 +55,34 @@ func openStore(dir string) (*Store, error) {
 		return nil, e
 	}
 	if _, e = db.Exec(`CREATE TABLE IF NOT EXISTS search_metadata(uri TEXT PRIMARY KEY,artist TEXT NOT NULL,album TEXT NOT NULL,songs TEXT NOT NULL,custom INTEGER NOT NULL DEFAULT 0,checked_at INTEGER NOT NULL)`); e != nil {
+		db.Close()
+		return nil, e
+	}
+	// Older releases have no provenance. Leave them unclassified until their
+	// collection is available; matching defaults can then be recognized safely.
+	rows, e := db.Query("PRAGMA table_info(album_releases)")
+	if e != nil {
+		db.Close()
+		return nil, e
+	}
+	hasCustom := false
+	for rows.Next() {
+		var cid, required, primary int
+		var name, kind string
+		var fallback any
+		if e = rows.Scan(&cid, &name, &kind, &required, &fallback, &primary); e != nil {
+			break
+		}
+		hasCustom = hasCustom || name == "custom"
+	}
+	if e == nil {
+		e = rows.Err()
+	}
+	rows.Close()
+	if e == nil && !hasCustom {
+		_, e = db.Exec("ALTER TABLE album_releases ADD COLUMN custom INTEGER")
+	}
+	if e != nil {
 		db.Close()
 		return nil, e
 	}
@@ -116,6 +144,46 @@ func (s *Store) card(id string) (Card, error) {
 	e := s.db.QueryRow("SELECT id,title,uri,created_at FROM cards WHERE id=?", id).Scan(&c.ID, &c.Title, &c.URI, &c.Created)
 	return c, e
 }
+
+// Load shelf details in one bulk read, preserving the ordering used by cards.
+func (s *Store) shelfCards(order string) ([]Card, error) {
+	cards, err := s.cards(order)
+	if err != nil || len(cards) == 0 {
+		return cards, err
+	}
+	byID := make(map[string]*Card, len(cards))
+	for i := range cards {
+		byID[cards[i].ID] = &cards[i]
+	}
+	rows, err := s.db.Query(`SELECT c.id,COALESCE(m.artist,''),COALESCE(m.album,''),COALESCE(m.songs,''),
+ COALESCE(f.filename,''),COALESCE(b.filename,'') FROM cards c
+ LEFT JOIN search_metadata m ON m.uri=c.uri
+ LEFT JOIN card_artwork f ON f.card_id=c.id AND f.side='front'
+ LEFT JOIN card_artwork b ON b.card_id=c.id AND b.side='back'`)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+	for rows.Next() {
+		var id, front, back string
+		var metadata SearchMetadata
+		if err := rows.Scan(&id, &metadata.Artist, &metadata.Album, &metadata.Songs, &front, &back); err != nil {
+			return nil, err
+		}
+		if card := byID[id]; card != nil {
+			card.Metadata = metadata
+			card.CustomArtwork = map[string]string{}
+			if front != "" {
+				card.CustomArtwork["front"] = front
+			}
+			if back != "" {
+				card.CustomArtwork["back"] = back
+			}
+		}
+	}
+	return cards, rows.Err()
+}
+
 func (s *Store) artwork(id string) (map[string]string, error) {
 	rows, e := s.db.Query("SELECT side,filename FROM card_artwork WHERE card_id=?", id)
 	if e != nil {
@@ -132,6 +200,23 @@ func (s *Store) artwork(id string) (map[string]string, error) {
 	}
 	return out, rows.Err()
 }
+
+// Creation must never replace an existing card or its permanent NFC mapping.
+func (s *Store) create(c Card) error {
+	tx, err := s.db.Begin()
+	if err != nil {
+		return err
+	}
+	defer tx.Rollback()
+	if _, err = tx.Exec("INSERT INTO cards(id,title,uri) VALUES(?,?,?)", c.ID, c.Title, c.URI); err != nil {
+		return err
+	}
+	if _, err = tx.Exec("INSERT INTO shelf_order(card_id,position) SELECT ?,COALESCE(MAX(position)+1,0) FROM shelf_order", c.ID); err != nil {
+		return err
+	}
+	return tx.Commit()
+}
+
 func (s *Store) save(c Card, art map[string]string, resets []string) error {
 	tx, e := s.db.Begin()
 	if e != nil {
@@ -165,72 +250,10 @@ func (s *Store) save(c Card, art map[string]string, resets []string) error {
 		if !validReleaseDate(c.ReleaseDate) || !strings.HasPrefix(c.URI, "spotify:album:") {
 			return errors.New("Enter an original album release date in YYYY-MM-DD format")
 		}
-		if _, e = tx.Exec(`INSERT INTO album_releases(uri,release_date) VALUES(?,?)
- ON CONFLICT(uri) DO UPDATE SET release_date=excluded.release_date`, c.URI, c.ReleaseDate); e != nil {
+		if _, e = tx.Exec(`INSERT INTO album_releases(uri,release_date,custom) VALUES(?,?,1)
+ ON CONFLICT(uri) DO UPDATE SET release_date=excluded.release_date,custom=1`, c.URI, c.ReleaseDate); e != nil {
 			return e
 		}
-	}
-	return tx.Commit()
-}
-func (s *Store) seed(data []byte) error {
-	if s.setting("seed_imported", false) == true {
-		return nil
-	}
-	var cards []Card
-	if e := json.Unmarshal(data, &cards); e != nil {
-		return e
-	}
-	for _, c := range cards {
-		if _, e := s.card(c.ID); e == sql.ErrNoRows {
-			if e = s.save(c, nil, nil); e != nil {
-				return e
-			}
-		} else if e != nil {
-			return fmt.Errorf("read seed: %w", e)
-		}
-	}
-	return s.set("seed_imported", true)
-}
-
-// Apply the reviewed collection cleanup once. Match the original ID, URI and
-// title so an edited name or a record pointing at another release stays intact.
-func (s *Store) correctCatalogueNames(data []byte) error {
-	const key = "catalogue_names_corrected_v1"
-	if s.setting(key, false) == true {
-		return nil
-	}
-	var manifest struct {
-		Entries []struct {
-			ID, URI, Title string
-			PreviousTitle  string `json:"previous_title"`
-		}
-	}
-	if e := json.Unmarshal(data, &manifest); e != nil {
-		return e
-	}
-	if len(manifest.Entries) == 0 {
-		return errors.New("Missing reviewed catalogue names")
-	}
-	seen := map[string]bool{}
-	for _, entry := range manifest.Entries {
-		uri, e := spotifyURI(entry.URI)
-		if e != nil || uri != entry.URI || !cardIDPattern.MatchString(entry.ID) || seen[entry.ID] || !validTitle(entry.Title) || !validTitle(entry.PreviousTitle) {
-			return errors.New("Invalid reviewed catalogue name")
-		}
-		seen[entry.ID] = true
-	}
-	tx, e := s.db.Begin()
-	if e != nil {
-		return e
-	}
-	defer tx.Rollback()
-	for _, entry := range manifest.Entries {
-		if _, e = tx.Exec("UPDATE cards SET title=? WHERE id=? AND uri=? AND title=?", entry.Title, entry.ID, entry.URI, entry.PreviousTitle); e != nil {
-			return e
-		}
-	}
-	if _, e = tx.Exec("INSERT INTO settings(key,value) VALUES(?,'true') ON CONFLICT(key) DO UPDATE SET value='true'", key); e != nil {
-		return e
 	}
 	return tx.Commit()
 }

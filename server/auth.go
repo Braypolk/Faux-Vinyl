@@ -1,11 +1,8 @@
 package main
 
 import (
-	"bytes"
-	"compress/zlib"
 	"crypto/hmac"
 	"crypto/rand"
-	"crypto/sha1"
 	"crypto/sha256"
 	"crypto/sha512"
 	"encoding/base64"
@@ -14,7 +11,6 @@ import (
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"
 	"hash"
-	"io"
 	"net/http"
 	"strconv"
 	"strings"
@@ -51,78 +47,21 @@ func (a *App) readSession(r *http.Request) Session {
 	if e != nil {
 		return s
 	}
-	value := c.Value
-	if strings.HasPrefix(value, "v1.") {
-		p := strings.Split(value, ".")
-		if len(p) != 3 {
-			return s
-		}
-		sig, e := b64.DecodeString(p[2])
-		if e != nil || !hmac.Equal(sig, mac(a.key, "session:"+p[1])) {
-			return s
-		}
-		raw, e := b64.DecodeString(p[1])
-		if e != nil || len(raw) > 16384 || json.Unmarshal(raw, &s) != nil || s.Exp < time.Now().Unix() {
-			return Session{}
-		}
+	p := strings.Split(c.Value, ".")
+	if len(p) != 3 || p[0] != "v1" {
 		return s
 	}
-	// Accept existing Flask sessions during migration, including compressed cookies.
-	i := strings.LastIndexByte(value, '.')
-	if i < 0 {
+	sig, e := b64.DecodeString(p[2])
+	if e != nil || !hmac.Equal(sig, mac(a.key, "session:"+p[1])) {
 		return s
 	}
-	signed := value[:i]
-	sig, e := b64.DecodeString(value[i+1:])
-	if e != nil {
-		return s
-	}
-	h := hmac.New(sha1.New, a.key)
-	h.Write([]byte("cookie-session"))
-	h2 := hmac.New(sha1.New, h.Sum(nil))
-	h2.Write([]byte(signed))
-	if !hmac.Equal(sig, h2.Sum(nil)) {
-		return s
-	}
-	j := strings.LastIndexByte(signed, '.')
-	if j < 0 {
-		return s
-	}
-	ts, e := b64.DecodeString(signed[j+1:])
-	if e != nil || len(ts) > 8 {
-		return s
-	}
-	var issued int64
-	for _, b := range ts {
-		issued = issued<<8 | int64(b)
-	}
-	age := time.Now().Unix() - issued
-	if age < -60 || age > 90*86400 {
-		return s
-	}
-	payload := signed[:j]
-	compressed := strings.HasPrefix(payload, ".")
-	payload = strings.TrimPrefix(payload, ".")
-	raw, e := b64.DecodeString(payload)
-	if e != nil {
-		return s
-	}
-	if compressed {
-		z, e := zlib.NewReader(bytes.NewReader(raw))
-		if e != nil {
-			return s
-		}
-		raw, e = io.ReadAll(io.LimitReader(z, 16385))
-		z.Close()
-		if e != nil {
-			return s
-		}
-	}
-	if len(raw) > 16384 || json.Unmarshal(raw, &s) != nil {
+	raw, e := b64.DecodeString(p[1])
+	if e != nil || len(raw) > 16384 || json.Unmarshal(raw, &s) != nil || s.Exp < time.Now().Unix() {
 		return Session{}
 	}
 	return s
 }
+
 func (a *App) cookie(w http.ResponseWriter, s *Session) {
 	s.Exp = time.Now().Add(90 * 24 * time.Hour).Unix()
 	raw, _ := json.Marshal(s)
@@ -136,7 +75,7 @@ func checkPassword(encoded, password string) bool {
 	}
 	scheme := strings.Split(p[0], ":")
 	want, e := hex.DecodeString(p[2])
-	if e != nil {
+	if e != nil || len(want) < 32 || len(want) > 128 || p[1] == "" {
 		return false
 	}
 	var got []byte

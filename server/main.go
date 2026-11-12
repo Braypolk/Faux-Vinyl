@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"context"
+	"crypto/rand"
 	"crypto/sha256"
 	"database/sql"
 	"embed"
@@ -30,35 +31,42 @@ import (
 	"unicode/utf8"
 )
 
-//go:embed views/*.html seed-cards.json artwork.json disc-artwork.json search-metadata.json catalogue-names.json release-dates.json image-variants.json
+//go:embed views/*.html
 var resources embed.FS
 
 type Config struct {
 	DataDir, PublicURL, PasswordHash, Root string
+	CollectionDir, PreferencesFile         string
 	Dev                                    bool
 }
 type App struct {
-	cfg           Config
-	host          string
-	key           []byte
-	auth          string
-	store         *Store
-	player        Player
-	art           map[string]map[string]string
-	discs         map[string][]DiscArtwork
-	variants      map[string][]ImageVariant
-	templates     map[string]*template.Template
-	uploadMu      sync.Mutex
-	loginMu       sync.Mutex
-	metadataQueue chan string
+	cfg                Config
+	host               string
+	key                []byte
+	auth               string
+	store              *Store
+	player             Player
+	art                map[string]map[string]string
+	glow               map[string]*GlowEffect
+	discs              map[string][]DiscArtwork
+	variants           map[string][]ImageVariant
+	uploadVariants     sync.Map
+	templates          map[string]*template.Template
+	uploadMu           sync.Mutex
+	loginMu            sync.Mutex
+	metadataQueue      chan string
+	devRevisionMu      sync.Mutex
+	devRevision        string
+	devRevisionChecked time.Time
 }
 type Page struct {
-	Page, Title, CSRF, PublicURL, Notice, Next, LoginError, Error, Warning, Device, Preference, ActionToken, Sort, Q, OrderVersion string
-	Authenticated, Dev, Shuffle, Offline                                                                                           bool
-	Cards                                                                                                                          []Card
-	Card                                                                                                                           Card
-	Art, Custom                                                                                                                    map[string]string
-	Devices                                                                                                                        []Device
+	Page, Title, CSRF, PublicURL, Notice, Next, LoginError, Error, Preference, ActionToken, Sort, Q, OrderVersion string
+	Authenticated, Dev, Shuffle, Offline                                                                          bool
+	Cards                                                                                                         []Card
+	Card                                                                                                          Card
+	Art, Custom                                                                                                   map[string]string
+	Devices                                                                                                       []Device
+	DevicePriority                                                                                                string
 }
 
 func settingEnv(name string) string {
@@ -78,6 +86,16 @@ func newApp(cfg Config, player Player) (*App, error) {
 	}
 	if cfg.PasswordHash == "" && !cfg.Dev {
 		return nil, errors.New("APP_PASSWORD_HASH is required")
+	}
+	if cfg.CollectionDir == "" {
+		cfg.CollectionDir = filepath.Join(cfg.Root, "collection")
+	}
+	if cfg.PreferencesFile == "" {
+		cfg.PreferencesFile = filepath.Join(cfg.Root, "preferences.json")
+	}
+	catalogue, e := loadCatalogue(cfg.CollectionDir)
+	if e != nil {
+		return nil, e
 	}
 	cfg.PublicURL = strings.TrimRight(cfg.PublicURL, "/")
 	if e = os.MkdirAll(filepath.Join(cfg.DataDir, "artwork"), 0700); e != nil {
@@ -107,40 +125,25 @@ func newApp(cfg Config, player Player) (*App, error) {
 		return nil, e
 	}
 	fail := func(e error) (*App, error) { store.db.Close(); return nil, e }
-	seed, _ := resources.ReadFile("seed-cards.json")
-	if e = store.seed(seed); e != nil {
+	if e = store.seedCatalogue(catalogue); e != nil {
 		return fail(e)
 	}
-	metadata, _ := resources.ReadFile("search-metadata.json")
-	if e = store.seedMetadata(metadata); e != nil {
+	if e = store.importPreferences(cfg.PreferencesFile); e != nil {
 		return fail(e)
 	}
-	dates, e := resources.ReadFile("release-dates.json")
-	if e != nil {
-		return fail(e)
+	a := &App{cfg: cfg, host: public.Hostname(), key: key, auth: hex.EncodeToString(mac(key, cfg.PasswordHash)), store: store, player: player, templates: map[string]*template.Template{}, metadataQueue: make(chan string, 64), art: map[string]map[string]string{}, discs: map[string][]DiscArtwork{}, glow: map[string]*GlowEffect{}}
+	for uri, item := range catalogue.Items {
+		if item.Glow != nil {
+			a.glow[uri] = item.Glow
+		}
+		if len(item.Artwork) > 0 {
+			a.art[uri] = item.Artwork
+		}
+		if len(item.Discs) > 0 {
+			a.discs[uri] = item.Discs
+		}
 	}
-	if e = store.seedReleaseDates(dates); e != nil {
-		return fail(e)
-	}
-
-	names, e := resources.ReadFile("catalogue-names.json")
-	if e != nil {
-		return fail(e)
-	}
-	if e = store.correctCatalogueNames(names); e != nil {
-		return fail(e)
-	}
-	a := &App{cfg: cfg, host: public.Hostname(), key: key, auth: hex.EncodeToString(mac(key, cfg.PasswordHash)), store: store, player: player, templates: map[string]*template.Template{}, metadataQueue: make(chan string, 64)}
-	art, _ := resources.ReadFile("artwork.json")
-	if e = json.Unmarshal(art, &a.art); e != nil {
-		return fail(e)
-	}
-	discs, _ := resources.ReadFile("disc-artwork.json")
-	if e = json.Unmarshal(discs, &a.discs); e != nil {
-		return fail(e)
-	}
-	variants, _ := resources.ReadFile("image-variants.json")
-	if e = json.Unmarshal(variants, &a.variants); e != nil {
+	if e = a.loadBundledVariants(); e != nil {
 		return fail(e)
 	}
 	// Existing personal uploads gain thumbnails once during the upgrade.
@@ -153,7 +156,7 @@ func newApp(cfg Config, player Player) (*App, error) {
 	if len(entries) > 0 {
 		debug.FreeOSMemory()
 	}
-	for _, name := range []string{"index", "login", "edit", "settings", "play", "result", "error"} {
+	for _, name := range []string{"index", "login", "edit", "settings", "result", "error"} {
 		t, e := template.ParseFS(resources, "views/base.html", "views/"+name+".html")
 		if e != nil {
 			return fail(e)
@@ -184,11 +187,10 @@ func main() {
 		return
 	}
 	cfg := Config{DataDir: os.Getenv("DATA_DIR"), PublicURL: os.Getenv("PUBLIC_URL"), PasswordHash: settingEnv("APP_PASSWORD_HASH"), Root: ".", Dev: *dev}
+	cfg.CollectionDir = os.Getenv("COLLECTION_DIR")
+	cfg.PreferencesFile = os.Getenv("PREFERENCES_FILE")
 	if cfg.DataDir == "" {
 		cfg.DataDir = "data"
-	}
-	if cfg.PublicURL == "" {
-		cfg.PublicURL = "https://vinyl.bray.dev"
 	}
 	if *dev {
 		host, _, e := net.SplitHostPort(*addr)
@@ -393,6 +395,8 @@ func (a *App) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	if r.Method != "POST" && strings.HasPrefix(path, "/static/") {
 		if strings.HasPrefix(path, "/static/covers/") || strings.HasPrefix(path, "/static/discs/") || strings.HasPrefix(path, "/static/optimized/") {
 			w.Header().Set("Cache-Control", "public, max-age=31536000, immutable")
+			http.StripPrefix("/static/", http.FileServer(http.Dir(filepath.Join(a.cfg.CollectionDir, "static")))).ServeHTTP(w, r)
+			return
 		}
 		http.StripPrefix("/static/", http.FileServer(http.Dir(filepath.Join(a.cfg.Root, "static")))).ServeHTTP(w, r)
 		return
@@ -416,7 +420,7 @@ func (a *App) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	}
 	switch {
 	case path == "/" && r.Method != "POST":
-		a.index(w, r, &s)
+		a.shelf(w, r, &s, Page{})
 	case path == "/shelf/order" && r.Method == "POST":
 		a.saveShelfOrder(w, r, &s)
 	case path == "/playback" && r.Method == "GET":
@@ -490,24 +494,17 @@ func (a *App) login(w http.ResponseWriter, r *http.Request, s *Session) {
 	}
 	a.page(w, r, s, "login", Page{Title: "Sign in · FauxVinyl", Next: destination}, 200)
 }
-func (a *App) cardArt(c Card) (map[string]string, map[string]string) {
+func (a *App) cardArt(c Card, custom map[string]string) map[string]string {
 	art := map[string]string{}
 	for side, file := range a.art[c.URI] {
 		if side == "front" || side == "back" {
 			art[side] = "/static/" + file
 		}
 	}
-	custom, e := a.store.artwork(c.ID)
-	if e != nil {
-		panic(e)
-	}
 	for side, file := range custom {
 		art[side] = "/artwork/" + file
 	}
-	return art, custom
-}
-func (a *App) index(w http.ResponseWriter, r *http.Request, s *Session) {
-	a.shelf(w, r, s, Page{})
+	return art
 }
 func (a *App) shelf(w http.ResponseWriter, r *http.Request, s *Session, p Page) {
 	order := r.URL.Query().Get("sort")
@@ -518,21 +515,18 @@ func (a *App) shelf(w http.ResponseWriter, r *http.Request, s *Session, p Page) 
 		order = "title"
 	}
 	s.Sort = order
-	cards, e := a.store.cards(order)
+	cards, e := a.store.shelfCards(order)
 	if e != nil {
 		panic(e)
 	}
 	for i := range cards {
-		cards[i].Metadata, e = a.store.metadata(cards[i].URI)
-		if e != nil {
-			panic(e)
-		}
-		art, _ := a.cardArt(cards[i])
+		art := a.cardArt(cards[i], cards[i].CustomArtwork)
 		cards[i].Front = art["front"]
 		cards[i].Back = art["back"]
-		_, cards[i].FrontSrcset = variantSet(a.imageVariants(cards[i].Front), 0)
+		frontVariants := a.imageVariants(cards[i].Front)
+		_, cards[i].FrontSrcset = variantSet(frontVariants, 0)
 		_, cards[i].BackSrcset = variantSet(a.imageVariants(cards[i].Back), 0)
-		cards[i].ShelfImage, cards[i].ShelfSrcset = variantSet(a.imageVariants(cards[i].Front), 320)
+		cards[i].ShelfImage, cards[i].ShelfSrcset = variantSet(frontVariants, 320)
 		if cards[i].ShelfImage == "" {
 			cards[i].ShelfImage = cards[i].Front
 		}
@@ -542,9 +536,9 @@ func (a *App) shelf(w http.ResponseWriter, r *http.Request, s *Session, p Page) 
 		}
 		options, _ := json.Marshal(discs)
 		cards[i].Discs = string(options)
-		cards[i].Kind = strings.Split(cards[i].URI, ":")[1]
+		glow, _ := json.Marshal(a.glow[cards[i].URI])
+		cards[i].Glow = string(glow)
 		cards[i].Tone = i % 5
-		cards[i].Catalogue = fmt.Sprintf("FV / %03d", i+1)
 	}
 	q := []rune(r.URL.Query().Get("q"))
 	if len(q) > 140 {
@@ -572,8 +566,8 @@ func (a *App) add(w http.ResponseWriter, r *http.Request, s *Session) {
 	if slug == "" {
 		slug = "card"
 	}
-	c := Card{ID: slug + "-" + hex.EncodeToString([]byte(randomToken(3)))[:6], Title: title, URI: uri}
-	if e = a.store.save(c, nil, nil); e != nil {
+	c := Card{ID: slug + "-" + strings.ToLower(rand.Text()), Title: title, URI: uri}
+	if e = a.store.create(c); e != nil {
 		panic(e)
 	}
 	a.queueMetadata(c.URI)
@@ -617,7 +611,11 @@ func (a *App) withCard(w http.ResponseWriter, r *http.Request, s *Session, id st
 	a.shelf(w, r, s, Page{Card: c, ActionToken: a.action(id, s.CSRF)})
 }
 func (a *App) edit(w http.ResponseWriter, r *http.Request, s *Session, c Card) {
-	art, custom := a.cardArt(c)
+	custom, e := a.store.artwork(c.ID)
+	if e != nil {
+		panic(e)
+	}
+	art := a.cardArt(c, custom)
 	p := Page{Card: c, Title: c.Title + " · FauxVinyl", Art: art, Custom: custom}
 	if r.Method != "POST" {
 		a.page(w, r, s, "edit", p, 200)
@@ -728,7 +726,7 @@ func (a *App) play(w http.ResponseWriter, r *http.Request, s *Session, c Card) {
 	pref, _ := a.store.setting("device", "auto").(string)
 	shuffle, _ := a.store.setting("shuffle", true).(bool)
 	device, warning, e := a.player.Play(c.URI, pref, shuffle)
-	p := Page{Title: c.Title + " · FauxVinyl", Card: c, Device: device, Warning: warning}
+	p := Page{Title: c.Title + " · FauxVinyl", Card: c}
 	status := 200
 	if e != nil {
 		p.Error = e.Error()
@@ -756,10 +754,18 @@ func (a *App) settings(w http.ResponseWriter, r *http.Request, s *Session) {
 			a.fail(w, r, s, 400, "Choose a valid device.")
 			return
 		}
+		priority := strings.TrimSpace(r.PostForm.Get("device_priority"))
+		if !validDevicePriority(strings.Split(priority, "\n")) {
+			a.fail(w, r, s, 400, "Enter up to 20 preferred device names, at most 200 characters each.")
+			return
+		}
 		if e := a.store.set("device", device); e != nil {
 			panic(e)
 		}
 		if e := a.store.set("shuffle", r.PostForm.Get("shuffle") == "on"); e != nil {
+			panic(e)
+		}
+		if e := a.store.set("device_priority", priority); e != nil {
 			panic(e)
 		}
 		s.Notice = "Playback settings saved."
@@ -770,6 +776,7 @@ func (a *App) settings(w http.ResponseWriter, r *http.Request, s *Session) {
 	shuffle, _ := a.store.setting("shuffle", true).(bool)
 	ds, e := a.player.Devices()
 	p := Page{Title: "Settings · FauxVinyl", Preference: pref, Shuffle: shuffle, Devices: ds, Offline: pref != "auto"}
+	p.DevicePriority, _ = a.store.setting("device_priority", "").(string)
 	for _, d := range ds {
 		if d.Name == pref {
 			p.Offline = false
@@ -799,26 +806,68 @@ func (a *App) export(w http.ResponseWriter, r *http.Request, s *Session) {
 	}
 	out.Flush()
 }
+
+// Share a lazily refreshed revision across tabs instead of scanning per request.
+func (a *App) assetRevision(now time.Time) string {
+	a.devRevisionMu.Lock()
+	defer a.devRevisionMu.Unlock()
+	if a.devRevision != "" && now.Sub(a.devRevisionChecked) < 3*time.Second {
+		return a.devRevision
+	}
+	h := sha256.New()
+	for _, dir := range []string{"views", "static"} {
+		filepath.WalkDir(filepath.Join(a.cfg.Root, dir), func(path string, d os.DirEntry, e error) error {
+			if e == nil && !d.IsDir() {
+				info, e := d.Info()
+				if e == nil {
+					fmt.Fprint(h, path, info.ModTime().UnixNano(), info.Size())
+				}
+			}
+			return nil
+		})
+	}
+	a.devRevision = fmt.Sprintf("%x", h.Sum(nil))
+	a.devRevisionChecked = now
+	return a.devRevision
+}
+
 func (a *App) devAsset(w http.ResponseWriter, r *http.Request) {
 	switch r.URL.Path {
 	case "/__dev__/revision":
-		h := sha256.New()
-		for _, dir := range []string{"views", "static"} {
-			filepath.WalkDir(filepath.Join(a.cfg.Root, dir), func(path string, d os.DirEntry, e error) error {
-				if e == nil && !d.IsDir() {
-					info, e := d.Info()
-					if e == nil {
-						fmt.Fprint(h, path, info.ModTime().UnixNano(), info.Size())
-					}
-				}
-				return nil
-			})
-		}
 		w.Header().Set("Content-Type", "text/plain")
-		fmt.Fprintf(w, "%x", h.Sum(nil))
+		io.WriteString(w, a.assetRevision(time.Now()))
 	case "/__dev__/live.js":
 		w.Header().Set("Content-Type", "application/javascript")
-		io.WriteString(w, `let revision;setInterval(async()=>{try{const r=await(await fetch('/__dev__/revision')).text();if(revision&&revision!==r)location.reload();revision=r}catch{}},1200);`)
+		io.WriteString(w, `'use strict';
+(() => {
+  let revision, timer, inFlight = false, stopped = false;
+  function schedule() {
+    clearTimeout(timer);
+    if (!stopped && !document.hidden) timer = setTimeout(poll, 1500);
+  }
+  async function poll() {
+    if (stopped || inFlight || document.hidden) return;
+    inFlight = true;
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 5000);
+    try {
+      const response = await fetch('/__dev__/revision', {cache: 'no-store', signal: controller.signal});
+      if (!response.ok) throw new Error('Revision unavailable');
+      const current = await response.text();
+      if (revision && revision !== current) location.reload();
+      revision = current;
+    } catch { /* A stopped preview should not disrupt the page. */ }
+    finally {
+      clearTimeout(timeout);
+      inFlight = false;
+      schedule();
+    }
+  }
+  document.addEventListener('visibilitychange', () => { clearTimeout(timer); if (!document.hidden) poll(); });
+  window.addEventListener('pagehide', () => { stopped = true; clearTimeout(timer); });
+  window.addEventListener('pageshow', () => { stopped = false; poll(); });
+  poll();
+})();`)
 	case "/__dev__/dev.css":
 		w.Header().Set("Content-Type", "text/css")
 		io.WriteString(w, `form[action="/logout"]{display:none}`)
