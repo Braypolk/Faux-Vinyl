@@ -58,6 +58,24 @@ assert.ok(['127.0.0.1', 'localhost', '[::1]'].includes(new URL(base).hostname));
       const icons = await page.locator('.disc-choice img, .now-playing img').evaluateAll(images => images.map(i => Number(i.srcset.split(',').map(c => c.trim().split(/\s+/)).find(c => new URL(c[0], location.href).href === i.currentSrc)?.[1]?.replace('w', '')) || i.naturalWidth));
       assert.ok(icons.every(w => w <= (scale === 1 ? 64 : 160)));
       const bytes = await page.evaluate(() => performance.getEntriesByType('resource').filter(r => document.querySelectorAll('.album-artwork img').length && [...document.querySelectorAll('.album-artwork img')].some(i => i.currentSrc === r.name)).reduce((sum, r) => sum + r.encodedBodySize, 0));
+      for (const selector of ['.selected-title-text', '.selected-copy']) {
+        await page.evaluate(() => getSelection().removeAllRanges());
+        const target = page.locator(selector);
+        assert.equal(await target.evaluate(e => getComputedStyle(e).webkitUserSelect), 'none');
+        const r = await target.boundingBox();
+        await page.mouse.move(r.x + 2, r.y + r.height / 2);
+        await page.mouse.down();
+        await page.mouse.move(r.x + Math.min(r.width - 2, 140), r.y + r.height / 2, {steps: 20});
+        await page.mouse.up();
+        assert.equal(await page.evaluate(() => getSelection().toString()), '', 'shelf gestures must not select text');
+      }
+      assert.equal(await page.locator('.album-artwork img').first().evaluate(e => getComputedStyle(e).webkitUserDrag), 'none');
+      const search = page.locator('#record-search');
+      await search.fill('editable search');
+      assert.equal(await search.evaluate(e => getComputedStyle(e).webkitUserSelect), 'text');
+      await search.press('ControlOrMeta+A');
+      assert.equal(await search.evaluate(e => e.selectionEnd - e.selectionStart), 'editable search'.length, 'search text must remain selectable');
+      await search.fill('');
       assert.deepEqual(errors, []);
       console.log(JSON.stringify({viewport: width, pixelRatio: scale, shelfCovers: shelf.length, shelfImageBytes: bytes, maximumShelfImageWidth: Math.max(...shelf.map(i => i.width)), playback: controls, iconWidths: icons}));
       await context.close();

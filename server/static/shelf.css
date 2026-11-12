@@ -84,3 +84,8 @@ main:has(.record-browser){padding-top:32px;padding-bottom:32px;min-height:0}
 .is-arranging .album-card.is-dragging{z-index:4;transform:translateY(-16px)}
 .is-arranging .is-dragging .album-artwork{cursor:grabbing;outline-color:var(--orange)}
 @media(max-width:560px){.shelf-toolbar{flex-wrap:wrap}.shelf-toolbar .shelf-filter{flex:1 1 80px}.arrange-toolbar{gap:10px}.arrange-hint{flex-basis:100%}.arrange-moves{margin-left:0;margin-right:auto}}
+
+/* Shelf gestures should browse records without starting native selection or callouts. */
+.record-browser,.sleeve-dialog{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+.record-browser input,.record-browser textarea,.sleeve-dialog input,.sleeve-dialog textarea{-webkit-user-select:text;user-select:text;-webkit-touch-callout:default}
+.record-browser img,.sleeve-dialog img{-webkit-user-drag:none}
