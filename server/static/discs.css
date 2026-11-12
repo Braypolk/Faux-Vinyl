@@ -94,7 +94,6 @@ header:has(.now-playing){position:relative}
   .selected-actions{gap:18px;flex-wrap:nowrap;min-height:44px}
   .selected-play{min-height:44px;padding:10px 24px}
   .selected-copy,.selected-actions .text-link{font-size:11px}
-  .playback-test-mode,.playback-feedback.is-playback-summary{display:none!important}
   .playback-feedback{margin-top:10px}
   .is-enhanced .collection{min-height:0;gap:1px;padding:16px 4px 6px}
   .is-enhanced .album-artwork{height:clamp(56px,12svh,88px)}

@@ -40,20 +40,10 @@
   let suppressClickUntil = 0;
   const playButton = find('.selected-play');
   const feedback = find('.playback-feedback');
-  const testToggle = find('.test-mode-toggle');
-  let testMode = browser.dataset.preview === 'true';
-  try {
-    const saved = sessionStorage.getItem('fauxvinyl-test-mode');
-    if (saved !== null) testMode = saved === 'true';
-  } catch { /* The mode can still be changed without storage. */ }
-  if (new URLSearchParams(location.search).get('test') === '1') testMode = true;
-  // A real NFC tap always starts music, even after a simulated shelf session.
-  if (browser.dataset.autoplayId && browser.dataset.preview !== 'true') testMode = false;
-  try { sessionStorage.setItem('fauxvinyl-test-mode', String(testMode)); } catch { /* Optional. */ }
+  // Simulated playback is confined to the local development server.
+  const testMode = browser.dataset.preview === 'true';
   browser.dataset.testMode = String(testMode);
   const testPlayback = {id: null, playing: false};
-  testToggle.checked = testMode;
-  testToggle.closest('label').hidden = false;
   const arrangeButton = find('.arrange-records');
   const arrangeBar = find('.arrange-toolbar');
   let pendingPlayback = false;
@@ -71,7 +61,6 @@
 
   function updatePlayButton() {
     playButton.disabled = pendingPlayback;
-    testToggle.disabled = pendingPlayback;
     playButton.setAttribute('aria-busy', String(pendingPlayback));
     if (testMode) {
       const selectedTest = current?.dataset.recordId === testPlayback.id;
@@ -100,23 +89,9 @@
     updatePlayButton();
   });
 
-  testToggle.addEventListener('change', () => {
-    if (pendingPlayback) { testToggle.checked = testMode; return; }
-    testMode = testToggle.checked;
-    browser.dataset.testMode = String(testMode);
-    testPlayback.id = null;
-    testPlayback.playing = false;
-    try { sessionStorage.setItem('fauxvinyl-test-mode', String(testMode)); } catch { /* Optional. */ }
-    feedback.hidden = true;
-    updatePlayingCards();
-    updatePlayButton();
-    publishTestPlayback();
-  });
-
-  function playbackMessage(message, {error = false, settings = false, login = false, summary = false} = {}) {
-    feedback.hidden = false;
+  function playbackMessage(message, {error = false, settings = false, login = false} = {}) {
+    feedback.hidden = !message;
     feedback.classList.toggle('is-error', error);
-    feedback.classList.toggle('is-playback-summary', summary);
     feedback.querySelector('[data-playback-message]').textContent = message;
     feedback.querySelector('.playback-settings').hidden = !settings;
     feedback.querySelector('.playback-login').hidden = !login;
@@ -142,7 +117,7 @@
       testPlayback.id = record.recordId;
       updatePlayingCards();
       updatePlayButton();
-      playbackMessage('Test mode · ' + (testPlayback.playing ? 'Playing ' : 'Paused ') + record.title + '.', {summary: true});
+      playbackMessage('');
       publishTestPlayback();
       return;
     }
@@ -151,7 +126,7 @@
     browser.dispatchEvent(new CustomEvent('shelf:playback-pending'));
     failedID = null;
     updatePlayButton();
-    playbackMessage('Starting ' + record.title + '…');
+    playbackMessage('');
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 110000);
     let sent = false;
@@ -166,8 +141,7 @@
       liveState = {is_playing: true, context_uri: record.discKey};
       updatePlayingCards();
       browser.dispatchEvent(new CustomEvent('shelf:playback-started', {detail: {id: playingID, preview: result.preview}}));
-      const message = result.preview ? 'Preview: ' + record.title + '. No music was started.' : 'Playing ' + record.title + ' on ' + result.device + '.';
-      playbackMessage(message + (!result.preview && result.warning ? ' ' + result.warning : ''), {summary: !result.warning});
+      playbackMessage(result.preview ? '' : result.warning || '');
     } catch (error) {
       failedID = record.recordId;
       const message = error.status ? error.message : sent ? 'Could not confirm playback. Check your device before trying again.' : 'Could not reach your shelf. Try again.';
@@ -185,6 +159,7 @@
     const playing = !liveState.is_playing;
     pendingPlayback = true;
     pendingLabel = playing ? 'Resuming…' : 'Pausing…';
+    playbackMessage('');
     failedID = null;
     browser.dispatchEvent(new CustomEvent('shelf:playback-pending'));
     updatePlayButton();
@@ -199,7 +174,7 @@
       playingID = result.is_playing ? card.dataset.recordId : null;
       updatePlayingCards();
       browser.dispatchEvent(new CustomEvent('shelf:transport-changed', {detail: liveState}));
-      playbackMessage((playing ? 'Playing ' : 'Paused ') + card.dataset.title + '.', {summary: true});
+      playbackMessage('');
     } catch (error) {
       failedID = card.dataset.recordId;
       playbackMessage(error.status ? error.message : 'Could not confirm playback. Check your device and try again.', {error: true, settings: error.status === 503, login: error.status === 401});

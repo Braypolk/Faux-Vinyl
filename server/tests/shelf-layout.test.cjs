@@ -56,8 +56,6 @@ test('sleeve, controls and shelf stay fixed across albums with and without discs
     }
     const header = document.querySelector('header');
     const headerBefore = header.getBoundingClientRect().toJSON();
-    const toggle = document.querySelector('.test-mode-toggle');
-    toggle.checked = true; toggle.dispatchEvent(new Event('change'));
     samples[0].querySelector('.album-artwork').click();
     document.querySelector('.selected-play').click();
     const shortcut = document.querySelector('.now-playing');

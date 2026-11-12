@@ -16,6 +16,7 @@ assert.ok(['127.0.0.1', 'localhost', '[::1]'].includes(new URL(base).hostname));
       await page.route('**/playback', async route => {
         if (route.request().method() === 'POST') {
           const body = new URLSearchParams(route.request().postData());
+          await new Promise(resolve => setTimeout(resolve, 150));
           controls.push(body.get('action'));
           state = {...state, is_playing: body.get('action') === 'resume'};
         }
@@ -27,6 +28,7 @@ assert.ok(['127.0.0.1', 'localhost', '[::1]'].includes(new URL(base).hostname));
       });
       await page.goto(base + '/?sort=custom');
       await page.waitForSelector('.is-selected');
+      assert.equal(await page.locator('.playback-test-mode, .test-mode-toggle').count(), 0);
       await page.waitForFunction(() => [...document.querySelectorAll('.album-artwork img')].every(i => i.complete && i.naturalWidth > 0));
       const shelf = await page.locator('.album-artwork img').evaluateAll(images => images.map(i => ({src: i.currentSrc, width: Number(i.srcset.split(',').map(c => c.trim().split(/\s+/)).find(c => new URL(c[0], location.href).href === i.currentSrc)?.[1]?.replace('w', '')) || i.naturalWidth})));
       assert.ok(shelf.length > 50);
@@ -49,11 +51,14 @@ assert.ok(['127.0.0.1', 'localhost', '[::1]'].includes(new URL(base).hostname));
       await page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
       await page.waitForFunction(() => document.querySelector('.selected-play').textContent === 'Pause');
       await page.locator('.selected-play').click();
+      assert.equal(await page.locator('.selected-play').evaluate(e => getComputedStyle(e).cursor), 'default');
       await page.waitForFunction(() => document.querySelector('.selected-play').textContent === 'Resume');
+      assert.equal(await page.locator('.playback-feedback').isVisible(), false);
       assert.equal(await page.locator('.record-disc').evaluate(e => e.classList.contains('is-spinning')), false);
       await page.locator('.selected-play').click();
       await page.waitForFunction(() => document.querySelector('.selected-play').textContent === 'Pause');
       assert.deepEqual(controls, ['pause', 'resume']);
+      assert.equal(await page.locator('.playback-feedback').isVisible(), false);
       await page.waitForFunction(() => [...document.querySelectorAll('.disc-choice img, .now-playing img')].every(i => i.complete && i.naturalWidth > 0));
       const icons = await page.locator('.disc-choice img, .now-playing img').evaluateAll(images => images.map(i => Number(i.srcset.split(',').map(c => c.trim().split(/\s+/)).find(c => new URL(c[0], location.href).href === i.currentSrc)?.[1]?.replace('w', '')) || i.naturalWidth));
       assert.ok(icons.every(w => w <= (scale === 1 ? 64 : 160)));

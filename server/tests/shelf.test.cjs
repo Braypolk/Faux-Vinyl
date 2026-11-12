@@ -32,7 +32,7 @@ function setup(t, fetcher = () => {throw Error('Unexpected request');}, decorate
   w.Element.prototype.setPointerCapture = id => captured.add(id);
   w.Element.prototype.hasPointerCapture = id => captured.has(id);
   w.Element.prototype.releasePointerCapture = id => captured.delete(id);
-  w.sessionStorage.setItem('fauxvinyl-test-mode', 'false');
+  w.document.querySelector('[data-record-browser]').dataset.preview = 'false';
   decorate(w.document, w);
   w.eval(script);
   const $ = selector => w.document.querySelector(selector);
@@ -40,24 +40,24 @@ function setup(t, fetcher = () => {throw Error('Unexpected request');}, decorate
   const ids = () => cards().map(c => c.dataset.recordId);
   return {w, $, cards, ids};
 }
-test('local test mode plays, pauses, resumes and browses without playback requests', async t => {
+test('local preview plays, pauses, resumes and browses without playback requests', async t => {
   let calls = 0;
   const ui = setup(t, () => {calls++; throw Error('Test playback must stay in the UI');}, (document, w) => {
-    w.sessionStorage.removeItem('fauxvinyl-test-mode');
     document.querySelector('[data-record-browser]').dataset.preview = 'true';
   });
   ui.w.eval(fs.readFileSync(path.join(__dirname, '../static/discs.js'), 'utf8'));
   const withDiscs = ui.cards().filter(card => JSON.parse(card.dataset.discOptions || 'null')?.length);
   const [first, second] = withDiscs;
   first.querySelector('a').click();
-  assert.equal(ui.$('.test-mode-toggle').checked, true);
+  assert.equal(ui.$('.test-mode-toggle'), null);
   ui.$('.selected-play').click();
   assert.equal(ui.$('.selected-play').textContent, 'Pause');
   assert.equal(first.classList.contains('is-playing'), true);
   assert.equal(ui.$('.record-disc').classList.contains('is-spinning'), true);
-  assert.match(ui.$('[data-playback-message]').textContent, /Test mode · Playing/);
+  assert.equal(ui.$('.playback-feedback').hidden, true);
   ui.$('.selected-play').click();
   assert.equal(ui.$('.selected-play').textContent, 'Resume');
+  assert.equal(ui.$('.playback-feedback').hidden, true);
   assert.equal(first.classList.contains('is-playing'), false);
   assert.equal(ui.$('.record-disc').classList.contains('is-spinning'), false);
   ui.$('.selected-play').click();
@@ -78,26 +78,21 @@ test('local test mode plays, pauses, resumes and browses without playback reques
   await settle();
   assert.equal(calls, 0);
 });
-test('test mode can be enabled outside local preview and disabled to restore normal Play', async t => {
+test('production playback ignores old test preferences and has no test-mode control', async t => {
   const calls = [];
   const ui = setup(t, async (url, options) => {
     calls.push(url);
     return response(options.method ? {device: 'TV'} : {csrf: 'csrf', action_token: 'action'});
-  }, document => {document.querySelector('[data-record-browser]').dataset.preview = 'false';});
-  const toggle = ui.$('.test-mode-toggle');
-  assert.equal(toggle.checked, false);
-  toggle.click();
-  ui.w.eval(fs.readFileSync(path.join(__dirname, '../static/discs.js'), 'utf8'));
+  }, (document, w) => {
+    w.sessionStorage.setItem('fauxvinyl-test-mode', 'true');
+    w.history.replaceState(null, '', '/?test=1');
+  });
+  assert.equal(ui.$('.test-mode-toggle'), null);
+  assert.equal(ui.$('[data-record-browser]').dataset.testMode, 'false');
   ui.$('.selected-play').click(); await settle();
-  assert.equal(calls.length, 0, 'test mode must suppress playback polling as well as Play requests');
-  assert.equal(ui.w.sessionStorage.getItem('fauxvinyl-test-mode'), 'true');
-  toggle.click();
-  assert.equal(ui.$('.selected-play').textContent, 'Play');
-  assert.equal(ui.$('.record-disc').classList.contains('is-spinning'), false);
-  assert.equal(ui.$('.is-playing'), null);
-  ui.$('.selected-play').click(); await settle();
-  assert.equal(calls.filter(url => url !== '/playback').length, 2);
-  assert.equal(ui.w.sessionStorage.getItem('fauxvinyl-test-mode'), 'false');
+  assert.equal(calls.length, 2);
+  assert.equal(ui.$('.selected-play').textContent, 'Pause');
+  assert.equal(ui.$('.playback-feedback').hidden, true);
 });
 const glowAlbumKey = 'spotify:album:0S0KGZnfBGSIssfF54WSJh';
 const normalCDID = '30664206604';
@@ -106,7 +101,7 @@ const glowVinylID = 'billie-glow-vinyl';
 function setupGlow(t, savedPreference) {
   let requests = 0;
   const ui = setup(t, () => {requests++; throw Error('Glow mode must stay in the UI');}, (document, w) => {
-    w.sessionStorage.setItem('fauxvinyl-test-mode', 'true');
+    document.querySelector('[data-record-browser]').dataset.preview = 'true';
     if (savedPreference) w.localStorage.setItem('fauxvinyl-disc-preferences-v1', JSON.stringify({albums: {[glowAlbumKey]: savedPreference}, kind: savedPreference === glowVinylID ? 'vinyl' : 'cd'}));
   });
   ui.w.eval(fs.readFileSync(path.join(__dirname, '../static/discs.js'), 'utf8'));
@@ -290,20 +285,10 @@ test('a saved glow-vinyl preference cannot bypass the hidden reveal', t => {
   assert.equal(ui.$('[data-disc-id="' + glowVinylID + '"]'), null);
   assert.notEqual(ui.$('.record-disc-image').getAttribute('src'), ui.options.find(o => o.id === glowVinylID).image);
 });
-test('test-mode link enables simulation even when the session previously disabled it', t => {
-  const ui = setup(t, undefined, (document, w) => {
-    document.querySelector('[data-record-browser]').dataset.preview = 'false';
-    w.history.replaceState(null, '', '/?test=1');
-  });
-  assert.equal(ui.$('.test-mode-toggle').checked, true);
-  ui.$('.selected-play').click();
-  assert.equal(ui.$('.selected-play').textContent, 'Pause');
-  assert.equal(ui.w.sessionStorage.getItem('fauxvinyl-test-mode'), 'true');
-});
 test('top playing disc keeps its artwork while browsing and returns to a filtered-out playing record', async t => {
   let requests = 0;
   const ui = setup(t, () => {requests++; throw Error('No playback request expected');}, (document, w) => {
-    w.sessionStorage.setItem('fauxvinyl-test-mode', 'true');
+    document.querySelector('[data-record-browser]').dataset.preview = 'true';
   });
   ui.w.eval(fs.readFileSync(path.join(__dirname, '../static/discs.js'), 'utf8'));
   const shortcut = ui.$('.now-playing');
@@ -338,14 +323,15 @@ test('top playing disc keeps its artwork while browsing and returns to a filtere
   assert.ok(shortcut.querySelector('.now-playing-fallback'));
   ui.cards().find(card => card !== record).querySelector('a').click();
   assert.ok(shortcut.querySelector('.now-playing-fallback'), 'failed artwork keeps the fallback while browsing');
-  ui.$('.test-mode-toggle').click();
+  shortcut.click();
+  ui.$('.selected-play').click();
   assert.equal(shortcut.hidden, true);
   await settle();
   assert.equal(requests, 0);
 });
 test('top playing disc works even when no record has disc artwork', t => {
   const ui = setup(t, undefined, (document, w) => {
-    w.sessionStorage.setItem('fauxvinyl-test-mode', 'true');
+    document.querySelector('[data-record-browser]').dataset.preview = 'true';
     document.querySelectorAll('[data-record-id]').forEach(card => {card.dataset.discOptions = 'null';});
   });
   ui.w.eval(fs.readFileSync(path.join(__dirname, '../static/discs.js'), 'utf8'));
@@ -526,14 +512,14 @@ test('NFC opens the scanned album, overrides simulated mode and starts it once o
   assert.equal(ui.$('.is-selected').dataset.recordId, target.recordId);
   assert.equal(ui.w.location.pathname, '/');
   assert.equal(ui.w.location.hash, '#record=' + target.recordId);
-  assert.equal(ui.$('.test-mode-toggle').checked, false);
+  assert.equal(ui.$('[data-record-browser]').dataset.testMode, 'false');
   ui.w.eval(fs.readFileSync(path.join(__dirname, '../static/app.js'), 'utf8'));
   await new Promise(resolve => ui.w.requestAnimationFrame(resolve)); await settle();
   assert.deepEqual(calls.map(call => call.url), [target.play, target.play + '/play']);
   assert.equal(calls[1].options.method, 'POST');
   assert.equal(calls[1].options.body.get('action_token'), 'nfc-action');
   assert.equal(ui.$('.is-playing').dataset.recordId, target.recordId);
-  assert.match(ui.$('[data-playback-message]').textContent, /Playing .* on TV/);
+  assert.equal(ui.$('.playback-feedback').hidden, true);
 });
 test('NFC failures stay on the selected shelf and do not automatically retry', async t => {
   let calls = 0;
@@ -569,7 +555,7 @@ test('NFC in local preview simulates playback without sending music requests', a
   const ui = setup(t, () => {calls++; throw Error('Local NFC preview must stay simulated');}, (document, w) => {
     const browser = document.querySelector('[data-record-browser]');
     browser.dataset.autoplayId = document.querySelectorAll('[data-record-id]')[2].dataset.recordId;
-    w.sessionStorage.removeItem('fauxvinyl-test-mode');
+    document.querySelector('[data-record-browser]').dataset.preview = 'true';
   });
   await new Promise(resolve => ui.w.requestAnimationFrame(resolve)); await settle();
   assert.equal(ui.$('.selected-play').textContent, 'Pause');
@@ -583,7 +569,7 @@ test('play stays on shelf, prevents duplicate submits and allows browsing while 
   ui.$('.selected-play').click(); ui.$('.selected-play').click();
   assert.equal(calls.length, 1);
   assert.equal(ui.$('.selected-play').disabled, true);
-  assert.match(ui.$('[data-playback-message]').textContent, /Starting/);
+  assert.equal(ui.$('.playback-feedback').hidden, true);
   second.querySelector('.album-artwork').click();
   assert.equal(ui.$('.selected-title-text').textContent, second.dataset.title);
   assert.equal(ui.$('.selected-play').disabled, true);
@@ -595,7 +581,7 @@ test('play stays on shelf, prevents duplicate submits and allows browsing while 
   played.resolve(response({device: 'TV', preview: false})); await settle();
   assert.equal(ui.$('.selected-play').disabled, false);
   assert.equal(ui.$('.selected-title-text').textContent, second.dataset.title);
-  assert.ok(ui.$('[data-playback-message]').textContent.includes(first.dataset.title));
+  assert.equal(ui.$('.playback-feedback').hidden, true);
   assert.equal(first.classList.contains('is-playing'), true);
   assert.equal(ui.w.location.pathname, '/');
 });
@@ -614,7 +600,7 @@ test('play errors are inline and explicit retry obtains a new action', async t =
   assert.equal(calls.length, 4);
   assert.equal(calls[3].options.body.get('action_token'), 'action-3');
   assert.equal(ui.$('.playback-settings').hidden, true);
-  assert.match(ui.$('[data-playback-message]').textContent, /Playing/);
+  assert.equal(ui.$('.playback-feedback').hidden, true);
 });
 test('expired sign-in and uncertain network results do not silently retry', async t => {
   let calls = 0;
@@ -732,6 +718,7 @@ test('real playback toggles Pause and Resume without restarting the album, and f
   assert.equal(ui.$('.selected-play').textContent, 'Pausing…');
   gate.resolve(); await settle(); gate = null;
   assert.equal(ui.$('.selected-play').textContent, 'Resume');
+  assert.equal(ui.$('.playback-feedback').hidden, true);
   assert.equal(first.classList.contains('is-playing'), false);
   ui.$('.selected-play').click(); await settle();
   assert.equal(ui.$('.selected-play').textContent, 'Pause');

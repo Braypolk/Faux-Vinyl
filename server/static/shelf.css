@@ -58,13 +58,11 @@ main:has(.record-browser){padding-top:32px;padding-bottom:32px;min-height:0}
 .is-enhanced .sort-submit{display:none}
 .shelf-toolbar .shelf-filter{min-width:0}
 @media(max-width:560px){.shelf-toolbar{gap:10px}.shelf-sort select{width:88px;padding:9px 6px}.browse-controls{gap:5px}}
-/* Playback stays with the shelf; the text refers to the record that was played. */
+/* Show actionable playback errors and warnings alongside the controls. */
 .playback-feedback{font-size:12px;line-height:1.65;color:var(--muted);margin-top:18px;overflow-wrap:anywhere}
 .playback-feedback.is-error{color:#993d2b}
 .playback-feedback .text-link{display:inline-block;font-size:12px;margin-left:10px}
-.selected-play:disabled{opacity:.65;cursor:wait}
-.playback-test-mode{display:flex;align-items:center;gap:7px;width:fit-content;margin:16px 0 0;font-size:11px;color:var(--muted);cursor:pointer}
-.playback-test-mode input{width:14px;height:14px;margin:0;accent-color:var(--orange);cursor:pointer}
+.selected-play:disabled{opacity:.65;cursor:default}
 .is-enhanced .album-card.is-playing:after{content:'';position:absolute;bottom:5px;left:50%;width:5px;height:5px;transform:translateX(-50%);border-radius:50%;background:var(--orange);box-shadow:0 0 0 2px var(--paper);pointer-events:none}
 .is-enhanced .album-card{position:relative}
 .arrange-records{font-size:12px;padding:8px 0;white-space:nowrap}
